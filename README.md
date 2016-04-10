@@ -19,3 +19,4 @@ This will create a development build with the file name like `@pushweibotoshequd
 
 
 Push_weibo_to_shequdaren will be updated automatically, without any prompts or browser restarts.
+
