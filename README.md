@@ -18,4 +18,4 @@ Run the following command:
 This will create a development build with the file name like `@pushweibotoshequdaren-1.0.0.xpi`.
 
 
-Push_weibo_to_shequdaren will be updated automatically, without any prompts or browser restarts.
+Push _weibo_to_shequdaren will be updated automatically, without any prompts or browser restarts.
