@@ -17,6 +17,7 @@ t=$(curl -sS -k 'https://lzkj-isv.isvjcloud.com/sign/wx/signUp' \
   -X POST --data-raw "actId=1836e0f513c14a78a02c92bf012a1d3f&pin=8zfoIjWIu%2FDcpxQNzAV7%2FoVPSWy1B8D%2BG4s%2BfJIFDfWHSnwnXFQKK9yQco%2FOGmHebU48Dr07k%2B7%2Bk1UaXRbZKg%3D%3D")
   echo -e "$t"
   echo "$t"| jq '.isOk' | grep 'true' && a=true
+  echo "$t" | jq '.msg' | grep '当天只能签到一次' && a=true
 fi
 
 if [ "$b" = "false" ]; then
@@ -32,9 +33,11 @@ t=$(curl -sS -k 'https://lzkj-isv.isvjcloud.com/sign/wx/signUp' \
   -X POST --data-raw "actId=1836e0f513c14a78a02c92bf012a1d3f&pin=51S2JqsypB%2Fnfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w%3D%3D")
 	echo -e "$t"
   echo "$t"| jq '.isOk' | grep 'true' && b=true
+  echo "$t" | jq '.msg' | grep '当天只能签到一次' && b=true
 fi	
 
 if [ "$a" = "true" ] && [ "$b" = "true" ]; then
+	echo 签到十月稻田完成
 	break
 else
 	time sleep $(echo "0.2 * $delay"|bc)
