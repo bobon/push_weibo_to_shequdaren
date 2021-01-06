@@ -1,0 +1,205 @@
+
+01/07/21 00:00:02 411464200  1609948802
+赵签到博世
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":2.00,"type":4,"number":1000000,"budgetNum":2000000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+01/07/21 00:00:03 388283300  1609948803
+王签到博世
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":2.00,"type":4,"number":1000000,"budgetNum":2000000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+real	0m0.423s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:04 447631200  1609948804
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:04 752503800  1609948804
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m0.542s
+user	0m0.000s
+sys	0m0.047s
+
+01/07/21 00:00:05 622195800  1609948805
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:06 637195700  1609948806
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.049s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:08 691705200  1609948808
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:09 423224300  1609948809
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.088s
+user	0m0.000s
+sys	0m0.047s
+
+01/07/21 00:00:11 015580600  1609948811
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:11 270196400  1609948811
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.079s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:12 609431700  1609948812
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:12 799090200  1609948812
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.256s
+user	0m0.000s
+sys	0m0.047s
+
+01/07/21 00:00:14 264235300  1609948814
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:14 461033900  1609948814
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.471s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:16 128079900  1609948816
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:16 294318000  1609948816
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.630s
+user	0m0.000s
+sys	0m0.016s
+
+01/07/21 00:00:18 066354800  1609948818
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:18 216454100  1609948818
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m1.851s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:20 262965900  1609948820
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:20 478803100  1609948820
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m2.088s
+user	0m0.000s
+sys	0m0.016s
+
+01/07/21 00:00:22 713256100  1609948822
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:22 870671000  1609948822
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m2.237s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:25 269938800  1609948825
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:25 428744600  1609948825
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m2.466s
+user	0m0.000s
+sys	0m0.063s
+
+01/07/21 00:00:28 089570400  1609948828
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:28 253331900  1609948828
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m2.639s
+user	0m0.000s
+sys	0m0.016s
+
+01/07/21 00:00:31 060437400  1609948831
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:31 437626300  1609948831
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m2.989s
+user	0m0.000s
+sys	0m0.047s
+
+01/07/21 00:00:34 828881500  1609948834
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:35 222500900  1609948835
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m3.194s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:38 849369500  1609948838
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:39 369528600  1609948839
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m3.429s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:43 256568800  1609948843
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:43 728562400  1609948843
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m3.539s
+user	0m0.000s
+sys	0m0.031s
+
+01/07/21 00:00:47 625240100  1609948847
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:48 147250300  1609948848
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m3.865s
+user	0m0.000s
+sys	0m0.047s
+
+01/07/21 00:00:52 359586800  1609948852
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:52 650705400  1609948852
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m3.783s
+user	0m0.000s
+sys	0m0.016s
+
+01/07/21 00:00:56 635301200  1609948856
+赵签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+01/07/21 00:00:56 790044400  1609948856
+王签到博世
+{"msg":"对不起，你已经参加过该活动啦，去看看别的吧！","code":403030023,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+real	0m4.055s
+user	0m0.000s
+sys	0m0.063s
+
+王签到博世查看结果
+{"code":200,"data":{"signRecords":[{"signTime":1609430400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609590913220,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609603203218,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609689603332,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609776002881,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609862403448,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609948803672,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610035200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610121600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610208000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610294400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610380800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610467200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610553600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":6,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+赵签到博世查看结果
+{"code":200,"data":{"signRecords":[{"signTime":1609430400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609588962814,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609603202732,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609689602918,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609776002500,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609862403041,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1609948803187,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610035200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610121600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610208000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610294400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610380800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610467200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1610553600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":6,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}

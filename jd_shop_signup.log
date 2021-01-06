@@ -1,0 +1,432 @@
+Thu Jan  7 00:00:02 CST 2021
+
+赵签到惠氏
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"1000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"e7ede49419a944229b8df95d86903228","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"CxqPoN"}
+王签到惠氏
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"1000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"e7ede49419a944229b8df95d86903228","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"TvWmeU"}
+赵公牛插座京东自营旗舰店
+{"msg":"","signResult":{"key":"BquRGl","giftLogId":"12544c2ca9d64b29a05536555e578309","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"4000","giftResidue":null,"memo":"店铺积分","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"send":true},"isOk":true}
+王公牛插座京东自营旗舰店
+{"msg":"","signResult":{"key":"TMkGZa","giftLogId":"acffd79e6dec446ca78b949b602725a4","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"4000","giftResidue":null,"memo":"店铺积分","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"send":true},"isOk":true}
+赵张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":true,"succJd":0,"msg":"{\"isSendSucc\":true,\"actLogId\":\"2c91808a76d5dd630176d86da19b3a59\",\"actLogDto\":{\"remark\":\"50积分\",\"isHandler\":\"succ\",\"awardInfo\":\"50\",\"actType\":\"SignAct\"},\"drawAwardDto\":{\"awardName\":\"积分\",\"awardType\":\"JD_POINT\",\"awardDenomination\":\"50\",\"awardSendNum\":50}}","nParam":5,"openCardFans":0,"openCardUser":0,"isShow":0,"isChangeDrawNum":false,"drawCountNumFlag":true,"customerService":0,"longParam":5,"gradeName":"非会员"}
+王张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":true,"succJd":0,"msg":"{\"isSendSucc\":true,\"actLogId\":\"2c91808476d5d9820176d86dfc67497b\",\"actLogDto\":{\"remark\":\"50积分\",\"isHandler\":\"succ\",\"awardInfo\":\"50\",\"actType\":\"SignAct\"},\"drawAwardDto\":{\"awardName\":\"积分\",\"awardType\":\"JD_POINT\",\"awardDenomination\":\"50\",\"awardSendNum\":50}}","nParam":5,"openCardFans":0,"openCardUser":0,"isShow":0,"isChangeDrawNum":false,"drawCountNumFlag":true,"longParam":5,"gradeName":"非会员","customerService":0}
+赵21金维他官方旗舰店
+{"msg":"","signResult":{"key":"vFUvaA","giftLogId":"d670522c4b7f4417a921efae21cf7bbd","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"店铺积分","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"send":true},"isOk":true}
+王21金维他官方旗舰店
+{"msg":"","signResult":{"key":"MhTlCE","giftLogId":"e49ec5a0d0a64850ab5166b501338e3e","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"店铺积分","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"send":true},"isOk":true}
+赵第六感京东自营旗舰店
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+王第六感京东自营旗舰店
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+赵杰士邦京东自营旗舰店
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+王杰士邦京东自营旗舰店
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+赵飞利浦官方签到
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+王飞利浦官方签到
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+赵海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}Thu Jan  7 00:01:49 CST 2021
+
+赵签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+王签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+赵公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+王张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+赵21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵第六感京东自营旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1","giftType":"9","giftName":"1积分","giftNum":"1","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"3526d154753140708cd1793156c93bd0","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"dMIaZQ"}
+王第六感京东自营旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1","giftType":"9","giftName":"1积分","giftNum":"1","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"3526d154753140708cd1793156c93bd0","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"gKZpEg"}
+赵杰士邦京东自营旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1","giftType":"9","giftName":"1积分","giftNum":"1","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"f78512bbe4374e809a6cec2f20415596","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"ACIraF"}
+王杰士邦京东自营旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1","giftType":"9","giftName":"1积分","giftNum":"1","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"f78512bbe4374e809a6cec2f20415596","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"HPHjtF"}
+赵飞利浦官方签到
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"999999999","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"5473b4d587254088a54a83e89de3b095","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"WyRFIf"}
+王飞利浦官方签到
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"999999999","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"5473b4d587254088a54a83e89de3b095","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"FMcIKL"}
+赵海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}Thu Jan  7 00:03:35 CST 2021
+
+赵签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+王签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+赵公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+王张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+赵21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+王飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+赵海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}Thu Jan  7 00:05:19 CST 2021
+
+赵签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+王签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+赵公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+王张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+赵21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+王飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+赵海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}Thu Jan  7 00:07:03 CST 2021
+
+赵签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+王签到惠氏
+{"msg":"当天只能签到一次","isOk":false}
+赵公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王公牛插座京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"customerService":0,"gradeName":"非会员"}
+王张裕旗下巴狄士多奇葡萄酒京东自营旗店
+{"succ":false,"succJd":0,"msg":"亲,今天已经签到过啦，明天再来吧！","openCardFans":0,"openCardUser":0,"isShow":0,"str1Param":"16","isChangeDrawNum":false,"drawCountNumFlag":true,"gradeName":"非会员","customerService":0}
+赵21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王21金维他官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王第六感京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+王杰士邦京东自营旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+赵飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+王飞利浦官方签到
+{"msg":"当天只能签到一次","isOk":false}
+赵海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王海澜之家官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王全棉时代官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+王汾酒官方旗舰店
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}Thu Jan  7 00:08:48 CST 2021
+
+赵第六感京东自营旗舰店签到结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":20,"signRecord":{"nicknameShow":null,"id":"ace2a12aa1ce4230b6fb09179275fb5f","venderId":1000007024,"actId":"7b240f1d6d8f4949a1c4a6527bce746b","actName":"1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682673000,"updateTime":1609948952000,"remark":null}}
+王第六感京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":20,"signRecord":{"nicknameShow":null,"id":"3acdef1ecb1a47ed899502b969b87c04","venderId":1000007024,"actId":"7b240f1d6d8f4949a1c4a6527bce746b","actName":"1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682682000,"updateTime":1609948957000,"remark":null}}
+赵杰士邦京东自营旗舰店签到结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":20,"signRecord":{"nicknameShow":null,"id":"6c8439ebf6cb41c3b721a870e258dbc5","venderId":1000001485,"actId":"f93fcb193c31471c8b4eeaf72b3cece2","actName":"1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682860000,"updateTime":1609948962000,"remark":null}}
+王杰士邦京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":20,"signRecord":{"nicknameShow":null,"id":"c0c7e721c75447a9a0dc29537d9cbdbe","venderId":1000001485,"actId":"f93fcb193c31471c8b4eeaf72b3cece2","actName":"1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682867000,"updateTime":1609948968000,"remark":null}}
+赵飞利浦官方签到签到结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":2,"signRecord":{"nicknameShow":null,"id":"ed32f7ffd148419695e35317afea8228","venderId":1000003691,"actId":"3cf2566d9ecb421e80352d30759d7f87","actName":"0102签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682985000,"updateTime":1609948973000,"remark":null}}
+王飞利浦官方签到查看结果
+{"msg":"","giftLog":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210103":"y","20210104":"y","20210105":"y","20210106":"y","20210107":"y"},"followDays":2,"signRecord":{"nicknameShow":null,"id":"a8a95c9caced4230914c31120f13bc02","venderId":1000003691,"actId":"3cf2566d9ecb421e80352d30759d7f87","actName":"0102签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":5,"totalSignNum":5,"createTime":1609682991000,"updateTime":1609948979000,"remark":null}}Thu Jan  7 00:08:54 CST 2021
+
+zhao认养一头牛官方旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"999999","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"684264eb539946cfb7ce2f1a0d6a2ddf","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"LKarPT"}{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"b8ac03c62a664d25a7767b5a4557f8f7","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857896000,"updateTime":1609949334000,"remark":null}}
+wang认养一头牛官方旗舰店
+{"gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"999999","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"684264eb539946cfb7ce2f1a0d6a2ddf","commonAddAwardVO":null},"msg":"","isOk":true,"isSend":true,"key":"EmkKdp"}
+查看结果
+{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"d722158cafc740338f27c481d9c0b88f","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857984000,"updateTime":1609949335000,"remark":null}}赵签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+01/07/21 00:09:00 537030500  1609949340
+王签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵签到郎酒查看结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"260fb399f5c44e92a93be77a74a2f678","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609591810000,"updateTime":1609689604000,"remark":null}}
+王签到郎酒结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"f2c92cc52e3a42b8854ab02a6d2aef33","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609596079000,"updateTime":1609689605000,"remark":null}}Thu Jan  7 00:09:05 CST 2021
+
+zhao认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"b8ac03c62a664d25a7767b5a4557f8f7","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857896000,"updateTime":1609949334000,"remark":null}}
+wang认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+查看结果
+{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"d722158cafc740338f27c481d9c0b88f","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857984000,"updateTime":1609949335000,"remark":null}}赵签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+01/07/21 00:09:11 757814000  1609949351
+王签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵签到郎酒查看结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"260fb399f5c44e92a93be77a74a2f678","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609591810000,"updateTime":1609689604000,"remark":null}}
+王签到郎酒结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"f2c92cc52e3a42b8854ab02a6d2aef33","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609596079000,"updateTime":1609689605000,"remark":null}}Thu Jan  7 00:09:17 CST 2021
+
+zhao认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"b8ac03c62a664d25a7767b5a4557f8f7","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857896000,"updateTime":1609949334000,"remark":null}}
+wang认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+查看结果
+{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"d722158cafc740338f27c481d9c0b88f","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857984000,"updateTime":1609949335000,"remark":null}}赵签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+01/07/21 00:09:23 256098600  1609949363
+王签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵签到郎酒查看结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"260fb399f5c44e92a93be77a74a2f678","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609591810000,"updateTime":1609689604000,"remark":null}}
+王签到郎酒结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"f2c92cc52e3a42b8854ab02a6d2aef33","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609596079000,"updateTime":1609689605000,"remark":null}}Thu Jan  7 00:09:28 CST 2021
+
+zhao认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"b8ac03c62a664d25a7767b5a4557f8f7","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857896000,"updateTime":1609949334000,"remark":null}}
+wang认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+查看结果
+{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"d722158cafc740338f27c481d9c0b88f","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857984000,"updateTime":1609949335000,"remark":null}}赵签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+01/07/21 00:09:34 439241400  1609949374
+王签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵签到郎酒查看结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"260fb399f5c44e92a93be77a74a2f678","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609591810000,"updateTime":1609689604000,"remark":null}}
+王签到郎酒结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"f2c92cc52e3a42b8854ab02a6d2aef33","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609596079000,"updateTime":1609689605000,"remark":null}}Thu Jan  7 00:09:39 CST 2021
+
+zhao认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"b8ac03c62a664d25a7767b5a4557f8f7","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857896000,"updateTime":1609949334000,"remark":null}}
+wang认养一头牛官方旗舰店
+{"msg":"当天只能签到一次","isOk":false}
+查看结果
+{"msg":"","giftLog":{"20210105":"y","20210106":"y","20210107":"y"},"isOk":true,"signDetail":{"20210105":"y","20210106":"y","20210107":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"d722158cafc740338f27c481d9c0b88f","venderId":691399,"actId":"adc8aba5f4f64f16988eb39b8586b3b9","actName":"21年1月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210107,"contiSignNum":3,"totalSignNum":3,"createTime":1609857984000,"updateTime":1609949335000,"remark":null}}赵签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+01/07/21 00:09:45 672168900  1609949385
+王签到郎酒
+{"msg":"很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~","isOk":false}
+赵签到郎酒查看结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"260fb399f5c44e92a93be77a74a2f678","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609591810000,"updateTime":1609689604000,"remark":null}}
+王签到郎酒结果
+{"msg":"","giftLog":{"20210102":"y","20210103":"y","20210104":"y"},"isOk":true,"signDetail":{"20210102":"y","20210103":"y","20210104":"y"},"followDays":8,"signRecord":{"id":"f2c92cc52e3a42b8854ab02a6d2aef33","venderId":1000014485,"actId":"d840a8b717e84d5eb5741904434efe33","actName":"签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==","lastSignDate":20210104,"contiSignNum":0,"totalSignNum":3,"createTime":1609596079000,"updateTime":1609689605000,"remark":null}}Thu Jan  7 00:09:51 CST 2021
