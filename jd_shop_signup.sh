@@ -10,10 +10,10 @@ bash /home/myid/jd/jd_signup/xianfeng.sh > /home/myid/jd/jd_signup/xianfeng8.log
 bash /home/myid/jd/jd_signup/xianfeng.sh > /home/myid/jd/jd_signup/xianfeng9.log 2>&1 &
 bash /home/myid/jd/jd_signup/xianfeng.sh > /home/myid/jd/jd_signup/xianfeng10.log 2>&1 &
 
-#签到十月稻田  7天(50)，14天(80)，21天(100)，29天(200)
+#签到十月稻田  7天(50)，14天(80)，21天(100)，29天(200) (没给豆)
 bash /home/myid/jd/jd_signup/shiyuedaotian.sh > /home/myid/jd/jd_signup/shiyuedaotian.log 2>&1 &
 
-#签到博世  每日签到：获得2京豆  连续签到7天：88京豆
+#签到博世  每日签到：获得2京豆  连续签到7天：88京豆 (给豆)
 bash /home/myid/jd/jd_signup/boshi.sh > /home/myid/jd/jd_signup/boshi.log 2>&1 &
 
 #签到立白  每天签到3豆 连续签到10天：100店铺积分
@@ -25,10 +25,10 @@ bash /home/myid/jd/jd_signup/zhili.sh > /home/myid/jd/jd_signup/zhili.log 2>&1 &
 #橙影  每日签到：获得2京豆   连续签到27天：100京豆
 bash /home/myid/jd/jd_signup/chengying.sh > /home/myid/jd/jd_signup/chengying.log 2>&1 &
 
-#博之轮  连续签到3天：10京豆
+#博之轮  连续签到3天：10京豆 (给豆)
 bash /home/myid/jd/jd_signup/bozhilun.sh > /home/myid/jd/jd_signup/bozhilun.log 2>&1 &
 
-#弱水时砂  连续签到7天：5京豆
+#弱水时砂  连续签到7天：5京豆 (活动取消)
 bash /home/myid/jd/jd_signup/ruoshui.sh > /home/myid/jd/jd_signup/ruoshui.log 2>&1 &
 
 
