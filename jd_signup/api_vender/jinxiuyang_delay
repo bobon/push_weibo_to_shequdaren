@@ -1,0 +1,11 @@
+#活动规则
+rule="连续签到30天：5京豆"
+
+#店铺名称
+vendername="锦秀羊京自营旗舰店"
+#店铺激活码
+activityId="10241957"
+##店铺id
+venderId="1000353741"
+#店铺令牌
+token="22FC63D067CF503BECB1CE1A8B67F8CD"
