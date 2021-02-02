@@ -26,7 +26,7 @@ echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_jifen.sh
 #bash /home/myid/jd/jd_signup/xianfeng.sh > /home/myid/jd/jd_signup/xianfeng10_\${log_f}.log 2>&1 &
 #" >> run_shell.sh
 
-for i in $(ls -1 api_vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
+for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
 done >> run_shell.sh
@@ -63,7 +63,7 @@ done >> run_shell.sh
 
 
 
-for i in $(ls -1 api_vender | grep -v '_del$' | grep '_delay$') ; do
+for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | grep '_delay$') ; do
 	vender_name=$i
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
 done >> run_shell_delay.sh
@@ -101,7 +101,7 @@ done >> run_shell_delay.sh
 
 
 
-for i in $(ls -1 api_vender | grep -v '_del$' | grep '_jifen$') ; do
+for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | grep '_jifen$') ; do
 	vender_name=$i
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name > $base_dir/log/jifen/${vender_name}_\${log_f}.log 2>&1 &"
 done >> run_shell_jifen.sh
