@@ -19,11 +19,8 @@ if [ -z "$svr" ]; then
 fi
 
 if [ "${svr:0:8}" = "lzkj-isv" ]; then
-	svr="lzkj-isv.isvjcloud.com"
-	signActivity2_url="https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}"
 	shebei="$shebei_info"
 elif [ "${svr:0:8}" = "cjhy-isv" ]; then
-	signActivity2_url="https://cjhy-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=${actId}&shopid=${venderId}"
 	shebei="$shebei_cjhy_info"
 else
 	echo "not support: $svr"
@@ -33,7 +30,7 @@ fi
 mkdir -vp "$pt_pin"
 cd "$pt_pin"
 
-curl -c ${venderId}_signActivity2.cookie -sS -k "${signActivity2_url}" \
+curl -c ${venderId}_signActivity2.cookie -sS -k "https://${svr}/sign/sevenDay/signActivity?activityId=${actId}&shopid=${venderId}" \
   -H 'Connection: keep-alive' \
   -H 'Upgrade-Insecure-Requests: 1' \
   -H "User-Agent: ${user_Agent}" \
@@ -115,10 +112,11 @@ t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDa
   -H 'Sec-Fetch-Site: same-origin' \
   -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}" | jq)
-  echo -e "$t"
+  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
+  echo -e "$t" > ${venderId}_signUp.html
+  echo -e "$t" | jq
   echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在' && a=true
+  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
 fi
 
 if [ "$a" = "true" ]; then

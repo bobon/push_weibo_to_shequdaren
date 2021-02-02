@@ -1,11 +1,12 @@
 #活动规则
-rule="连续签到30天：5京豆"
+rule="每日签到：获得2京豆
+连续签到7天：10京豆、满100-5店铺券"
 
 #店铺名称
-vendername="锦秀羊京自营旗舰店"
+vendername="泾渭茯茶旗舰店"
 #店铺激活码
-activityId="10241957"
+activityId="10262701"
 ##店铺id
-venderId="1000353741"
+venderId="606573"
 #店铺令牌
-token="22FC63D067CF503BECB1CE1A8B67F8CD"
+token="6ACD95C454E7CB8440A323C053D763E8"

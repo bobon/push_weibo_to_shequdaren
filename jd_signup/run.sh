@@ -68,11 +68,6 @@ for i in $(ls -1 api_vender | grep -v '_del$' | grep '_delay$') ; do
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
 done >> run_shell_delay.sh
 
-for i in $(ls -1 vender | grep -v '_del$' | grep '_delay$') ; do
-	vender_name=$i
-	echo "bash $base_dir/lzkj_isv_signUp.sh $base_dir/config $base_dir/vender/$vender_name > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
-done >> run_shell_delay.sh
-
 for i in $(ls -1 vender_jinggeng | grep -v '_del$' | grep '_delay$') ; do
 	vender_name=$i
 	echo "bash $base_dir/jinggeng_isv_signUp.sh $base_dir/config $base_dir/vender_jinggeng/$vender_name > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
@@ -88,7 +83,7 @@ for i in $(ls -1 vender | grep -v '_del$' | grep '_delay$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_); do		
 			conf=$j
-			echo "sleep 0.3"
+			echo "sleep 2"
 			echo "bash $base_dir/lzkj_isv_signUp.sh $base_dir/config_/$conf $base_dir/vender/$vender_name > $base_dir/log/delay/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 		done
 done >> run_shell_delay.sh
@@ -98,7 +93,7 @@ for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | grep '_delay$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_); do		
 			conf=$j
-			echo "sleep 0.3"
+			echo "sleep 2"
 			echo "bash $base_dir/lzkj_isv_signUp_7.sh $base_dir/config_/$conf $base_dir/lzkj_sevenDay_vender/$vender_name > $base_dir/log/delay/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 		done
 done >> run_shell_delay.sh
@@ -126,7 +121,7 @@ for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | grep '_jifen$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_); do		
 			conf=$j
-			echo "sleep 0.3"
+			echo "sleep 2"
 			echo "bash $base_dir/lzkj_isv_signUp_7.sh $base_dir/config_/$conf $base_dir/lzkj_sevenDay_vender/$vender_name > $base_dir/log/jifen/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 		done
 done >> run_shell_jifen.sh
@@ -136,7 +131,7 @@ for i in $(ls -1 vender | grep -v '_del$' | grep '_jifen$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_); do		
 			conf=$j
-			echo "sleep 0.3"
+			echo "sleep 2"
 			echo "bash $base_dir/lzkj_isv_signUp.sh $base_dir/config_/$conf $base_dir/vender/$vender_name > $base_dir/log/jifen/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 		done
 done >> run_shell_jifen.sh

@@ -91,10 +91,11 @@ t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.
   -H 'Sec-Fetch-Site: same-origin' \
   -H 'Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}" | jq)
-  echo -e "$t"
+  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
+  echo -e "$t" > ${venderId}_signUp.html
+  echo -e "$t" | jq
   echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在' && a=true
+  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
 fi
 
 if [ "$a" = "true" ]; then

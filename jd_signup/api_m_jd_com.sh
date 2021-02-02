@@ -25,7 +25,7 @@ t=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=160958886
   echo -e "$t"
   if [ $(echo "$t" | jq '.success' | grep 'true'>/dev/null;echo $?) -eq 0 ]; then
   	a=true
-  elif [ $(echo "$t" | jq '.msg' | egrep '你已经参加过该活动啦|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束'>/dev/null;echo $?) -eq 0 ]; then
+  elif [ $(echo "$t" | jq '.msg' | egrep '你已经参加过该活动啦|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|用户达到签到上限'>/dev/null;echo $?) -eq 0 ]; then
   	a=true
   elif [ $(echo "$t"| jq '.isOk' | grep 'true'>/dev/null;echo $?) -eq 0 ]; then
   	a=true
@@ -50,7 +50,7 @@ t=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=160958886
   echo -e "$t"
   if [ $(echo "$t" | jq '.success' | grep 'true'>/dev/null;echo $?) -eq 0 ]; then
   	b=true
-  elif [ $(echo "$t" | jq '.msg' | egrep '你已经参加过该活动啦|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束'>/dev/null;echo $?) -eq 0 ]; then
+  elif [ $(echo "$t" | jq '.msg' | egrep '你已经参加过该活动啦|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|用户达到签到上限'>/dev/null;echo $?) -eq 0 ]; then
   	b=true
   elif [ $(echo "$t"| jq '.isOk' | grep 'true'>/dev/null;echo $?) -eq 0 ]; then
   	b=true
