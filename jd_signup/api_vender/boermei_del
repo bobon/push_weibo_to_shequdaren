@@ -1,0 +1,11 @@
+#活动规则
+rule="连续签到2天：50京豆"
+
+#店铺名称
+vendername="博尔美数码专营店"
+#店铺激活码
+activityId="10256875"
+##店铺id
+venderId="60710"
+#店铺令牌
+token="D91C040FB7BE23BD47BC2257DACC20C9"
