@@ -1,5 +1,0 @@
-lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612290312	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
-lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612290312	LZ_TOKEN_KEY	lztokenpage0d535d53fb8a4f93b3dbacd67efa536b
-use pt_key
-jq: error (at <stdin>:0) (not a string): {"code":"3","errcode":264,"message":"出错了，请退出重试"}
-token: 
