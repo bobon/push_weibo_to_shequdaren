@@ -132,7 +132,7 @@ echo -e "$s" | jq '{signDetail, contiSignNum: .signRecord.contiSignNum, totalSig
 
 echo
 echo "${vendername}活动规则"
-curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
+t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
   -H 'Origin: https://lzkj-isv.isvjcloud.com' \
@@ -143,4 +143,7 @@ curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/
   -H 'Sec-Fetch-Site: same-origin' \
   -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "venderId=${venderId}&actId=${actId}" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'
+  -X POST --data-raw "venderId=${venderId}&actId=${actId}")
+echo -e "$t" 
+echo
+echo "$t" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'

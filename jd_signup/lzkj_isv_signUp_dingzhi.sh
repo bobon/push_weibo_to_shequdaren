@@ -91,7 +91,7 @@ t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://lzdz-isv.isvjcloud.
   -H 'Sec-Fetch-Site: same-origin' \
   -H "Referer: https://lzdz-isv.isvjcloud.com/${dingzhi_url}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "activityId=${actId}&actorUuid=6b90904fd3094e45a69c6dc8eefa6d87")
+  -X POST --data-raw "activityId=${actId}&actorUuid=${actorUuid}")
   echo -e "$t" > ${venderId}_signUp.html
   echo -e "$t" | jq
   echo "$t"| jq '.isOk' | grep 'true' && a=true
@@ -115,7 +115,7 @@ fi
 
 echo
 echo "${pin_name}签到${vendername}查看结果, 活动规则"
-curl -sS -k -b ${venderId}_signActivity2.cookie "https://lzdz-isv.isvjcloud.com/${dingzhi_url_Activity}" \
+t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://lzdz-isv.isvjcloud.com/${dingzhi_url_Activity}" \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
   -H 'Origin: https://lzdz-isv.isvjcloud.com' \
@@ -126,7 +126,10 @@ curl -sS -k -b ${venderId}_signActivity2.cookie "https://lzdz-isv.isvjcloud.com/
   -H 'Sec-Fetch-Site: same-origin' \
   -H "Referer: https://lzdz-isv.isvjcloud.com/${dingzhi_url}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "activityId=${actId}" --data-urlencode "pin=${secretPin}" | jq ''
+  -X POST --data-raw "activityId=${actId}" --data-urlencode "pin=${secretPin}")
+echo -e "$t"
+echo
+echo "$t" | jq ''
 
 exit 
 

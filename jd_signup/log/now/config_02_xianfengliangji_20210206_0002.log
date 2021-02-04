@@ -1,0 +1,58 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612455129	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612455129	LZ_TOKEN_KEY	lztokenpage734850741d304768b17f747389c66437
+use pt_key
+token: AAFgHBqCADCNqa_ZREjenabl503TZ8YHI7wb_iPhsGMtv4F7pXtPUdUHeFfKl44ecr81L7kKjgk
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/05/21 00:02:11 052151900  1612454531
+肥鹅签到先锋两季品京东自营旗舰店
+{
+  "msg": "当天只能签到一次",
+  "isOk": false
+}
+"当天只能签到一次"
+签到先锋两季品京东自营旗舰店完成
+
+肥鹅签到先锋两季品京东自营旗舰店查看结果
+{
+  "signDetail": {
+    "20210204": "y",
+    "20210205": "y",
+    "20210201": "y",
+    "20210202": "y",
+    "20210203": "y"
+  },
+  "contiSignNum": 6,
+  "totalSignNum": 6
+}
+
+先锋两季品京东自营旗舰店活动规则
+{"msg":"","act":{"id":"7b59d9740611448fb9ba64572f53ddeb","jdActivityId":null,"venderId":1000002569,"actName":"签到活动","startTime":1610936160000,"endTime":1613528219000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7b59d9740611448fb9ba64572f53ddeb&venderId=1000002569","shortUrl":"3.cn/100Pv-62J","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/154697/16/14872/3629/6004f000Eb134b8f6/098de4d2ad035e62.png","actRule":"1、活动时间：2021-01-18 10:16 - 2021-02-17 10:16；
+2、符合累计签到赠送条件，则有机会赠送累计签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[5京豆]；
+4、累计签到20天，有机会赠送[200京豆]；
+5、关注店铺后方可参与活动；
+6、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+7、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1610936320000,"updateTime":1610936320000,"activityType":null,"actTimeStr":"2021-01-18 10:16 至 2021-02-17 10:16","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"5a4e9944af5e4ca79848e3ed737e71f2\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"8888\",\"giftType\":\"6\",\"id\":\"1126607\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"20\",\"gift\":{\"giftInfoId\":\"169202dd40b04789a0b19933b8e9e24d\",\"giftName\":\"200京豆\",\"giftNum\":\"200\",\"giftTotal\":\"666\",\"giftType\":\"6\",\"id\":\"1126607\",\"priceInfo\":\"2.00\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"2\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1126607","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"8888","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"5a4e9944af5e4ca79848e3ed737e71f2","commonAddAwardVO":null},"signType":"2","giftConditions":[{"dayNum":"20","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1126607","giftType":"6","giftName":"200京豆","giftNum":"200","giftTotal":"666","giftResidue":null,"priceInfo":"2.00","shortLink":"","orginLink":null,"giftInfoId":"169202dd40b04789a0b19933b8e9e24d","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"100008366509,1865083,100016149100,100015013070,100014951408,100008475835,100008401250,100009939757","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7b59d9740611448fb9ba64572f53ddeb&venderId=1000002569",
+  "shortUrl": "3.cn/100Pv-62J",
+  "actRule": "1、活动时间：2021-01-18 10:16 - 2021-02-17 10:16；\n2、符合累计签到赠送条件，则有机会赠送累计签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[5京豆]；\n4、累计签到20天，有机会赠送[200京豆]；\n5、关注店铺后方可参与活动；\n6、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n7、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
