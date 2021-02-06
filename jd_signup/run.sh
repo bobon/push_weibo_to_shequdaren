@@ -7,6 +7,7 @@ mkdir -vp $base_dir/log/delay
 mkdir -vp $base_dir/log/jifen
 
 [ -d "log" ] || mkdir -vp log
+log_f=$(date -d next-day +"%Y%m%d_%H%M")
 echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell.sh
 echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_delay.sh
 echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_jifen.sh
