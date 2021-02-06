@@ -1,0 +1,31 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612545074	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612545074	LZ_TOKEN_KEY	lztokenpage44715ba0e92e4b2ea1c1c28c2fc4ff5e
+use pt_key
+token: AAFgHXnaADD6gK2yHlfz7wjEqaVfTTV0rV22ZTUbyH3BjCIZriYw74Q_4En09P6OMOZGmB40NwI
+secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/06/21 01:01:15 333821200  1612544475
+赵签到也买酒精品店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+"该活动已经结束"
+签到也买酒精品店完成
+
+赵签到也买酒精品店查看结果
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+也买酒精品店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}

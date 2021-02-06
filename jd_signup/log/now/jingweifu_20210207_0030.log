@@ -1,0 +1,24 @@
+
+02/06/21 00:30:02 223335200  1612542602
+赵签到未知3
+{"msg":"当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+
+02/06/21 00:30:03 781260200  1612542603
+王签到未知3
+{"msg":"当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+签到未知3完成
+
+赵签到未知3查看结果
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+{
+  "contiSignNum": null
+}
+
+王签到未知3查看结果
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+{
+  "contiSignNum": null
+}
+每日签到：获得2京豆
+连续签到7天：66京豆
+连续签到15天：88京豆
