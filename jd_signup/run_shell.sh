@@ -1,8 +1,8 @@
 log_f=$(date -d next-day +"%Y%m%d_%H%M")
 
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_01_lanyueliang_20210207_1859.log 2>&1 &
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_02_lanyueliang_20210207_1859.log 2>&1 &
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_03_lanyueliang_20210207_1859.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_01_lanyueliang_20210207_2313.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_02_lanyueliang_20210207_2313.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_03_lanyueliang_20210207_2313.log 2>&1 &
 
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/baogongwanju > /home/myid/jd/jd_signup/log/now/baogongwanju_${log_f}.log 2>&1 &
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/biyazi > /home/myid/jd/jd_signup/log/now/biyazi_${log_f}.log 2>&1 &
