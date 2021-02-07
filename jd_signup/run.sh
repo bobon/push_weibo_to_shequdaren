@@ -15,9 +15,9 @@ echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_jifen.sh
 
 #Ç©µ½À¶ÔÂÁÁ
 echo "
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_01_lanyueliang_${log_f}.log 2>&1 &
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_02_lanyueliang_${log_f}.log 2>&1 &
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_03_lanyueliang_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_01_lanyueliang_\${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_02_lanyueliang_\${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/lanyueliang_del > /home/myid/jd/jd_signup/log/now/config_03_lanyueliang_\${log_f}.log 2>&1 &
 " >> run_shell.sh
 
 for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | egrep -v '_delay$|_jifen$') ; do

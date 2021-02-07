@@ -1,16 +1,13 @@
 log_f=$(date -d next-day +"%Y%m%d_%H%M")
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/COMOTEK_delay > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/aikemi_delay > /home/myid/jd/jd_signup/log/delay/aikemi_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/d_233621_delay > /home/myid/jd/jd_signup/log/delay/d_233621_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/debao_delay > /home/myid/jd/jd_signup/log/delay/debao_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/balibeitian_delay > /home/myid/jd/jd_signup/log/delay/balibeitian_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/dishini_delay > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/everbuild_delay > /home/myid/jd/jd_signup/log/delay/everbuild_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/hanass_delay > /home/myid/jd/jd_signup/log/delay/hanass_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/haohaizi_delay > /home/myid/jd/jd_signup/log/delay/haohaizi_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/huahuagongzinvxie_delay > /home/myid/jd/jd_signup/log/delay/huahuagongzinvxie_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/huibojia_delay > /home/myid/jd/jd_signup/log/delay/huibojia_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/jinxiuyang_delay > /home/myid/jd/jd_signup/log/delay/jinxiuyang_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/keleige_delay > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/madinglusi_delay > /home/myid/jd/jd_signup/log/delay/madinglusi_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/tulaolao_delay > /home/myid/jd/jd_signup/log/delay/tulaolao_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/weizhi5_delay > /home/myid/jd/jd_signup/log/delay/weizhi5_delay_${log_f}.log 2>&1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/zhihongtushu_delay > /home/myid/jd/jd_signup/log/delay/zhihongtushu_delay_${log_f}.log 2>&1
 sleep 2

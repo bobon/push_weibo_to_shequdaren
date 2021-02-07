@@ -1,0 +1,67 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612717876	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612717876	LZ_TOKEN_KEY	lztokenpage5fc0752c1e5b49e28ff510c3b7e7eae7
+use pt_key
+token: AAFgIBzcADD9GAB2v3jlw0SGDZ-ah9y0n7Pp8Dl8XIOLPuwS8xENHyuIep-SzTaseVmzs4Bbfxo
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/08/21 01:01:16 713171900  1612717276
+肥鹅签到红星京东自营官方旗舰店
+{
+  "gift": null,
+  "msg": "",
+  "isOk": true,
+  "isSend": null,
+  "key": null
+}
+true
+签到红星京东自营官方旗舰店完成
+
+肥鹅签到红星京东自营官方旗舰店查看结果
+{
+  "signDetail": {
+    "20210208": "y",
+    "20210204": "y",
+    "20210205": "y",
+    "20210206": "y",
+    "20210207": "y",
+    "20210201": "y",
+    "20210202": "y",
+    "20210203": "y"
+  },
+  "contiSignNum": 9,
+  "totalSignNum": 9
+}
+
+红星京东自营官方旗舰店活动规则
+{"msg":"","act":{"id":"ce895ed405234bf794275f998e28b6b6","jdActivityId":null,"venderId":1000015761,"actName":"年货节红星签到活动","startTime":1609430400000,"endTime":1614484859000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761","shortUrl":"3.cn/100I-Tuer","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/154289/18/12840/3598/5fed6e7fE19fc83a6/5f927a019e7664e6.png","actRule":"1、活动时间：2021-01-01 00:00 - 2021-02-28 12:00；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、连续签到1天，有机会赠送[2积分]；
+4、连续签到10天，有机会赠送[20积分]；
+5、连续签到20天，有机会赠送[10京豆]；
+6、连续签到40天，有机会赠送[红星小二锅头白瓶4瓶]；
+7、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+8、关注店铺后方可参与活动；
+9、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+10、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1609395839000,"updateTime":1609395839000,"activityType":null,"actTimeStr":"2021-01-01 00:00 至 2021-02-28 12:00","actRange":"all","isFocusShop":"y","giftJson":"{\"giftConditions\":[{\"dayNum\":\"1\",\"gift\":{\"giftInfoId\":\"86d156670b37440aa879dc7acd75e43d\",\"giftName\":\"2积分\",\"giftNum\":\"2\",\"giftTotal\":\"32000\",\"giftType\":\"9\",\"id\":\"2\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"10\",\"gift\":{\"giftInfoId\":\"c60f5f82c20c4b25986e8f8da1d7362c\",\"giftName\":\"20积分\",\"giftNum\":\"20\",\"giftTotal\":\"20000\",\"giftType\":\"9\",\"id\":\"20\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"20\",\"gift\":{\"giftInfoId\":\"53f6d794831f4093916799a484cd3142\",\"giftName\":\"10京豆\",\"giftNum\":\"10\",\"giftTotal\":\"8000\",\"giftType\":\"6\",\"id\":\"1101971\",\"priceInfo\":\"0.10\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"40\",\"gift\":{\"giftInfoId\":\"0e71d6198e474d84a85f29983cd52f22\",\"giftName\":\"红星小二锅头白瓶4瓶\",\"giftNum\":\"37.32\",\"giftTotal\":\"40\",\"giftType\":\"7\",\"id\":\"644b703acdf14d17b409b45ed1453528\",\"priceInfo\":\"37.32\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"n\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"n","gift":null,"signType":"1","giftConditions":[{"dayNum":"1","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"2","giftType":"9","giftName":"2积分","giftNum":"2","giftTotal":"32000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"86d156670b37440aa879dc7acd75e43d","commonAddAwardVO":null}},{"dayNum":"10","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20","giftType":"9","giftName":"20积分","giftNum":"20","giftTotal":"20000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"c60f5f82c20c4b25986e8f8da1d7362c","commonAddAwardVO":null}},{"dayNum":"20","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1101971","giftType":"6","giftName":"10京豆","giftNum":"10","giftTotal":"8000","giftResidue":null,"priceInfo":"0.10","shortLink":"","orginLink":null,"giftInfoId":"53f6d794831f4093916799a484cd3142","commonAddAwardVO":null}},{"dayNum":"40","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"644b703acdf14d17b409b45ed1453528","giftType":"7","giftName":"红星小二锅头白瓶4瓶","giftNum":"37.32","giftTotal":"40","giftResidue":null,"priceInfo":"37.32","shortLink":"","orginLink":null,"giftInfoId":"0e71d6198e474d84a85f29983cd52f22","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"4137564,8048376,100016294682,5517042,100016294634,1129071,3735811,100016294652,100016294638,1075534","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761",
+  "shortUrl": "3.cn/100I-Tuer",
+  "actRule": "1、活动时间：2021-01-01 00:00 - 2021-02-28 12:00；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、连续签到1天，有机会赠送[2积分]；\n4、连续签到10天，有机会赠送[20积分]；\n5、连续签到20天，有机会赠送[10京豆]；\n6、连续签到40天，有机会赠送[红星小二锅头白瓶4瓶]；\n7、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n8、关注店铺后方可参与活动；\n9、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n10、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}

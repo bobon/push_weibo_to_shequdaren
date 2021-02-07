@@ -63,7 +63,7 @@ filer_venderId() {
 check_sign() {
 	for i in $(cat "$1"); do
 		echo "check vender: $i -> $(get_shopmemberinfo $i)"
-		get_sign "$i"
+		get_sign "$i"  | tee -a sign.tmp
 	done
 }
 
@@ -86,19 +86,30 @@ filer_venderId_from_shop() {
 }
 
 
-pagesize=100
-page=1
-result=$(search_shop "奶粉" $pagesize $page)
-filer_venderId_from_shop "$result" > shop.tmp
-check_sign shop.tmp
+if [ -f "$1" ]; then
+	echo "search $1 sign"
+	source "$1" || error "source $1 error"
+	[ ! -z "$venderId" ] || error "venderId error from $1"
+	echo "check vender: $venderId -> $(get_shopmemberinfo $venderId)"
+	get_sign "$venderId"
+else
+	key="牛奶"
+	pagesize=100
+	page=1
+	result=$(search_shop "$key" $pagesize $page)
+	filer_venderId_from_shop "$result" > shop.tmp
+	rm -rvf sign.tmp
+	check_sign shop.tmp
+fi
 exit 
 
-result=$(search "奶粉")
+result=$(search "$key")
 filer_shopurl "$result" > shopurl.tmp
-for i in $(seq 500 600); do
-	result=$(search_page "奶粉" $i)
+for i in $(seq 1 100); do
+	result=$(search_page "$key" $i)
 	filer_shopurl "$result" >> shopurl.tmp
 	sleep 1
 done
 filer_venderId shopurl.tmp > venderId.tmp
 check_sign venderId.tmp
+	

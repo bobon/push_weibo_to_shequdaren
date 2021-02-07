@@ -63,7 +63,8 @@ get_shopSign() {
 	 
 	jq 'if(.success) then empty else . end' "$shopSign"
 	
-	echo "# 短连接: $duan" > "$shop"	
+	
+	echo -e "# 短链接\nsuo_url=\"$duan\"" > "$shop"
 	echo "get shopSign to $shopSign"
 	jq -r '.data|(
 		"venderId=" + (.venderId|tostring)
@@ -76,8 +77,12 @@ get_shopSign() {
 	unset startTime
 	unset endTime
 	unset activityId
+	unset url
 	source "$shop"
 	echo "token=$token" >> "$shop"
+	echo "#店铺名称" >> "$shop"
+	echo "vendername=\"$(get_shopmemberinfo $venderId)\"" >> "$shop"
+	echo -e "# 长链接\nurl=$(get_sign $venderId)" >> "$shop"
 	
 	local startTime_=$(echo $startTime | sed -r -e 's,[0-9]{3}$,,')
 	local endTime_=$(echo $endTime | sed -r -e 's,[0-9]{3}$,,')
@@ -117,6 +122,8 @@ get_shopSign() {
 		done
 	done
 	
+	echo
+	echo "[$shop]"
 	cat "$shop"
 }
 
@@ -146,16 +153,50 @@ parse_prize() {
 	echo "$1" >> "$shop_prize/$level"
 }
 
-readonly duan="$1"
-readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
-rm -rvf "$log"
-mkdir -vp "$log"
+get_sign() {
+	eval $(echo $curl_r "$curl_h" "'https://wq.jd.com/shopbranch/GetUrlSignDraw?venderId=${1}'" \
+	  -H "'Cache-Control: max-age=0'" \
+	  -H "'Accept: */*'" \
+	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?shopId=${1}&venderId=${1}'") \
+		 | jq 'if(.data.isvUrl != "") then .data.isvUrl else empty end'
+}
 
-duan_to_chang
-chang_to_hrl
-hrl_to_location
-get_sign_html
-get_shopSign
+get_shopmemberinfo() {
+	eval $(echo $curl_r "$curl_h" "'https://shop.m.jd.com/mshop/QueryShopMemberInfoJson?venderId=${1}'" \
+	  -H "'Accept: */*'" \
+	  -H "'Sec-Fetch-Site: same-origin'" \
+	  -H "'Sec-Fetch-Mode: no-cors'" \
+	  -H "'Sec-Fetch-Dest: script'" \
+	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?venderId=${1}&_fd=jdm'" )	| jq -r '.shopName'
+}
+
+
+
+if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https://h5.m.jd.com/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
+	echo "parse $1"
+	location="${1}&"
+	echo "location from $1: $location"
+	get_shopSign
+elif [ -f "$1" ]; then
+	echo "parse $1"
+	source "$1" || error "source $1 error"
+	[ ! -z "$token" ] || error "token error from $1"
+	duan="$1"
+	location="https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
+	echo "location from $1: $location"
+	get_shopSign
+else
+	readonly duan="$1"
+	readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
+	rm -rvf "$log"
+	mkdir -vp "$log"
+
+	duan_to_chang
+	chang_to_hrl
+	hrl_to_location
+	get_sign_html
+	get_shopSign
+fi
 
 exit 0
 
