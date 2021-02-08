@@ -8,6 +8,19 @@ readonly curl_h="-H 'Connection: keep-alive' \
 -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
 -H 'Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.5;q=0.4'"
 
+readonly User_Agent_meta10="jdapp;android;9.4.0;10;8363838303530333030393730373-83D2338333738326233603436336;network/wifi;model/ALP-AL00;addressid/15299083;aid/9a0d1381915369ba;oaid/f2def9db-defe-ba42-f7b3-fb8de59b5882;osVer/29;appBuild/86737;partner/huawei;eufv/1;jdSupportDarkMode/0;Mozilla/5.0 (Linux; Android 10; ALP-AL00 Build/HUAWEIALP-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045230 Mobile Safari/537.36"
+readonly curl_h_meta10="-H 'Connection: keep-alive' \
+-H 'Accept: application/json' \
+-H 'X-Requested-With: XMLHttpRequest' \
+-H \"User-Agent: ${User_Agent_meta10}\" \
+-H 'Sec-Fetch-Mode: cors' \
+-H 'Content-Type: application/x-www-form-urlencoded' \
+-H 'Sec-Fetch-Site: same-origin' \
+-H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7'"
+
+readonly lzkj_svr="lzkj-isv.isvjcloud.com"
+readonly h5_svr="h5.m.jd.com"
+
 error() {
 	log_d "[ERROR] $1"
 }
@@ -41,7 +54,7 @@ get_sign_html() {
 	eval $(echo $curl_r "$curl_h" -H "'Referer: $duan'" "'$location'") > "$log/index.html"
 }
 
-get_shopSign() {
+get_shopSign_h5() {
 	unset token
 	readonly token=$(echo $location | sed -r -e 's,.*token=,,' -e 's,&.*,,')
 	[ ! -z "$token" ] || error "token error"
@@ -158,7 +171,7 @@ get_sign() {
 	  -H "'Cache-Control: max-age=0'" \
 	  -H "'Accept: */*'" \
 	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?shopId=${1}&venderId=${1}'") \
-		 | jq 'if(.data.isvUrl != "") then .data.isvUrl else empty end'
+		 | jq -r 'if(.data.isvUrl != "") then .data.isvUrl else empty end'
 }
 
 get_shopmemberinfo() {
@@ -170,21 +183,64 @@ get_shopmemberinfo() {
 	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?venderId=${1}&_fd=jdm'" )	| jq -r '.shopName'
 }
 
+parse_venderId_actId_sevenDay() {
+	local actId=$(echo "$1" | sed -r -e 's,.*activityId=,,' -e 's,&.*,,')
+	local venderId=$(echo "$1" | sed -r -e 's,.*venderId=,,' -e 's,&.*,,')
+	echo "${venderId}|${actId}"
+}
+
+get_shopSign_lzkj_sevenDay() {
+	local venderId=$(echo $1 | cut -d '|' -f 1)
+	local actId=$(echo $1 | cut -d '|' -f 2)
+	
+	readonly shop_base="shop/$actId"
+	readonly shop="shop"
+	readonly shopSign="shopSign.json"
+	readonly shop_prize="prize"	
+	cd "$shop_base"
+	rm -rvf "$shop"
+	rm -rvf "$shopSign"
+	rm -rvf "*.tmp"
+	rm -rvf "$shop_prize"
+	mkdir -vp "$shop_prize"	
+	
+	$curl_r -c ${venderId}_signActivity2.cookie "$curl_h" "https://${lzkj_svr}/sign/sevenDay/signActivity?activityId=${actId}&venderId=${venderId}" \
+	  -H 'Sec-Fetch-Mode: navigate' \
+	  -H 'Sec-Fetch-User: ?1' \
+	  -H 'X-Requested-With: com.tencent.mm' \
+	  -H 'Sec-Fetch-Site: none' > "activity.html"
+
+	$curl_r -b ${venderId}_signActivity2.cookie "$curl_h_meta10" "https://${lzkj_svr}/sign/sevenDay/wx/getSignInfo" \
+	  -H "Origin: https://${lzkj_svr}" \
+	  -H "Referer: https://${lzkj_svr}/sign/sevenDay/signActivity?activityId=${actId}&venderId=${venderId}" \
+	  -X POST --data-raw "venderId=${venderId}" --data-raw "actId=${actId}" > "$shopSign"
+	
+	 cat "$shopSign"
+}
 
 
-if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https://h5.m.jd.com/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
-	echo "parse $1"
-	location="${1}&"
-	echo "location from $1: $location"
-	get_shopSign
+if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https:" >/dev/null;echo $?) -eq 0 ]; then
+	location="$1"
 elif [ -f "$1" ]; then
 	echo "parse $1"
 	source "$1" || error "source $1 error"
-	[ ! -z "$token" ] || error "token error from $1"
-	location="https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
-	echo "location from $1: $location"
-	get_shopSign
-else
+	[ ! -z "$venderId" ] || error "venderId error from $1"
+
+	echo "$(get_shopmemberinfo $venderId)"
+	location=$(get_sign $venderId)
+	unset venderId
+fi
+echo "$location"
+
+
+# https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+if [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/sevenDay/signActivity" >/dev/null;echo $?) -eq 0 ]; then
+	get_shopSign_lzkj_sevenDay $(parse_venderId_actId_sevenDay "$location")
+# https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+elif [ $(echo "$location" | egrep "^https://${h5_svr}/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
+	get_shopSign_h5
+elif [ $(echo "$1" | egrep "^https://u.jd.com/" >/dev/null;echo $?) -eq 0 ]; then
+	# https://u.jd.com/IyOZZAp
 	readonly duan="$1"
 	readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
 	rm -rvf "$log"
@@ -194,10 +250,17 @@ else
 	chang_to_hrl
 	hrl_to_location
 	get_sign_html
-	get_shopSign
+	get_shopSign_h5
+else
+	if [ ! -z "$token" ]; then
+		location="https://${h5_svr}/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
+		echo "have token from $1"
+		get_shopSign_h5
+	fi
 fi
 
 exit 0
 
 
 #<a class="dtm-map-area" href="//h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B" style="position: absolute; width: 126.667px; height: 195.573px; top: 1278.83px; left: 1.01333px;"></a>
+
