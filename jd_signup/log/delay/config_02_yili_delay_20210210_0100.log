@@ -1,0 +1,31 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612804301	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612804301	LZ_TOKEN_KEY	lztokenpage0578faf4c5c342a596b1f8c778fbb38c
+use pt_key
+token: AAFgIW51ADDvsoTcUibTVL5ZoKWrL2egqNHuaedY24-s_c_d_yr1NxFVrqiP5P1Pfb7ikHJbUo0
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/09/21 01:01:42 142710300  1612803702
+肥鹅签到伊利牛奶旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+"该活动已经结束"
+签到伊利牛奶旗舰店完成
+
+肥鹅签到伊利牛奶旗舰店查看结果
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+伊利牛奶旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}

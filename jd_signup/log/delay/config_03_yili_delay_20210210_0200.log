@@ -1,0 +1,31 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612807904	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612807904	LZ_TOKEN_KEY	lztokenpage8c455edf07b44510968ce9e09c9311b9
+use wskey
+token: AAFgIXyIADAJJziduKpRAHcpd8eXSWqiwf7rZJQQlWiDHepIVWjXSDwFSylaFa0FIhekp63SJCc
+secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/09/21 02:01:44 975229400  1612807304
+移动签到伊利牛奶旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+"该活动已经结束"
+签到伊利牛奶旗舰店完成
+
+移动签到伊利牛奶旗舰店查看结果
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+伊利牛奶旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}

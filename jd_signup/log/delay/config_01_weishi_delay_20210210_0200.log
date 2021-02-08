@@ -1,0 +1,33 @@
+cjhy 忽略 LZ_TOKEN
+use pt_key
+token: AAFgIXyMADD6YnVvbTNXDKF97dy2frqI3esBfFa1UmS37l4jdjIuXjkRjaF_fnqttsGUBbrTaqQ
+secretPin: 51S2JqsypB/nfj45frYeodA1Drq3za4lh6LFLfledF1cdSiqMbCx5edEEaL3RnCSkdK3rLBQpEQH9V4tdrrh0w==
+
+02/09/21 02:01:48 925022500  1612807308
+赵签到卫仕京东自营官方旗舰店
+{
+  "msg": "当天只能签到一次",
+  "isOk": false
+}
+"当天只能签到一次"
+签到卫仕京东自营官方旗舰店完成
+
+赵签到卫仕京东自营官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"dayNum":"1","imgUrl":"","showType":"0","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"321c49f93a054f34a1d45ad7a2dbc334"},{"dayNum":"2","imgUrl":"","showType":"0","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"4ca343961b6a41828ec62ce8f613398d"},{"dayNum":"3","imgUrl":"","showType":"0","gift":{"id":"1103765","giftType":"6","giftName":"15京豆","giftNum":"15","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0.15","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"95b42726eb184bde8ec7b4cd91de90a1"},{"dayNum":"4","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"102c59e4e7d94b059d6a7c122bfc54cf"},{"dayNum":"5","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"d49a08ed06ff41a0aafc748b26fad193"},{"dayNum":"6","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"c9710fbb70f94bfdbb54f7f967f28085"},{"dayNum":"7","imgUrl":"","showType":"0","gift":{"id":"1103765","giftType":"6","giftName":"30京豆","giftNum":"30","giftTotal":"3000","giftResidue":null,"memo":"","priceInfo":"0.30","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"4f3b89c20bf042cbb287dccbf4826bd5"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":2,"actRule":"1、活动时间：2021-01-30 00:00 - 2021-02-28 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+3、连续签到7天后，清零可重新开始；
+4、第1天签到，有机会赠送10店铺积分；
+5、第2天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送15京豆；
+7、第4天签到，有机会赠送20店铺积分；
+8、第5天签到，有机会赠送20店铺积分；
+9、第6天签到，有机会赠送20店铺积分；
+10、第7天签到，有机会赠送30京豆；
+11、本次活动如果中了任何奖品。如优惠券需要您手动领取；实物类奖品需要您主动联系卖家进行兑换；超过奖品有效期限未兑换视为自动放弃；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过；
+13、奖品数量有限，先到先得；
+14、如果奖品是京豆/优惠券，需增加京豆预计24小时到账，请耐心等待;
+15、【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+","followDays":0,"isSign":"y"}
