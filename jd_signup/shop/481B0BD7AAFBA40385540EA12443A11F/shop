@@ -1,9 +1,14 @@
-# 短连接: api_vender/balibeitian_fq
+# 短链接
+suo_url=""
 venderId=10296631
 startTime=1612108800000
 endTime=1614614399000
 activityId=10262007
 token=481B0BD7AAFBA40385540EA12443A11F
+#店铺名称
+vendername="巴黎贝甜旗舰店"
+# 长链接
+url=
 # 活动时间：2021.02.01 00:00:00 - 2021.03.01 23:59:59
 奖励说明：
 连续签到3天：5京豆

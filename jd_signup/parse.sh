@@ -181,7 +181,6 @@ elif [ -f "$1" ]; then
 	echo "parse $1"
 	source "$1" || error "source $1 error"
 	[ ! -z "$token" ] || error "token error from $1"
-	duan="$1"
 	location="https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
 	echo "location from $1: $location"
 	get_shopSign
