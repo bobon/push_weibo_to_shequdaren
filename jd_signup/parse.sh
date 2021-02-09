@@ -215,7 +215,25 @@ get_shopSign_lzkj_sevenDay() {
 	  -H "Referer: https://${lzkj_svr}/sign/sevenDay/signActivity?activityId=${actId}&venderId=${venderId}" \
 	  -X POST --data-raw "venderId=${venderId}" --data-raw "actId=${actId}" > "$shopSign"
 	
-	 cat "$shopSign"
+	#cat "$shopSign"
+	cd -
+}
+
+parse_prize_lzkj_sevenDay() {
+	cd "$shop_base"
+	
+	jq -r '.giftConditions[]|
+		"dayNum=" + .dayNum + ";giftName=\"" + .gift.giftName + "\";giftType=" + .gift.giftType
+	' "$shopSign" #> "$shop_base/prize.tmp"
+	
+	echo "7天签到" >> "$shop"
+	jq -r '.giftConditions[]|
+		"连续签到" + .dayNum + "天：" + .gift.giftName
+	' "$shopSign" >> "$shop"
+		
+	echo
+	echo "[$(pwd)/$shop]"
+	cat "$shop"
 }
 
 
@@ -236,6 +254,7 @@ echo "$location"
 # https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
 if [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/sevenDay/signActivity" >/dev/null;echo $?) -eq 0 ]; then
 	get_shopSign_lzkj_sevenDay $(parse_venderId_actId_sevenDay "$location")
+	parse_prize_lzkj_sevenDay
 # https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
 elif [ $(echo "$location" | egrep "^https://${h5_svr}/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
 	get_shopSign_h5
