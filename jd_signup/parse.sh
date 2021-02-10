@@ -59,7 +59,8 @@ get_shopSign_h5() {
 	readonly token=$(echo $location | sed -r -e 's,.*token=,,' -e 's,&.*,,')
 	[ ! -z "$token" ] || error "token error"
 	log_d "get token from location:\n$token"
-	readonly shop_base="shop/$token"	
+	
+	readonly shop_base="shop/$token"
 	readonly shopSign="$shop_base/shopSign.json"
 	readonly shop="$shop_base/shop"
 	readonly shop_prize="$shop_base/prize"	
@@ -166,12 +167,25 @@ parse_prize() {
 	echo "$1" >> "$shop_prize/$level"
 }
 
-get_sign() {
+get_sign_fromSignDraw() {
 	eval $(echo $curl_r "$curl_h" "'https://wq.jd.com/shopbranch/GetUrlSignDraw?venderId=${1}'" \
 	  -H "'Cache-Control: max-age=0'" \
 	  -H "'Accept: */*'" \
 	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?shopId=${1}&venderId=${1}'") \
 		 | jq -r 'if(.data.isvUrl != "") then .data.isvUrl else empty end'
+}
+
+get_sign_fromMzpage() {
+	local shop_vender_base="shop/$venderId"
+	mkdir -vp "$shop_vender_base" >&2
+	
+	get_shop_mzpage "$1" > "$shop_vender_base/mzpage.html"
+	cat "$shop_vender_base/mzpage.html" | egrep 'https.*/sign/|isv.isvjcloud.com' | sed -r -e 's,.*https,https,' -e 's,"\,$|"$,,' | sort | uniq
+}
+
+get_sign() {
+	get_sign_fromSignDraw "$1"
+	get_sign_fromMzpage "$1"
 }
 
 get_shopmemberinfo() {
@@ -183,26 +197,29 @@ get_shopmemberinfo() {
 	  -H "'Referer: https://shop.m.jd.com/shopv2/mzpage?venderId=${1}&_fd=jdm'" )	| jq -r '.shopName'
 }
 
-parse_venderId_actId_sevenDay() {
+parse_venderId_actId_from_location() {
 	local actId=$(echo "$1" | sed -r -e 's,.*activityId=,,' -e 's,&.*,,')
 	local venderId=$(echo "$1" | sed -r -e 's,.*venderId=,,' -e 's,&.*,,')
 	echo "${venderId}|${actId}"
 }
 
 get_shopSign_lzkj_sevenDay() {
-	local venderId=$(echo $1 | cut -d '|' -f 1)
-	local actId=$(echo $1 | cut -d '|' -f 2)
-	
+	unset venderId
+	unset actId
+	venderId=$(echo $1 | cut -d '|' -f 1)
+	actId=$(echo $1 | cut -d '|' -f 2)
+		
 	readonly shop_base="shop/$actId"
 	readonly shop="shop"
 	readonly shopSign="shopSign.json"
 	readonly shop_prize="prize"	
+	mkdir -vp "$shop_base"
 	cd "$shop_base"
 	rm -rvf "$shop"
 	rm -rvf "$shopSign"
 	rm -rvf "*.tmp"
 	rm -rvf "$shop_prize"
-	mkdir -vp "$shop_prize"	
+	mkdir -vp "$shop_prize"
 	
 	$curl_r -c ${venderId}_signActivity2.cookie "$curl_h" "https://${lzkj_svr}/sign/sevenDay/signActivity?activityId=${actId}&venderId=${venderId}" \
 	  -H 'Sec-Fetch-Mode: navigate' \
@@ -226,6 +243,20 @@ parse_prize_lzkj_sevenDay() {
 		"dayNum=" + .dayNum + ";giftName=\"" + .gift.giftName + "\";giftType=" + .gift.giftType
 	' "$shopSign" #> "$shop_base/prize.tmp"
 	
+	if [ -z "$vendername" ]; then
+		vendername="$(get_shopmemberinfo $venderId)"
+	fi
+	
+	cat > "$shop" << END
+#店铺名称
+vendername="$vendername"
+#店铺激活码
+actId="$actId"
+##店铺id
+venderId="$venderId"
+
+END
+	
 	echo "7天签到" >> "$shop"
 	jq -r '.giftConditions[]|
 		"连续签到" + .dayNum + "天：" + .gift.giftName
@@ -234,49 +265,99 @@ parse_prize_lzkj_sevenDay() {
 	echo
 	echo "[$(pwd)/$shop]"
 	cat "$shop"
+	cd -
+}
+
+get_shop_mzpage() {
+	eval $(echo $curl_r "$curl_h" "https://shop.m.jd.com/shopv2/mzpage?venderid=${1}" -H "'Referer: https://so.m.jd.com/'")
+}
+
+get_shopSign_lzkj() {
+	unset venderId
+	unset actId
+	venderId=$(echo $1 | cut -d '|' -f 1)
+	actId=$(echo $1 | cut -d '|' -f 2)
+	
+	readonly shop_base="shop/$actId"
+	readonly shop="shop"
+	readonly shopSign="shopSign.json"
+	readonly shop_prize="prize"	
+	mkdir -vp "$shop_base"
+	cd "$shop_base"
+	rm -rvf "$shop"
+	rm -rvf "$shopSign"
+	rm -rvf "*.tmp"
+	rm -rvf "$shop_prize"
+	mkdir -vp "$shop_prize"
+	
+	$curl_r -c ${venderId}_signActivity2.cookie "$curl_h" "https://${lzkj_svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+	  -H 'Sec-Fetch-Mode: navigate' \
+	  -H 'Sec-Fetch-User: ?1' \
+	  -H 'X-Requested-With: com.tencent.mm' \
+	  -H 'Sec-Fetch-Site: none' > "activity.html"
+
+	echo "${vendername}活动规则"
+	$curl_r -b ${venderId}_signActivity2.cookie "$curl_h_meta10" "https://${lzkj_svr}/sign/wx/getActivity" \
+	  -H "Origin: https://${lzkj_svr}" \
+	  -H "Referer: https://${lzkj_svr}/sign/wx/getActivity" \
+	  -X POST --data-raw "venderId=${venderId}&actId=${actId}" > "$shopSign"
+	jq '' "$shopSign"
+	#echo -e "$t" 
+	#echo
+	#echo "$t" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'
+	
+	cd -
 }
 
 
+
 if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https:" >/dev/null;echo $?) -eq 0 ]; then
-	location="$1"
+	locations="$1"
 elif [ -f "$1" ]; then
 	echo "parse $1"
 	source "$1" || error "source $1 error"
 	[ ! -z "$venderId" ] || error "venderId error from $1"
-
-	echo "$(get_shopmemberinfo $venderId)"
-	location=$(get_sign $venderId)
+	
+	vendername="$(get_shopmemberinfo $venderId)"
+	echo "$vendername"
+	locations=$(get_sign $venderId | sed -r -e 's,&adsource=[^&]+,,' | sort | uniq)
 	unset venderId
 fi
-echo "$location"
+echo -e "$locations"
+echo
 
-
-# https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
-if [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/sevenDay/signActivity" >/dev/null;echo $?) -eq 0 ]; then
-	get_shopSign_lzkj_sevenDay $(parse_venderId_actId_sevenDay "$location")
-	parse_prize_lzkj_sevenDay
-# https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
-elif [ $(echo "$location" | egrep "^https://${h5_svr}/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
-	get_shopSign_h5
-elif [ $(echo "$1" | egrep "^https://u.jd.com/" >/dev/null;echo $?) -eq 0 ]; then
-	# https://u.jd.com/IyOZZAp
-	readonly duan="$1"
-	readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
-	rm -rvf "$log"
-	mkdir -vp "$log"
-
-	duan_to_chang
-	chang_to_hrl
-	hrl_to_location
-	get_sign_html
-	get_shopSign_h5
-else
-	if [ ! -z "$token" ]; then
-		location="https://${h5_svr}/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
-		echo "have token from $1"
+for location in $(echo -e "$locations"); do
+	echo "location: $location"
+	# https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+	if [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/sevenDay/signActivity" >/dev/null;echo $?) -eq 0 ]; then
+		get_shopSign_lzkj_sevenDay $(parse_venderId_actId_from_location "$location")
+		parse_prize_lzkj_sevenDay
+	# https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=eb0ef5535d6e462096ab4e2135ba6c45&venderId=37166
+	elif [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/signActivity" >/dev/null;echo $?) -eq 0 ]; then
+		get_shopSign_lzkj $(parse_venderId_actId_from_location "$location")
+	# https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+	elif [ $(echo "$location" | egrep "^https://${h5_svr}/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
 		get_shopSign_h5
+	elif [ $(echo "$1" | egrep "^https://u.jd.com/" >/dev/null;echo $?) -eq 0 ]; then
+		# https://u.jd.com/IyOZZAp
+		readonly duan="$1"
+		readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
+		rm -rvf "$log"
+		mkdir -vp "$log"
+
+		duan_to_chang
+		chang_to_hrl
+		hrl_to_location
+		get_sign_html
+		get_shopSign_h5
+	else
+		if [ ! -z "$token" ]; then
+			location="https://${h5_svr}/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
+			echo "have token from $1"
+			get_shopSign_h5
+		fi
 	fi
-fi
+done
 
 exit 0
 

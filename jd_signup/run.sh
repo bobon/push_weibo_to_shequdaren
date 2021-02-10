@@ -13,6 +13,12 @@ echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_delay.sh
 echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_jifen.sh
 
 
+echo "
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del > /home/myid/jd/jd_signup/log/now/config_01_kaxioujingjing_\${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del > /home/myid/jd/jd_signup/log/now/config_02_kaxioujingjing_\${log_f}.log 2>&1 &
+" >> run_shell.sh
+
+
 for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
@@ -143,6 +149,11 @@ for i in $(ls -1 vender | grep -v '_del$' | grep '_jifen$') ; do
 done >> run_shell_jifen.sh
 
 #echo "bash $base_dir/other.sh $base_dir/config > $base_dir/log/other_\${log_f}.log 2>&1 &" >> run_shell.sh
+
+echo "
+sleep 0.3
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del > /home/myid/jd/jd_signup/log/now/config_03_kaxioujingjing_\${log_f}.log 2>&1 &
+" >> run_shell.sh
 
 echo "
 sleep 4

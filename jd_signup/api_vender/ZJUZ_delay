@@ -1,0 +1,19 @@
+#活动规则
+rule="活动时间：2021.02.10 00:00:00 - 2021.02.28 23:59:59
+奖励说明：
+连续签到3天：20京豆
+连续签到5天：40京豆
+连续签到10天：50京豆
+连续签到18天：100京豆"
+
+#店铺名称
+vendername="ZJUZ珠宝旗舰店"
+#店铺激活码
+activityId="10270130"
+##店铺id
+venderId="187290"
+#店铺令牌
+token="938178698B30D33A73C3A059ECC5A838"
+
+
+# https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
