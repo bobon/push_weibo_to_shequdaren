@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000001383
+startTime=1611676800000
+endTime=1614268799000
+activityId=10257678
+token=D71848E997002DC4F23CA79DB33BF16B
+#店铺名称
+vendername="沁园京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D71848E997002DC4F23CA79DB33BF16B
+# 活动时间：2021.01.27 00:00:00 - 2021.02.25 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5京豆
+连续签到3天：5京豆
+"

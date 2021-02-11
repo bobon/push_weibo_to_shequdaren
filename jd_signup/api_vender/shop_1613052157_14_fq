@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000008881
+startTime=1611158400000
+endTime=1613404799000
+activityId=10253468
+token=83537B256474E950635ED98A83E451A7
+#店铺名称
+vendername="法兰琳卡京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=83537B256474E950635ED98A83E451A7
+# 活动时间：2021.01.21 00:00:00 - 2021.02.15 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到7天：10店铺积分
+"

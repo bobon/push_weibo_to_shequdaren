@@ -22,7 +22,13 @@ old_venderId=$(grep -r '^venderId=' vender api_vender lzkj_sevenDay_vender | egr
 
 num=0
 for i in $(find shop/ -name shop -type f); do
+	dd=$(dirname "$i")
 	echo "check sign $i"
+	if [ -f "$dd\checked" ]; then
+		echo "checked. continue"
+		continue
+	fi
+	
 	flag=""
 	if [ $(grep '^url=' "$i" | egrep 'api.m.jd.com|h5.m.jd.com'>/dev/null;echo $?) -eq 0 ]; then
 		bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config_check $i now > log/tmp
@@ -50,6 +56,7 @@ for i in $(find shop/ -name shop -type f); do
 			cp -rvf "$i" "$flag/shop_$(date '+%s')_${num}_delay"
 			let num++ || true
 		fi
+		touch "$dd\checked"
 	fi
 done
 

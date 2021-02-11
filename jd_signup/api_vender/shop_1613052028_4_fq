@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000083623
+startTime=1610726400000
+endTime=1613318399000
+activityId=10249680
+token=2CBCBD87D23D964522BAD572FF7EE366
+#店铺名称
+vendername="臻味自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=2CBCBD87D23D964522BAD572FF7EE366
+# 活动时间：2021.01.16 00:00:00 - 2021.02.14 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：50京豆
+连续签到30天：100京豆
+"

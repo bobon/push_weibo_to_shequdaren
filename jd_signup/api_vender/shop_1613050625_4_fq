@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=824921
+startTime=1610812800000
+endTime=1613404799000
+activityId=10250074
+token=B7E3E19D27056F1C0F5C6C9826BB44D7
+#店铺名称
+vendername="老中医个护旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B7E3E19D27056F1C0F5C6C9826BB44D7
+# 活动时间：2021.01.17 00:00:00 - 2021.02.15 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满299-15店铺券
+连续签到2天：满699-50店铺券
+连续签到3天：满1000-80店铺券
+"

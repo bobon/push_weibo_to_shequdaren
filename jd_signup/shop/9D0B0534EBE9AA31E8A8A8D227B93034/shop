@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000278646
+startTime=1612281600000
+endTime=1614527999000
+activityId=10264683
+token=9D0B0534EBE9AA31E8A8A8D227B93034
+#店铺名称
+vendername="RNW京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9D0B0534EBE9AA31E8A8A8D227B93034
+# 活动时间：2021.02.03 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到26天：300店铺积分
+"

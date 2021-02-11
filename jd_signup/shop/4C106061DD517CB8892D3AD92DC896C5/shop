@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=1000090387
+startTime=1612368000000
+endTime=1614527999000
+activityId=10266479
+token=4C106061DD517CB8892D3AD92DC896C5
+#店铺名称
+vendername="西班牙葡萄酒京东自营专区"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=4C106061DD517CB8892D3AD92DC896C5
+# 活动时间：2021.02.04 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：2京豆
+"

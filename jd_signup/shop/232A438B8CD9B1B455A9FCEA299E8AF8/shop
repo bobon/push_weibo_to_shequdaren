@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=635033
+startTime=1611504000000
+endTime=1614095999000
+activityId=10251573
+token=232A438B8CD9B1B455A9FCEA299E8AF8
+#店铺名称
+vendername="帆睿数码旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=232A438B8CD9B1B455A9FCEA299E8AF8
+# 活动时间：2021.01.25 00:00:00 - 2021.02.23 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：满79-16店铺券
+"

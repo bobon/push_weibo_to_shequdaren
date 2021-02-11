@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000091042
+startTime=1612108800000
+endTime=1614527999000
+activityId=10261951
+token=5E432DF5433365542651B5553AD5351C
+#店铺名称
+vendername="透真京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5E432DF5433365542651B5553AD5351C
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到7天：20店铺积分
+"

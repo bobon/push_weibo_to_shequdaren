@@ -93,8 +93,8 @@ if [ -f "$1" ]; then
 	echo "check vender: $venderId -> $(get_shopmemberinfo $venderId)"
 	get_sign "$venderId"
 else
-	key="牛奶"
-	pagesize=100
+	key="$1"
+	pagesize=300
 	page=1
 	result=$(search_shop "$key" $pagesize $page)
 	filer_venderId_from_shop "$result" > shop.tmp
@@ -112,4 +112,3 @@ for i in $(seq 1 100); do
 done
 filer_venderId shopurl.tmp > venderId.tmp
 check_sign venderId.tmp
-	

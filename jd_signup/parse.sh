@@ -470,3 +470,16 @@ exit 0
 
 
 # rm -rvf rr err repeatshop shop locations; find vender api_vender/ lzkj_sevenDay_vender dingzhi_vender -type f | xargs -i ./parse.sh {} >rr 2>err
+# ./search.sh "牛奶"
+# ./search.sh "电器"
+# ./search.sh "电子产品"
+# ./search.sh "奶粉"
+# ./search.sh "数码"
+# ./search.sh "化妆"
+# ./search.sh "酒"
+# ./search.sh "零食"
+# ./search.sh "洗护"
+# ./search.sh "表"
+# cat sign.tmp | xargs -i ./parse.sh {}
+# ./sign_check.sh | tee sign_check
+# find ./ -name 'shop_[0-9]*_delay'

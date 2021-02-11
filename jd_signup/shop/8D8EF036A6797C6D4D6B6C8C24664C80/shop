@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=1000282021
+startTime=1612108800000
+endTime=1614527999000
+activityId=10259370
+token=8D8EF036A6797C6D4D6B6C8C24664C80
+#店铺名称
+vendername="麦芙迪美妆京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8D8EF036A6797C6D4D6B6C8C24664C80
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2店铺积分
+连续签到2天：6店铺积分
+连续签到5天：20店铺积分
+"

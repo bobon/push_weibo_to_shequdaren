@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000128821
+startTime=1612281600000
+endTime=1614527999000
+activityId=10264726
+token=029279B58B02A513F9700A5D6FDABFC2
+#店铺名称
+vendername="旁氏（POND&#39;S）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=029279B58B02A513F9700A5D6FDABFC2
+# 活动时间：2021.02.03 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1店铺积分
+连续签到5天：2店铺积分
+"
