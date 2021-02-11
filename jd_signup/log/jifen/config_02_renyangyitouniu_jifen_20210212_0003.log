@@ -1,0 +1,31 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612973602	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1612973602	LZ_TOKEN_KEY	lztokenpagec790207a3c234942800b80deb3f0e5af
+use pt_key
+token: AAFgJAPLADA4pOQ9b5Es8x4-bCJHfqen65xQU5p2XffRsjYyx9-Kj3jznQoGs7sMJw29SrvqVlM
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/11/21 00:03:23 419812400  1612973003
+肥鹅签到认养一头牛官方旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+"该活动已经结束"
+签到认养一头牛官方旗舰店完成
+
+肥鹅签到认养一头牛官方旗舰店查看结果
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+认养一头牛官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
