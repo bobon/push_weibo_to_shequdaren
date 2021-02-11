@@ -1,5 +1,5 @@
 # 短链接
-suo_url="https://u.jd.com/IxYcKVX"
+suo_url=""
 venderId=187290
 startTime=1612886400000
 endTime=1614527999000
@@ -10,8 +10,10 @@ vendername="ZJUZ珠宝旗舰店"
 # 长链接
 url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
 # 活动时间：2021.02.10 00:00:00 - 2021.02.28 23:59:59
-奖励说明：
+# 奖励说明：
+actRule="
 连续签到3天：20京豆
 连续签到5天：40京豆
 连续签到10天：50京豆
 连续签到18天：100京豆
+"

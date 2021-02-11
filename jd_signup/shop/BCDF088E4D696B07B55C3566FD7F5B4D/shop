@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000332147
+startTime=1612108800000
+endTime=1614527999000
+activityId=10258334
+token=BCDF088E4D696B07B55C3566FD7F5B4D
+#店铺名称
+vendername="橙影（Morange）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=BCDF088E4D696B07B55C3566FD7F5B4D
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到27天：100京豆
+"

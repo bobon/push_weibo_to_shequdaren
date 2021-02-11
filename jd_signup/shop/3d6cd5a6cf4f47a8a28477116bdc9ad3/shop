@@ -1,0 +1,17 @@
+actId=3d6cd5a6cf4f47a8a28477116bdc9ad3
+venderId=1000002423
+startTime=1612454400000
+endTime=1613836799000
+# 短链接
+suo_url="https://3.cn/100Y-jKRp"
+actTimeStr="2021-02-05 00:00 至 2021-02-20 23:59"
+#店铺名称
+vendername="博世电动工具京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：66京豆 66京豆
+连续签到15天：88京豆 88京豆
+"

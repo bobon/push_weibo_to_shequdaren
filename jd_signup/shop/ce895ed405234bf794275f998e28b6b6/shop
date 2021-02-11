@@ -1,0 +1,19 @@
+actId=ce895ed405234bf794275f998e28b6b6
+venderId=1000015761
+startTime=1609430400000
+endTime=1614484859000
+# 短链接
+suo_url="https://3.cn/100I-Tuer"
+actTimeStr="2021-01-01 00:00 至 2021-02-28 12:00"
+#店铺名称
+vendername="红星京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761
+# 活动时间：2021.01.01 00:00:00 - 2021.02.28 12:00:59
+# 奖励说明：
+actRule="
+连续签到1天：2积分 2积分
+连续签到10天：20积分 20积分
+连续签到20天：10京豆 10京豆
+连续签到40天：赠送红星小二锅头白瓶4瓶
+"

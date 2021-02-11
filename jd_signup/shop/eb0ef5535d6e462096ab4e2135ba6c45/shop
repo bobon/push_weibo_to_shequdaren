@@ -1,0 +1,16 @@
+actId=eb0ef5535d6e462096ab4e2135ba6c45
+venderId=37166
+startTime=1611936000000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/1-00vsJa4"
+actTimeStr="2021-01-30 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=eb0ef5535d6e462096ab4e2135ba6c45&venderId=37166
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"

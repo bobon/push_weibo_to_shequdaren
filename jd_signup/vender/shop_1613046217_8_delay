@@ -1,0 +1,18 @@
+actId=6cdc325cc58e438c916226a3f6ce4287
+venderId=112369
+startTime=1611072000000
+endTime=1613663999000
+# 短链接
+suo_url="https://3.cn/100-Q4PeS"
+actTimeStr="2021-01-20 00:00 至 2021-02-18 23:59"
+#店铺名称
+vendername="EKO旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6cdc325cc58e438c916226a3f6ce4287&venderId=112369
+# 活动时间：2021.01.20 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：5京豆 5京豆
+连续签到20天：10京豆 10京豆
+连续签到30天：15京豆 15京豆
+"

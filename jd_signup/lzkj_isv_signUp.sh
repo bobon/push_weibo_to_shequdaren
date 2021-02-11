@@ -13,6 +13,7 @@ unset user_Agent
 source $1
 source $2
 
+
 mkdir -vp "$pt_pin"
 cd "$pt_pin"
 
@@ -74,43 +75,49 @@ echo "secretPin: $secretPin"
 [ ! -z "$secretPin" ] || exit 2
 
 
-for i in $(seq 1 $loop_num); do
-
-if [ "$a" = "false" ]; then
-echo
-date +"%x %X %N  %s"
-echo "${pin_name}签到$vendername"
-t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/signUp' \
-  -H 'Connection: keep-alive' \
-  -H 'Accept: application/json' \
-  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
-  -H 'X-Requested-With: XMLHttpRequest' \
-  -H "User-Agent: ${user_Agent}" \
-  -H 'Sec-Fetch-Mode: cors' \
-  -H 'Content-Type: application/x-www-form-urlencoded' \
-  -H 'Sec-Fetch-Site: same-origin' \
-  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
-  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
-  echo -e "$t" > ${venderId}_signUp.html
-  echo -e "$t" | jq
-  echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
-fi
-
-if [ "$a" = "true" ]; then
-echo "签到${vendername}完成"
-	break
+if [ "$3" == "check" ]; then
+	echo "check sign. not run sign"
 else
-	time sleep $(echo "0.2 * $delay"|bc)
-	delay=$(($delay + 1))
-fi
-done
 
-if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-	sleep 3
-else
-	sleep 38
+	for i in $(seq 1 $loop_num); do
+
+	if [ "$a" = "false" ]; then
+	echo
+	date +"%x %X %N  %s"
+	echo "${pin_name}签到$vendername"
+	t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/signUp' \
+	  -H 'Connection: keep-alive' \
+	  -H 'Accept: application/json' \
+	  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+	  -H 'X-Requested-With: XMLHttpRequest' \
+	  -H "User-Agent: ${user_Agent}" \
+	  -H 'Sec-Fetch-Mode: cors' \
+	  -H 'Content-Type: application/x-www-form-urlencoded' \
+	  -H 'Sec-Fetch-Site: same-origin' \
+	  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+	  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
+	  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
+	  echo -e "$t" > ${venderId}_signUp.html
+	  echo -e "$t" | jq
+	  echo "$t"| jq '.isOk' | grep 'true' && a=true
+	  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
+	fi
+
+	if [ "$a" = "true" ]; then
+	echo "签到${vendername}完成"
+		break
+	else
+		time sleep $(echo "0.2 * $delay"|bc)
+		delay=$(($delay + 1))
+	fi
+	done
+
+	if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
+		sleep 3
+	else
+		sleep 38
+	fi
+
 fi
 
 echo

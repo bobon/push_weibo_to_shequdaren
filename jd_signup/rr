@@ -1,0 +1,1743 @@
+parse vender/aoyouruye_delay
+澳优乳业官方旗舰店
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=911cab8f54e6469ebb4ec5658e3cf197&giftType=1
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=cb896c04bd104fd282086d204b3c7e35&giftType=1
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=ef1a60f59a8d402f902e6e080966067d&giftType=1
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgShiWu?venderId=37166&giftId=bfbb7094bfdf4895af713b39a88a2744&giftType=3
+https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=b087218f9af744708db6870cb79b520b&venderId=37166
+https://cjhy-isv.isvjcloud.com/wx/mc/pageDecorateView/initPage?venderId=37166
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=2c83df93bedb48df914c8672c935db6d
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=eb0ef5535d6e462096ab4e2135ba6c45&venderId=37166
+https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/20f64291e32643c4beaeb3d458c61606?activityId=20f64291e32643c4beaeb3d458c61606
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/724befc2e42f45dea3ad5d07355d09c5?activityId=724befc2e42f45dea3ad5d07355d09c5
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/23d4ce762d2b4d85b0be82af2c8b51ee?activityId=23d4ce762d2b4d85b0be82af2c8b51ee
+https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/e2855bb8bebb4d2f9364b5ef2f782fe3?activityId=e2855bb8bebb4d2f9364b5ef2f782fe3
+mkdir: created directory 'locations'
+
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=911cab8f54e6469ebb4ec5658e3cf197&giftType=1
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=cb896c04bd104fd282086d204b3c7e35&giftType=1
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=37166&giftId=ef1a60f59a8d402f902e6e080966067d&giftType=1
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgShiWu?venderId=37166&giftId=bfbb7094bfdf4895af713b39a88a2744&giftType=3
+location: https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=b087218f9af744708db6870cb79b520b&venderId=37166
+location: https://cjhy-isv.isvjcloud.com/wx/mc/pageDecorateView/initPage?venderId=37166
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=2c83df93bedb48df914c8672c935db6d
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=eb0ef5535d6e462096ab4e2135ba6c45&venderId=37166
+mkdir: created directory 'shop/eb0ef5535d6e462096ab4e2135ba6c45'
+mkdir: created directory 'prize'
+澳优乳业官方旗舰店活动规则
+
+[shop/eb0ef5535d6e462096ab4e2135ba6c45/shop]
+actId=eb0ef5535d6e462096ab4e2135ba6c45
+venderId=37166
+startTime=1611936000000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/1-00vsJa4"
+actTimeStr="2021-01-30 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=eb0ef5535d6e462096ab4e2135ba6c45&venderId=37166
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/20f64291e32643c4beaeb3d458c61606?activityId=20f64291e32643c4beaeb3d458c61606
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/724befc2e42f45dea3ad5d07355d09c5?activityId=724befc2e42f45dea3ad5d07355d09c5
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/23d4ce762d2b4d85b0be82af2c8b51ee?activityId=23d4ce762d2b4d85b0be82af2c8b51ee
+location: https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/e2855bb8bebb4d2f9364b5ef2f782fe3?activityId=e2855bb8bebb4d2f9364b5ef2f782fe3
+parse vender/beiqinfushi_delay
+贝亲辅食尿裤京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2c2262856c394ade8d4a65e9a77aa624&venderId=1000077448
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/d22f4705f1fc40f881e7ddb8cc65fd8c?activityId=d22f4705f1fc40f881e7ddb8cc65fd8c
+https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/a782b9efeb894986a702ac2d61b4d825?activityId=a782b9efeb894986a702ac2d61b4d825
+
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2c2262856c394ade8d4a65e9a77aa624&venderId=1000077448
+mkdir: created directory 'shop/2c2262856c394ade8d4a65e9a77aa624'
+mkdir: created directory 'prize'
+贝亲辅食尿裤京东自营旗舰店活动规则
+
+[shop/2c2262856c394ade8d4a65e9a77aa624/shop]
+actId=2c2262856c394ade8d4a65e9a77aa624
+venderId=1000077448
+startTime=1609171200000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100iW3-kK"
+actTimeStr="2020-12-29 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="贝亲辅食尿裤京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2c2262856c394ade8d4a65e9a77aa624&venderId=1000077448
+# 活动时间：2020.12.29 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆 1京豆
+连续签到5天：3京豆 3京豆
+连续签到15天：5京豆 5京豆
+连续签到20天：10京豆 10京豆
+连续签到30天：100京豆 100京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/d22f4705f1fc40f881e7ddb8cc65fd8c?activityId=d22f4705f1fc40f881e7ddb8cc65fd8c
+location: https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/a782b9efeb894986a702ac2d61b4d825?activityId=a782b9efeb894986a702ac2d61b4d825
+parse vender/chume_jifen
+初么（chume）京东自营旗舰店
+
+
+parse vender/daisen
+戴森京东自营官方旗舰店
+https://jdcs.m.jd.com/chat/index.action?venderId=1000003263&entry=m_shop
+
+location: https://jdcs.m.jd.com/chat/index.action?venderId=1000003263&entry=m_shop
+parse vender/diliugan_del
+第六感京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/52e3514114914118a6d811056a57e223?activityId=52e3514114914118a6d811056a57e223
+
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/52e3514114914118a6d811056a57e223?activityId=52e3514114914118a6d811056a57e223
+parse vender/eko_del
+EKO旗舰店
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6cdc325cc58e438c916226a3f6ce4287&venderId=112369
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/f3cecdf7f55649d6b991e6f76d3c47ff?activityId=f3cecdf7f55649d6b991e6f76d3c47ff
+
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6cdc325cc58e438c916226a3f6ce4287&venderId=112369
+mkdir: created directory 'shop/6cdc325cc58e438c916226a3f6ce4287'
+mkdir: created directory 'prize'
+EKO旗舰店活动规则
+
+[shop/6cdc325cc58e438c916226a3f6ce4287/shop]
+actId=6cdc325cc58e438c916226a3f6ce4287
+venderId=112369
+startTime=1611072000000
+endTime=1613663999000
+# 短链接
+suo_url="https://3.cn/100-Q4PeS"
+actTimeStr="2021-01-20 00:00 至 2021-02-18 23:59"
+#店铺名称
+vendername="EKO旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6cdc325cc58e438c916226a3f6ce4287&venderId=112369
+# 活动时间：2021.01.20 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：5京豆 5京豆
+连续签到20天：10京豆 10京豆
+连续签到30天：15京豆 15京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/f3cecdf7f55649d6b991e6f76d3c47ff?activityId=f3cecdf7f55649d6b991e6f76d3c47ff
+parse vender/feilipuxinanyi_del
+飞利浦新安怡京东自营旗舰店
+https://pro.m.jd.com/mall/active/3fsRpEf6mdpxCpX5gwCqquvNRMiX/index.html
+
+location: https://pro.m.jd.com/mall/active/3fsRpEf6mdpxCpX5gwCqquvNRMiX/index.html
+parse vender/feilipu_del
+飞利浦官方旗舰店
+https://lzkjdz-isv.isvjcloud.com/wxCollectCard/activity/7647b3012e294c30b15b2c0d2dea259a?activityId=7647b3012e294c30b15b2c0d2dea259a
+
+location: https://lzkjdz-isv.isvjcloud.com/wxCollectCard/activity/7647b3012e294c30b15b2c0d2dea259a?activityId=7647b3012e294c30b15b2c0d2dea259a
+parse vender/feixue_jifen
+费雪京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/9495c86f771d44c099abc22a321fa8f5?activityId=9495c86f771d44c099abc22a321fa8f5
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/7140130a36c145f7841826d8de3405ff?activityId=7140130a36c145f7841826d8de3405ff
+https://lzkjdz-isv.isvjcloud.com/wx/mattel/buy/viewBuyPage?activityId=2101100000187901&isShowMiniProgramCode=false
+
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/9495c86f771d44c099abc22a321fa8f5?activityId=9495c86f771d44c099abc22a321fa8f5
+location: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/7140130a36c145f7841826d8de3405ff?activityId=7140130a36c145f7841826d8de3405ff
+location: https://lzkjdz-isv.isvjcloud.com/wx/mattel/buy/viewBuyPage?activityId=2101100000187901&isShowMiniProgramCode=false
+parse vender/geli_delay
+格力京东自营旗舰店
+https://hzbz-isv.isvjcloud.com/Tsf.h4?s=10088683&t=d
+https://lzdz-isv.isvjcloud.com/dingzhi/vm/template/activity?activityId=dzvm210168869301
+
+location: https://hzbz-isv.isvjcloud.com/Tsf.h4?s=10088683&t=d
+location: https://lzdz-isv.isvjcloud.com/dingzhi/vm/template/activity?activityId=dzvm210168869301
+parse vender/heiren_del
+黑人京东自营官方旗舰店
+https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=9711546d57b846ef84996d50577f77b3
+https://xinrui1-isv.isvjcloud.com/jd-2021-new-year/?source=xzppqd
+
+location: https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=9711546d57b846ef84996d50577f77b3
+location: https://xinrui1-isv.isvjcloud.com/jd-2021-new-year/?source=xzppqd
+parse vender/hongxing_delay
+红星京东自营官方旗舰店
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=2ffdf2f709a84677b7b77b8b04f32ec2
+https://cjhy-isv.isvjcloud.com/wxInviteActivity/openCard/inviter?venderId=1000015761&activityId=dafa2fb9ae434c17a78bff76812a73fb
+https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202
+https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202002
+https://jinggeng-isv.isvjcloud.com/ql/front/consumerank/loadRedStarAct?id=consumerankredstar&user_id=1000015761
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761
+
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=2ffdf2f709a84677b7b77b8b04f32ec2
+location: https://cjhy-isv.isvjcloud.com/wxInviteActivity/openCard/inviter?venderId=1000015761&activityId=dafa2fb9ae434c17a78bff76812a73fb
+location: https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202
+location: https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202002
+location: https://jinggeng-isv.isvjcloud.com/ql/front/consumerank/loadRedStarAct?id=consumerankredstar&user_id=1000015761
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761
+mkdir: created directory 'shop/ce895ed405234bf794275f998e28b6b6'
+mkdir: created directory 'prize'
+红星京东自营官方旗舰店活动规则
+
+[shop/ce895ed405234bf794275f998e28b6b6/shop]
+actId=ce895ed405234bf794275f998e28b6b6
+venderId=1000015761
+startTime=1609430400000
+endTime=1614484859000
+# 短链接
+suo_url="https://3.cn/100I-Tuer"
+actTimeStr="2021-01-01 00:00 至 2021-02-28 12:00"
+#店铺名称
+vendername="红星京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ce895ed405234bf794275f998e28b6b6&venderId=1000015761
+# 活动时间：2021.01.01 00:00:00 - 2021.02.28 12:00:59
+# 奖励说明：
+actRule="
+连续签到1天：2积分 2积分
+连续签到10天：20积分 20积分
+连续签到20天：10京豆 10京豆
+连续签到40天：赠送红星小二锅头白瓶4瓶
+"
+/home/myid/jd/jd_signup
+parse vender/houjingdong_del
+后京东自营官方旗舰店
+https://jinggeng-isv.isvjcloud.com/ql/front/showDrawOne?id=2c91808477336c95017738cd8dd66e18&user_id=1000007502
+https://shopmember.m.jd.com/shopcard?venderId=1000007502&shopId=1000007502&venderType=5&channel=401
+
+location: https://jinggeng-isv.isvjcloud.com/ql/front/showDrawOne?id=2c91808477336c95017738cd8dd66e18&user_id=1000007502
+location: https://shopmember.m.jd.com/shopcard?venderId=1000007502&shopId=1000007502&venderType=5&channel=401
+parse vender/huishi_del
+惠氏（Wyeth）京东自营官方旗舰店
+https://lzkj-isv.isvjcloud.com/crmCard/wyeth/tempPage?pageName=couponList
+
+location: https://lzkj-isv.isvjcloud.com/crmCard/wyeth/tempPage?pageName=couponList
+parse vender/jianguo_del
+坚果手机京东自营官方旗舰店
+https://cjhy-isv.isvjcloud.com/wx/mc/pageDecorateView/initPage?venderId=1000212464
+https://lzkj-isv.isvjcloud.com/lzclient/e0a79e56a4f24b96aa55a73204b89105/cjwx/common/entry.html?activityId=e0a79e56a4f24b96aa55a73204b89105&gameType=wxTurnTable
+
+location: https://cjhy-isv.isvjcloud.com/wx/mc/pageDecorateView/initPage?venderId=1000212464
+location: https://lzkj-isv.isvjcloud.com/lzclient/e0a79e56a4f24b96aa55a73204b89105/cjwx/common/entry.html?activityId=e0a79e56a4f24b96aa55a73204b89105&gameType=wxTurnTable
+parse vender/jieshibang_del
+杰士邦京东自营旗舰店
+                              "clickUrl" : "http://lzkj-isv.isvjcloud.com/jissbon/pointRedeem/pointProductSetPage
+                              "linkUrl" : "http://lzkj-isv.isvjcloud.com/jissbon/pointRedeem/pointProductSetPage
+https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202002
+https://pro.m.jd.com/mall/active/38Lnf8JWyGXbKAiip8d8jRQoYpTA/index.html
+
+location: "clickUrl"
+location: :
+location: "http://lzkj-isv.isvjcloud.com/jissbon/pointRedeem/pointProductSetPage
+location: "linkUrl"
+location: :
+location: "http://lzkj-isv.isvjcloud.com/jissbon/pointRedeem/pointProductSetPage
+location: https://jinggeng-isv.isvjcloud.com/ql/front/brand/loadUniteOpenCardActivity0202002
+location: https://pro.m.jd.com/mall/active/38Lnf8JWyGXbKAiip8d8jRQoYpTA/index.html
+parse vender/junlebao_del
+君乐宝奶粉旗舰店
+https://lzkj-isv.isvjcloud.com/lzclient/2d0dd60509b24845b90264e95dc43ee2/cjwx/common/entry.html?activityId=2d0dd60509b24845b90264e95dc43ee2&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d29c54062f2c4a2c8f59534eff11f7a9&venderId=10315335
+https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=bf2066f02ce440ad909faacd0372e91a
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/ed7651a4683c4d26bf675207dbc36f2b?activityId=ed7651a4683c4d26bf675207dbc36f2b
+https://lzkjdz-isv.isvjcloud.com/wxCartKoi/cartkoi/activity/3ea9a3dec4404923a80f6537fdb35fa8?activityId=3ea9a3dec4404923a80f6537fdb35fa8
+
+location: https://lzkj-isv.isvjcloud.com/lzclient/2d0dd60509b24845b90264e95dc43ee2/cjwx/common/entry.html?activityId=2d0dd60509b24845b90264e95dc43ee2&gameType=wxTurnTable
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d29c54062f2c4a2c8f59534eff11f7a9&venderId=10315335
+mkdir: created directory 'shop/d29c54062f2c4a2c8f59534eff11f7a9'
+mkdir: created directory 'prize'
+君乐宝奶粉旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+location: https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=bf2066f02ce440ad909faacd0372e91a
+location: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/ed7651a4683c4d26bf675207dbc36f2b?activityId=ed7651a4683c4d26bf675207dbc36f2b
+location: https://lzkjdz-isv.isvjcloud.com/wxCartKoi/cartkoi/activity/3ea9a3dec4404923a80f6537fdb35fa8?activityId=3ea9a3dec4404923a80f6537fdb35fa8
+parse vender/meizanchen_del
+美赞臣京东自营官方旗舰店
+https://lzkj-isv.isvjcloud.com/mead/pointRedeem/pointProductSetPage
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity?activityId=0a84eae60ffa4e2c80bcbdb5dec7336d
+
+location: https://lzkj-isv.isvjcloud.com/mead/pointRedeem/pointProductSetPage
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179
+mkdir: created directory 'shop/4a669aaf044540ae859b472c07e472e5'
+mkdir: created directory 'prize'
+美赞臣京东自营官方旗舰店活动规则
+
+[shop/4a669aaf044540ae859b472c07e472e5/shop]
+actId=4a669aaf044540ae859b472c07e472e5
+venderId=1000003179
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/K9gEAGzNc"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="美赞臣京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10积分 10积分
+连续签到7天：30积分 30积分
+连续签到25天：赠送贝亲婴儿手口湿巾25片装
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity?activityId=0a84eae60ffa4e2c80bcbdb5dec7336d
+parse vender/renyangyitouniu_jifen
+认养一头牛官方旗舰店
+https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=da8a168faaf344f1a297042ab3839991&venderId=691399
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=d16ab13f8a614380ae9bf24589b04424
+https://cjhydz-isv.isvjcloud.com/microDz/invite/activity/wx/view/index?activityId=dd21b5f6c3994704ba631777e7ecd964
+https://lzkj-isv.isvjcloud.com/lzclient/5b3d0cab8ff44a7691d4bd5755c0d4b8/cjwx/common/entry.html?activityId=5b3d0cab8ff44a7691d4bd5755c0d4b8&gameType=wxNineGrid
+https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=f07bcd09bf764d31a926622f36e28076
+https://lzkjdz-isv.isvjcloud.com/wxgroupCoupon/activity/cc65f0f4b74447b09d57d9fb94932019?activityId=cc65f0f4b74447b09d57d9fb94932019
+https://pro.m.jd.com/mall/active/4ZVBiLwYYjo6kJxqhmsyLaCq7C8q/index.html
+
+location: https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=da8a168faaf344f1a297042ab3839991&venderId=691399
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=d16ab13f8a614380ae9bf24589b04424
+location: https://cjhydz-isv.isvjcloud.com/microDz/invite/activity/wx/view/index?activityId=dd21b5f6c3994704ba631777e7ecd964
+location: https://lzkj-isv.isvjcloud.com/lzclient/5b3d0cab8ff44a7691d4bd5755c0d4b8/cjwx/common/entry.html?activityId=5b3d0cab8ff44a7691d4bd5755c0d4b8&gameType=wxNineGrid
+location: https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=f07bcd09bf764d31a926622f36e28076
+location: https://lzkjdz-isv.isvjcloud.com/wxgroupCoupon/activity/cc65f0f4b74447b09d57d9fb94932019?activityId=cc65f0f4b74447b09d57d9fb94932019
+location: https://pro.m.jd.com/mall/active/4ZVBiLwYYjo6kJxqhmsyLaCq7C8q/index.html
+parse vender/sanzhisongshu_del
+三只松鼠京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/feee289a4a3d4825bfeee871231ebadc?activityId=feee289a4a3d4825bfeee871231ebadc
+https://pro.m.jd.com/mall/active/4Bocs7dcCw22voNXtEnWkUiTBQti/index.html
+
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/feee289a4a3d4825bfeee871231ebadc?activityId=feee289a4a3d4825bfeee871231ebadc
+location: https://pro.m.jd.com/mall/active/4Bocs7dcCw22voNXtEnWkUiTBQti/index.html
+parse vender/shifengwenhua_jifen
+实丰文化京东自营旗舰店
+
+
+parse vender/shiyuedaohua_del
+十月稻田京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/feac4ea266bd4882ad5b37f7068f2ff9?activityId=feac4ea266bd4882ad5b37f7068f2ff9
+https://lzkj-isv.isvjcloud.com/wxgame/activity/5959c5d653af4ed8b52c6052c8921243?activityId=5959c5d653af4ed8b52c6052c8921243
+
+location: https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/feac4ea266bd4882ad5b37f7068f2ff9?activityId=feac4ea266bd4882ad5b37f7068f2ff9
+location: https://lzkj-isv.isvjcloud.com/wxgame/activity/5959c5d653af4ed8b52c6052c8921243?activityId=5959c5d653af4ed8b52c6052c8921243
+parse vender/shuguoyu_jifen
+蜀国御京东自营旗舰店
+https://sale.jd.com/m/h5/kzahaparh37a.html
+
+location: https://sale.jd.com/m/h5/kzahaparh37a.html
+parse vender/weidajing_del
+维达京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/4435ab95a2b64fc6be8e33b74a5fcf7c?activityId=4435ab95a2b64fc6be8e33b74a5fcf7c
+
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/4435ab95a2b64fc6be8e33b74a5fcf7c?activityId=4435ab95a2b64fc6be8e33b74a5fcf7c
+parse vender/xianfengliangji_del
+先锋两季品京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7b59d9740611448fb9ba64572f53ddeb&venderId=1000002569
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/5bed6320d6994207875341569f2287d1?activityId=5bed6320d6994207875341569f2287d1
+https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=4b9d4947d06a47c09f8e238004062552
+
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7b59d9740611448fb9ba64572f53ddeb&venderId=1000002569
+mkdir: created directory 'shop/7b59d9740611448fb9ba64572f53ddeb'
+mkdir: created directory 'prize'
+先锋两季品京东自营旗舰店活动规则
+
+[shop/7b59d9740611448fb9ba64572f53ddeb/shop]
+actId=7b59d9740611448fb9ba64572f53ddeb
+venderId=1000002569
+startTime=1610936160000
+endTime=1613528219000
+# 短链接
+suo_url="https://3.cn/100Pv-62J"
+actTimeStr="2021-01-18 10:16 至 2021-02-17 10:16"
+#店铺名称
+vendername="先锋两季品京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7b59d9740611448fb9ba64572f53ddeb&venderId=1000002569
+# 活动时间：2021.01.18 10:16:00 - 2021.02.17 10:16:59
+# 奖励说明：
+actRule="
+连续签到20天：200京豆 200京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/5bed6320d6994207875341569f2287d1?activityId=5bed6320d6994207875341569f2287d1
+location: https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=4b9d4947d06a47c09f8e238004062552
+parse vender/yemaijiu_del
+也买酒旗舰店
+https://lzkj-isv.isvjcloud.com/lzclient/9eb8b21ed657476a980f9b1939077db9/cjwx/common/entry.html?activityId=9eb8b21ed657476a980f9b1939077db9&gameType=wxTurnTable
+
+location: https://lzkj-isv.isvjcloud.com/lzclient/9eb8b21ed657476a980f9b1939077db9/cjwx/common/entry.html?activityId=9eb8b21ed657476a980f9b1939077db9&gameType=wxTurnTable
+parse vender/yikaide_delay
+易开得官方京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6365de679b174d909e5474ce869c32fe&venderId=1000348442
+https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/0b161b63c5404e61adfb233796e829da?activityId=0b161b63c5404e61adfb233796e829da
+
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6365de679b174d909e5474ce869c32fe&venderId=1000348442
+mkdir: created directory 'shop/6365de679b174d909e5474ce869c32fe'
+mkdir: created directory 'prize'
+易开得官方京东自营旗舰店活动规则
+
+[shop/6365de679b174d909e5474ce869c32fe/shop]
+actId=6365de679b174d909e5474ce869c32fe
+venderId=1000348442
+startTime=1610553600000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/100-NtQBz"
+actTimeStr="2021-01-14 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="易开得官方京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6365de679b174d909e5474ce869c32fe&venderId=1000348442
+# 活动时间：2021.01.14 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：赠送精品毛毯一条
+连续签到16天：赠送保温杯一个
+连续签到21天：赠送磨毛四件套
+"
+/home/myid/jd/jd_signup
+location: https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/0b161b63c5404e61adfb233796e829da?activityId=0b161b63c5404e61adfb233796e829da
+parse vender/yili2_delay
+伊利牛奶官方旗舰店
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=b1d87d7302234f1b937d56bce7b1ba42&venderId=115090
+https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=2b716a5d9e5049bd8b538c87d0c578df
+https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=7a5e5dbd317c4d27a7be137bf0fce55f
+https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/6449de3d991544938bfbde8e4209ec06?activityId=6449de3d991544938bfbde8e4209ec06
+https://lzkjdz-isv.isvjcloud.com/yili/drawNewYear/activity?activityId=2102100001340202
+
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=b1d87d7302234f1b937d56bce7b1ba42&venderId=115090
+mkdir: created directory 'shop/b1d87d7302234f1b937d56bce7b1ba42'
+mkdir: created directory 'prize'
+伊利牛奶官方旗舰店活动规则
+
+[shop/b1d87d7302234f1b937d56bce7b1ba42/shop]
+actId=b1d87d7302234f1b937d56bce7b1ba42
+venderId=115090
+startTime=1612110540000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100W3-glC"
+actTimeStr="2021-02-01 00:29 至 2021-02-28 23:59"
+#店铺名称
+vendername="伊利牛奶官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=b1d87d7302234f1b937d56bce7b1ba42&venderId=115090
+# 活动时间：2021.02.01 00:29:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10元优惠券
+连续签到5天：15元优惠券
+连续签到10天：30元优惠券
+连续签到15天：优酸乳原味半价购
+连续签到28天：赠送赠送谷粒多红养颗颗
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=2b716a5d9e5049bd8b538c87d0c578df
+location: https://lzkj-isv.isvjcloud.com/wxGrabActivity/activity?activityId=7a5e5dbd317c4d27a7be137bf0fce55f
+location: https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/6449de3d991544938bfbde8e4209ec06?activityId=6449de3d991544938bfbde8e4209ec06
+location: https://lzkjdz-isv.isvjcloud.com/yili/drawNewYear/activity?activityId=2102100001340202
+parse vender/yili_del
+伊利牛奶旗舰店
+https%3A%2F%2Fcjhy-isv.isvjcloud.com%2Fwx%2Fmc%2FpageDecorateView%2FinitPage%3FvenderId%3D10295147
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=0b02e29893704ff9ad9d2b0de1bbadd9
+https://cjhy-isv.isvjcloud.com/wxExclusiveActivity/activity?activityId=9b23220b407c4af08e9ee51e64d5bc0c
+
+location: https%3A%2F%2Fcjhy-isv.isvjcloud.com%2Fwx%2Fmc%2FpageDecorateView%2FinitPage%3FvenderId%3D10295147
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=0b02e29893704ff9ad9d2b0de1bbadd9
+location: https://cjhy-isv.isvjcloud.com/wxExclusiveActivity/activity?activityId=9b23220b407c4af08e9ee51e64d5bc0c
+parse vender/zhongliangfulinmin_del
+中粮福临门米面京东自营旗舰店
+
+
+parse api_vender/aikemi
+埃可米官方旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9F32AF8D7A055BD6760EF22E08FB6470
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9F32AF8D7A055BD6760EF22E08FB6470
+get token from location:
+9F32AF8D7A055BD6760EF22E08FB6470
+mkdir: created directory 'shop/9F32AF8D7A055BD6760EF22E08FB6470'
+mkdir: created directory 'shop/9F32AF8D7A055BD6760EF22E08FB6470/prize'
+get shopSign to shop/9F32AF8D7A055BD6760EF22E08FB6470/shopSign.json
+
+[shop/9F32AF8D7A055BD6760EF22E08FB6470/shop]
+# 短链接
+suo_url=""
+venderId=10166483
+startTime=1612195200000
+endTime=1614527999000
+activityId=10262874
+token=9F32AF8D7A055BD6760EF22E08FB6470
+#店铺名称
+vendername="埃可米官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9F32AF8D7A055BD6760EF22E08FB6470
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆
+连续签到14天：10京豆
+"
+parse api_vender/aokema_del
+澳柯玛厨电京东自营旗舰店
+
+
+parse api_vender/balibeitian_del
+巴黎贝甜旗舰店
+
+
+parse api_vender/baogongwanju_del
+宝工玩具旗舰店
+
+
+parse api_vender/biyazi_del
+毕亚兹（BIAZE）家居日用京东自营旗舰店
+
+
+parse api_vender/boermei_del
+博尔美数码专营店
+
+
+parse api_vender/boshi_del
+博世电动工具京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/lzclient/938b083f04974733b60ba7644880bbe0/cjwx/common/entry.html?activityId=938b083f04974733b60ba7644880bbe0&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+
+location: https://lzkj-isv.isvjcloud.com/lzclient/938b083f04974733b60ba7644880bbe0/cjwx/common/entry.html?activityId=938b083f04974733b60ba7644880bbe0&gameType=wxTurnTable
+have token from api_vender/boshi_del
+get token from location:
+37B57F259CEA113FC7F0D636B3DD68FF
+mkdir: created directory 'shop/37B57F259CEA113FC7F0D636B3DD68FF'
+mkdir: created directory 'shop/37B57F259CEA113FC7F0D636B3DD68FF/prize'
+{
+  "msg": "errCode:402, errMessage:当前不存在有效的活动!",
+  "code": 402,
+  "class": "com.jd.interact.center.client.api.common.param.Results",
+  "success": false
+}
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+mkdir: created directory 'shop/3d6cd5a6cf4f47a8a28477116bdc9ad3'
+mkdir: created directory 'prize'
+博世电动工具京东自营旗舰店活动规则
+
+[shop/3d6cd5a6cf4f47a8a28477116bdc9ad3/shop]
+actId=3d6cd5a6cf4f47a8a28477116bdc9ad3
+venderId=1000002423
+startTime=1612454400000
+endTime=1613836799000
+# 短链接
+suo_url="https://3.cn/100Y-jKRp"
+actTimeStr="2021-02-05 00:00 至 2021-02-20 23:59"
+#店铺名称
+vendername="博世电动工具京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：66京豆 66京豆
+连续签到15天：88京豆 88京豆
+"
+/home/myid/jd/jd_signup
+parse api_vender/bozhilun_del
+博之轮钟表专营店
+
+
+parse api_vender/chengying_del
+橙影（Morange）京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=BCDF088E4D696B07B55C3566FD7F5B4D
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=BCDF088E4D696B07B55C3566FD7F5B4D
+get token from location:
+BCDF088E4D696B07B55C3566FD7F5B4D
+mkdir: created directory 'shop/BCDF088E4D696B07B55C3566FD7F5B4D'
+mkdir: created directory 'shop/BCDF088E4D696B07B55C3566FD7F5B4D/prize'
+get shopSign to shop/BCDF088E4D696B07B55C3566FD7F5B4D/shopSign.json
+
+[shop/BCDF088E4D696B07B55C3566FD7F5B4D/shop]
+# 短链接
+suo_url=""
+venderId=1000332147
+startTime=1612108800000
+endTime=1614527999000
+activityId=10258334
+token=BCDF088E4D696B07B55C3566FD7F5B4D
+#店铺名称
+vendername="橙影（Morange）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=BCDF088E4D696B07B55C3566FD7F5B4D
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到27天：100京豆
+"
+parse api_vender/chimushuiyaoxing_del
+赤木水耀星专卖店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5D6FFABDEB385CF03B838031DB1A8D3C
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5D6FFABDEB385CF03B838031DB1A8D3C
+get token from location:
+5D6FFABDEB385CF03B838031DB1A8D3C
+mkdir: created directory 'shop/5D6FFABDEB385CF03B838031DB1A8D3C'
+mkdir: created directory 'shop/5D6FFABDEB385CF03B838031DB1A8D3C/prize'
+get shopSign to shop/5D6FFABDEB385CF03B838031DB1A8D3C/shopSign.json
+
+[shop/5D6FFABDEB385CF03B838031DB1A8D3C/shop]
+# 短链接
+suo_url=""
+venderId=10568849
+startTime=1612540800000
+endTime=1613491199000
+activityId=10268344
+token=5D6FFABDEB385CF03B838031DB1A8D3C
+#店铺名称
+vendername="赤木水耀星专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5D6FFABDEB385CF03B838031DB1A8D3C
+# 活动时间：2021.02.06 00:00:00 - 2021.02.16 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆
+连续签到10天：20京豆
+"
+parse api_vender/chushi_del
+厨师（Chushi）京东自营旗舰店
+
+
+parse api_vender/COMOTEK_delay
+COMOTEK鞋靴旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+get token from location:
+1EEAA3666DC9E22BABE44B1ABCC27325
+mkdir: created directory 'shop/1EEAA3666DC9E22BABE44B1ABCC27325'
+mkdir: created directory 'shop/1EEAA3666DC9E22BABE44B1ABCC27325/prize'
+get shopSign to shop/1EEAA3666DC9E22BABE44B1ABCC27325/shopSign.json
+
+[shop/1EEAA3666DC9E22BABE44B1ABCC27325/shop]
+# 短链接
+suo_url=""
+venderId=10525472
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267415
+token=1EEAA3666DC9E22BABE44B1ABCC27325
+#店铺名称
+vendername="COMOTEK鞋靴旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到3天：专享价商品（599.00元购买原价689.00元的商品）
+连续签到5天：50店铺积分
+连续签到7天：50京豆
+"
+parse api_vender/debao_del
+得宝中伦专卖店
+https%3A%2F%2Fcjhy-isv.isvjcloud.com%2Fwx%2Fmc%2FpageDecorateView%2FinitPage%3FvenderId%3D752187
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=7e2e8f499e7a413a9fe8018890df8345
+
+location: https%3A%2F%2Fcjhy-isv.isvjcloud.com%2Fwx%2Fmc%2FpageDecorateView%2FinitPage%3FvenderId%3D752187
+have token from api_vender/debao_del
+get token from location:
+0F4BDB9C04701400E8032BA7215861F5
+mkdir: created directory 'shop/0F4BDB9C04701400E8032BA7215861F5'
+mkdir: created directory 'shop/0F4BDB9C04701400E8032BA7215861F5/prize'
+get shopSign to shop/0F4BDB9C04701400E8032BA7215861F5/shopSign.json
+
+[shop/0F4BDB9C04701400E8032BA7215861F5/shop]
+# 短链接
+suo_url=""
+venderId=752187
+startTime=1612195200000
+endTime=1614527999000
+activityId=10263300
+token=0F4BDB9C04701400E8032BA7215861F5
+#店铺名称
+vendername="得宝中伦专卖店"
+# 长链接
+url="https://api.m.jd.com/api?appid=interCenter_shopSign&t=1613038227000&loginType=2&functionId=interact_center_shopSign_getActivityInfo&jsonp=jsonp1000"
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到5天：100京豆
+"
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=7e2e8f499e7a413a9fe8018890df8345
+have token from api_vender/debao_del
+get token from location:
+0F4BDB9C04701400E8032BA7215861F5
+发现重复的店铺活动
+api_vender/debao_del
+shop/0F4BDB9C04701400E8032BA7215861F5/shop
+
+show 重复的店铺活动
+[shop/0F4BDB9C04701400E8032BA7215861F5/shop]
+# 短链接
+suo_url=""
+venderId=752187
+startTime=1612195200000
+endTime=1614527999000
+activityId=10263300
+token=0F4BDB9C04701400E8032BA7215861F5
+#店铺名称
+vendername="得宝中伦专卖店"
+# 长链接
+url="https://api.m.jd.com/api?appid=interCenter_shopSign&t=1613038227000&loginType=2&functionId=interact_center_shopSign_getActivityInfo&jsonp=jsonp1000"
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到5天：100京豆
+"
+
+parse api_vender/dishini_delay
+迪士尼贝贝怡专卖店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=33711E18F790A9451F2C8641B4BF4E56
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=33711E18F790A9451F2C8641B4BF4E56
+get token from location:
+33711E18F790A9451F2C8641B4BF4E56
+mkdir: created directory 'shop/33711E18F790A9451F2C8641B4BF4E56'
+mkdir: created directory 'shop/33711E18F790A9451F2C8641B4BF4E56/prize'
+get shopSign to shop/33711E18F790A9451F2C8641B4BF4E56/shopSign.json
+
+[shop/33711E18F790A9451F2C8641B4BF4E56/shop]
+# 短链接
+suo_url=""
+venderId=123331
+startTime=1612195200000
+endTime=1614527999000
+activityId=10262724
+token=33711E18F790A9451F2C8641B4BF4E56
+#店铺名称
+vendername="迪士尼贝贝怡专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=33711E18F790A9451F2C8641B4BF4E56
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：20店铺积分
+连续签到5天：100京豆
+"
+parse api_vender/dushifu_del
+杜师傅官方旗舰店
+
+
+parse api_vender/d_233621_delay
+233621官方旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B
+https://lzkj-isv.isvjcloud.com/lzclient/99a2eba8acee492b8ba7e032da423c84/cjwx/common/entry.html?activityId=99a2eba8acee492b8ba7e032da423c84&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=8e6363871e9247908b57de99a2e1c6aa
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B
+get token from location:
+28AABCB3B08D6DF9BB03788D53E84C2B
+mkdir: created directory 'shop/28AABCB3B08D6DF9BB03788D53E84C2B'
+mkdir: created directory 'shop/28AABCB3B08D6DF9BB03788D53E84C2B/prize'
+get shopSign to shop/28AABCB3B08D6DF9BB03788D53E84C2B/shopSign.json
+
+[shop/28AABCB3B08D6DF9BB03788D53E84C2B/shop]
+# 短链接
+suo_url=""
+venderId=10176670
+startTime=1612454400000
+endTime=1613836799000
+activityId=10263511
+token=28AABCB3B08D6DF9BB03788D53E84C2B
+#店铺名称
+vendername="233621官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10店铺积分
+连续签到3天：5京豆
+连续签到7天：1元E卡
+连续签到10天：满50-5店铺券
+连续签到14天：5.00元红包
+"
+location: https://lzkj-isv.isvjcloud.com/lzclient/99a2eba8acee492b8ba7e032da423c84/cjwx/common/entry.html?activityId=99a2eba8acee492b8ba7e032da423c84&gameType=wxTurnTable
+have token from api_vender/d_233621_delay
+get token from location:
+28AABCB3B08D6DF9BB03788D53E84C2B
+发现重复的店铺活动
+api_vender/d_233621_delay
+shop/28AABCB3B08D6DF9BB03788D53E84C2B/shop
+
+show 重复的店铺活动
+[shop/28AABCB3B08D6DF9BB03788D53E84C2B/shop]
+# 短链接
+suo_url=""
+venderId=10176670
+startTime=1612454400000
+endTime=1613836799000
+activityId=10263511
+token=28AABCB3B08D6DF9BB03788D53E84C2B
+#店铺名称
+vendername="233621官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10店铺积分
+连续签到3天：5京豆
+连续签到7天：1元E卡
+连续签到10天：满50-5店铺券
+连续签到14天：5.00元红包
+"
+
+parse api_vender/everybuild
+everbuild京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=373388AD9B5E62AFA2DFDEEFD70AF17F
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=373388AD9B5E62AFA2DFDEEFD70AF17F
+get token from location:
+373388AD9B5E62AFA2DFDEEFD70AF17F
+mkdir: created directory 'shop/373388AD9B5E62AFA2DFDEEFD70AF17F'
+mkdir: created directory 'shop/373388AD9B5E62AFA2DFDEEFD70AF17F/prize'
+get shopSign to shop/373388AD9B5E62AFA2DFDEEFD70AF17F/shopSign.json
+
+[shop/373388AD9B5E62AFA2DFDEEFD70AF17F/shop]
+# 短链接
+suo_url=""
+venderId=1000346987
+startTime=1612195200000
+endTime=1614527999000
+activityId=10263437
+token=373388AD9B5E62AFA2DFDEEFD70AF17F
+#店铺名称
+vendername="everbuild京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=373388AD9B5E62AFA2DFDEEFD70AF17F
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：50店铺积分
+连续签到3天：5京豆
+连续签到7天：500店铺积分
+"
+parse api_vender/feijipushishangyingyin_del
+飞利浦时尚影音京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=627E2823F6198238F0C682B42BF036C3
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=627E2823F6198238F0C682B42BF036C3
+get token from location:
+627E2823F6198238F0C682B42BF036C3
+mkdir: created directory 'shop/627E2823F6198238F0C682B42BF036C3'
+mkdir: created directory 'shop/627E2823F6198238F0C682B42BF036C3/prize'
+get shopSign to shop/627E2823F6198238F0C682B42BF036C3/shopSign.json
+
+[shop/627E2823F6198238F0C682B42BF036C3/shop]
+# 短链接
+suo_url=""
+venderId=1000102784
+startTime=1612281600000
+endTime=1614527999000
+activityId=10265221
+token=627E2823F6198238F0C682B42BF036C3
+#店铺名称
+vendername="飞利浦时尚影音京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=627E2823F6198238F0C682B42BF036C3
+# 活动时间：2021.02.03 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：2京豆
+"
+parse api_vender/fengruida_del
+hored京东自营旗舰店
+
+
+parse api_vender/gaoyi_del
+高仪京东自营官方旗舰店
+
+
+parse api_vender/hanass_del
+HANASS京东自营旗舰店
+
+
+parse api_vender/haohaizi_del
+好孩子京东自营官方旗舰店
+
+
+parse api_vender/huahuagongzinvxie_del
+花花公子女鞋京东自营旗舰店
+
+
+parse api_vender/huibojia_del
+辉柏嘉京东自营官方旗舰店
+
+
+parse api_vender/huirenzibu_del
+汇仁滋补养生京东自营旗舰店
+
+
+parse api_vender/jingweifu_del
+博世电动工具京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/lzclient/938b083f04974733b60ba7644880bbe0/cjwx/common/entry.html?activityId=938b083f04974733b60ba7644880bbe0&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+
+location: https://lzkj-isv.isvjcloud.com/lzclient/938b083f04974733b60ba7644880bbe0/cjwx/common/entry.html?activityId=938b083f04974733b60ba7644880bbe0&gameType=wxTurnTable
+have token from api_vender/jingweifu_del
+get token from location:
+795594DC704FCBFA3F9CB5062863C26D
+mkdir: created directory 'shop/795594DC704FCBFA3F9CB5062863C26D'
+mkdir: created directory 'shop/795594DC704FCBFA3F9CB5062863C26D/prize'
+{
+  "msg": "errCode:402, errMessage:当前不存在有效的活动!",
+  "code": 402,
+  "class": "com.jd.interact.center.client.api.common.param.Results",
+  "success": false
+}
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+发现重复的店铺活动
+api_vender/jingweifu_del
+shop/3d6cd5a6cf4f47a8a28477116bdc9ad3/shop
+
+show 重复的店铺活动
+[shop/3d6cd5a6cf4f47a8a28477116bdc9ad3/shop]
+actId=3d6cd5a6cf4f47a8a28477116bdc9ad3
+venderId=1000002423
+startTime=1612454400000
+endTime=1613836799000
+# 短链接
+suo_url="https://3.cn/100Y-jKRp"
+actTimeStr="2021-02-05 00:00 至 2021-02-20 23:59"
+#店铺名称
+vendername="博世电动工具京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：66京豆 66京豆
+连续签到15天：88京豆 88京豆
+"
+
+parse api_vender/jinxiuyang_del
+泾渭茯茶旗舰店
+
+
+parse api_vender/Jupiter_del
+Jupiter & Venus京东自营旗舰店
+
+
+parse api_vender/kaxiou_del
+乡间生活（COUNTRY LIFE）京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+get token from location:
+DB5CB93CBD5503D2AEE57008785F96DA
+mkdir: created directory 'shop/DB5CB93CBD5503D2AEE57008785F96DA'
+mkdir: created directory 'shop/DB5CB93CBD5503D2AEE57008785F96DA/prize'
+get shopSign to shop/DB5CB93CBD5503D2AEE57008785F96DA/shopSign.json
+
+[shop/DB5CB93CBD5503D2AEE57008785F96DA/shop]
+# 短链接
+suo_url=""
+venderId=1000351846
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267451
+token=DB5CB93CBD5503D2AEE57008785F96DA
+#店铺名称
+vendername="乡间生活（COUNTRY LIFE）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到2天：1京豆
+连续签到5天：2京豆
+连续签到7天：3京豆
+连续签到10天：5京豆
+"
+parse api_vender/kefu_del
+科赋存储旗舰店
+
+
+parse api_vender/keleige_delay
+克雷格运动户外旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=41D687C46BF413A660C07863A21E95A4
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=41D687C46BF413A660C07863A21E95A4
+get token from location:
+41D687C46BF413A660C07863A21E95A4
+mkdir: created directory 'shop/41D687C46BF413A660C07863A21E95A4'
+mkdir: created directory 'shop/41D687C46BF413A660C07863A21E95A4/prize'
+get shopSign to shop/41D687C46BF413A660C07863A21E95A4/shopSign.json
+
+[shop/41D687C46BF413A660C07863A21E95A4/shop]
+# 短链接
+suo_url=""
+venderId=10344276
+startTime=1612195200000
+endTime=1614527999000
+activityId=10262511
+token=41D687C46BF413A660C07863A21E95A4
+#店铺名称
+vendername="克雷格运动户外旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=41D687C46BF413A660C07863A21E95A4
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到7天：5京豆
+"
+parse api_vender/kemote_del
+COMOTEK鞋靴旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+get token from location:
+1EEAA3666DC9E22BABE44B1ABCC27325
+发现重复的店铺活动
+api_vender/kemote_del
+shop/1EEAA3666DC9E22BABE44B1ABCC27325/shop
+
+show 重复的店铺活动
+[shop/1EEAA3666DC9E22BABE44B1ABCC27325/shop]
+# 短链接
+suo_url=""
+venderId=10525472
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267415
+token=1EEAA3666DC9E22BABE44B1ABCC27325
+#店铺名称
+vendername="COMOTEK鞋靴旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到3天：专享价商品（599.00元购买原价689.00元的商品）
+连续签到5天：50店铺积分
+连续签到7天：50京豆
+"
+
+parse api_vender/libai_del
+倔强的尾巴京东自营旗舰店
+
+
+parse api_vender/lingmei_del
+LAMY凌美官方旗舰店
+
+
+parse api_vender/longdahaixian_del
+隆盛达海鲜旗舰店
+
+
+parse api_vender/madinglusi_del
+玛汀露丝（Matin Rosie）京东自营旗舰店
+
+
+parse api_vender/meizhuangdan_del
+AOLANLA美妆官方旗舰店
+
+
+parse api_vender/miqilinluntai_del
+米其林轮胎京东自营旗舰店
+
+
+parse api_vender/oxo_del
+OXO京东自营旗舰店
+
+
+parse api_vender/pengsongshenghuo_del
+蓬松生活旗舰店
+
+
+parse api_vender/pierkadan_del
+皮尔卡丹京东自营专区
+
+
+parse api_vender/shijuzhijia_del
+适居之家旗舰店
+
+
+parse api_vender/shuixingjiafang_fq
+百丽丝家纺京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E9799EF0627A29E6A6992335986B990C
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E9799EF0627A29E6A6992335986B990C
+get token from location:
+E9799EF0627A29E6A6992335986B990C
+mkdir: created directory 'shop/E9799EF0627A29E6A6992335986B990C'
+mkdir: created directory 'shop/E9799EF0627A29E6A6992335986B990C/prize'
+get shopSign to shop/E9799EF0627A29E6A6992335986B990C/shopSign.json
+
+[shop/E9799EF0627A29E6A6992335986B990C/shop]
+# 短链接
+suo_url=""
+venderId=1000002295
+startTime=1611936000000
+endTime=1614527999000
+activityId=10260219
+token=E9799EF0627A29E6A6992335986B990C
+#店铺名称
+vendername="百丽丝家纺京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E9799EF0627A29E6A6992335986B990C
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5京豆
+连续签到4天：20京豆
+"
+parse api_vender/suoniyingyin_del
+索尼影音官方旗舰店
+https://interact-share.jd.com/?inviteId=E083EC2C5BBFAE2CC7A8E89A80990A8D
+
+location: https://interact-share.jd.com/?inviteId=E083EC2C5BBFAE2CC7A8E89A80990A8D
+have token from api_vender/suoniyingyin_del
+get token from location:
+F6B7D374EBFF78E0711677A6C3967EBF
+mkdir: created directory 'shop/F6B7D374EBFF78E0711677A6C3967EBF'
+mkdir: created directory 'shop/F6B7D374EBFF78E0711677A6C3967EBF/prize'
+{
+  "msg": "errCode:402, errMessage:当前不存在有效的活动!",
+  "code": 402,
+  "class": "com.jd.interact.center.client.api.common.param.Results",
+  "success": false
+}
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+parse api_vender/tulaolao_del
+土姥姥旗舰店
+
+
+parse api_vender/v_5_100_del
+LG家电旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+get token from location:
+7915D3D314BD2C2F4DA3E6483086D241
+mkdir: created directory 'shop/7915D3D314BD2C2F4DA3E6483086D241'
+mkdir: created directory 'shop/7915D3D314BD2C2F4DA3E6483086D241/prize'
+get shopSign to shop/7915D3D314BD2C2F4DA3E6483086D241/shopSign.json
+
+[shop/7915D3D314BD2C2F4DA3E6483086D241/shop]
+# 短链接
+suo_url=""
+venderId=10112259
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267272
+token=7915D3D314BD2C2F4DA3E6483086D241
+#店铺名称
+vendername="LG家电旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：100京豆
+连续签到10天：满50-30店铺券
+连续签到15天：满100-50店铺券
+"
+parse api_vender/weizhi1_del
+绿之源官方旗舰店
+
+
+parse api_vender/weizhi2_del
+洁客京东自营旗舰店
+
+
+parse api_vender/weizhi5_delay
+LG家电旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+get token from location:
+7915D3D314BD2C2F4DA3E6483086D241
+发现重复的店铺活动
+api_vender/weizhi5_delay
+shop/7915D3D314BD2C2F4DA3E6483086D241/shop
+
+show 重复的店铺活动
+[shop/7915D3D314BD2C2F4DA3E6483086D241/shop]
+# 短链接
+suo_url=""
+venderId=10112259
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267272
+token=7915D3D314BD2C2F4DA3E6483086D241
+#店铺名称
+vendername="LG家电旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7915D3D314BD2C2F4DA3E6483086D241
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：100京豆
+连续签到10天：满50-30店铺券
+连续签到15天：满100-50店铺券
+"
+
+parse api_vender/wenchangji_del
+潭牛文昌鸡官方旗舰店
+
+
+parse api_vender/wuling_del
+武陵酒类旗舰店
+https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=00a9492346fe4f60a3a85c62508488a1
+https://cjhy-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=7649bef64cce44758cd08bb0ee2d7f05
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7C531F41D1C47263DDB5DE7E48D2049F
+
+location: https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=00a9492346fe4f60a3a85c62508488a1
+have token from api_vender/wuling_del
+get token from location:
+7A377DF4B9BF90B57CE582E51014811A
+mkdir: created directory 'shop/7A377DF4B9BF90B57CE582E51014811A'
+mkdir: created directory 'shop/7A377DF4B9BF90B57CE582E51014811A/prize'
+{
+  "msg": "errCode:402, errMessage:当前不存在有效的活动!",
+  "code": 402,
+  "class": "com.jd.interact.center.client.api.common.param.Results",
+  "success": false
+}
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+location: https://cjhy-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=7649bef64cce44758cd08bb0ee2d7f05
+have token from api_vender/wuling_del
+get token from location:
+7A377DF4B9BF90B57CE582E51014811A
+发现重复的店铺活动
+api_vender/wuling_del
+shop/7A377DF4B9BF90B57CE582E51014811A/shop
+
+show 重复的店铺活动
+[shop/7A377DF4B9BF90B57CE582E51014811A/shop]
+parse api_vender/xiangjianshenghuo_del
+乡间生活（COUNTRY LIFE）京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+get token from location:
+DB5CB93CBD5503D2AEE57008785F96DA
+发现重复的店铺活动
+api_vender/xiangjianshenghuo_del
+shop/DB5CB93CBD5503D2AEE57008785F96DA/shop
+
+show 重复的店铺活动
+[shop/DB5CB93CBD5503D2AEE57008785F96DA/shop]
+# 短链接
+suo_url=""
+venderId=1000351846
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267451
+token=DB5CB93CBD5503D2AEE57008785F96DA
+#店铺名称
+vendername="乡间生活（COUNTRY LIFE）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到2天：1京豆
+连续签到5天：2京豆
+连续签到7天：3京豆
+连续签到10天：5京豆
+"
+
+parse api_vender/xiangjianshenghuo_fq
+乡间生活（COUNTRY LIFE）京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+get token from location:
+DB5CB93CBD5503D2AEE57008785F96DA
+发现重复的店铺活动
+api_vender/xiangjianshenghuo_fq
+shop/DB5CB93CBD5503D2AEE57008785F96DA/shop
+
+show 重复的店铺活动
+[shop/DB5CB93CBD5503D2AEE57008785F96DA/shop]
+# 短链接
+suo_url=""
+venderId=1000351846
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267451
+token=DB5CB93CBD5503D2AEE57008785F96DA
+#店铺名称
+vendername="乡间生活（COUNTRY LIFE）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DB5CB93CBD5503D2AEE57008785F96DA
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到2天：1京豆
+连续签到5天：2京豆
+连续签到7天：3京豆
+连续签到10天：5京豆
+"
+
+parse api_vender/xianzhi_del
+喜安智官方旗舰店
+
+
+parse api_vender/xinwuzhijing_del
+心无止镜车品官方旗舰店
+
+
+parse api_vender/xuezhongwang_del
+雪中王 加你加我·雪中王京东自营旗舰店
+
+
+parse api_vender/yalu_del
+雅鹿自由自在家纺京东自营旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=6CA7B3AE78C1C092CA47E5DA7BE7D4E1
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=6CA7B3AE78C1C092CA47E5DA7BE7D4E1
+get token from location:
+6CA7B3AE78C1C092CA47E5DA7BE7D4E1
+mkdir: created directory 'shop/6CA7B3AE78C1C092CA47E5DA7BE7D4E1'
+mkdir: created directory 'shop/6CA7B3AE78C1C092CA47E5DA7BE7D4E1/prize'
+get shopSign to shop/6CA7B3AE78C1C092CA47E5DA7BE7D4E1/shopSign.json
+
+[shop/6CA7B3AE78C1C092CA47E5DA7BE7D4E1/shop]
+# 短链接
+suo_url=""
+venderId=1000008426
+startTime=1612800000000
+endTime=1613750399000
+activityId=10270025
+token=6CA7B3AE78C1C092CA47E5DA7BE7D4E1
+#店铺名称
+vendername="雅鹿自由自在家纺京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=6CA7B3AE78C1C092CA47E5DA7BE7D4E1
+# 活动时间：2021.02.09 00:00:00 - 2021.02.19 23:59:59
+# 奖励说明：
+actRule="
+连续签到4天：10京豆
+"
+parse api_vender/yameile_del
+雅美乐京东自营旗舰店
+
+
+parse api_vender/yumenzhu_del
+郁闷猪京东自营官方旗舰店
+
+
+parse api_vender/yuzhaolin_del
+俞兆林童装童鞋京东自营旗舰店
+
+
+parse api_vender/zhihongtushu_del
+智宏图书专营店
+
+
+parse api_vender/zhili_del
+直隶黑猪京东自营旗舰店
+
+
+parse api_vender/ZJUZ
+ZJUZ珠宝旗舰店
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
+
+location: https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
+get token from location:
+938178698B30D33A73C3A059ECC5A838
+mkdir: created directory 'shop/938178698B30D33A73C3A059ECC5A838'
+mkdir: created directory 'shop/938178698B30D33A73C3A059ECC5A838/prize'
+get shopSign to shop/938178698B30D33A73C3A059ECC5A838/shopSign.json
+
+[shop/938178698B30D33A73C3A059ECC5A838/shop]
+# 短链接
+suo_url=""
+venderId=187290
+startTime=1612886400000
+endTime=1614527999000
+activityId=10270130
+token=938178698B30D33A73C3A059ECC5A838
+#店铺名称
+vendername="ZJUZ珠宝旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
+# 活动时间：2021.02.10 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：20京豆
+连续签到5天：40京豆
+连续签到10天：50京豆
+连续签到18天：100京豆
+"
+parse lzkj_sevenDay_vender/aimeite_del
+艾美特京东自营官方旗舰店
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1512caacbba44eb6b33acf1c270b9ae1&venderId=1000001414
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/90e4b913e35c4112b5ac5e7c0ba7b86f?activityId=90e4b913e35c4112b5ac5e7c0ba7b86f
+https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=8398135006554797b977fd74f41254f2
+https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/a9593ec8bd104ccd859140c57310d306?activityId=a9593ec8bd104ccd859140c57310d306
+
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1512caacbba44eb6b33acf1c270b9ae1&venderId=1000001414
+mkdir: created directory 'shop/1512caacbba44eb6b33acf1c270b9ae1'
+mkdir: created directory 'prize'
+/home/myid/jd/jd_signup
+dayNum=1;giftName="1京豆";giftType=6
+dayNum=2;giftName="2京豆";giftType=6
+dayNum=3;giftName="3京豆";giftType=6
+dayNum=4;giftName="5京豆";giftType=6
+dayNum=5;giftName="10元优惠券";giftType=10
+dayNum=6;giftName="8京豆";giftType=6
+dayNum=7;giftName="10京豆";giftType=6
+
+[/home/myid/jd/jd_signup/shop/1512caacbba44eb6b33acf1c270b9ae1/shop]
+#店铺名称
+vendername="艾美特京东自营官方旗舰店"
+#店铺激活码
+actId="1512caacbba44eb6b33acf1c270b9ae1"
+#店铺id
+venderId="1000001414"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1512caacbba44eb6b33acf1c270b9ae1&venderId=1000001414"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：2京豆
+连续签到3天：3京豆
+连续签到4天：5京豆
+连续签到5天：10元优惠券
+连续签到6天：8京豆
+连续签到7天：10京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/90e4b913e35c4112b5ac5e7c0ba7b86f?activityId=90e4b913e35c4112b5ac5e7c0ba7b86f
+location: https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=8398135006554797b977fd74f41254f2
+location: https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/a9593ec8bd104ccd859140c57310d306?activityId=a9593ec8bd104ccd859140c57310d306
+parse lzkj_sevenDay_vender/jiabeiaite_del
+佳贝艾特京东自营官方旗舰店
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/ac4ac2b8b7564819928c9105acffc355?activityId=ac4ac2b8b7564819928c9105acffc355
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/087a9171b075442992f60d1a6195d017?activityId=087a9171b075442992f60d1a6195d017
+https://lzkjdz-isv.isvjcloud.com/kabrita/newOpen/activity?type=small
+https://lzkjdz-isv.isvjcloud.com/wxTeam/activity2/2e17c25f23cb4d28a6b46967a06e7b06?activityId=2e17c25f23cb4d28a6b46967a06e7b06
+https://lzkjdz-isv.isvjcloud.com/wxgroupCoupon/activity/e81616b8c8644075beeb56266c321684?activityId=e81616b8c8644075beeb56266c321684
+
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
+mkdir: created directory 'shop/3f6c151718844239b7be3ecca403cd70'
+mkdir: created directory 'prize'
+/home/myid/jd/jd_signup
+dayNum=1;giftName="20元优惠券";giftType=10
+dayNum=2;giftName="80元优惠券";giftType=10
+dayNum=3;giftName="30店铺积分";giftType=9
+dayNum=4;giftName="50店铺积分";giftType=9
+dayNum=5;giftName="80店铺积分";giftType=9
+dayNum=6;giftName="2京豆";giftType=6
+dayNum=7;giftName="5元京东E卡";giftType=13
+
+[/home/myid/jd/jd_signup/shop/3f6c151718844239b7be3ecca403cd70/shop]
+#店铺名称
+vendername="佳贝艾特京东自营官方旗舰店"
+#店铺激活码
+actId="3f6c151718844239b7be3ecca403cd70"
+#店铺id
+venderId="1000002710"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20元优惠券
+连续签到2天：80元优惠券
+连续签到3天：30店铺积分
+连续签到4天：50店铺积分
+连续签到5天：80店铺积分
+连续签到6天：2京豆
+连续签到7天：5元京东E卡
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/ac4ac2b8b7564819928c9105acffc355?activityId=ac4ac2b8b7564819928c9105acffc355
+location: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/087a9171b075442992f60d1a6195d017?activityId=087a9171b075442992f60d1a6195d017
+location: https://lzkjdz-isv.isvjcloud.com/kabrita/newOpen/activity?type=small
+location: https://lzkjdz-isv.isvjcloud.com/wxTeam/activity2/2e17c25f23cb4d28a6b46967a06e7b06?activityId=2e17c25f23cb4d28a6b46967a06e7b06
+location: https://lzkjdz-isv.isvjcloud.com/wxgroupCoupon/activity/e81616b8c8644075beeb56266c321684?activityId=e81616b8c8644075beeb56266c321684
+parse lzkj_sevenDay_vender/junlebao_7_del
+君乐宝奶粉旗舰店
+https://lzkj-isv.isvjcloud.com/lzclient/2d0dd60509b24845b90264e95dc43ee2/cjwx/common/entry.html?activityId=2d0dd60509b24845b90264e95dc43ee2&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d29c54062f2c4a2c8f59534eff11f7a9&venderId=10315335
+https://lzkj-isv.isvjcloud.com/wxPingjiaActive/activity?activityId=bf2066f02ce440ad909faacd0372e91a
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/ed7651a4683c4d26bf675207dbc36f2b?activityId=ed7651a4683c4d26bf675207dbc36f2b
+https://lzkjdz-isv.isvjcloud.com/wxCartKoi/cartkoi/activity/3ea9a3dec4404923a80f6537fdb35fa8?activityId=3ea9a3dec4404923a80f6537fdb35fa8
+
+location: https://lzkj-isv.isvjcloud.com/lzclient/2d0dd60509b24845b90264e95dc43ee2/cjwx/common/entry.html?activityId=2d0dd60509b24845b90264e95dc43ee2&gameType=wxTurnTable
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d29c54062f2c4a2c8f59534eff11f7a9&venderId=10315335
+发现重复的店铺活动
+lzkj_sevenDay_vender/junlebao_7_del
+shop/d29c54062f2c4a2c8f59534eff11f7a9/shop
+
+show 重复的店铺活动
+[shop/d29c54062f2c4a2c8f59534eff11f7a9/shop]
+parse lzkj_sevenDay_vender/kangbite_del
+康比特京东自营旗舰店
+https://cjhydz-isv.isvjcloud.com/wxTeam/activity?activityId=9b3f09202c8843b0a8ff09f3f79c429a
+https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/3ab11e1d954d4aaa8a79243130a9e8b0?activityId=3ab11e1d954d4aaa8a79243130a9e8b0
+
+location: https://cjhydz-isv.isvjcloud.com/wxTeam/activity?activityId=9b3f09202c8843b0a8ff09f3f79c429a
+location: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381
+mkdir: created directory 'shop/47091d03407c4415aadbfaed7c6c9065'
+mkdir: created directory 'prize'
+康比特京东自营旗舰店活动规则
+
+[shop/47091d03407c4415aadbfaed7c6c9065/shop]
+actId=47091d03407c4415aadbfaed7c6c9065
+venderId=1000001381
+startTime=1612713600000
+endTime=1613663999000
+# 短链接
+suo_url="https://3.cn/100X-qecA"
+actTimeStr="2021-02-08 00:00 至 2021-02-18 23:59"
+#店铺名称
+vendername="康比特京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381
+# 活动时间：2021.02.08 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：5积分 5积分
+连续签到2天：10元优惠券
+连续签到3天：10积分 10积分
+连续签到4天：5京豆 5京豆
+连续签到5天：20元优惠券
+连续签到6天：30元优惠券
+连续签到7天：20积分 20积分
+连续签到8天：10京豆 10京豆
+连续签到9天：50元优惠券
+连续签到10天：100元优惠券
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/3ab11e1d954d4aaa8a79243130a9e8b0?activityId=3ab11e1d954d4aaa8a79243130a9e8b0
+parse lzkj_sevenDay_vender/kaxioujingjing_del
+卡西欧晶晶专卖店
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=49f82fc8fe22491db69f61fd67c5680c&venderId=203224
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/f10b81d054ae43f99b90860c5ea53f1d?activityId=f10b81d054ae43f99b90860c5ea53f1d
+
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=49f82fc8fe22491db69f61fd67c5680c&venderId=203224
+mkdir: created directory 'shop/49f82fc8fe22491db69f61fd67c5680c'
+mkdir: created directory 'prize'
+/home/myid/jd/jd_signup
+dayNum=1;giftName="100京豆";giftType=6
+dayNum=2;giftName="100京豆";giftType=6
+dayNum=3;giftName="100京豆";giftType=6
+dayNum=4;giftName="100京豆";giftType=6
+dayNum=5;giftName="100京豆";giftType=6
+dayNum=6;giftName="100京豆";giftType=6
+dayNum=7;giftName="1000京豆";giftType=6
+
+[/home/myid/jd/jd_signup/shop/49f82fc8fe22491db69f61fd67c5680c/shop]
+#店铺名称
+vendername="卡西欧晶晶专卖店"
+#店铺激活码
+actId="49f82fc8fe22491db69f61fd67c5680c"
+#店铺id
+venderId="203224"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=49f82fc8fe22491db69f61fd67c5680c&venderId=203224"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：100京豆
+连续签到2天：100京豆
+连续签到3天：100京豆
+连续签到4天：100京豆
+连续签到5天：100京豆
+连续签到6天：100京豆
+连续签到7天：1000京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity/f10b81d054ae43f99b90860c5ea53f1d?activityId=f10b81d054ae43f99b90860c5ea53f1d
+parse lzkj_sevenDay_vender/lanyueliang_del
+蓝月亮京东自营旗舰店
+https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=01cc5831c714452792bcc39fdfa2f001
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/84201aebfa2940959bb0ff4a0d3b031c?activityId=84201aebfa2940959bb0ff4a0d3b031c
+https://lzkjdz-isv.isvjcloud.com/bluemoon/rePurchase/activity?activityId=2102100000119501
+https://shopmember.m.jd.com/shopcard?venderId=1000001195&shopId=1000001195&venderType=5&channel=401
+https://xinrui1-isv.isvjcloud.com/jd-2021-new-year/?source=xzppqd
+
+location: https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=01cc5831c714452792bcc39fdfa2f001
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/84201aebfa2940959bb0ff4a0d3b031c?activityId=84201aebfa2940959bb0ff4a0d3b031c
+location: https://lzkjdz-isv.isvjcloud.com/bluemoon/rePurchase/activity?activityId=2102100000119501
+location: https://shopmember.m.jd.com/shopcard?venderId=1000001195&shopId=1000001195&venderType=5&channel=401
+location: https://xinrui1-isv.isvjcloud.com/jd-2021-new-year/?source=xzppqd
+parse lzkj_sevenDay_vender/mengniu
+蒙牛官方旗舰店
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=182542&giftId=a3f9b7083f7d46c1850c1a99dfa8e0d7&giftType=2
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/5edc24f90b5044e29105390a641132f1?activityId=5edc24f90b5044e29105390a641132f1
+https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/837466de961842ffa4ab34812cdea20a?activityId=837466de961842ffa4ab34812cdea20a
+
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=182542&giftId=a3f9b7083f7d46c1850c1a99dfa8e0d7&giftType=2
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+mkdir: created directory 'shop/3f064b1a32ec4b2ab6e044aa1cacad06'
+mkdir: created directory 'prize'
+/home/myid/jd/jd_signup
+dayNum=1;giftName="15京豆";giftType=6
+dayNum=2;giftName="30元优惠券";giftType=1
+dayNum=3;giftName="40元优惠券";giftType=1
+dayNum=4;giftName="8京豆";giftType=6
+dayNum=5;giftName="50元优惠券";giftType=1
+dayNum=6;giftName="20元优惠券";giftType=1
+dayNum=7;giftName="15京豆";giftType=6
+
+[/home/myid/jd/jd_signup/shop/3f064b1a32ec4b2ab6e044aa1cacad06/shop]
+#店铺名称
+vendername="蒙牛官方旗舰店"
+#店铺激活码
+actId="3f064b1a32ec4b2ab6e044aa1cacad06"
+#店铺id
+venderId="182542"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：15京豆
+连续签到2天：30元优惠券
+连续签到3天：40元优惠券
+连续签到4天：8京豆
+连续签到5天：50元优惠券
+连续签到6天：20元优惠券
+连续签到7天：15京豆
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/5edc24f90b5044e29105390a641132f1?activityId=5edc24f90b5044e29105390a641132f1
+location: https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/837466de961842ffa4ab34812cdea20a?activityId=837466de961842ffa4ab34812cdea20a
+parse lzkj_sevenDay_vender/mengniu_7_del
+蒙牛官方旗舰店
+https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=182542&giftId=a3f9b7083f7d46c1850c1a99dfa8e0d7&giftType=2
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+https://lzkj-isv.isvjcloud.com/wxAppraiseActivity/activity/5edc24f90b5044e29105390a641132f1?activityId=5edc24f90b5044e29105390a641132f1
+https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/837466de961842ffa4ab34812cdea20a?activityId=837466de961842ffa4ab34812cdea20a
+
+location: https://cjhy-isv.isvjcloud.com/mc/wxPointShopView/pointExgGift?venderId=182542&giftId=a3f9b7083f7d46c1850c1a99dfa8e0d7&giftType=2
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+发现重复的店铺活动
+lzkj_sevenDay_vender/mengniu_7_del
+shop/3f064b1a32ec4b2ab6e044aa1cacad06/shop
+
+show 重复的店铺活动
+[shop/3f064b1a32ec4b2ab6e044aa1cacad06/shop]
+#店铺名称
+vendername="蒙牛官方旗舰店"
+#店铺激活码
+actId="3f064b1a32ec4b2ab6e044aa1cacad06"
+#店铺id
+venderId="182542"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：15京豆
+连续签到2天：30元优惠券
+连续签到3天：40元优惠券
+连续签到4天：8京豆
+连续签到5天：50元优惠券
+连续签到6天：20元优惠券
+连续签到7天：15京豆
+"
+
+parse lzkj_sevenDay_vender/nubiya_del
+努比亚京东自营旗舰店
+https://lzkj-isv.isvjcloud.com/faxian/wxVote/activity?activityId=e9f2651bc815497fb0d6d66d28405827&venderId=1000001961
+https://lzkj-isv.isvjcloud.com/lzclient/757d8caf5db448fe805fadce8da14f69/cjwx/common/entry.html?activityId=757d8caf5db448fe805fadce8da14f69&gameType=wxTurnTable
+https://lzkj-isv.isvjcloud.com/wxBuildActivity/activity?activityId=ca19fd5ccc54494683b85c7d41f36291
+
+location: https://lzkj-isv.isvjcloud.com/faxian/wxVote/activity?activityId=e9f2651bc815497fb0d6d66d28405827&venderId=1000001961
+location: https://lzkj-isv.isvjcloud.com/lzclient/757d8caf5db448fe805fadce8da14f69/cjwx/common/entry.html?activityId=757d8caf5db448fe805fadce8da14f69&gameType=wxTurnTable
+location: https://lzkj-isv.isvjcloud.com/wxBuildActivity/activity?activityId=ca19fd5ccc54494683b85c7d41f36291
+parse lzkj_sevenDay_vender/oray_del
+Oray京东自营官方旗舰店
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/39f8720726624d33ab4a7ec5a80fb2a2?activityId=39f8720726624d33ab4a7ec5a80fb2a2
+https://lzkjdz-isv.isvjcloud.com/wxCartKoi/cartkoi/activity/69292527796148188e3617b048c64174?activityId=69292527796148188e3617b048c64174
+https://lzkjdz-isv.isvjcloud.com/wxTeam/activity2/483fd76e0878478987a1fb433ca3b1ec?activityId=483fd76e0878478987a1fb433ca3b1ec
+
+location: https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406
+mkdir: created directory 'shop/36a96949aef74f239e4a8b8553518bac'
+mkdir: created directory 'prize'
+/home/myid/jd/jd_signup
+dayNum=1;giftName="5元优惠券";giftType=1
+dayNum=2;giftName="2京豆";giftType=6
+dayNum=3;giftName="5京豆";giftType=6
+dayNum=4;giftName="10元优惠券";giftType=1
+dayNum=5;giftName="100店铺积分";giftType=9
+dayNum=6;giftName="20京豆";giftType=6
+dayNum=7;giftName="20元优惠券";giftType=1
+
+[/home/myid/jd/jd_signup/shop/36a96949aef74f239e4a8b8553518bac/shop]
+#店铺名称
+vendername="Oray京东自营官方旗舰店"
+#店铺激活码
+actId="36a96949aef74f239e4a8b8553518bac"
+#店铺id
+venderId="10142406"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：10元优惠券
+连续签到5天：100店铺积分
+连续签到6天：20京豆
+连续签到7天：20元优惠券
+"
+/home/myid/jd/jd_signup
+location: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/39f8720726624d33ab4a7ec5a80fb2a2?activityId=39f8720726624d33ab4a7ec5a80fb2a2
+location: https://lzkjdz-isv.isvjcloud.com/wxCartKoi/cartkoi/activity/69292527796148188e3617b048c64174?activityId=69292527796148188e3617b048c64174
+location: https://lzkjdz-isv.isvjcloud.com/wxTeam/activity2/483fd76e0878478987a1fb433ca3b1ec?activityId=483fd76e0878478987a1fb433ca3b1ec
+parse lzkj_sevenDay_vender/weishi_delay
+卫仕京东自营官方旗舰店
+
+
+parse lzkj_sevenDay_vender/zhuangyuanzhou_del
+状元洲京东自营旗舰店
+https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/56e1bb16d4e745c3b587d1251f156a04?activityId=56e1bb16d4e745c3b587d1251f156a04
+
+location: https://lzkjdz-isv.isvjcloud.com/wxShareActivity/activity/56e1bb16d4e745c3b587d1251f156a04?activityId=56e1bb16d4e745c3b587d1251f156a04
+parse lzkj_sevenDay_vender/zirantang_delay
+自然堂官方旗舰店
+
+
+parse dingzhi_vender/mengniu_delay
+蒙牛京东自营旗舰店
+https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=f44a0d1d1a34479eb4e55910be6ea578
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/abf069e68a35466fb1addc3cda165c99?activityId=abf069e68a35466fb1addc3cda165c99
+https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/restrictCoupon?activityId=2012100001480301&couponId=480321012901
+https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/restrictCoupon?activityId=2012100001480301&couponId=480321012902
+https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/viewOpenCouponSet?activityId=2005100001480301
+
+location: https://lzdz-isv.isvjcloud.com/dingzhi/commonUse/openCard/activity?activityId=f44a0d1d1a34479eb4e55910be6ea578
+location: https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity/abf069e68a35466fb1addc3cda165c99?activityId=abf069e68a35466fb1addc3cda165c99
+location: https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/restrictCoupon?activityId=2012100001480301&couponId=480321012901
+location: https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/restrictCoupon?activityId=2012100001480301&couponId=480321012902
+location: https://lzkjdz-isv.isvjcloud.com/mengniu/pointRedeem/viewOpenCouponSet?activityId=2005100001480301

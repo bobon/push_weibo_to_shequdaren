@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=123331
+startTime=1612195200000
+endTime=1614527999000
+activityId=10262724
+token=33711E18F790A9451F2C8641B4BF4E56
+#店铺名称
+vendername="迪士尼贝贝怡专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=33711E18F790A9451F2C8641B4BF4E56
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：20店铺积分
+连续签到5天：100京豆
+"

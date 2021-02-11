@@ -1,7 +1,5 @@
 #set -e
-
-a=false
-delay=1
+date +"%x %X %N  %s"
 
 unset svr
 unset pin_name
@@ -13,6 +11,24 @@ unset user_Agent
 
 source $1
 source $2
+
+if [ ! -z "$date_0_f" ]; then
+	d=$(date -d @$date_0_f +"%Y%m%d_%H:%M:%S %s")
+	echo "$d 时间未到"
+	for j in $(seq 1 240); do
+		if [ $(date '+%s') -ge $date_0_f ]; then
+			echo "$d 时间到"
+			break
+		else
+			sleep 0.5
+		fi
+	done
+	date +"%x %X %N  %s"
+fi
+
+
+a=false
+delay=1
 
 if [ -z "$svr" ]; then
 	svr="lzkj-isv.isvjcloud.com"
@@ -95,44 +111,55 @@ echo "secretPin: $secretPin"
 [ ! -z "$secretPin" ] || exit 2
 
 
-for i in $(seq 1 $loop_num); do
-
-if [ "$a" = "false" ]; then
-echo
-date +"%x %X %N  %s"
-echo "${pin_name}签到$vendername"
-t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/signUp" \
-  -H 'Connection: keep-alive' \
-  -H 'Accept: application/json' \
-  -H "Origin: https://${svr}" \
-  -H 'X-Requested-With: XMLHttpRequest' \
-  -H "User-Agent: ${user_Agent}" \
-  -H 'Sec-Fetch-Mode: cors' \
-  -H 'Content-Type: application/x-www-form-urlencoded' \
-  -H 'Sec-Fetch-Site: same-origin' \
-  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
-  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
-  echo -e "$t" > ${venderId}_signUp.html
-  echo -e "$t" | jq
-  echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
-fi
-
-if [ "$a" = "true" ]; then
-echo "签到${vendername}完成"
-	break
+if [ "$3" == "check" ]; then
+	echo "check sign. not run sign"
 else
-	time sleep $(echo "0.2 * $delay"|bc)
-	delay=$(($delay + 1))
-fi
-done
 
-if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-	sleep 3
-else
-	sleep 38
+	for i in $(seq 1 $loop_num); do
+
+	if [ "$a" = "false" ]; then
+	echo
+	date +"%x %X %N  %s"
+	echo "${pin_name}签到$vendername"
+	t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/signUp" \
+	  -H 'Connection: keep-alive' \
+	  -H 'Accept: application/json' \
+	  -H "Origin: https://${svr}" \
+	  -H 'X-Requested-With: XMLHttpRequest' \
+	  -H "User-Agent: ${user_Agent}" \
+	  -H 'Sec-Fetch-Mode: cors' \
+	  -H 'Content-Type: application/x-www-form-urlencoded' \
+	  -H 'Sec-Fetch-Site: same-origin' \
+	  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+	  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
+	  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
+	  echo -e "$t" > ${venderId}_signUp.html
+	  echo -e "$t" | jq
+	  echo "$t"| jq '.isOk' | grep 'true' && a=true
+	  if [ -z "$now_" ]; then
+		  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
+		fi
+	fi
+
+	if [ "$a" = "true" ]; then
+	echo "签到${vendername}完成"
+		break
+	else
+		time sleep $(echo "0.2 * $delay"|bc)
+		if [ -z "$now_" ]; then
+			delay=$(($delay + 1))
+		fi
+	fi
+	done
+
+	if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
+		sleep 3
+	else
+		sleep 38
+	fi
+
 fi
+
 
 echo
 echo "${pin_name}签到${vendername}查看结果, 活动规则"

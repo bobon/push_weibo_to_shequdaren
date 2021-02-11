@@ -1,0 +1,18 @@
+actId=6365de679b174d909e5474ce869c32fe
+venderId=1000348442
+startTime=1610553600000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/100-NtQBz"
+actTimeStr="2021-01-14 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="易开得官方京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6365de679b174d909e5474ce869c32fe&venderId=1000348442
+# 活动时间：2021.01.14 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：赠送精品毛毯一条
+连续签到16天：赠送保温杯一个
+连续签到21天：赠送磨毛四件套
+"

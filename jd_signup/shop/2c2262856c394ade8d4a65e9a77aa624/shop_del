@@ -1,0 +1,20 @@
+actId=2c2262856c394ade8d4a65e9a77aa624
+venderId=1000077448
+startTime=1609171200000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100iW3-kK"
+actTimeStr="2020-12-29 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="贝亲辅食尿裤京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2c2262856c394ade8d4a65e9a77aa624&venderId=1000077448
+# 活动时间：2020.12.29 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆 1京豆
+连续签到5天：3京豆 3京豆
+连续签到15天：5京豆 5京豆
+连续签到20天：10京豆 10京豆
+连续签到30天：100京豆 100京豆
+"

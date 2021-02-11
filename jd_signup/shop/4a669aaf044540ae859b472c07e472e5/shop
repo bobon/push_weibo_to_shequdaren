@@ -1,0 +1,18 @@
+actId=4a669aaf044540ae859b472c07e472e5
+venderId=1000003179
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/K9gEAGzNc"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="美赞臣京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10积分 10积分
+连续签到7天：30积分 30积分
+连续签到25天：赠送贝亲婴儿手口湿巾25片装
+"

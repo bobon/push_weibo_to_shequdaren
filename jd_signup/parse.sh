@@ -1,4 +1,21 @@
+#!/bin/bash
 set -e
+set +E
+set +x
+
+trap "exit 1" TERM
+export TOP_PID=$$
+
+log_error() {
+	echo -e "\e[0;31;3m${1}\e[0m" "\e[0;31;3m[$(date '+%Y%m%d %H:%M:%S')] [ERROR] \e[0m" >&2
+	echo
+}
+
+error() {
+  log_error "$1"
+  kill -s TERM $TOP_PID
+}
+
 
 readonly curl_r="curl -sS -k"
 readonly User_Agent='Mozilla/5.0 (Linux; Android 10; ALP-AL00 Build/HUAWEIALP-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045513 Mobile Safari/537.36 MMWEBID/6886 MicroMessenger/8.0.1840(0x2800003D) Process/tools WeChat/arm64 Weixin NetType/4G Language/zh_CN ABI/arm64'
@@ -21,12 +38,9 @@ readonly curl_h_meta10="-H 'Connection: keep-alive' \
 readonly lzkj_svr="lzkj-isv.isvjcloud.com"
 readonly h5_svr="h5.m.jd.com"
 
-error() {
-	log_d "[ERROR] $1"
-}
 
 log_d() {
-	echo -e "$1" >&2
+	echo -e "$1"
 }
 
 duan_to_chang() {
@@ -54,16 +68,32 @@ get_sign_html() {
 	eval $(echo $curl_r "$curl_h" -H "'Referer: $duan'" "'$location'") > "$log/index.html"
 }
 
+check_shop_base() {
+	if [ -d "$shop_base" ]; then
+		echo "发现重复的店铺活动"
+		echo -e "${input}\n$shop_base/shop"
+		echo "发现重复的店铺活动" >> repeatshop
+		echo -e "${input}\n$shop_base/shop" >> repeatshop
+		echo >> repeatshop
+		echo
+		echo "show 重复的店铺活动"
+		echo [$shop_base/shop]
+		cat $shop_base/shop
+		error "[ERROR] 重复的 $shop_base"		
+	fi
+}
+
 get_shopSign_h5() {
 	unset token
-	readonly token=$(echo $location | sed -r -e 's,.*token=,,' -e 's,&.*,,')
+	token=$(echo $location | sed -r -e 's,.*token=,,' -e 's,&.*,,')
 	[ ! -z "$token" ] || error "token error"
 	log_d "get token from location:\n$token"
 	
-	readonly shop_base="shop/$token"
-	readonly shopSign="$shop_base/shopSign.json"
-	readonly shop="$shop_base/shop"
-	readonly shop_prize="$shop_base/prize"	
+	shop_base="shop/$token"
+	check_shop_base
+	shopSign="$shop_base/shopSign.json"
+	shop="$shop_base/shop"
+	shop_prize="$shop_base/prize"	
 	rm -rvf "$shopSign"
 	rm -rvf "$shop"
 	rm -rvf "$shop_base/*.tmp"
@@ -76,7 +106,7 @@ get_shopSign_h5() {
 	  --get --data-urlencode "'body={\"token\":\"${token}\",\"venderId\":\"\"}'") | sed -r -e 's,^[^\(]+\(,,' -e 's,\);$,,' > "$shopSign"
 	 
 	jq 'if(.success) then empty else . end' "$shopSign"
-	
+	grep '当前不存在有效的活动' "$shopSign" && return || true	
 	
 	echo -e "# 短链接\nsuo_url=\"$duan\"" > "$shop"
 	echo "get shopSign to $shopSign"
@@ -96,13 +126,18 @@ get_shopSign_h5() {
 	echo "token=$token" >> "$shop"
 	echo "#店铺名称" >> "$shop"
 	echo "vendername=\"$(get_shopmemberinfo $venderId)\"" >> "$shop"
-	echo -e "# 长链接\nurl=$(get_sign $venderId)" >> "$shop"
+	if [ "$1" = "nolocation" ]; then
+		echo -e "# 长链接\nurl=\"https://api.m.jd.com/api?appid=interCenter_shopSign&t=$(date '+%s')000&loginType=2&functionId=interact_center_shopSign_getActivityInfo&jsonp=jsonp1000\"" >> "$shop"
+	else
+		#echo -e "# 长链接\nurl=$(get_sign $venderId)" >> "$shop"
+		echo -e "# 长链接\nurl=$location" >> "$shop"
+	fi
 	
 	local startTime_=$(echo $startTime | sed -r -e 's,[0-9]{3}$,,')
 	local endTime_=$(echo $endTime | sed -r -e 's,[0-9]{3}$,,')
 	echo "# 活动时间：$(date +"%Y.%m.%d %H:%M:%S" --date="@$startTime_") - $(date +"%Y.%m.%d %H:%M:%S" --date="@$endTime_")" >> "$shop"
 	
-	echo "奖励说明：" >> "$shop"
+	echo -e "# 奖励说明：\nactRule=\"" >> "$shop"
 	jq -r '.data.prizeRuleList[]|(
 		"days=0"
 		+ ";p_type=" +  (.prizeList[0].type|tostring)
@@ -135,6 +170,7 @@ get_shopSign_h5() {
 			parse_prize "$i"
 		done
 	done
+	echo "\"" >> "$shop"
 	
 	echo
 	echo "[$shop]"
@@ -160,7 +196,7 @@ parse_prize() {
 	elif [ "$p_type" = "9" ]; then
 		echo "${s}：专享价商品（${promoPrice}元购买原价${jdPrice}元的商品）" >> "$shop"
 	elif [ "$p_type" = "null" ]; then
-	return
+		return
 	else 
 		error "not support sign type: $p_type"
 	fi
@@ -177,7 +213,7 @@ get_sign_fromSignDraw() {
 
 get_sign_fromMzpage() {
 	local shop_vender_base="shop/$venderId"
-	mkdir -vp "$shop_vender_base" >&2
+	mkdir -p "$shop_vender_base"
 	
 	get_shop_mzpage "$1" > "$shop_vender_base/mzpage.html"
 	cat "$shop_vender_base/mzpage.html" | egrep 'https.*/sign/|isv.isvjcloud.com' | sed -r -e 's,.*https,https,' -e 's,"\,$|"$,,' | sort | uniq
@@ -209,10 +245,11 @@ get_shopSign_lzkj_sevenDay() {
 	venderId=$(echo $1 | cut -d '|' -f 1)
 	actId=$(echo $1 | cut -d '|' -f 2)
 		
-	readonly shop_base="shop/$actId"
-	readonly shop="shop"
-	readonly shopSign="shopSign.json"
-	readonly shop_prize="prize"	
+	shop_base="shop/$actId"
+	check_shop_base
+	shop="shop"
+	shopSign="shopSign.json"
+	shop_prize="prize"	
 	mkdir -vp "$shop_base"
 	cd "$shop_base"
 	rm -rvf "$shop"
@@ -252,15 +289,19 @@ parse_prize_lzkj_sevenDay() {
 vendername="$vendername"
 #店铺激活码
 actId="$actId"
-##店铺id
+#店铺id
 venderId="$venderId"
+#长链接
+url="$location"
 
 END
 	
+	echo -e "# 奖励说明：\nactRule=\"" >> "$shop"
 	echo "7天签到" >> "$shop"
 	jq -r '.giftConditions[]|
 		"连续签到" + .dayNum + "天：" + .gift.giftName
 	' "$shopSign" >> "$shop"
+	echo -e "\"" >> "$shop"
 		
 	echo
 	echo "[$(pwd)/$shop]"
@@ -278,10 +319,11 @@ get_shopSign_lzkj() {
 	venderId=$(echo $1 | cut -d '|' -f 1)
 	actId=$(echo $1 | cut -d '|' -f 2)
 	
-	readonly shop_base="shop/$actId"
-	readonly shop="shop"
-	readonly shopSign="shopSign.json"
-	readonly shop_prize="prize"	
+	shop_base="shop/$actId"
+	check_shop_base
+	shop="shop"
+	shopSign="shopSign.json"
+	shop_prize="prize"	
 	mkdir -vp "$shop_base"
 	cd "$shop_base"
 	rm -rvf "$shop"
@@ -301,16 +343,76 @@ get_shopSign_lzkj() {
 	  -H "Origin: https://${lzkj_svr}" \
 	  -H "Referer: https://${lzkj_svr}/sign/wx/getActivity" \
 	  -X POST --data-raw "venderId=${venderId}&actId=${actId}" > "$shopSign"
-	jq '' "$shopSign"
-	#echo -e "$t" 
-	#echo
-	#echo "$t" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'
 	
+	grep '"isOk":false' "$shopSign" && return || true
+	  
+	jq -r '"actId=" + .act.id
+	  + "\nvenderId=" + (.act.venderId|tostring)
+	  + "\nstartTime=" + (.act.startTime|tostring)
+		+ "\nendTime=" + (.act.endTime|tostring)
+		+ "\n# 短链接\nsuo_url=\"https://" + .act.shortUrl + "\""
+		+ "\nactTimeStr=\"" + .act.actTimeStr + "\""' "$shopSign" > "$shop"
+	unset venderId;	unset actId
+	source "$shop"
+		
+	jq -r '.act.wxSignActivityGiftBean.giftConditions[]|
+		"level=" + .dayNum + ";days=" + .dayNum + ";p_type=" + .gift.giftType + ";discount=" + .gift.giftNum + ";giftName=" + .gift.giftName
+		' "$shopSign" > "prize.tmp"
+	
+	echo "#店铺名称" >> "$shop"
+	if [ -z "$vendername" ]; then
+		vendername="$(get_shopmemberinfo $venderId)"
+	fi
+	echo "vendername=\"${vendername}\"" >> "$shop"
+	echo -e "# 长链接\nurl=$location" >> "$shop"
+	
+	local startTime_=$(echo $startTime | sed -r -e 's,[0-9]{3}$,,')
+	local endTime_=$(echo $endTime | sed -r -e 's,[0-9]{3}$,,')
+	echo "# 活动时间：$(date +"%Y.%m.%d %H:%M:%S" --date="@$startTime_") - $(date +"%Y.%m.%d %H:%M:%S" --date="@$endTime_")" >> "$shop"
+	
+	echo -e "# 奖励说明：\nactRule=\"" >> "$shop"
+	for i in $(cat "prize.tmp"); do
+		unset days;unset p_type;unset level;unset discount;unset quota;unset promoPrice;unset jdPrice
+		eval $i
+		parse_prize_lzkj "$i"
+	done
+	echo "\"" >> "$shop"
+	
+	echo
+	echo "[$shop_base/$shop]"
+	cat "$shop"
 	cd -
+}
+
+parse_prize_lzkj() {
+	local s="连续签到${days}天"
+	if [ "$level" = "0" ]; then
+		local s="每日签到"
+	fi
+	
+	if [ "$p_type" = "1" ]; then
+		echo "${s}：${giftName}" >> "$shop"
+	elif [ "$p_type" = "6" ]; then
+		echo "${s}：${discount}京豆 $giftName" >> "$shop"
+	elif [ "$p_type" = "7" ]; then
+		echo "${s}：赠送${giftName}" >> "$shop"
+	elif [ "$p_type" = "8" ]; then
+		echo "${s}：${giftName}" >> "$shop"
+	elif [ "$p_type" = "9" ]; then
+		echo "${s}：${discount}积分 $giftName" >> "$shop"
+	elif [ "$p_type" = "10" ]; then
+		echo "${s}：${giftName}" >> "$shop"
+	elif [ "$p_type" = "null" ]; then
+		return
+	else 
+		error "not support sign type: $p_type"
+	fi
+	echo "$1" >> "$shop_prize/$level"
 }
 
 
 
+input="$1"
 if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https:" >/dev/null;echo $?) -eq 0 ]; then
 	locations="$1"
 elif [ -f "$1" ]; then
@@ -324,6 +426,8 @@ elif [ -f "$1" ]; then
 	unset venderId
 fi
 echo -e "$locations"
+mkdir -vp locations
+echo -e "$locations" >> locations/locations
 echo
 
 for location in $(echo -e "$locations"); do
@@ -354,7 +458,7 @@ for location in $(echo -e "$locations"); do
 		if [ ! -z "$token" ]; then
 			location="https://${h5_svr}/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=${token}&"
 			echo "have token from $1"
-			get_shopSign_h5
+			get_shopSign_h5 nolocation
 		fi
 	fi
 done
@@ -364,3 +468,5 @@ exit 0
 
 #<a class="dtm-map-area" href="//h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B" style="position: absolute; width: 126.667px; height: 195.573px; top: 1278.83px; left: 1.01333px;"></a>
 
+
+# rm -rvf rr err repeatshop shop locations; find vender api_vender/ lzkj_sevenDay_vender dingzhi_vender -type f | xargs -i ./parse.sh {} >rr 2>err
