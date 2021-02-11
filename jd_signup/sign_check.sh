@@ -24,7 +24,7 @@ num=0
 for i in $(find shop/ -name shop -type f); do
 	dd=$(dirname "$i")
 	echo "check sign $i"
-	if [ -f "$dd\checked" ]; then
+	if [ -f "$dd/checked" ]; then
 		echo "checked. continue"
 		continue
 	fi
@@ -56,7 +56,7 @@ for i in $(find shop/ -name shop -type f); do
 			cp -rvf "$i" "$flag/shop_$(date '+%s')_${num}_delay"
 			let num++ || true
 		fi
-		touch "$dd\checked"
+		touch "$dd/checked"
 	fi
 done
 
