@@ -1,0 +1,73 @@
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613063494	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613063494	LZ_TOKEN_KEY	lztokenpage545c2b831d1842b5bdd34318d1534341
+use pt_key
+token: AAFgJWLuADBTHxTWx3eO21sV2RTUY-1Nu2oY9ca562AcxOEeYa0jkA0NhMT_8CcctZgmK17zBmw
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/12/21 01:01:34 516710600  1613062894
+肥鹅签到博世电动工具京东自营旗舰店
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1146224",
+    "giftType": "6",
+    "giftName": "2京豆",
+    "giftNum": "2",
+    "giftTotal": "750000",
+    "giftResidue": null,
+    "priceInfo": "0.02",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "be048f19810347b3bfda01a9c9f8f8fa",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "cJHWuV"
+}
+true
+签到博世电动工具京东自营旗舰店完成
+
+肥鹅签到博世电动工具京东自营旗舰店查看结果
+{
+  "signDetail": {
+    "20210212": "y"
+  },
+  "contiSignNum": 1,
+  "totalSignNum": 1
+}
+
+博世电动工具京东自营旗舰店活动规则
+{"msg":"","act":{"id":"3d6cd5a6cf4f47a8a28477116bdc9ad3","jdActivityId":null,"venderId":1000002423,"actName":"博世过年不打签到有礼","startTime":1612454400000,"endTime":1613836799000,"tplId":"0100","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423","shortUrl":"3.cn/100Y-jKRp","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/168156/14/5450/3638/601cf2c1E8d595982/362a76a5f67894e3.png","actRule":"1、活动时间：2021-02-05 00:00 - 2021-02-20 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[2京豆]；
+4、连续签到7天，有机会赠送[66京豆]；
+5、连续签到15天，有机会赠送[88京豆]；
+6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1612509889000,"updateTime":1612509889000,"activityType":null,"actTimeStr":"2021-02-05 00:00 至 2021-02-20 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"be048f19810347b3bfda01a9c9f8f8fa\",\"giftName\":\"2京豆\",\"giftNum\":\"2\",\"giftTotal\":\"750000\",\"giftType\":\"6\",\"id\":\"1146224\",\"priceInfo\":\"0.02\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"7\",\"gift\":{\"giftInfoId\":\"0c394923d81a4e97b931d5be5832487d\",\"giftName\":\"66京豆\",\"giftNum\":\"66\",\"giftTotal\":\"30000\",\"giftType\":\"6\",\"id\":\"1142974\",\"priceInfo\":\"0.66\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"15\",\"gift\":{\"giftInfoId\":\"bdf8f6c5ba2044258e2d2b7def469692\",\"giftName\":\"88京豆\",\"giftNum\":\"88\",\"giftTotal\":\"20000\",\"giftType\":\"6\",\"id\":\"1145034\",\"priceInfo\":\"0.88\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1146224","giftType":"6","giftName":"2京豆","giftNum":"2","giftTotal":"750000","giftResidue":null,"priceInfo":"0.02","shortLink":"","orginLink":null,"giftInfoId":"be048f19810347b3bfda01a9c9f8f8fa","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"7","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1142974","giftType":"6","giftName":"66京豆","giftNum":"66","giftTotal":"30000","giftResidue":null,"priceInfo":"0.66","shortLink":"","orginLink":null,"giftInfoId":"0c394923d81a4e97b931d5be5832487d","commonAddAwardVO":null}},{"dayNum":"15","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1145034","giftType":"6","giftName":"88京豆","giftNum":"88","giftTotal":"20000","giftResidue":null,"priceInfo":"0.88","shortLink":"","orginLink":null,"giftInfoId":"bdf8f6c5ba2044258e2d2b7def469692","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"560885,4672676,100005662209,100006857272,2555589,100004017147,100001220412,3521777,100014934866,100006670916,5133590,100014904988,100012567786,100016074276","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423",
+  "shortUrl": "3.cn/100Y-jKRp",
+  "actRule": "1、活动时间：2021-02-05 00:00 - 2021-02-20 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[2京豆]；\n4、连续签到7天，有机会赠送[66京豆]；\n5、连续签到15天，有机会赠送[88京豆]；\n6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}

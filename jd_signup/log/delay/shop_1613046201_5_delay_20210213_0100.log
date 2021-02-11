@@ -1,0 +1,22 @@
+
+02/12/21 01:00:18 553036600  1613062818
+赵签到赤木水耀星专卖店
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+02/12/21 01:00:18 809541300  1613062818
+王签到赤木水耀星专卖店
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+签到赤木水耀星专卖店完成
+
+赵签到赤木水耀星专卖店查看结果
+{"code":200,"data":{"signRecords":[{"signTime":1612540800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612627200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612713600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613062818705,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613232000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 1
+}
+
+王签到赤木水耀星专卖店查看结果
+{"code":200,"data":{"signRecords":[{"signTime":1612540800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612627200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612713600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613062818940,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613232000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 1
+}
+
