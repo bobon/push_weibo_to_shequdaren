@@ -1,0 +1,74 @@
+removed '/tmp/tmp.jmthq8TRZ7'
+赵 今天已经签到过. giftDate: 20210213
+***********************************************
+
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 1积分
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+actId=a29651e2037d44008a18c99c8d2241ac
+venderId=1000106868
+startTime=1609988040000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/-100LeEUU"
+actTimeStr="2021-01-07 10:54 至 2021-02-28 23:59"
+#店铺名称
+vendername="尤妮佳舒蔻京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a29651e2037d44008a18c99c8d2241ac&venderId=1000106868&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.01.07 10:54:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：10积分 10积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""1积分""
+giftDate="20210213"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""1积分""
+giftDate="20210213"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""1积分""
+giftDate="20210213"
+sign_res_info="
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 3 天
+签到总天数 3"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,45 @@
+removed '/tmp/tmp.l4EUEERrX7'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613146400	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613146400	LZ_TOKEN_KEY	lztokenpage7a00b3eada13417b8547dae993ded55b
+use pt_key
+token: AAFgJqbIADCwWALeRjb9ytHxTYFS3yiEa9ndI6Z-rOlky4xda_ndTR06sauh_YK_cafukKibCRg
+secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/13/21 00:03:21 104204500  1613145801
+赵签到认养一头牛官方旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/renyangyitouniu_jifen --> /home/myid/jd/jd_signup/vender/renyangyitouniu_jifen_del
+renamed '/home/myid/jd/jd_signup/vender/renyangyitouniu_jifen' -> '/home/myid/jd/jd_signup/vender/renyangyitouniu_jifen_del'
+
+赵签到认养一头牛官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+认养一头牛官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+#活动规则
+rule="每日签到，有机会赠送[5积分]；连续签到7天，有机会赠送[5积分]；
+连续签到21天，有机会赠送[认养一头牛酸奶6盒*1箱]；"
+
+#店铺名称
+vendername="认养一头牛官方旗舰店"
+#店铺激活码
+actId="adc8aba5f4f64f16988eb39b8586b3b9"
+##店铺id
+venderId="691399"
+
