@@ -5,8 +5,11 @@ actId="8723eda7d300499d9003f164a247cdd7"
 #店铺id
 venderId="1000002726"
 #长链接
-url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=8723eda7d300499d9003f164a247cdd7&venderId=1000002726&adsource=tg_xuanFuTuBiao"
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=8723eda7d300499d9003f164a247cdd7&venderId=1000002726"
 
+startTime=1612454400
+endTime=1613663940
+# 活动时间：2021-02-05 00:00 - 2021-02-18 23:59；
 # 奖励说明：
 actRule="
 7天签到

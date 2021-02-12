@@ -1,5 +1,14 @@
 #set -e
 
+if [ ! -f "$1" ]; then
+	echo "not find $1"
+	exit
+fi
+if [ ! -f "$2" ]; then
+	echo "not find $2"
+	exit
+fi
+
 a=false
 delay=1
 
@@ -12,7 +21,24 @@ unset user_Agent
 
 source $1
 source $2
+unset giftDate
+unset sign_res_info
+b=$(mktemp)
+sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
+source $b
+rm -rvf $b
+if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+	echo "$pin_name 今天已经签到过. giftDate: $giftDate"
+	echo "***********************************************"
+	echo -e "$sign_res_info"
+	echo "***********************************************"
+	echo
+	cat "$2"
+	exit
+fi
 
+v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
+isover=
 
 mkdir -vp "$pt_pin"
 cd "$pt_pin"
@@ -100,7 +126,15 @@ else
 	  echo -e "$t" > ${venderId}_signUp.html
 	  echo -e "$t" | jq
 	  echo "$t"| jq '.isOk' | grep 'true' && a=true
-	  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
+	  
+	  if [ $(echo "$t" | jq '.msg' | egrep '当前不存在有效的活动|活动已结束|活动已经结束|该活动已经不存在'>/dev/null;echo $?) -eq 0 ]; then
+	  	echo "活动已结束. $2 --> ${v_f}_del"
+	  	mv -vf "$2" "${v_f}_del"
+	  	isover=true
+	  	a=true
+	  	break
+	  fi
+	  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
 	fi
 
 	if [ "$a" = "true" ]; then
@@ -112,16 +146,22 @@ else
 	fi
 	done
 
-	if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-		sleep 3
+	if [ "$3" = "now" ]; then 
+		sleep 0.5
+	elif [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ]; then 
+		sleep $RANDOM_num
 	else
-		sleep 38
+		let RANDOM_num=RANDOM_num*2
+		sleep $RANDOM_num
 	fi
 
 fi
 
-echo
-echo "${pin_name}签到${vendername}查看结果"
+source /home/myid/jd/jd_signup/common.sh
+if [ -z "$isover" ]; then
+	sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+fi
+
 s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getSignInfo' \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
@@ -134,12 +174,11 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.
   -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
-#echo -e "$s"
-echo -e "$s" | jq '{signDetail, contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'
+if [ -z "$isover" ]; then
+	write_sign_res_lzkj "$pin_name ${pt_pin}" ${2} "$s" "$t"
+fi
 
-echo
-echo "${vendername}活动规则"
-t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
+p=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
   -H 'Origin: https://lzkj-isv.isvjcloud.com' \
@@ -151,6 +190,20 @@ t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.
   -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}&actId=${actId}")
-echo -e "$t" 
+
+
 echo
-echo "$t" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'
+echo "${pin_name}签到${vendername}查看结果"
+echo -e "$s"
+echo
+echo -e "$s" | jq '{signDetail, contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'
+echo
+echo "${vendername}活动规则"
+echo -e "$p" 
+echo
+echo "$p" | jq '{actUrl: .act.actUrl, shortUrl: .act.shortUrl, actRule: .act.actRule}'
+if [ -z "$isover" ]; then
+	cat "$2"
+else
+	cat "${v_f}_del"
+fi

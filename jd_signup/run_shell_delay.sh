@@ -1,19 +1,32 @@
 log_f=$(date -d next-day +"%Y%m%d_%H%M")
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/COMOTEK_delay > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/LG_delay > /home/myid/jd/jd_signup/log/delay/LG_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/aikemi_delay > /home/myid/jd/jd_signup/log/delay/aikemi_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/d_233621_delay > /home/myid/jd/jd_signup/log/delay/d_233621_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/dishini_delay > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/keleige_delay > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/everybuild_delay > /home/myid/jd/jd_signup/log/delay/everybuild_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046201_5_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046201_5_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046205_6_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046205_6_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046213_7_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046213_7_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046243_10_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046243_10_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046251_11_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046251_11_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046255_12_delay > /home/myid/jd/jd_signup/log/delay/shop_1613046255_12_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613049999_0_delay > /home/myid/jd/jd_signup/log/delay/shop_1613049999_0_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613050528_1_delay > /home/myid/jd/jd_signup/log/delay/shop_1613050528_1_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613050632_5_delay > /home/myid/jd/jd_signup/log/delay/shop_1613050632_5_delay_${log_f}.log 2>&1
+sleep 1
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613052219_22_delay > /home/myid/jd/jd_signup/log/delay/shop_1613052219_22_delay_${log_f}.log 2>&1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/weizhi5_delay > /home/myid/jd/jd_signup/log/delay/weizhi5_delay_${log_f}.log 2>&1
 sleep 2
 sleep 2
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/aoyouruye_delay > /home/myid/jd/jd_signup/log/delay/config_01_aoyouruye_delay_${log_f}.log 2>&1 &

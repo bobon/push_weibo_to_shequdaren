@@ -152,10 +152,13 @@ else
 	fi
 	done
 
-	if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-		sleep 3
+	if [ "$3" = "now" ]; then 
+		sleep 0.5
+	elif [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ]; then 
+		sleep $RANDOM_num
 	else
-		sleep 38
+		let RANDOM_num=RANDOM_num*2
+		sleep $RANDOM_num
 	fi
 
 fi
@@ -177,97 +180,3 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDa
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
 echo -e "$s"
 #echo -e "$s" | jq '{signDetail, contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'
-
-exit
-
-
-
-
-
-
-
-
-a=false
-b=false
-delay=1
-
-source $1
-source $2
-
-for i in $(seq 1 $loop_num); do
-
-if [ "$a" = "false" ]; then
-echo
-date +"%x %X %N  %s"
-echo "${pin1_name}签到$vendername"
-
-t=$(curl -sS -k 'https://${svr}/sign/sevenDay/wx/signUp' \
-  -H "Host: ${svr}" \
-  -H "Accept: application/json" \
-  -H "Origin: https://${svr}" \
-  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
-  -H "Accept-Language: en-us,en" \
-  -H "Referer: https://${svr}/sign/sevenDay/signActivity" \
-	-X POST --data-raw "actId=${actId}&pin=${pin1_7}")  
-  echo -e "$t"
-  echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束' && a=true
-fi
-
-if [ "$b" = "false" ]; then
-echo
-date +"%x %X %N  %s"
-echo "${pin2_name}签到$vendername"
-t=$(curl -sS -k 'https://${svr}/sign/sevenDay/wx/signUp' \
-  -H "Host: ${svr}" \
-  -H "Accept: application/json" \
-  -H "Origin: https://${svr}" \
-  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
-  -H "Accept-Language: en-us,en" \
-  -H "Referer: https://${svr}/sign/sevenDay/signActivity" \
-  -X POST --data-raw "actId=${actId}&pin=${pin2_7}")
-	echo -e "$t"
-  echo "$t"| jq '.isOk' | grep 'true' && b=true
-  echo "$t" | jq '.msg' | egrep '当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束' && b=true
-fi	
-
-if [ "$a" = "true" ] && [ "$b" = "true" ]; then
-echo "签到${vendername}完成"
-	break
-else
-	time sleep $(echo "0.2 * $delay"|bc)
-	delay=$(($delay + 1))
-fi
-done
-
-if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-	sleep 3
-else
-	sleep 45
-fi
-
-echo
-echo "${pin1_name}签到${vendername}查看结果"
-s=$(curl -sS -k 'https://${svr}/sign/sevenDay/wx/getSignInfo' \
-  -H "Host: ${svr}" \
-  -H "Accept: application/json" \
-  -H "Origin: https://${svr}" \
-  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
-  -H "Accept-Language: en-us,en" \
-	-X POST --data-raw "venderId=${venderId}&actId=${actId}&pin=${pin1_7}" )  
-echo -e "$s"
-echo -e "$s" | jq '{contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'
-
-echo
-echo "${pin2_name}签到${vendername}查看结果"
-s=$(curl -sS -k 'https://${svr}/sign/sevenDay/wx/getSignInfo' \
-  -H "Host: ${svr}" \
-  -H "Accept: application/json" \
-  -H "Origin: https://${svr}" \
-  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
-  -H "Accept-Language: en-us,en" \
-  -X POST --data-raw "venderId=${venderId}&actId=${actId}&pin=${pin2_7}" )
-echo -e "$s"
-echo -e "$s" | jq '{contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'
-
-echo "$rule"

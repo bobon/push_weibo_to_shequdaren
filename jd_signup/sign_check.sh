@@ -18,8 +18,9 @@ error() {
 
 
 mkdir -vp log
-old_venderId=$(grep -r '^venderId=' vender api_vender lzkj_sevenDay_vender | egrep -v '_del:|_fq:' | cut -d ':' -f 2 | sed -r -e 's,",,g' | sort | uniq)
-
+rm -rvf log/check_new_shop
+rm -rvf log/check_new_shop.sh
+touch log/check_new_shop
 num=0
 for i in $(find shop/ -name shop -type f); do
 	dd=$(dirname "$i")
@@ -53,7 +54,7 @@ for i in $(find shop/ -name shop -type f); do
 		echo check $t
 		if [ $(echo -e "$old_venderId" | grep "=$t">/dev/null;echo $?) -ne 0 ]; then
 			echo "发现未签到的活动. $i --> $flag"
-			cp -rvf "$i" "$flag/shop_$(date '+%s')_${num}_delay"
+			echo "venderId=$t;cp -rvf \"$i\" \"$flag/shop_$(date '+%s')_${num}_delay\"" >> log/check_new_shop
 			let num++ || true
 		fi
 		touch "$dd/checked"
@@ -61,8 +62,12 @@ for i in $(find shop/ -name shop -type f); do
 done
 
 old_venderId=$(grep -r '^venderId=' vender api_vender lzkj_sevenDay_vender | egrep -v '_del:|_fq:' | cut -d ':' -f 2 | sed -r -e 's,",,g' | sort | uniq)
+old_venderId="$old_venderId\n"$(grep -r '^venderId=' fq_vender | cut -d ':' -f 2 | sed -r -e 's,",,g' | sort | uniq)
 new_venderId=$(grep -r '^venderId=' shop --include=shop | cut -d ':' -f 2 | sed -r -e 's,",,g')
 echo "check find un_check:"
 (echo -e "$old_venderId\n$new_venderId" | sort | uniq -u; echo -e "$new_venderId") | sort | uniq -d
 echo "未签到的活动:"
 find ./ -name 'shop_[0-9]*_delay'
+
+(echo -e "$old_venderId";cat log/check_new_shop) | sort -r -t ';' -k 1,1 | sed -r -e 's,;|$,                                        ,' | uniq -w 40 -u | grep 'cp -rvf' | sed -r -e 's,.*cp,cp,' > log/check_new_shop.sh
+bash log/check_new_shop.sh

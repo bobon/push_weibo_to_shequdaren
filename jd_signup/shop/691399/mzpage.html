@@ -255,7 +255,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
         shopName: ('认养一头牛官方旗舰店').replace(/&#39;/g, "'"),
         browse: '',
         isGreatSale: !!Number(''),
-        servTime: '1613038198',
+        servTime: '1613102028',
         ptqq: '0' === '1',
         isPaimaiShop: '0' === '1',
         isNewPingou: !!~['3', '5', '9'].indexOf('0'),
@@ -757,6 +757,177 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
             {
                "children" : [
                   {
+                     "containerType" : "com.jd.countDown",
+                     "dataMap" : {
+                        "source" : {
+                           "value" : "$countDown"
+                        }
+                     },
+                     "events" : [
+                        {
+                           "actions" : [
+                              {
+                                 "break" : false,
+                                 "params" : [
+                                    {
+                                       "paramName" : "跳转sku",
+                                       "paramValue" : "$countDown.detail"
+                                    }
+                                 ],
+                                 "type" : "openURL"
+                              },
+                              {
+                                 "break" : false,
+                                 "param" : {
+                                    "eventContext" : "$countDown.detail",
+                                    "eventId" : "Terminator_Countdown"
+                                 },
+                                 "type" : "jdmtav2"
+                              }
+                           ],
+                           "type" : "click"
+                        }
+                     ],
+                     "source" : "$countDown",
+                     "style" : {
+                        "backgroundColor" : "$theme.backgroundColor.color",
+                        "backgroundImage" : "$theme.backgroundImage.imageUrl",
+                        "bannerPosition" : "bottom",
+                        "finishTextFontSize" : "15",
+                        "height" : "-2",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "textFontColor" : "#ffffff",
+                        "textFontSize" : "12",
+                        "timeBackgroundColor" : "#ffffff",
+                        "timeFontColor" : "$theme.textColor.color",
+                        "timeFontSize" : "14",
+                        "viewMoreBtnImage" : "//m.360buyimg.com/cms/jfs/t1/30120/17/6473/1754/5c8f094bE1f83dab7/0a9260edcb84c3b3.png",
+                        "width" : "-1"
+                     }
+                  }
+               ],
+               "containerType" : "container",
+               "style" : {
+                  "height" : "-2",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "width" : "-1"
+               }
+            },
+            {
+               "containerType" : "container",
+               "style" : {
+                  "height" : "5",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "visible" : "$showFloorGap",
+                  "width" : "-1"
+               }
+            }
+         ],
+         "containerType" : "container",
+         "dataMap" : {
+            "countDown" : {
+               "middleType" : "J_M_COUNTDOWN",
+               "type" : "sku-promotion",
+               "value" : {
+                  "data" : {
+                     "dataSourceType" : 2,
+                     "detail" : {
+                        "configDataType" : 1,
+                        "configDataValue" : {
+                           "clickUrl" : "javascript:;",
+                           "skuIds" : "13638911185"
+                        }
+                     },
+                     "endTime" : "2021-02-13 06:59:59",
+                     "imgHeight" : "570",
+                     "imgUrl" : "//img10.360buyimg.com/cms/jfs/t1/163308/35/6336/221718/60256520E6be68792/f678d461ab0a2654.jpg",
+                     "imgWidth" : "1125",
+                     "startTime" : "2021-02-12 06:00:00"
+                  }
+               }
+            },
+            "showFloorGap" : {
+               "middleType" : "J_NORMAL_ARRAY",
+               "type" : "text",
+               "value" : {
+                  "dataSourceType" : 0,
+                  "text" : "false"
+               }
+            },
+            "theme" : {
+               "middleType" : "J_STYLE_EDITOR",
+               "type" : "styleConfig",
+               "value" : {
+                  "data" : {
+                     "backgroundColor" : {
+                        "color" : "#39B6F2",
+                        "visible" : true
+                     },
+                     "backgroundImage" : {
+                        "imageUrl" : "//m.360buyimg.com/cms/jfs/t1/27281/3/7241/16241/5c6e6e8eEf0219393/9e585263c19954a5.jpg",
+                        "visible" : true
+                     },
+                     "textColor" : {
+                        "color" : "#4080DD",
+                        "visible" : true
+                     }
+                  }
+               }
+            }
+         },
+         "style" : {
+            "height" : "-2",
+            "isPointDisplay" : true,
+            "isPointHide" : false,
+            "orientation" : "vertical",
+            "scroll" : 0,
+            "scrollBar" : 0,
+            "scrollBounce" : 0,
+            "width" : "-1"
+         }
+      },
+      "decoPath" : "mCountdown",
+      "defaultFlag" : 2,
+      "floorHeight" : 5,
+      "floorId" : "11336423914",
+      "floorPosition" : "content",
+      "floorStatus" : 0,
+      "middleTemplateId" : 11,
+      "middleTypes" : [ "J_STYLE_EDITOR", "J_NORMAL_ARRAY", "J_M_COUNTDOWN" ],
+      "moduleDesignerType" : "TERMINATOR",
+      "moduleFlag" : "mCountdown",
+      "moduleId" : 16,
+      "moduleName" : "倒计时",
+      "moduleType" : 100,
+      "previewUri" : "//img12.360buyimg.com/zx/jfs/t19408/190/1180131468/7148/b141e558/5abf3161N426e9826.png",
+      "radiusFlag" : 0,
+      "scv" : "6.6.9",
+      "sizeRule" : 375,
+      "types" : [ "styleConfig", "text", "sku-promotion" ],
+      "visible" : true
+   },
+   {
+      "biSort" : false,
+      "containerData" : {
+         "children" : [
+            {
+               "children" : [
+                  {
                      "containerType" : "container",
                      "style" : {
                         "backgroundColor" : "#F0250F",
@@ -1157,24 +1328,24 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                   "data" : [
                      {
                         "cid" : 9434,
-                        "imageUrl" : "//img13.360buyimg.com/n1/jfs/t1/170685/23/6353/433957/6022b091E940a065c/ed216471c0008672.png",
+                        "imageUrl" : "//img13.360buyimg.com/n1/jfs/t1/163711/13/6581/499926/602560bdEd06e7bee/4610dfe1b2ffe706.png",
                         "price" : "￥99.00",
                         "promoStatus" : 0,
                         "skuId" : 13547555203,
-                        "skuImg" : "//img13.360buyimg.com/n1/jfs/t1/170685/23/6353/433957/6022b091E940a065c/ed216471c0008672.png",
+                        "skuImg" : "//img13.360buyimg.com/n1/jfs/t1/163711/13/6581/499926/602560bdEd06e7bee/4610dfe1b2ffe706.png",
                         "skuName" : "【2提装】认养一头牛 全脂纯牛奶 250ml*12盒*2箱儿童学生成人营养早餐纯奶年货精选整箱 两提装"
                      },
                      {
                         "cid" : 9434,
-                        "imageUrl" : "//img13.360buyimg.com/n1/jfs/t1/169215/23/6212/530378/6022b097E056bf716/7b0b5ef16ac0e83a.png",
+                        "imageUrl" : "//img13.360buyimg.com/n1/jfs/t1/157827/12/6740/568074/602560bdE8065c5f6/782b77216070a8d1.png",
                         "price" : "￥99.00",
                         "promoStatus" : 0,
                         "skuId" : 13597038622,
-                        "skuImg" : "//img13.360buyimg.com/n1/jfs/t1/169215/23/6212/530378/6022b097E056bf716/7b0b5ef16ac0e83a.png",
+                        "skuImg" : "//img13.360buyimg.com/n1/jfs/t1/157827/12/6740/568074/602560bdE8065c5f6/782b77216070a8d1.png",
                         "skuName" : "【2提装】认养一头牛 常温原味法式酸奶 200克*12盒*2箱 儿童学生风味酸牛奶年货送礼整箱 两箱装"
                      }
                   ],
-                  "key" : "6633164_1003821914995919"
+                  "key" : "6633543_1003821914995919"
                }
             },
             "title" : {
@@ -1455,7 +1626,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                   "data" : [
                      {
                         "h" : 314,
-                        "imageUrl" : "//img14.360buyimg.com/cms/jfs/t1/161643/34/6150/498236/6022239eE0adbc305/6f6eeed454655dc1.jpg",
+                        "imageUrl" : "//img14.360buyimg.com/cms/jfs/t1/167957/40/5561/498236/602103daE58df439b/7b4f15835d21bed9.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -1519,7 +1690,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
          "preloadImages" : [
             {
                "imageHeight" : "314",
-               "imageUrl" : "//img14.360buyimg.com/cms/jfs/t1/161643/34/6150/498236/6022239eE0adbc305/6f6eeed454655dc1.jpg",
+               "imageUrl" : "//img14.360buyimg.com/cms/jfs/t1/167957/40/5561/498236/602103daE58df439b/7b4f15835d21bed9.jpg",
                "imageWidth" : "375"
             }
          ]
@@ -1651,8 +1822,8 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                            }
                         },
                         "h" : 480,
-                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/157213/21/6606/482829/601f9fe5Eac2db264/b1916b9177511bb7.jpg",
-                        "title" : "10-12日常KV.jpg",
+                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/154503/5/19148/412579/601fa01aE1aa66fd5/02fcf83815c8cbc4.jpg",
+                        "title" : "13-15闪购.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -1666,7 +1837,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                            }
                         },
                         "h" : 480,
-                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/155942/15/9408/281548/60210f4aE53c5f8dc/d6fa5d52870c62c3.jpg",
+                        "imageUrl" : "//img13.360buyimg.com/cms/jfs/t1/155942/15/9408/281548/60210f4aE53c5f8dc/d6fa5d52870c62c3.jpg",
                         "title" : "2414211----.jpg",
                         "w" : 375,
                         "x" : 0,
@@ -1704,7 +1875,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                      }
                   ],
                   "dataSourceType" : 2,
-                  "materialId" : "01RyfENYzBpFks",
+                  "materialId" : "gWDZtFTeHI4wsp",
                   "materialType" : 2,
                   "max" : 4
                }
@@ -1727,12 +1898,12 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
          "preloadImages" : [
             {
                "imageHeight" : "480",
-               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/157213/21/6606/482829/601f9fe5Eac2db264/b1916b9177511bb7.jpg",
+               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/154503/5/19148/412579/601fa01aE1aa66fd5/02fcf83815c8cbc4.jpg",
                "imageWidth" : "375"
             },
             {
                "imageHeight" : "480",
-               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/155942/15/9408/281548/60210f4aE53c5f8dc/d6fa5d52870c62c3.jpg",
+               "imageUrl" : "//img13.360buyimg.com/cms/jfs/t1/155942/15/9408/281548/60210f4aE53c5f8dc/d6fa5d52870c62c3.jpg",
                "imageWidth" : "375"
             },
             {
@@ -3062,8 +3233,8 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                "value" : {
                   "data" : [
                      {
-                        "h" : 68,
-                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/152994/20/17277/27132/601f88b6Ea1cc586b/c6c8fbcdb5810d08.jpg",
+                        "h" : 85,
+                        "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/150484/22/17850/32756/60152cd1E8488a4a5/36ccaddccce2d3a7.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -3087,7 +3258,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                         "price" : ""
                      }
                   ],
-                  "hotAreaHeight" : 68
+                  "hotAreaHeight" : 85
                }
             },
             "showFloorGap" : {
@@ -3115,14 +3286,14 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
       "extInfo" : {
          "preloadImages" : [
             {
-               "imageHeight" : "68",
-               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/152994/20/17277/27132/601f88b6Ea1cc586b/c6c8fbcdb5810d08.jpg",
+               "imageHeight" : "85",
+               "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/150484/22/17850/32756/60152cd1E8488a4a5/36ccaddccce2d3a7.jpg",
                "imageWidth" : "375"
             }
          ]
       },
       "floorHeight" : 5,
-      "floorId" : "91320949059",
+      "floorId" : "91074485227",
       "floorPosition" : "content",
       "floorStatus" : 2,
       "middleTemplateId" : 9,
@@ -3380,8 +3551,8 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                "value" : {
                   "data" : [
                      {
-                        "h" : 239,
-                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/169232/7/5944/181162/601f88b8E12c9e2dc/baddf4a5ac09c18a.jpg",
+                        "h" : 229,
+                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/153782/22/17015/201758/60152cd1E550fe93b/3d1e03ddf13f9b81.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -3397,17 +3568,17 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                   "data" : [
                      {
                         "coordinate" : {
-                           "h" : 702,
-                           "w" : 558,
-                           "x" : 15,
-                           "y" : 12
+                           "h" : 675,
+                           "w" : 549,
+                           "x" : 0,
+                           "y" : 3
                         },
                         "dataSourceType" : 2,
                         "detail" : {
                            "configDataType" : 1,
                            "configDataValue" : {
                               "clickUrl" : "javascript:;",
-                              "skuIds" : "13547555203"
+                              "skuIds" : "13972443583"
                            }
                         },
                         "jdPrice" : false,
@@ -3417,10 +3588,10 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                      },
                      {
                         "coordinate" : {
-                           "h" : 693,
-                           "w" : 522,
-                           "x" : 573,
-                           "y" : 18
+                           "h" : 678,
+                           "w" : 558,
+                           "x" : 552,
+                           "y" : 3
                         },
                         "dataSourceType" : 2,
                         "detail" : {
@@ -3436,7 +3607,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                         "priceStyleConfig" : {}
                      }
                   ],
-                  "hotAreaHeight" : 239
+                  "hotAreaHeight" : 229
                }
             },
             "showFloorGap" : {
@@ -3464,14 +3635,14 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
       "extInfo" : {
          "preloadImages" : [
             {
-               "imageHeight" : "239",
-               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/169232/7/5944/181162/601f88b8E12c9e2dc/baddf4a5ac09c18a.jpg",
+               "imageHeight" : "229",
+               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/153782/22/17015/201758/60152cd1E550fe93b/3d1e03ddf13f9b81.jpg",
                "imageWidth" : "375"
             }
          ]
       },
       "floorHeight" : 5,
-      "floorId" : "91168449676",
+      "floorId" : "91188791467",
       "floorPosition" : "content",
       "floorStatus" : 2,
       "middleTemplateId" : 9,
@@ -3729,675 +3900,8 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                "value" : {
                   "data" : [
                      {
-                        "h" : 232,
-                        "imageUrl" : "//img11.360buyimg.com/cms/jfs/t1/166817/35/5847/192778/601f88b8Eb93e5e5c/6d306c0ebf02c636.jpg",
-                        "w" : 375,
-                        "x" : 0,
-                        "y" : 0
-                     }
-                  ],
-                  "dataSourceType" : 0
-               }
-            },
-            "pictureHotspot" : {
-               "middleType" : "J_PICTURE_HOTSPOT",
-               "type" : "hotArea",
-               "value" : {
-                  "data" : [
-                     {
-                        "coordinate" : {
-                           "h" : 681,
-                           "w" : 546,
-                           "x" : 12,
-                           "y" : 6
-                        },
-                        "dataSourceType" : 2,
-                        "detail" : {
-                           "configDataType" : 1,
-                           "configDataValue" : {
-                              "clickUrl" : "javascript:;",
-                              "skuIds" : "69594137031"
-                           }
-                        },
-                        "jdPrice" : false,
-                        "prefix" : "￥",
-                        "price" : "",
-                        "priceStyleConfig" : {}
-                     },
-                     {
-                        "coordinate" : {
-                           "h" : 681,
-                           "w" : 552,
-                           "x" : 567,
-                           "y" : 6
-                        },
-                        "dataSourceType" : 2,
-                        "detail" : {
-                           "configDataType" : 1,
-                           "configDataValue" : {
-                              "clickUrl" : "javascript:;",
-                              "skuIds" : "35538829966"
-                           }
-                        },
-                        "jdPrice" : false,
-                        "prefix" : "￥",
-                        "price" : "",
-                        "priceStyleConfig" : {}
-                     }
-                  ],
-                  "hotAreaHeight" : 232
-               }
-            },
-            "showFloorGap" : {
-               "middleType" : "J_NORMAL_ARRAY",
-               "type" : "text",
-               "value" : {
-                  "dataSourceType" : 0,
-                  "text" : "false"
-               }
-            }
-         },
-         "style" : {
-            "height" : "-2",
-            "isPointDisplay" : true,
-            "isPointHide" : false,
-            "orientation" : "vertical",
-            "scroll" : 0,
-            "scrollBar" : 0,
-            "scrollBounce" : 0,
-            "width" : "-1"
-         }
-      },
-      "decoPath" : "mPictureHotspot",
-      "defaultFlag" : 2,
-      "extInfo" : {
-         "preloadImages" : [
-            {
-               "imageHeight" : "232",
-               "imageUrl" : "//img11.360buyimg.com/cms/jfs/t1/166817/35/5847/192778/601f88b8Eb93e5e5c/6d306c0ebf02c636.jpg",
-               "imageWidth" : "375"
-            }
-         ]
-      },
-      "floorHeight" : 5,
-      "floorId" : "9594076495",
-      "floorPosition" : "content",
-      "floorStatus" : 2,
-      "middleTemplateId" : 9,
-      "middleTypes" : [ "J_PICTURE_HOTSPOT", "J_NORMAL_ARRAY" ],
-      "moduleDesignerType" : "TERMINATOR",
-      "moduleFlag" : "mPictureHotspot",
-      "moduleId" : 10,
-      "moduleName" : "图片热区",
-      "moduleType" : 100,
-      "previewUri" : "//img13.360buyimg.com/zx/jfs/t17128/167/1178627518/5678/ae7eb923/5abf3179Nd8bbaf29.png",
-      "radiusFlag" : 0,
-      "scv" : "7.0.0",
-      "sizeRule" : 375,
-      "types" : [ "hotArea", "jsonArray", "text" ],
-      "visible" : true
-   },
-   {
-      "biSort" : false,
-      "containerData" : {
-         "children" : [
-            {
-               "children" : [
-                  {
-                     "containerType" : "container",
-                     "foreach" : {
-                        "arrayName" : "$hotComponent",
-                        "template" : {
-                           "accessibility" : {
-                              "accessibilityMap" : {
-                                 "accessibilityLabel" : "图片热区",
-                                 "accessibilityRole" : "image"
-                              },
-                              "accessible" : true
-                           },
-                           "containerType" : "image",
-                           "dataMap" : {
-                              "url" : {
-                                 "value" : "$hotComponent.[?].imageUrl"
-                              }
-                           },
-                           "style" : {
-                              "height" : "$hotComponent.[?].h",
-                              "isCircle" : false,
-                              "isPointDisplay" : true,
-                              "isPointHide" : false,
-                              "needPlaceholder" : true,
-                              "needScale" : true,
-                              "orientation" : "vertical",
-                              "placeholderType" : "auto",
-                              "scroll" : 0,
-                              "scrollBar" : 0,
-                              "scrollBounce" : 0,
-                              "width" : "$hotComponent.[?].w"
-                           },
-                           "urlRefer" : "$hotComponent.[?].imageUrl"
-                        }
-                     },
-                     "style" : {
-                        "height" : "-1",
-                        "isPointDisplay" : true,
-                        "isPointHide" : false,
-                        "orientation" : "vertical",
-                        "scroll" : 0,
-                        "scrollBar" : 0,
-                        "scrollBounce" : 0,
-                        "width" : "-1"
-                     }
-                  },
-                  {
-                     "containerType" : "container",
-                     "foreach" : {
-                        "arrayName" : "$pictureHotspot.data",
-                        "template" : {
-                           "conditions" : [
-                              {
-                                 "children" : [
-                                    {
-                                       "children" : [
-                                          {
-                                             "containerType" : "text",
-                                             "dataMap" : {
-                                                "jdPrice" : {
-                                                   "value" : "$pictureHotspot.data.[?].jdPrice"
-                                                },
-                                                "jdprice" : {
-                                                   "value" : false
-                                                },
-                                                "prefix" : {
-                                                   "value" : "$pictureHotspot.data.[?].prefix"
-                                                },
-                                                "value" : {
-                                                   "value" : "$pictureHotspot.data.[?].price"
-                                                }
-                                             },
-                                             "events" : [
-                                                {
-                                                   "actions" : [
-                                                      {
-                                                         "break" : false,
-                                                         "params" : [
-                                                            {
-                                                               "paramName" : "跳转sku",
-                                                               "paramValue" : "$pictureHotspot.data.[?].detail"
-                                                            }
-                                                         ],
-                                                         "type" : "openURL"
-                                                      },
-                                                      {
-                                                         "break" : false,
-                                                         "param" : {
-                                                            "eventContext" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds",
-                                                            "eventId" : "Terminator_Recommend"
-                                                         },
-                                                         "type" : "jdmtav2"
-                                                      }
-                                                   ],
-                                                   "type" : "click"
-                                                }
-                                             ],
-                                             "jdPrice" : "$pictureHotspot.data.[?].jdPrice",
-                                             "jdprice" : false,
-                                             "prefixRefer" : "$pictureHotspot.data.[?].prefix",
-                                             "style" : {
-                                                "fontFamily" : "JDZhengHT-Regular",
-                                                "fontSize" : "$pictureHotspot.data.[?].priceStyleConfig.fontSize",
-                                                "gravity" : 4,
-                                                "height" : "-2",
-                                                "isPointDisplay" : true,
-                                                "isPointHide" : false,
-                                                "lines" : 1,
-                                                "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xMobile",
-                                                "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yMobile",
-                                                "orientation" : "vertical",
-                                                "scroll" : 0,
-                                                "scrollBar" : 0,
-                                                "scrollBounce" : 0,
-                                                "textColor" : "$pictureHotspot.data.[?].priceStyleConfig.color",
-                                                "width" : "-2"
-                                             },
-                                             "valueRefer" : "$pictureHotspot.data.[?].price"
-                                          }
-                                       ],
-                                       "containerType" : "container",
-                                       "style" : {
-                                          "height" : "$pictureHotspot.data.[?].priceStyleConfig.hHotMobile",
-                                          "isPointDisplay" : true,
-                                          "isPointHide" : false,
-                                          "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xHotMobile",
-                                          "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yHotMobile",
-                                          "orientation" : "vertical",
-                                          "scroll" : 0,
-                                          "scrollBar" : 0,
-                                          "scrollBounce" : 0,
-                                          "width" : "$pictureHotspot.data.[?].priceStyleConfig.wHotMobile"
-                                       }
-                                    }
-                                 ],
-                                 "left" : "$pictureHotspot.data.[?].showSkuPrice",
-                                 "right" : "1",
-                                 "style" : {
-                                    "height" : "$pictureHotspot.hotAreaHeight",
-                                    "layout" : "absolute",
-                                    "width" : "-1"
-                                 },
-                                 "type" : "=="
-                              }
-                           ],
-                           "containerType" : "container",
-                           "skuNode" : {
-                              "name" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds"
-                           },
-                           "style" : {
-                              "height" : "-1",
-                              "isPointDisplay" : true,
-                              "isPointHide" : false,
-                              "orientation" : "vertical",
-                              "scroll" : 0,
-                              "scrollBar" : 0,
-                              "scrollBounce" : 0,
-                              "width" : "-1"
-                           }
-                        }
-                     },
-                     "style" : {
-                        "height" : "$pictureHotspot.hotAreaHeight",
-                        "isPointDisplay" : true,
-                        "isPointHide" : false,
-                        "layout" : "absolute",
-                        "orientation" : "vertical",
-                        "scroll" : 0,
-                        "scrollBar" : 0,
-                        "scrollBounce" : 0,
-                        "width" : "-1"
-                     }
-                  }
-               ],
-               "containerType" : "container",
-               "events" : [
-                  {
-                     "actions" : [
-                        {
-                           "break" : false,
-                           "params" : [
-                              {
-                                 "paramName" : "热区链接",
-                                 "paramType" : "hotArea",
-                                 "paramValue" : "$pictureHotspot"
-                              }
-                           ],
-                           "type" : "openURL"
-                        },
-                        {
-                           "break" : false,
-                           "param" : {
-                              "eventId" : "Terminator_HotArea"
-                           },
-                           "type" : "jdmtav2"
-                        }
-                     ],
-                     "type" : "click"
-                  }
-               ],
-               "style" : {
-                  "height" : "$pictureHotspot.hotAreaHeight",
-                  "isPointDisplay" : true,
-                  "isPointHide" : false,
-                  "layout" : "absolute",
-                  "orientation" : "vertical",
-                  "scroll" : 0,
-                  "scrollBar" : 0,
-                  "scrollBounce" : 0,
-                  "width" : "-1"
-               }
-            },
-            {
-               "containerType" : "container",
-               "style" : {
-                  "backgroundColor" : "#f3f4f7",
-                  "height" : "5",
-                  "isPointDisplay" : true,
-                  "isPointHide" : false,
-                  "orientation" : "vertical",
-                  "scroll" : 0,
-                  "scrollBar" : 0,
-                  "scrollBounce" : 0,
-                  "visible" : "$showFloorGap",
-                  "width" : "-1"
-               }
-            }
-         ],
-         "containerType" : "container",
-         "dataMap" : {
-            "hotComponent" : {
-               "type" : "jsonArray",
-               "value" : {
-                  "data" : [
-                     {
-                        "h" : 75,
-                        "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/154097/7/17711/27860/601f88b6E428f38ca/801742ebf60d350c.jpg",
-                        "w" : 375,
-                        "x" : 0,
-                        "y" : 0
-                     }
-                  ],
-                  "dataSourceType" : 0
-               }
-            },
-            "pictureHotspot" : {
-               "middleType" : "J_PICTURE_HOTSPOT",
-               "type" : "hotArea",
-               "value" : {
-                  "data" : [
-                     {
-                        "dataSourceType" : 0,
-                        "detail" : {
-                           "key" : "testKey"
-                        },
-                        "jdPrice" : false,
-                        "prefix" : "￥",
-                        "price" : ""
-                     }
-                  ],
-                  "hotAreaHeight" : 75
-               }
-            },
-            "showFloorGap" : {
-               "middleType" : "J_NORMAL_ARRAY",
-               "type" : "text",
-               "value" : {
-                  "dataSourceType" : 0,
-                  "text" : "false"
-               }
-            }
-         },
-         "style" : {
-            "height" : "-2",
-            "isPointDisplay" : true,
-            "isPointHide" : false,
-            "orientation" : "vertical",
-            "scroll" : 0,
-            "scrollBar" : 0,
-            "scrollBounce" : 0,
-            "width" : "-1"
-         }
-      },
-      "decoPath" : "mPictureHotspot",
-      "defaultFlag" : 2,
-      "extInfo" : {
-         "preloadImages" : [
-            {
-               "imageHeight" : "75",
-               "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/154097/7/17711/27860/601f88b6E428f38ca/801742ebf60d350c.jpg",
-               "imageWidth" : "375"
-            }
-         ]
-      },
-      "floorHeight" : 5,
-      "floorId" : "9458726526",
-      "floorPosition" : "content",
-      "floorStatus" : 2,
-      "middleTemplateId" : 9,
-      "middleTypes" : [ "J_PICTURE_HOTSPOT", "J_NORMAL_ARRAY" ],
-      "moduleDesignerType" : "TERMINATOR",
-      "moduleFlag" : "mPictureHotspot",
-      "moduleId" : 10,
-      "moduleName" : "图片热区",
-      "moduleType" : 100,
-      "previewUri" : "//img13.360buyimg.com/zx/jfs/t17128/167/1178627518/5678/ae7eb923/5abf3179Nd8bbaf29.png",
-      "radiusFlag" : 0,
-      "scv" : "7.0.0",
-      "sizeRule" : 375,
-      "types" : [ "hotArea", "jsonArray", "text" ],
-      "visible" : true
-   },
-   {
-      "biSort" : false,
-      "containerData" : {
-         "children" : [
-            {
-               "children" : [
-                  {
-                     "containerType" : "container",
-                     "foreach" : {
-                        "arrayName" : "$hotComponent",
-                        "template" : {
-                           "accessibility" : {
-                              "accessibilityMap" : {
-                                 "accessibilityLabel" : "图片热区",
-                                 "accessibilityRole" : "image"
-                              },
-                              "accessible" : true
-                           },
-                           "containerType" : "image",
-                           "dataMap" : {
-                              "url" : {
-                                 "value" : "$hotComponent.[?].imageUrl"
-                              }
-                           },
-                           "style" : {
-                              "height" : "$hotComponent.[?].h",
-                              "isCircle" : false,
-                              "isPointDisplay" : true,
-                              "isPointHide" : false,
-                              "needPlaceholder" : true,
-                              "needScale" : true,
-                              "orientation" : "vertical",
-                              "placeholderType" : "auto",
-                              "scroll" : 0,
-                              "scrollBar" : 0,
-                              "scrollBounce" : 0,
-                              "width" : "$hotComponent.[?].w"
-                           },
-                           "urlRefer" : "$hotComponent.[?].imageUrl"
-                        }
-                     },
-                     "style" : {
-                        "height" : "-1",
-                        "isPointDisplay" : true,
-                        "isPointHide" : false,
-                        "orientation" : "vertical",
-                        "scroll" : 0,
-                        "scrollBar" : 0,
-                        "scrollBounce" : 0,
-                        "width" : "-1"
-                     }
-                  },
-                  {
-                     "containerType" : "container",
-                     "foreach" : {
-                        "arrayName" : "$pictureHotspot.data",
-                        "template" : {
-                           "conditions" : [
-                              {
-                                 "children" : [
-                                    {
-                                       "children" : [
-                                          {
-                                             "containerType" : "text",
-                                             "dataMap" : {
-                                                "jdPrice" : {
-                                                   "value" : "$pictureHotspot.data.[?].jdPrice"
-                                                },
-                                                "jdprice" : {
-                                                   "value" : false
-                                                },
-                                                "prefix" : {
-                                                   "value" : "$pictureHotspot.data.[?].prefix"
-                                                },
-                                                "value" : {
-                                                   "value" : "$pictureHotspot.data.[?].price"
-                                                }
-                                             },
-                                             "events" : [
-                                                {
-                                                   "actions" : [
-                                                      {
-                                                         "break" : false,
-                                                         "params" : [
-                                                            {
-                                                               "paramName" : "跳转sku",
-                                                               "paramValue" : "$pictureHotspot.data.[?].detail"
-                                                            }
-                                                         ],
-                                                         "type" : "openURL"
-                                                      },
-                                                      {
-                                                         "break" : false,
-                                                         "param" : {
-                                                            "eventContext" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds",
-                                                            "eventId" : "Terminator_Recommend"
-                                                         },
-                                                         "type" : "jdmtav2"
-                                                      }
-                                                   ],
-                                                   "type" : "click"
-                                                }
-                                             ],
-                                             "jdPrice" : "$pictureHotspot.data.[?].jdPrice",
-                                             "jdprice" : false,
-                                             "prefixRefer" : "$pictureHotspot.data.[?].prefix",
-                                             "style" : {
-                                                "fontFamily" : "JDZhengHT-Regular",
-                                                "fontSize" : "$pictureHotspot.data.[?].priceStyleConfig.fontSize",
-                                                "gravity" : 4,
-                                                "height" : "-2",
-                                                "isPointDisplay" : true,
-                                                "isPointHide" : false,
-                                                "lines" : 1,
-                                                "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xMobile",
-                                                "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yMobile",
-                                                "orientation" : "vertical",
-                                                "scroll" : 0,
-                                                "scrollBar" : 0,
-                                                "scrollBounce" : 0,
-                                                "textColor" : "$pictureHotspot.data.[?].priceStyleConfig.color",
-                                                "width" : "-2"
-                                             },
-                                             "valueRefer" : "$pictureHotspot.data.[?].price"
-                                          }
-                                       ],
-                                       "containerType" : "container",
-                                       "style" : {
-                                          "height" : "$pictureHotspot.data.[?].priceStyleConfig.hHotMobile",
-                                          "isPointDisplay" : true,
-                                          "isPointHide" : false,
-                                          "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xHotMobile",
-                                          "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yHotMobile",
-                                          "orientation" : "vertical",
-                                          "scroll" : 0,
-                                          "scrollBar" : 0,
-                                          "scrollBounce" : 0,
-                                          "width" : "$pictureHotspot.data.[?].priceStyleConfig.wHotMobile"
-                                       }
-                                    }
-                                 ],
-                                 "left" : "$pictureHotspot.data.[?].showSkuPrice",
-                                 "right" : "1",
-                                 "style" : {
-                                    "height" : "$pictureHotspot.hotAreaHeight",
-                                    "layout" : "absolute",
-                                    "width" : "-1"
-                                 },
-                                 "type" : "=="
-                              }
-                           ],
-                           "containerType" : "container",
-                           "skuNode" : {
-                              "name" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds"
-                           },
-                           "style" : {
-                              "height" : "-1",
-                              "isPointDisplay" : true,
-                              "isPointHide" : false,
-                              "orientation" : "vertical",
-                              "scroll" : 0,
-                              "scrollBar" : 0,
-                              "scrollBounce" : 0,
-                              "width" : "-1"
-                           }
-                        }
-                     },
-                     "style" : {
-                        "height" : "$pictureHotspot.hotAreaHeight",
-                        "isPointDisplay" : true,
-                        "isPointHide" : false,
-                        "layout" : "absolute",
-                        "orientation" : "vertical",
-                        "scroll" : 0,
-                        "scrollBar" : 0,
-                        "scrollBounce" : 0,
-                        "width" : "-1"
-                     }
-                  }
-               ],
-               "containerType" : "container",
-               "events" : [
-                  {
-                     "actions" : [
-                        {
-                           "break" : false,
-                           "params" : [
-                              {
-                                 "paramName" : "热区链接",
-                                 "paramType" : "hotArea",
-                                 "paramValue" : "$pictureHotspot"
-                              }
-                           ],
-                           "type" : "openURL"
-                        },
-                        {
-                           "break" : false,
-                           "param" : {
-                              "eventId" : "Terminator_HotArea"
-                           },
-                           "type" : "jdmtav2"
-                        }
-                     ],
-                     "type" : "click"
-                  }
-               ],
-               "style" : {
-                  "height" : "$pictureHotspot.hotAreaHeight",
-                  "isPointDisplay" : true,
-                  "isPointHide" : false,
-                  "layout" : "absolute",
-                  "orientation" : "vertical",
-                  "scroll" : 0,
-                  "scrollBar" : 0,
-                  "scrollBounce" : 0,
-                  "width" : "-1"
-               }
-            },
-            {
-               "containerType" : "container",
-               "style" : {
-                  "backgroundColor" : "#f3f4f7",
-                  "height" : "5",
-                  "isPointDisplay" : true,
-                  "isPointHide" : false,
-                  "orientation" : "vertical",
-                  "scroll" : 0,
-                  "scrollBar" : 0,
-                  "scrollBounce" : 0,
-                  "visible" : "$showFloorGap",
-                  "width" : "-1"
-               }
-            }
-         ],
-         "containerType" : "container",
-         "dataMap" : {
-            "hotComponent" : {
-               "type" : "jsonArray",
-               "value" : {
-                  "data" : [
-                     {
-                        "h" : 232,
-                        "imageUrl" : "//img11.360buyimg.com/cms/jfs/t1/164618/24/5898/178606/601f88b8Ed688f67d/653011c724cdfe71.jpg",
+                        "h" : 237,
+                        "imageUrl" : "//img13.360buyimg.com/cms/jfs/t1/151637/33/16252/193211/601d3233Eafbb79e9/7324b338b9f49b07.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -4414,16 +3918,16 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                      {
                         "coordinate" : {
                            "h" : 687,
-                           "w" : 564,
-                           "x" : 0,
-                           "y" : 3
+                           "w" : 552,
+                           "x" : 3,
+                           "y" : 15
                         },
                         "dataSourceType" : 2,
                         "detail" : {
                            "configDataType" : 1,
                            "configDataValue" : {
                               "clickUrl" : "javascript:;",
-                              "skuIds" : "26627354202"
+                              "skuIds" : "69594137031"
                            }
                         },
                         "jdPrice" : false,
@@ -4433,17 +3937,17 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                      },
                      {
                         "coordinate" : {
-                           "h" : 678,
-                           "w" : 537,
-                           "x" : 570,
-                           "y" : 6
+                           "h" : 675,
+                           "w" : 540,
+                           "x" : 573,
+                           "y" : 15
                         },
                         "dataSourceType" : 2,
                         "detail" : {
                            "configDataType" : 1,
                            "configDataValue" : {
                               "clickUrl" : "javascript:;",
-                              "skuIds" : "20329039655"
+                              "skuIds" : "35538829966"
                            }
                         },
                         "jdPrice" : false,
@@ -4452,7 +3956,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                         "priceStyleConfig" : {}
                      }
                   ],
-                  "hotAreaHeight" : 232
+                  "hotAreaHeight" : 237
                }
             },
             "showFloorGap" : {
@@ -4480,14 +3984,14 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
       "extInfo" : {
          "preloadImages" : [
             {
-               "imageHeight" : "232",
-               "imageUrl" : "//img11.360buyimg.com/cms/jfs/t1/164618/24/5898/178606/601f88b8Ed688f67d/653011c724cdfe71.jpg",
+               "imageHeight" : "237",
+               "imageUrl" : "//img13.360buyimg.com/cms/jfs/t1/151637/33/16252/193211/601d3233Eafbb79e9/7324b338b9f49b07.jpg",
                "imageWidth" : "375"
             }
          ]
       },
       "floorHeight" : 5,
-      "floorId" : "9448306744",
+      "floorId" : "91536356271",
       "floorPosition" : "content",
       "floorStatus" : 2,
       "middleTemplateId" : 9,
@@ -4745,8 +4249,8 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                "value" : {
                   "data" : [
                      {
-                        "h" : 247,
-                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/158294/28/6688/188352/601f88b8E941014dd/2aa6970f190ca7ac.jpg",
+                        "h" : 81,
+                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/154608/25/15678/33623/60152cd1Ea406bf27/0c725001dba1851e.jpg",
                         "w" : 375,
                         "x" : 0,
                         "y" : 0
@@ -4761,47 +4265,16 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
                "value" : {
                   "data" : [
                      {
-                        "coordinate" : {
-                           "h" : 729,
-                           "w" : 561,
-                           "x" : 0,
-                           "y" : 6
-                        },
-                        "dataSourceType" : 2,
+                        "dataSourceType" : 0,
                         "detail" : {
-                           "configDataType" : 1,
-                           "configDataValue" : {
-                              "clickUrl" : "javascript:;",
-                              "skuIds" : "63218569577"
-                           }
+                           "key" : "testKey"
                         },
                         "jdPrice" : false,
                         "prefix" : "￥",
-                        "price" : "",
-                        "priceStyleConfig" : {}
-                     },
-                     {
-                        "coordinate" : {
-                           "h" : 726,
-                           "w" : 555,
-                           "x" : 570,
-                           "y" : 9
-                        },
-                        "dataSourceType" : 2,
-                        "detail" : {
-                           "configDataType" : 1,
-                           "configDataValue" : {
-                              "clickUrl" : "javascript:;",
-                              "skuIds" : "61338162994"
-                           }
-                        },
-                        "jdPrice" : false,
-                        "prefix" : "￥",
-                        "price" : "",
-                        "priceStyleConfig" : {}
+                        "price" : ""
                      }
                   ],
-                  "hotAreaHeight" : 247
+                  "hotAreaHeight" : 81
                }
             },
             "showFloorGap" : {
@@ -4829,14 +4302,712 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
       "extInfo" : {
          "preloadImages" : [
             {
-               "imageHeight" : "247",
-               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/158294/28/6688/188352/601f88b8E941014dd/2aa6970f190ca7ac.jpg",
+               "imageHeight" : "81",
+               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/154608/25/15678/33623/60152cd1Ea406bf27/0c725001dba1851e.jpg",
                "imageWidth" : "375"
             }
          ]
       },
       "floorHeight" : 5,
-      "floorId" : "9825658157",
+      "floorId" : "9112547451",
+      "floorPosition" : "content",
+      "floorStatus" : 2,
+      "middleTemplateId" : 9,
+      "middleTypes" : [ "J_PICTURE_HOTSPOT", "J_NORMAL_ARRAY" ],
+      "moduleDesignerType" : "TERMINATOR",
+      "moduleFlag" : "mPictureHotspot",
+      "moduleId" : 10,
+      "moduleName" : "图片热区",
+      "moduleType" : 100,
+      "previewUri" : "//img13.360buyimg.com/zx/jfs/t17128/167/1178627518/5678/ae7eb923/5abf3179Nd8bbaf29.png",
+      "radiusFlag" : 0,
+      "scv" : "7.0.0",
+      "sizeRule" : 375,
+      "types" : [ "hotArea", "jsonArray", "text" ],
+      "visible" : true
+   },
+   {
+      "biSort" : false,
+      "containerData" : {
+         "children" : [
+            {
+               "children" : [
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$hotComponent",
+                        "template" : {
+                           "accessibility" : {
+                              "accessibilityMap" : {
+                                 "accessibilityLabel" : "图片热区",
+                                 "accessibilityRole" : "image"
+                              },
+                              "accessible" : true
+                           },
+                           "containerType" : "image",
+                           "dataMap" : {
+                              "url" : {
+                                 "value" : "$hotComponent.[?].imageUrl"
+                              }
+                           },
+                           "style" : {
+                              "height" : "$hotComponent.[?].h",
+                              "isCircle" : false,
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "needPlaceholder" : true,
+                              "needScale" : true,
+                              "orientation" : "vertical",
+                              "placeholderType" : "auto",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "$hotComponent.[?].w"
+                           },
+                           "urlRefer" : "$hotComponent.[?].imageUrl"
+                        }
+                     },
+                     "style" : {
+                        "height" : "-1",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  },
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$pictureHotspot.data",
+                        "template" : {
+                           "conditions" : [
+                              {
+                                 "children" : [
+                                    {
+                                       "children" : [
+                                          {
+                                             "containerType" : "text",
+                                             "dataMap" : {
+                                                "jdPrice" : {
+                                                   "value" : "$pictureHotspot.data.[?].jdPrice"
+                                                },
+                                                "jdprice" : {
+                                                   "value" : false
+                                                },
+                                                "prefix" : {
+                                                   "value" : "$pictureHotspot.data.[?].prefix"
+                                                },
+                                                "value" : {
+                                                   "value" : "$pictureHotspot.data.[?].price"
+                                                }
+                                             },
+                                             "events" : [
+                                                {
+                                                   "actions" : [
+                                                      {
+                                                         "break" : false,
+                                                         "params" : [
+                                                            {
+                                                               "paramName" : "跳转sku",
+                                                               "paramValue" : "$pictureHotspot.data.[?].detail"
+                                                            }
+                                                         ],
+                                                         "type" : "openURL"
+                                                      },
+                                                      {
+                                                         "break" : false,
+                                                         "param" : {
+                                                            "eventContext" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds",
+                                                            "eventId" : "Terminator_Recommend"
+                                                         },
+                                                         "type" : "jdmtav2"
+                                                      }
+                                                   ],
+                                                   "type" : "click"
+                                                }
+                                             ],
+                                             "jdPrice" : "$pictureHotspot.data.[?].jdPrice",
+                                             "jdprice" : false,
+                                             "prefixRefer" : "$pictureHotspot.data.[?].prefix",
+                                             "style" : {
+                                                "fontFamily" : "JDZhengHT-Regular",
+                                                "fontSize" : "$pictureHotspot.data.[?].priceStyleConfig.fontSize",
+                                                "gravity" : 4,
+                                                "height" : "-2",
+                                                "isPointDisplay" : true,
+                                                "isPointHide" : false,
+                                                "lines" : 1,
+                                                "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xMobile",
+                                                "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yMobile",
+                                                "orientation" : "vertical",
+                                                "scroll" : 0,
+                                                "scrollBar" : 0,
+                                                "scrollBounce" : 0,
+                                                "textColor" : "$pictureHotspot.data.[?].priceStyleConfig.color",
+                                                "width" : "-2"
+                                             },
+                                             "valueRefer" : "$pictureHotspot.data.[?].price"
+                                          }
+                                       ],
+                                       "containerType" : "container",
+                                       "style" : {
+                                          "height" : "$pictureHotspot.data.[?].priceStyleConfig.hHotMobile",
+                                          "isPointDisplay" : true,
+                                          "isPointHide" : false,
+                                          "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xHotMobile",
+                                          "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yHotMobile",
+                                          "orientation" : "vertical",
+                                          "scroll" : 0,
+                                          "scrollBar" : 0,
+                                          "scrollBounce" : 0,
+                                          "width" : "$pictureHotspot.data.[?].priceStyleConfig.wHotMobile"
+                                       }
+                                    }
+                                 ],
+                                 "left" : "$pictureHotspot.data.[?].showSkuPrice",
+                                 "right" : "1",
+                                 "style" : {
+                                    "height" : "$pictureHotspot.hotAreaHeight",
+                                    "layout" : "absolute",
+                                    "width" : "-1"
+                                 },
+                                 "type" : "=="
+                              }
+                           ],
+                           "containerType" : "container",
+                           "skuNode" : {
+                              "name" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds"
+                           },
+                           "style" : {
+                              "height" : "-1",
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "orientation" : "vertical",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "-1"
+                           }
+                        }
+                     },
+                     "style" : {
+                        "height" : "$pictureHotspot.hotAreaHeight",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "layout" : "absolute",
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  }
+               ],
+               "containerType" : "container",
+               "events" : [
+                  {
+                     "actions" : [
+                        {
+                           "break" : false,
+                           "params" : [
+                              {
+                                 "paramName" : "热区链接",
+                                 "paramType" : "hotArea",
+                                 "paramValue" : "$pictureHotspot"
+                              }
+                           ],
+                           "type" : "openURL"
+                        },
+                        {
+                           "break" : false,
+                           "param" : {
+                              "eventId" : "Terminator_HotArea"
+                           },
+                           "type" : "jdmtav2"
+                        }
+                     ],
+                     "type" : "click"
+                  }
+               ],
+               "style" : {
+                  "height" : "$pictureHotspot.hotAreaHeight",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "layout" : "absolute",
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "width" : "-1"
+               }
+            },
+            {
+               "containerType" : "container",
+               "style" : {
+                  "backgroundColor" : "#f3f4f7",
+                  "height" : "5",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "visible" : "$showFloorGap",
+                  "width" : "-1"
+               }
+            }
+         ],
+         "containerType" : "container",
+         "dataMap" : {
+            "hotComponent" : {
+               "type" : "jsonArray",
+               "value" : {
+                  "data" : [
+                     {
+                        "h" : 229,
+                        "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/161110/27/5023/215453/60152cd1E3491d8b2/75088c94ba4760d3.jpg",
+                        "w" : 375,
+                        "x" : 0,
+                        "y" : 0
+                     }
+                  ],
+                  "dataSourceType" : 0
+               }
+            },
+            "pictureHotspot" : {
+               "middleType" : "J_PICTURE_HOTSPOT",
+               "type" : "hotArea",
+               "value" : {
+                  "data" : [
+                     {
+                        "coordinate" : {
+                           "h" : 678,
+                           "w" : 543,
+                           "x" : 18,
+                           "y" : 6
+                        },
+                        "dataSourceType" : 2,
+                        "detail" : {
+                           "configDataType" : 1,
+                           "configDataValue" : {
+                              "clickUrl" : "javascript:;",
+                              "skuIds" : "26627354202"
+                           }
+                        },
+                        "jdPrice" : false,
+                        "prefix" : "￥",
+                        "price" : "",
+                        "priceStyleConfig" : {}
+                     },
+                     {
+                        "coordinate" : {
+                           "h" : 672,
+                           "w" : 546,
+                           "x" : 573,
+                           "y" : 3
+                        },
+                        "dataSourceType" : 2,
+                        "detail" : {
+                           "configDataType" : 1,
+                           "configDataValue" : {
+                              "clickUrl" : "javascript:;",
+                              "skuIds" : "20329039655"
+                           }
+                        },
+                        "jdPrice" : false,
+                        "prefix" : "￥",
+                        "price" : "",
+                        "priceStyleConfig" : {}
+                     }
+                  ],
+                  "hotAreaHeight" : 229
+               }
+            },
+            "showFloorGap" : {
+               "middleType" : "J_NORMAL_ARRAY",
+               "type" : "text",
+               "value" : {
+                  "dataSourceType" : 0,
+                  "text" : "false"
+               }
+            }
+         },
+         "style" : {
+            "height" : "-2",
+            "isPointDisplay" : true,
+            "isPointHide" : false,
+            "orientation" : "vertical",
+            "scroll" : 0,
+            "scrollBar" : 0,
+            "scrollBounce" : 0,
+            "width" : "-1"
+         }
+      },
+      "decoPath" : "mPictureHotspot",
+      "defaultFlag" : 2,
+      "extInfo" : {
+         "preloadImages" : [
+            {
+               "imageHeight" : "229",
+               "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/161110/27/5023/215453/60152cd1E3491d8b2/75088c94ba4760d3.jpg",
+               "imageWidth" : "375"
+            }
+         ]
+      },
+      "floorHeight" : 5,
+      "floorId" : "91044656640",
+      "floorPosition" : "content",
+      "floorStatus" : 2,
+      "middleTemplateId" : 9,
+      "middleTypes" : [ "J_PICTURE_HOTSPOT", "J_NORMAL_ARRAY" ],
+      "moduleDesignerType" : "TERMINATOR",
+      "moduleFlag" : "mPictureHotspot",
+      "moduleId" : 10,
+      "moduleName" : "图片热区",
+      "moduleType" : 100,
+      "previewUri" : "//img13.360buyimg.com/zx/jfs/t17128/167/1178627518/5678/ae7eb923/5abf3179Nd8bbaf29.png",
+      "radiusFlag" : 0,
+      "scv" : "7.0.0",
+      "sizeRule" : 375,
+      "types" : [ "hotArea", "jsonArray", "text" ],
+      "visible" : true
+   },
+   {
+      "biSort" : false,
+      "containerData" : {
+         "children" : [
+            {
+               "children" : [
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$hotComponent",
+                        "template" : {
+                           "accessibility" : {
+                              "accessibilityMap" : {
+                                 "accessibilityLabel" : "图片热区",
+                                 "accessibilityRole" : "image"
+                              },
+                              "accessible" : true
+                           },
+                           "containerType" : "image",
+                           "dataMap" : {
+                              "url" : {
+                                 "value" : "$hotComponent.[?].imageUrl"
+                              }
+                           },
+                           "style" : {
+                              "height" : "$hotComponent.[?].h",
+                              "isCircle" : false,
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "needPlaceholder" : true,
+                              "needScale" : true,
+                              "orientation" : "vertical",
+                              "placeholderType" : "auto",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "$hotComponent.[?].w"
+                           },
+                           "urlRefer" : "$hotComponent.[?].imageUrl"
+                        }
+                     },
+                     "style" : {
+                        "height" : "-1",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  },
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$pictureHotspot.data",
+                        "template" : {
+                           "conditions" : [
+                              {
+                                 "children" : [
+                                    {
+                                       "children" : [
+                                          {
+                                             "containerType" : "text",
+                                             "dataMap" : {
+                                                "jdPrice" : {
+                                                   "value" : "$pictureHotspot.data.[?].jdPrice"
+                                                },
+                                                "jdprice" : {
+                                                   "value" : false
+                                                },
+                                                "prefix" : {
+                                                   "value" : "$pictureHotspot.data.[?].prefix"
+                                                },
+                                                "value" : {
+                                                   "value" : "$pictureHotspot.data.[?].price"
+                                                }
+                                             },
+                                             "events" : [
+                                                {
+                                                   "actions" : [
+                                                      {
+                                                         "break" : false,
+                                                         "params" : [
+                                                            {
+                                                               "paramName" : "跳转sku",
+                                                               "paramValue" : "$pictureHotspot.data.[?].detail"
+                                                            }
+                                                         ],
+                                                         "type" : "openURL"
+                                                      },
+                                                      {
+                                                         "break" : false,
+                                                         "param" : {
+                                                            "eventContext" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds",
+                                                            "eventId" : "Terminator_Recommend"
+                                                         },
+                                                         "type" : "jdmtav2"
+                                                      }
+                                                   ],
+                                                   "type" : "click"
+                                                }
+                                             ],
+                                             "jdPrice" : "$pictureHotspot.data.[?].jdPrice",
+                                             "jdprice" : false,
+                                             "prefixRefer" : "$pictureHotspot.data.[?].prefix",
+                                             "style" : {
+                                                "fontFamily" : "JDZhengHT-Regular",
+                                                "fontSize" : "$pictureHotspot.data.[?].priceStyleConfig.fontSize",
+                                                "gravity" : 4,
+                                                "height" : "-2",
+                                                "isPointDisplay" : true,
+                                                "isPointHide" : false,
+                                                "lines" : 1,
+                                                "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xMobile",
+                                                "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yMobile",
+                                                "orientation" : "vertical",
+                                                "scroll" : 0,
+                                                "scrollBar" : 0,
+                                                "scrollBounce" : 0,
+                                                "textColor" : "$pictureHotspot.data.[?].priceStyleConfig.color",
+                                                "width" : "-2"
+                                             },
+                                             "valueRefer" : "$pictureHotspot.data.[?].price"
+                                          }
+                                       ],
+                                       "containerType" : "container",
+                                       "style" : {
+                                          "height" : "$pictureHotspot.data.[?].priceStyleConfig.hHotMobile",
+                                          "isPointDisplay" : true,
+                                          "isPointHide" : false,
+                                          "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xHotMobile",
+                                          "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yHotMobile",
+                                          "orientation" : "vertical",
+                                          "scroll" : 0,
+                                          "scrollBar" : 0,
+                                          "scrollBounce" : 0,
+                                          "width" : "$pictureHotspot.data.[?].priceStyleConfig.wHotMobile"
+                                       }
+                                    }
+                                 ],
+                                 "left" : "$pictureHotspot.data.[?].showSkuPrice",
+                                 "right" : "1",
+                                 "style" : {
+                                    "height" : "$pictureHotspot.hotAreaHeight",
+                                    "layout" : "absolute",
+                                    "width" : "-1"
+                                 },
+                                 "type" : "=="
+                              }
+                           ],
+                           "containerType" : "container",
+                           "skuNode" : {
+                              "name" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds"
+                           },
+                           "style" : {
+                              "height" : "-1",
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "orientation" : "vertical",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "-1"
+                           }
+                        }
+                     },
+                     "style" : {
+                        "height" : "$pictureHotspot.hotAreaHeight",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "layout" : "absolute",
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  }
+               ],
+               "containerType" : "container",
+               "events" : [
+                  {
+                     "actions" : [
+                        {
+                           "break" : false,
+                           "params" : [
+                              {
+                                 "paramName" : "热区链接",
+                                 "paramType" : "hotArea",
+                                 "paramValue" : "$pictureHotspot"
+                              }
+                           ],
+                           "type" : "openURL"
+                        },
+                        {
+                           "break" : false,
+                           "param" : {
+                              "eventId" : "Terminator_HotArea"
+                           },
+                           "type" : "jdmtav2"
+                        }
+                     ],
+                     "type" : "click"
+                  }
+               ],
+               "style" : {
+                  "height" : "$pictureHotspot.hotAreaHeight",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "layout" : "absolute",
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "width" : "-1"
+               }
+            },
+            {
+               "containerType" : "container",
+               "style" : {
+                  "backgroundColor" : "#f3f4f7",
+                  "height" : "5",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "visible" : "$showFloorGap",
+                  "width" : "-1"
+               }
+            }
+         ],
+         "containerType" : "container",
+         "dataMap" : {
+            "hotComponent" : {
+               "type" : "jsonArray",
+               "value" : {
+                  "data" : [
+                     {
+                        "h" : 248,
+                        "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/157432/16/5590/209515/60152cd1Ed493e88a/ad06ede1c0b0be78.jpg",
+                        "w" : 375,
+                        "x" : 0,
+                        "y" : 0
+                     }
+                  ],
+                  "dataSourceType" : 0
+               }
+            },
+            "pictureHotspot" : {
+               "middleType" : "J_PICTURE_HOTSPOT",
+               "type" : "hotArea",
+               "value" : {
+                  "data" : [
+                     {
+                        "coordinate" : {
+                           "h" : 714,
+                           "w" : 546,
+                           "x" : 9,
+                           "y" : 0
+                        },
+                        "dataSourceType" : 2,
+                        "detail" : {
+                           "configDataType" : 1,
+                           "configDataValue" : {
+                              "clickUrl" : "javascript:;",
+                              "skuIds" : "63218569577"
+                           }
+                        },
+                        "jdPrice" : false,
+                        "prefix" : "￥",
+                        "price" : "",
+                        "priceStyleConfig" : {}
+                     },
+                     {
+                        "coordinate" : {
+                           "h" : 714,
+                           "w" : 522,
+                           "x" : 582,
+                           "y" : 6
+                        },
+                        "dataSourceType" : 2,
+                        "detail" : {
+                           "configDataType" : 1,
+                           "configDataValue" : {
+                              "clickUrl" : "javascript:;",
+                              "skuIds" : "61338162994"
+                           }
+                        },
+                        "jdPrice" : false,
+                        "prefix" : "￥",
+                        "price" : "",
+                        "priceStyleConfig" : {}
+                     }
+                  ],
+                  "hotAreaHeight" : 248
+               }
+            },
+            "showFloorGap" : {
+               "middleType" : "J_NORMAL_ARRAY",
+               "type" : "text",
+               "value" : {
+                  "dataSourceType" : 0,
+                  "text" : "false"
+               }
+            }
+         },
+         "style" : {
+            "height" : "-2",
+            "isPointDisplay" : true,
+            "isPointHide" : false,
+            "orientation" : "vertical",
+            "scroll" : 0,
+            "scrollBar" : 0,
+            "scrollBounce" : 0,
+            "width" : "-1"
+         }
+      },
+      "decoPath" : "mPictureHotspot",
+      "defaultFlag" : 2,
+      "extInfo" : {
+         "preloadImages" : [
+            {
+               "imageHeight" : "248",
+               "imageUrl" : "//img10.360buyimg.com/cms/jfs/t1/157432/16/5590/209515/60152cd1Ed493e88a/ad06ede1c0b0be78.jpg",
+               "imageWidth" : "375"
+            }
+         ]
+      },
+      "floorHeight" : 5,
+      "floorId" : "91481482479",
       "floorPosition" : "content",
       "floorStatus" : 2,
       "middleTemplateId" : 9,

@@ -1,6 +1,10 @@
+removed 'log/check_new_shop'
+removed 'log/check_new_shop.sh'
 check sign shop/029279B58B02A513F9700A5D6FDABFC2/shop
 checked. continue
 check sign shop/03992F4A0DA98DDC1D6651DA106A1C3B/shop
+checked. continue
+check sign shop/0F4BDB9C04701400E8032BA7215861F5/shop
 checked. continue
 check sign shop/19009F3586F52C269BB48457EBE4B3A8/shop
 checked. continue
@@ -64,8 +68,6 @@ check sign shop/627E2823F6198238F0C682B42BF036C3/shop
 checked. continue
 check sign shop/6365de679b174d909e5474ce869c32fe/shop
 checked. continue
-check sign shop/6CA7B3AE78C1C092CA47E5DA7BE7D4E1/shop
-checked. continue
 check sign shop/6cdc325cc58e438c916226a3f6ce4287/shop
 checked. continue
 check sign shop/7915D3D314BD2C2F4DA3E6483086D241/shop
@@ -118,6 +120,9 @@ check sign shop/D71848E997002DC4F23CA79DB33BF16B/shop
 checked. continue
 check sign shop/DB5CB93CBD5503D2AEE57008785F96DA/shop
 checked. continue
+check sign shop/E1A69395B91DDD56996037EB56F0583A/shop
+check 689675
+发现未签到的活动. shop/E1A69395B91DDD56996037EB56F0583A/shop --> api_vender
 check sign shop/E9799EF0627A29E6A6992335986B990C/shop
 checked. continue
 check sign shop/eb0ef5535d6e462096ab4e2135ba6c45/shop
@@ -125,33 +130,8 @@ checked. continue
 check sign shop/EE20A5121BF4326D4CEC950720F45E2F/shop
 checked. continue
 check find un_check:
-venderId=1000002490
-venderId=1000008881
-venderId=1000009202
-venderId=1000080441
-venderId=1000081853
-venderId=1000083623
-venderId=1000091042
-venderId=1000100314
-venderId=1000118675
-venderId=1000128821
-venderId=1000278646
-venderId=1000282021
-venderId=1000343184
-venderId=1000355243
-venderId=10114919
-venderId=10125176
-venderId=149341
-venderId=161192
-venderId=205646
-venderId=217610
-venderId=25602
-venderId=42803
-venderId=635033
-venderId=653260
-venderId=728086
-venderId=770525
-venderId=824921
+venderId=689675
+venderId=752187
 未签到的活动:
 ./api_vender/shop_1613046201_5_delay
 ./api_vender/shop_1613046205_6_delay
@@ -175,3 +155,4 @@ venderId=824921
 ./vender/shop_1613052094_7_delay
 ./vender/shop_1613052102_8_delay
 ./vender/shop_1613052185_19_delay
+'shop/E1A69395B91DDD56996037EB56F0583A/shop' -> 'api_vender/shop_1613103343_0_delay'

@@ -77,8 +77,15 @@ check_shop_base() {
 		echo >> repeatshop
 		echo
 		echo "show 重复的店铺活动"
-		echo [$shop_base/shop]
-		cat $shop_base/shop
+		if [ -f "$shop_base/shop" ]; then
+			echo [$shop_base/shop]
+			cat $shop_base/shop
+		elif [ -f "$shop_base/shopSign.json" ]; then
+			echo [$shop_base/shopSign.json]
+			jq '' $shop_base/shopSign.json		
+		else
+			error "解析重复的店铺活动失败。"
+		fi
 		error "[ERROR] 重复的 $shop_base"		
 	fi
 }
@@ -296,6 +303,12 @@ url="$location"
 
 END
 	
+	local s_date=$(jq -r '.actRule' "$shopSign" | grep '活动时间' | sed -r -e 's,.*活动时间：,,')
+	local startTime=$(echo -e "$s_date" | sed -r -e 's,.*活动时间：,,' -e 's,；,,' -e 's, - ,;,' | cut -d ';' -f 1)
+	local endTime=$(echo -e "$s_date" | sed -r -e 's,.*活动时间：,,' -e 's,；,,' -e 's, - ,;,' | cut -d ';' -f 2)
+	echo "startTime=$(date -d "$startTime" "+%s")" >> "$shop"
+	echo "endTime=$(date -d "$endTime" "+%s")" >> "$shop"
+	echo "# 活动时间：$s_date" >> "$shop"
 	echo -e "# 奖励说明：\nactRule=\"" >> "$shop"
 	echo "7天签到" >> "$shop"
 	jq -r '.giftConditions[]|
@@ -469,7 +482,9 @@ exit 0
 #<a class="dtm-map-area" href="//h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B" style="position: absolute; width: 126.667px; height: 195.573px; top: 1278.83px; left: 1.01333px;"></a>
 
 
-# rm -rvf rr err repeatshop shop locations; find vender api_vender/ lzkj_sevenDay_vender dingzhi_vender -type f | xargs -i ./parse.sh {} >rr 2>err
+# rm -rvf rr err repeatshop shop locations; find fq_vender vender api_vender/ lzkj_sevenDay_vender dingzhi_vender -type f | xargs -i ./parse.sh {} >rr 2>err
+# ./sign_check.sh | tee sign_check
+
 # ./search.sh "牛奶"
 # ./search.sh "电器"
 # ./search.sh "电子产品"
@@ -480,6 +495,7 @@ exit 0
 # ./search.sh "零食"
 # ./search.sh "洗护"
 # ./search.sh "表"
+# ./search.sh "家电"
 # cat sign.tmp | xargs -i ./parse.sh {}
 # ./sign_check.sh | tee sign_check
 # find ./ -name 'shop_[0-9]*_delay'
