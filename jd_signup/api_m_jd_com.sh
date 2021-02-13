@@ -23,6 +23,7 @@ sed -r -n '/#.* '${pt_pin1}' sign_res$/,/#.* '${pt_pin1}' sign_res_end$/p' "$2" 
 source $bb
 rm -rvf $bb
 if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+	date +"%x %X %N  %s"
 	echo "$pin1_name 今天已经签到过. giftDate: $giftDate"
 	echo "***********************************************"
 	echo -e "$sign_res_info"
