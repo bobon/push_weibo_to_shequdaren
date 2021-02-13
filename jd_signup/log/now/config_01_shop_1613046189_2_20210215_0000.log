@@ -1,0 +1,162 @@
+removed '/tmp/tmp.MYSLtBGhdl'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613232606	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613232606	LZ_TOKEN_KEY	lztokenpage65a3d7ecc454499784b8c76d3b2655c1
+use pt_key
+token: AAFgJ_eJADAzVDFRpj2u0HO_o_2rX_QGB-3iyBvNhOhdAvwGozr1NaMGMN5XQklJiRSaIKtOKsE
+secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/14/21 00:00:12 375312900  1613232012
+赵签到康比特京东自营旗舰店
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "10000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "b48e8219f665499fa1bed332320c353d",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "BvJiXI"
+}
+true
+签到康比特京东自营旗舰店完成
+
+***********************************************
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+赵签到康比特京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210212":"y","20210213":"y","20210214":"y"},"isOk":true,"signDetail":{"20210212":"y","20210213":"y","20210214":"y"},"followDays":1,"signRecord":{"nicknameShow":null,"id":"1a82d753a4c34354a4444aeee52df9d2","venderId":1000001381,"actId":"47091d03407c4415aadbfaed7c6c9065","actName":"新春签到","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210214,"contiSignNum":3,"totalSignNum":3,"createTime":1613062899000,"updateTime":1613232014000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210212": "y",
+    "20210213": "y",
+    "20210214": "y"
+  },
+  "contiSignNum": 3,
+  "totalSignNum": 3
+}
+
+康比特京东自营旗舰店活动规则
+{"msg":"","act":{"id":"47091d03407c4415aadbfaed7c6c9065","jdActivityId":null,"venderId":1000001381,"actName":"新春签到","startTime":1612713600000,"endTime":1613663999000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381","shortUrl":"3.cn/100X-qecA","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/163609/29/5211/3641/601b87bdE6a63867b/0a787b351b3ae52c.png","actRule":"1、活动时间：2021-02-08 00:00 至 2021-02-18 23:59；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、第1天签到，有机会赠送5店铺积分；
+5、第2天签到，有机会赠送10元优惠券；
+6、第3天签到，有机会赠送5京豆；
+7、第5天签到，有机会赠送10店铺积分；
+8、第6天签到，有机会赠送30元优惠卷；
+9、第8天签到，有机会赠送10京豆；
+10、第9天签到，有机会赠送50元优惠卷；
+11、第10天签到，有机会赠送100元优惠卷；
+12、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）是否中奖以活动发布者后台统计结果为准。","createTime":1612416957000,"updateTime":1612416957000,"activityType":null,"actTimeStr":"2021-02-08 00:00 至 2021-02-18 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"giftConditions\":[{\"dayNum\":\"1\",\"gift\":{\"giftInfoId\":\"35886f8a89bd4146a504c2ddbf9a8955\",\"giftName\":\"5积分\",\"giftNum\":\"5\",\"giftTotal\":\"100000\",\"giftType\":\"9\",\"id\":\"5\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"2\",\"gift\":{\"giftInfoId\":\"932bde43f54443d2987a4c1481c16bbd\",\"giftName\":\"10元优惠券\",\"giftNum\":\"10\",\"giftTotal\":\"5000\",\"giftType\":\"10\",\"id\":\"20705\",\"priceInfo\":\"0\",\"shortLink\":\"3.cn/100Xm3-0y\",\"type\":0}},{\"dayNum\":\"3\",\"gift\":{\"giftInfoId\":\"b48e8219f665499fa1bed332320c353d\",\"giftName\":\"10积分\",\"giftNum\":\"10\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"10\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"4\",\"gift\":{\"giftInfoId\":\"61612f7695414a509dd663928ac37ed8\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"2000\",\"giftType\":\"6\",\"id\":\"1142365\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"5\",\"gift\":{\"giftInfoId\":\"1001042a8ec0475fbeeca1be23d5ecce\",\"giftName\":\"20元优惠券\",\"giftNum\":\"20\",\"giftTotal\":\"10000\",\"giftType\":\"10\",\"id\":\"20717\",\"priceInfo\":\"0\",\"shortLink\":\"3.cn/100Xm3-0y\",\"type\":0}},{\"dayNum\":\"6\",\"gift\":{\"giftInfoId\":\"4af0a68ab0534ba8a31a2b3b5441425a\",\"giftName\":\"30元优惠券\",\"giftNum\":\"30\",\"giftTotal\":\"10000\",\"giftType\":\"10\",\"id\":\"20715\",\"priceInfo\":\"0\",\"shortLink\":\"3.cn/100Xm3-0y\",\"type\":0}},{\"dayNum\":\"7\",\"gift\":{\"giftInfoId\":\"e54c607e431947019b3a2b6863311492\",\"giftName\":\"20积分\",\"giftNum\":\"20\",\"giftTotal\":\"1000\",\"giftType\":\"9\",\"id\":\"20\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"8\",\"gift\":{\"giftInfoId\":\"97e08ff9d9da4e91a838b8cae3ecfefd\",\"giftName\":\"10京豆\",\"giftNum\":\"10\",\"giftTotal\":\"1000\",\"giftType\":\"6\",\"id\":\"1142365\",\"priceInfo\":\"0.10\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"9\",\"gift\":{\"giftInfoId\":\"21bc486eba204aa2b2696a0cd8d47d78\",\"giftName\":\"50元优惠券\",\"giftNum\":\"50\",\"giftTotal\":\"1000\",\"giftType\":\"10\",\"id\":\"20706\",\"priceInfo\":\"0\",\"shortLink\":\"3.cn/100Xm3-0y\",\"type\":0}},{\"dayNum\":\"10\",\"gift\":{\"giftInfoId\":\"8901e7d18fe044d38133a3d9d1fe0b21\",\"giftName\":\"100元优惠券\",\"giftNum\":\"100\",\"giftTotal\":\"1000\",\"giftType\":\"10\",\"id\":\"20704\",\"priceInfo\":\"0\",\"shortLink\":\"3.cn/100Xm3-0y\",\"type\":0}}],\"hasGiftEveryDay\":\"n\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"n","gift":null,"signType":"1","giftConditions":[{"dayNum":"1","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"35886f8a89bd4146a504c2ddbf9a8955","commonAddAwardVO":null}},{"dayNum":"2","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20705","giftType":"10","giftName":"10元优惠券","giftNum":"10","giftTotal":"5000","giftResidue":null,"priceInfo":"0","shortLink":"3.cn/100Xm3-0y","orginLink":null,"giftInfoId":"932bde43f54443d2987a4c1481c16bbd","commonAddAwardVO":null}},{"dayNum":"3","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"b48e8219f665499fa1bed332320c353d","commonAddAwardVO":null}},{"dayNum":"4","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1142365","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"2000","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"61612f7695414a509dd663928ac37ed8","commonAddAwardVO":null}},{"dayNum":"5","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20717","giftType":"10","giftName":"20元优惠券","giftNum":"20","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"3.cn/100Xm3-0y","orginLink":null,"giftInfoId":"1001042a8ec0475fbeeca1be23d5ecce","commonAddAwardVO":null}},{"dayNum":"6","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20715","giftType":"10","giftName":"30元优惠券","giftNum":"30","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"3.cn/100Xm3-0y","orginLink":null,"giftInfoId":"4af0a68ab0534ba8a31a2b3b5441425a","commonAddAwardVO":null}},{"dayNum":"7","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20","giftType":"9","giftName":"20积分","giftNum":"20","giftTotal":"1000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"e54c607e431947019b3a2b6863311492","commonAddAwardVO":null}},{"dayNum":"8","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1142365","giftType":"6","giftName":"10京豆","giftNum":"10","giftTotal":"1000","giftResidue":null,"priceInfo":"0.10","shortLink":"","orginLink":null,"giftInfoId":"97e08ff9d9da4e91a838b8cae3ecfefd","commonAddAwardVO":null}},{"dayNum":"9","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20706","giftType":"10","giftName":"50元优惠券","giftNum":"50","giftTotal":"1000","giftResidue":null,"priceInfo":"0","shortLink":"3.cn/100Xm3-0y","orginLink":null,"giftInfoId":"21bc486eba204aa2b2696a0cd8d47d78","commonAddAwardVO":null}},{"dayNum":"10","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20704","giftType":"10","giftName":"100元优惠券","giftNum":"100","giftTotal":"1000","giftResidue":null,"priceInfo":"0","shortLink":"3.cn/100Xm3-0y","orginLink":null,"giftInfoId":"8901e7d18fe044d38133a3d9d1fe0b21","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"880737,100010792176,100009251832,284952,284957,100002878573,100014403524,1614237","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381",
+  "shortUrl": "3.cn/100X-qecA",
+  "actRule": "1、活动时间：2021-02-08 00:00 至 2021-02-18 23:59；\n2、关注店铺后方可参与活动；\n3、符合连续签到赠送条件，则有机会赠送连续签到奖品；\n4、第1天签到，有机会赠送5店铺积分；\n5、第2天签到，有机会赠送10元优惠券；\n6、第3天签到，有机会赠送5京豆；\n7、第5天签到，有机会赠送10店铺积分；\n8、第6天签到，有机会赠送30元优惠卷；\n9、第8天签到，有机会赠送10京豆；\n10、第9天签到，有机会赠送50元优惠卷；\n11、第10天签到，有机会赠送100元优惠卷；\n12、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）是否中奖以活动发布者后台统计结果为准。"
+}
+actId=47091d03407c4415aadbfaed7c6c9065
+venderId=1000001381
+startTime=1612713600000
+endTime=1613663999000
+# 短链接
+suo_url="https://3.cn/100X-qecA"
+actTimeStr="2021-02-08 00:00 至 2021-02-18 23:59"
+#店铺名称
+vendername="康比特京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=47091d03407c4415aadbfaed7c6c9065&venderId=1000001381
+# 活动时间：2021.02.08 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：5积分 5积分
+连续签到2天：10元优惠券
+连续签到3天：10积分 10积分
+连续签到4天：5京豆 5京豆
+连续签到5天：20元优惠券
+连续签到6天：30元优惠券
+连续签到7天：20积分 20积分
+连续签到8天：10京豆 10京豆
+连续签到9天：50元优惠券
+连续签到10天：100元优惠券
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10元优惠券""
+giftDate="20210213"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 "10元优惠券"
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftDate="20210213"
+sign_res_info="
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftDate="20210214"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end

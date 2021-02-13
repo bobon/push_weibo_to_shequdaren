@@ -1,0 +1,53 @@
+02/14/21 01:03:19 829280300  1613235799
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613236400	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613236400	LZ_TOKEN_KEY	lztokenpage9cae5ca078814025b48288287793d2e0
+use pt_key
+token: AAFgKAZYADDlVgfyNnbWxmfl4CUfCBvgiLY1DyP4cJ3PxvJNalDcbOZZ3ZHNCK9sRzPJahmjS8A
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/14/21 01:03:20 644694500  1613235800
+肥鹅签到卡西欧晶晶专卖店
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": "5d3a83ef6e824a2fa35bf497c8738306",
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+签到卡西欧晶晶专卖店完成
+
+肥鹅签到卡西欧晶晶专卖店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"4a8536c9908a41659fe0f6f64ae83630","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"a52a295dc094417098099d264a75eef8","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"7fe117a310c94ef18b3c0b3f6ad59301","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"fa548e2f371c437cbfee4299008efec7","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"2222f2b4dc2543ce89e5e173844bbe8a","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"906d50a67a44483b8a3942ccdc0eaac2","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"1000京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"d1edb34ff8b14e73af93e99a9b77dddb","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":4,"actRule":"1、活动时间：2021-02-10 00:00 - 2021-02-25 00:00；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送100京豆；
+6、第2天签到，有机会赠送100京豆；
+7、第3天签到，有机会赠送100京豆；
+8、第4天签到，有机会赠送100京豆；
+9、第5天签到，有机会赠送100京豆；
+10、第6天签到，有机会赠送100京豆；
+11、第7天签到，有机会赠送1000京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":0,"isSign":"y"}

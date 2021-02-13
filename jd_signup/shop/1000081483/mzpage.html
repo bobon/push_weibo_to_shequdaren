@@ -235,7 +235,7 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
         shopName: ('花花公子女鞋京东自营旗舰店').replace(/&#39;/g, "'"),
         browse: '',
         isGreatSale: !!Number(''),
-        servTime: '1613102076',
+        servTime: '1613224325',
         ptqq: '0' === '1',
         isPaimaiShop: '0' === '1',
         isNewPingou: !!~['3', '5', '9'].indexOf('0'),
@@ -710,6 +710,506 @@ function __reloadResource(c){try{var l=document.head||document.getElementsByTagN
 
     <!-- // diy.jdDecoShopHtml -->
     <script>window.DTMContentData = [
+   {
+      "biSort" : false,
+      "containerData" : {
+         "children" : [
+            {
+               "children" : [
+                  {
+                     "containerType" : "com.jd.countDown",
+                     "dataMap" : {
+                        "source" : {
+                           "value" : "$countDown"
+                        }
+                     },
+                     "events" : [
+                        {
+                           "actions" : [
+                              {
+                                 "break" : false,
+                                 "params" : [
+                                    {
+                                       "paramName" : "跳转sku",
+                                       "paramValue" : "$countDown.detail"
+                                    }
+                                 ],
+                                 "type" : "openURL"
+                              },
+                              {
+                                 "break" : false,
+                                 "param" : {
+                                    "eventContext" : "$countDown.detail",
+                                    "eventId" : "Terminator_Countdown"
+                                 },
+                                 "type" : "jdmtav2"
+                              }
+                           ],
+                           "type" : "click"
+                        }
+                     ],
+                     "source" : "$countDown",
+                     "style" : {
+                        "backgroundColor" : "$theme.backgroundColor.color",
+                        "backgroundImage" : "$theme.backgroundImage.imageUrl",
+                        "bannerPosition" : "bottom",
+                        "finishTextFontSize" : "15",
+                        "height" : "-2",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "textFontColor" : "#ffffff",
+                        "textFontSize" : "12",
+                        "timeBackgroundColor" : "#ffffff",
+                        "timeFontColor" : "$theme.textColor.color",
+                        "timeFontSize" : "14",
+                        "viewMoreBtnImage" : "//m.360buyimg.com/cms/jfs/t1/30120/17/6473/1754/5c8f094bE1f83dab7/0a9260edcb84c3b3.png",
+                        "width" : "-1"
+                     }
+                  }
+               ],
+               "containerType" : "container",
+               "style" : {
+                  "height" : "-2",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "width" : "-1"
+               }
+            },
+            {
+               "containerType" : "container",
+               "style" : {
+                  "height" : "5",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "visible" : "$showFloorGap",
+                  "width" : "-1"
+               }
+            }
+         ],
+         "containerType" : "container",
+         "dataMap" : {
+            "countDown" : {
+               "middleType" : "J_M_COUNTDOWN",
+               "type" : "sku-promotion",
+               "value" : {
+                  "data" : {
+                     "dataSourceType" : 2,
+                     "detail" : {
+                        "configDataType" : 1,
+                        "configDataValue" : {
+                           "clickUrl" : "javascript:;",
+                           "skuIds" : "100002148075"
+                        }
+                     },
+                     "endTime" : "2021-02-14 05:59:59",
+                     "imgHeight" : "570",
+                     "imgUrl" : "//img11.360buyimg.com/cms/jfs/t1/67304/27/1633/131142/5cff2510Eee504d51/213edd2358ebc2a6.jpg",
+                     "imgWidth" : "1125",
+                     "startTime" : "2021-02-13 06:00:00"
+                  }
+               }
+            },
+            "showFloorGap" : {
+               "middleType" : "J_NORMAL_ARRAY",
+               "type" : "text",
+               "value" : {
+                  "dataSourceType" : 0,
+                  "text" : "false"
+               }
+            },
+            "theme" : {
+               "middleType" : "J_STYLE_EDITOR",
+               "type" : "styleConfig",
+               "value" : {
+                  "data" : {
+                     "backgroundColor" : {
+                        "color" : "#FC0000",
+                        "visible" : true
+                     },
+                     "backgroundImage" : {
+                        "imageUrl" : "//m.360buyimg.com/cms/jfs/t1/20123/25/7717/19047/5c6e4faeE1ff2062a/a1b916e9d35da8b8.jpg",
+                        "visible" : true
+                     },
+                     "textColor" : {
+                        "color" : "#FC0000",
+                        "visible" : true
+                     }
+                  }
+               }
+            }
+         },
+         "style" : {
+            "height" : "-2",
+            "isPointDisplay" : true,
+            "isPointHide" : false,
+            "orientation" : "vertical",
+            "scroll" : 0,
+            "scrollBar" : 0,
+            "scrollBounce" : 0,
+            "width" : "-1"
+         }
+      },
+      "decoPath" : "mCountdown",
+      "defaultFlag" : 2,
+      "floorHeight" : 5,
+      "floorId" : "111589443123",
+      "floorPosition" : "content",
+      "floorStatus" : 0,
+      "middleTemplateId" : 46905,
+      "middleTypes" : [ "J_STYLE_EDITOR", "J_NORMAL_ARRAY", "J_M_COUNTDOWN" ],
+      "moduleDesignerType" : "TERMINATOR",
+      "moduleFlag" : "mCountdown",
+      "moduleId" : 16,
+      "moduleName" : "倒计时",
+      "moduleType" : 100,
+      "previewUri" : "//img12.360buyimg.com/zx/jfs/t19408/190/1180131468/7148/b141e558/5abf3161N426e9826.png",
+      "radiusFlag" : 0,
+      "scv" : "6.6.9",
+      "sizeRule" : 375,
+      "types" : [ "styleConfig", "text", "sku-promotion" ],
+      "visible" : true
+   },
+   {
+      "biSort" : false,
+      "containerData" : {
+         "children" : [
+            {
+               "children" : [
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$hotComponent",
+                        "template" : {
+                           "accessibility" : {
+                              "accessibilityMap" : {
+                                 "accessibilityLabel" : "图片热区",
+                                 "accessibilityRole" : "image"
+                              },
+                              "accessible" : true
+                           },
+                           "containerType" : "image",
+                           "dataMap" : {
+                              "url" : {
+                                 "value" : "$hotComponent.[?].imageUrl"
+                              }
+                           },
+                           "style" : {
+                              "height" : "$hotComponent.[?].h",
+                              "isCircle" : false,
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "needPlaceholder" : true,
+                              "needScale" : true,
+                              "orientation" : "vertical",
+                              "placeholderType" : "auto",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "$hotComponent.[?].w"
+                           },
+                           "urlRefer" : "$hotComponent.[?].imageUrl"
+                        }
+                     },
+                     "style" : {
+                        "height" : "-1",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  },
+                  {
+                     "containerType" : "container",
+                     "foreach" : {
+                        "arrayName" : "$pictureHotspot.data",
+                        "template" : {
+                           "conditions" : [
+                              {
+                                 "children" : [
+                                    {
+                                       "children" : [
+                                          {
+                                             "containerType" : "text",
+                                             "dataMap" : {
+                                                "jdPrice" : {
+                                                   "value" : "$pictureHotspot.data.[?].jdPrice"
+                                                },
+                                                "jdprice" : {
+                                                   "value" : false
+                                                },
+                                                "prefix" : {
+                                                   "value" : "$pictureHotspot.data.[?].prefix"
+                                                },
+                                                "value" : {
+                                                   "value" : "$pictureHotspot.data.[?].price"
+                                                }
+                                             },
+                                             "events" : [
+                                                {
+                                                   "actions" : [
+                                                      {
+                                                         "break" : false,
+                                                         "params" : [
+                                                            {
+                                                               "paramName" : "跳转sku",
+                                                               "paramValue" : "$pictureHotspot.data.[?].detail"
+                                                            }
+                                                         ],
+                                                         "type" : "openURL"
+                                                      },
+                                                      {
+                                                         "break" : false,
+                                                         "param" : {
+                                                            "eventContext" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds",
+                                                            "eventId" : "Terminator_Recommend"
+                                                         },
+                                                         "type" : "jdmtav2"
+                                                      }
+                                                   ],
+                                                   "type" : "click"
+                                                }
+                                             ],
+                                             "jdPrice" : "$pictureHotspot.data.[?].jdPrice",
+                                             "jdprice" : false,
+                                             "prefixRefer" : "$pictureHotspot.data.[?].prefix",
+                                             "style" : {
+                                                "fontFamily" : "JDZhengHT-Regular",
+                                                "fontSize" : "$pictureHotspot.data.[?].priceStyleConfig.fontSize",
+                                                "gravity" : 4,
+                                                "height" : "-2",
+                                                "isPointDisplay" : true,
+                                                "isPointHide" : false,
+                                                "lines" : 1,
+                                                "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xMobile",
+                                                "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yMobile",
+                                                "orientation" : "vertical",
+                                                "scroll" : 0,
+                                                "scrollBar" : 0,
+                                                "scrollBounce" : 0,
+                                                "textColor" : "$pictureHotspot.data.[?].priceStyleConfig.color",
+                                                "width" : "-2"
+                                             },
+                                             "valueRefer" : "$pictureHotspot.data.[?].price"
+                                          }
+                                       ],
+                                       "containerType" : "container",
+                                       "style" : {
+                                          "height" : "$pictureHotspot.data.[?].priceStyleConfig.hHotMobile",
+                                          "isPointDisplay" : true,
+                                          "isPointHide" : false,
+                                          "marginLeft" : "$pictureHotspot.data.[?].priceStyleConfig.xHotMobile",
+                                          "marginTop" : "$pictureHotspot.data.[?].priceStyleConfig.yHotMobile",
+                                          "orientation" : "vertical",
+                                          "scroll" : 0,
+                                          "scrollBar" : 0,
+                                          "scrollBounce" : 0,
+                                          "width" : "$pictureHotspot.data.[?].priceStyleConfig.wHotMobile"
+                                       }
+                                    }
+                                 ],
+                                 "left" : "$pictureHotspot.data.[?].showSkuPrice",
+                                 "right" : "1",
+                                 "style" : {
+                                    "height" : "$pictureHotspot.hotAreaHeight",
+                                    "layout" : "absolute",
+                                    "width" : "-1"
+                                 },
+                                 "type" : "=="
+                              }
+                           ],
+                           "containerType" : "container",
+                           "skuNode" : {
+                              "name" : "$pictureHotspot.data.[?].detail.configDataValue.skuIds"
+                           },
+                           "style" : {
+                              "height" : "-1",
+                              "isPointDisplay" : true,
+                              "isPointHide" : false,
+                              "orientation" : "vertical",
+                              "scroll" : 0,
+                              "scrollBar" : 0,
+                              "scrollBounce" : 0,
+                              "width" : "-1"
+                           }
+                        }
+                     },
+                     "style" : {
+                        "height" : "$pictureHotspot.hotAreaHeight",
+                        "isPointDisplay" : true,
+                        "isPointHide" : false,
+                        "layout" : "absolute",
+                        "orientation" : "vertical",
+                        "scroll" : 0,
+                        "scrollBar" : 0,
+                        "scrollBounce" : 0,
+                        "width" : "-1"
+                     }
+                  }
+               ],
+               "containerType" : "container",
+               "events" : [
+                  {
+                     "actions" : [
+                        {
+                           "break" : false,
+                           "params" : [
+                              {
+                                 "paramName" : "热区链接",
+                                 "paramType" : "hotArea",
+                                 "paramValue" : "$pictureHotspot"
+                              }
+                           ],
+                           "type" : "openURL"
+                        },
+                        {
+                           "break" : false,
+                           "param" : {
+                              "eventId" : "Terminator_HotArea"
+                           },
+                           "type" : "jdmtav2"
+                        }
+                     ],
+                     "type" : "click"
+                  }
+               ],
+               "style" : {
+                  "height" : "$pictureHotspot.hotAreaHeight",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "layout" : "absolute",
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "width" : "-1"
+               }
+            },
+            {
+               "containerType" : "container",
+               "style" : {
+                  "backgroundColor" : "#f3f4f7",
+                  "height" : "5",
+                  "isPointDisplay" : true,
+                  "isPointHide" : false,
+                  "orientation" : "vertical",
+                  "scroll" : 0,
+                  "scrollBar" : 0,
+                  "scrollBounce" : 0,
+                  "visible" : "$showFloorGap",
+                  "width" : "-1"
+               }
+            }
+         ],
+         "containerType" : "container",
+         "dataMap" : {
+            "hotComponent" : {
+               "type" : "jsonArray",
+               "value" : {
+                  "data" : [
+                     {
+                        "h" : 394,
+                        "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/156916/28/8915/316054/601e1032E4e926be3/2d98f4c41e1747d7.jpg",
+                        "w" : 375,
+                        "x" : 0,
+                        "y" : 0
+                     }
+                  ],
+                  "dataSourceType" : 0
+               }
+            },
+            "pictureHotspot" : {
+               "middleType" : "J_PICTURE_HOTSPOT",
+               "type" : "hotArea",
+               "value" : {
+                  "data" : [
+                     {
+                        "coordinate" : {
+                           "h" : 1119,
+                           "w" : 1092,
+                           "x" : 18,
+                           "y" : 36
+                        },
+                        "dataSourceType" : 2,
+                        "detail" : {
+                           "configDataType" : 1,
+                           "configDataValue" : {
+                              "clickUrl" : "javascript:;",
+                              "skuIds" : "100002148075"
+                           }
+                        },
+                        "jdPrice" : false,
+                        "prefix" : "￥",
+                        "price" : "",
+                        "priceStyleConfig" : {}
+                     }
+                  ],
+                  "hotAreaHeight" : 394
+               }
+            },
+            "showFloorGap" : {
+               "middleType" : "J_NORMAL_ARRAY",
+               "type" : "text",
+               "value" : {
+                  "dataSourceType" : 0,
+                  "text" : "false"
+               }
+            }
+         },
+         "style" : {
+            "height" : "-2",
+            "isPointDisplay" : true,
+            "isPointHide" : false,
+            "orientation" : "vertical",
+            "scroll" : 0,
+            "scrollBar" : 0,
+            "scrollBounce" : 0,
+            "width" : "-1"
+         }
+      },
+      "decoPath" : "mPictureHotspot",
+      "defaultFlag" : 2,
+      "extInfo" : {
+         "preloadImages" : [
+            {
+               "imageHeight" : "394",
+               "imageUrl" : "//img12.360buyimg.com/cms/jfs/t1/156916/28/8915/316054/601e1032E4e926be3/2d98f4c41e1747d7.jpg",
+               "imageWidth" : "375"
+            }
+         ]
+      },
+      "floorHeight" : 5,
+      "floorId" : "91933112244",
+      "floorPosition" : "content",
+      "floorStatus" : 2,
+      "middleTemplateId" : 9,
+      "middleTypes" : [ "J_PICTURE_HOTSPOT", "J_NORMAL_ARRAY" ],
+      "moduleDesignerType" : "TERMINATOR",
+      "moduleFlag" : "mPictureHotspot",
+      "moduleId" : 10,
+      "moduleName" : "图片热区",
+      "moduleType" : 100,
+      "previewUri" : "//img13.360buyimg.com/zx/jfs/t17128/167/1178627518/5678/ae7eb923/5abf3179Nd8bbaf29.png",
+      "radiusFlag" : 0,
+      "scv" : "7.0.0",
+      "sizeRule" : 375,
+      "types" : [ "hotArea", "jsonArray", "text" ],
+      "visible" : true
+   },
    {
       "biSort" : false,
       "containerData" : {
