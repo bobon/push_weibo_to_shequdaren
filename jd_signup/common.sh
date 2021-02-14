@@ -83,3 +83,10 @@ write_sign_res_lzkj_7() {
 	echo -e "$sign_res_info"
 	echo "***********************************************"
 }
+
+#grep -r '^token=' api_vender/ | egrep -v '_del:|_fq:' | cut -d ':' -f 2 | sed -r -e 's,.*="*,,' -e 's,",,' | xargs -i ls -1 shop/{}/shop
+
+#token="9F32AF8D7A055BD6760EF22E08FB6470"
+#sign_num="1"
+#let sign_num++
+#ll shop/$token/prize/$sign_num
