@@ -1,14 +1,17 @@
-user_Agent="jdapp;android;9.3.8;10;8363838303530333030393730373-83D2338333738326233603436336;network/wifi;model/ALP-AL00;addressid/1531301193;aid/9a0d1381915369ba;oaid/f2def9db-defe-ba42-f7b3-fb8de59b5882;osVer/29;appBuild/86571;partner/huawei;eufv/1;jdSupportDarkMode/0;Mozilla/5.0 (Linux; Android 10; ALP-AL00 Build/HUAWEIALP-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045230 Mobile Safari/537.36"
-shebei_info="clientVersion=9.3.8&build=86571&client=android&d_brand=HUAWEI&d_model=ALP-AL00&osVersion=10&screen=1920*1080&partner=huawei&aid=9a0d1381915369ba&oaid=f2def9db-defe-ba42-f7b3-fb8de59b5882&openudid=9a0d1381915369ba&eid=eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV/hV8InouSfik8v9bERfLRGc9CC89m+eZer/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x&sdkVersion=29&lang=zh_CN&uuid=9a0d1381915369ba&area=3_51035_55901_0&networkType=wifi&wifiBssid=e0eea65254c588983672ca0d315c6b3c&uts=0f31TVRjBSsqndu4%2FjgUPz6uymy50MQJ7sHDsBHQ2Vt9nfx9O%2FaK49v%2Ban2M27kjdzA%2FuEp%2FovaAAQWZZ3xldpRh7awdKEL51v25c1OjqNnMoPknAGNOgFl8Kp%2BE6atIg5gReXFNeVN6d%2BPy5vPPpnrFNJHuh%2FcdWNokorChk00jJiSVkJRTDIBFNjRNOxOM1mIKXvqj0gYRH2p74MKMcA%3D%3D&st=1612075553770&sign=7031aa9113c75915d6fb3f9c7bfda6ec&sv=121"
-shebei_cjhy_info="clientVersion=9.3.8&build=86571&client=android&d_brand=HUAWEI&d_model=ALP-AL00&osVersion=10&screen=1920*1080&partner=huawei&aid=9a0d1381915369ba&oaid=f2def9db-defe-ba42-f7b3-fb8de59b5882&openudid=9a0d1381915369ba&eid=eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV/hV8InouSfik8v9bERfLRGc9CC89m+eZer/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x&sdkVersion=29&lang=zh_CN&uuid=9a0d1381915369ba&area=3_51038_3000_0&networkType=wifi&wifiBssid=e0eea65254c588983672ca0d315c6b3c&uts=0f31TVRjBSsqndu4%2FjgUPz6uymy50MQJACxWhb4wu%2BmHoZUDwU0wINSmu8RCWy4KK498bMsQX2oR0jvNDZvgkWO5rX08lMIdvkfGjWbLwrSsEPJBlrUYt8OcBnXVyX65kpKr6Iny%2F4HOD1g1XntWhEiNyTdpcSaIuIqZMzaGTrBqwnUq3O0%2ByVfnncF%2F6aLPQ%2FC6FUCzXXzYpw42yiQtog%3D%3D&st=1612184643959&sign=ce2a562a84951bdef8b4fdf19a7c9843&sv=122"
+user_Agent="jdapp;android;9.0.8;4.4.2;866332029848058-04021f88e2e6;network/wifi;model/CHM-UL00;addressid/0;aid/82b874b6508918ae;oaid/07fef5d9-fb12-cca0-fbf7-7eef4fbf9366;osVer/19;appBuild/83486;partner/huawei;Mozilla/5.0 (Linux; Android 4.4.2; CHM-UL00 Build/HonorCHM-UL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044942 Mobile Safari/537.36"
+shebei_info="clientVersion=9.0.8&build=83486&client=android&d_brand=HUAWEI&d_model=CHM-UL00&osVersion=4.4.2&screen=1280*720&partner=huawei&aid=82b874b6508918ae&oaid=07fef5d9-fb12-cca0-fbf7-7eef4fbf9366&eid=eidAab49812101scsES6oQKmR4GixW7I5V9MRbBEvA61b99tf9C1Vqx8h1MKjWp2wRy46lZooaOZf9WudDAj4nzJcZLP49/2AbUTkJlOb9wGJMPB1BpV&sdkVersion=19&lang=zh_CN&uuid=866332029848058-04021f88e2e6&area=3_51038_3000_0&networkType=wifi&wifiBssid=e0eea65254c588983672ca0d315c6b3c&uts=0f31TVRjBSsqndu4%2FjgUPz6uymy50MQJLw2bXLrxKNNL5rvDC%2B8oGhRxpkEW7JEXLlaKu0fX85YeDYy9ZAe%2B4rhjcGo2zmOlEx73U6%2Bc4wEOt3EdIOqW09QQRo%2BoI%2BzPGQjnH8ZUrDCphdK0PnJy0R%2B6%2FUdOfaNjxtEicszcC%2FAGqnXly8q9OhACCYcxlNAAC3NNZUSsarHyFIHzkrQqMg%3D%3D&st=1612180656934&sign=239085b00f2fba7799837bff6e1cb9b5&sv=102"
+shebei_cjhy_info="clientVersion=9.0.8&build=83486&client=android&d_brand=HUAWEI&d_model=CHM-UL00&osVersion=4.4.2&screen=1280*720&partner=huawei&aid=82b874b6508918ae&oaid=07fef5d9-fb12-cca0-fbf7-7eef4fbf9366&eid=eidAab49812101scsES6oQKmR4GixW7I5V9MRbBEvA61b99tf9C1Vqx8h1MKjWp2wRy46lZooaOZf9WudDAj4nzJcZLP49/2AbUTkJlOb9wGJMPB1BpV&sdkVersion=19&lang=zh_CN&uuid=866332029848058-04021f88e2e6&area=3_51038_3000_0&networkType=wifi&wifiBssid=e0eea65254c588983672ca0d315c6b3c&uts=0f31TVRjBSsqndu4%2FjgUPz6uymy50MQJNhNEXPObOJx0eg%2BVD5JOJBHLLkhREzjILfXmvlt8NSRYprPAC%2Bvd5wgRqZyzDSfnVUqnR36O7t3Acx5pqmOG64Ym8EVZJaC961qCggHcRVEx7trQDcb2lznjhPdU%2FH2zKttFfTIir4Hfgb24fcfnNtRpAsabxORHXBO37qa8OjSPbEKxkDpnpA%3D%3D&st=1612262990897&sign=b9c263d483b50e111e170c7103da59e9&sv=111"
+
+#user_Agent="JD4iPhone/9.4.0 CFNetwork/1209 Darwin/20.2.0"
 
 #用户信息
-pin_name="肥鹅"
-pt_pin="jd_4d651d9e48204"
-pt_key="AAJgFqFLADCwFogSdbdKzNYGJHVdU5f4_A768OyPxw3XajCHM9CFNB1CkzX_kCTmsBT5ZV2Rj0A"
-wskey="AAJgFq5DAEDOTEfR12_FBLfmHm2H6TTRS8SkoxcD2gJJuWhXlYgJznlRhC00tHl5JHe3kV_5PBpM2LfSQaiVykqeyWk5TWcM"
+pin_name="王"
+pt_pin="1309893722-164885"
+pt_key="AAJgFqDiADBXW35TeDzYmiymKBqUHwjAV7ELAypIp1J11aoCkKm-dcQdoWzG_Y6d_vsa7jpFyX8"
+#wskey=""
 
-actorUuid=1eb2029801384172a533a2bae500a5bc
+
+actorUuid=6b90904fd3094e45a69c6dc8eefa6d87
 
 loop_num=20
-RANDOM_num=7
+RANDOM_num=20

@@ -12,6 +12,10 @@ unset user_Agent
 
 source $1
 source $2
+if [ ! -z "$3" ]; then
+	RANDOM_num="$3"
+fi
+echo "RANDOM_num: $RANDOM_num"
 
 mkdir -vp "$pt_pin"
 cd "$pt_pin"
@@ -95,7 +99,7 @@ t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://lzdz-isv.isvjcloud.
   echo -e "$t" > ${venderId}_signUp.html
   echo -e "$t" | jq
   echo "$t"| jq '.isOk' | grep 'true' && a=true
-  echo "$t" | jq '.errorMessage' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
+  echo "$t" | jq '.errorMessage' | egrep '非法用户|您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
 fi
 
 if [ "$a" = "true" ]; then
@@ -107,10 +111,13 @@ else
 fi
 done
 
-if [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ] || [ "$3" = "now" ]; then 
-	sleep 3
+if [ "$3" = "now" ]; then 
+	sleep 0.5
+elif [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ]; then 
+	sleep $RANDOM_num
 else
-	sleep 38
+	let RANDOM_num=RANDOM_num*2
+	sleep $RANDOM_num
 fi
 
 echo

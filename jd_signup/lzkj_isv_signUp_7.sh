@@ -1,5 +1,14 @@
 #set -e
+
 date +"%x %X %N  %s"
+if [ ! -f "$1" ]; then
+	echo "not find $1"
+	exit
+fi
+if [ ! -f "$2" ]; then
+	echo "not find $2"
+	exit
+fi
 
 unset svr
 unset pin_name
@@ -11,19 +20,51 @@ unset user_Agent
 
 source $1
 source $2
-
-if [ ! -z "$date_0_f" ]; then
-	d=$(date -d @$date_0_f +"%Y%m%d_%H:%M:%S %s")
-	echo "$d 时间未到"
-	for j in $(seq 1 240); do
-		if [ $(date '+%s') -ge $date_0_f ]; then
-			echo "$d 时间到"
-			break
-		else
-			sleep 0.5
+if [ "$3" == "check" ]; then
+	echo "check sign. not run sign"
+else
+	if [ ! -z "$3" ]; then
+		RANDOM_num="$3"
+	fi
+	echo "RANDOM_num: $RANDOM_num"
+	
+	if [ "$4" == "force" ]; then
+		echo "force to sign"
+	else
+		unset giftDate
+		unset sign_res_info
+		b=$(mktemp)
+		sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
+		source $b
+		rm -rvf $b
+		if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+			date +"%x %X %N  %s"
+			echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
+			echo "***********************************************"
+			echo -e "$sign_res_info"
+			echo "***********************************************"
+			echo
+			cat "$2"
+			exit
 		fi
-	done
-	date +"%x %X %N  %s"
+	
+		if [ ! -z "$date_0_f" ]; then
+			d=$(date -d @$date_0_f +"%Y%m%d_%H:%M:%S %s")
+			echo "$d 时间未到"
+			for j in $(seq 1 240); do
+				if [ $(date '+%s') -ge $date_0_f ]; then
+					echo "$d 时间到"
+					break
+				else
+					sleep 0.5
+				fi
+			done
+			date +"%x %X %N  %s"
+		fi
+	fi
+
+	v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
+	isover=
 fi
 
 
@@ -118,37 +159,41 @@ else
 	for i in $(seq 1 $loop_num); do
 
 	if [ "$a" = "false" ]; then
-	echo
-	date +"%x %X %N  %s"
-	echo "${pin_name}签到$vendername"
-	t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/signUp" \
-	  -H 'Connection: keep-alive' \
-	  -H 'Accept: application/json' \
-	  -H "Origin: https://${svr}" \
-	  -H 'X-Requested-With: XMLHttpRequest' \
-	  -H "User-Agent: ${user_Agent}" \
-	  -H 'Sec-Fetch-Mode: cors' \
-	  -H 'Content-Type: application/x-www-form-urlencoded' \
-	  -H 'Sec-Fetch-Site: same-origin' \
-	  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
-	  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-	  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
+		echo
+		date +"%x %X %N  %s"
+		echo "${pin_name}签到$vendername"
+		t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/signUp" \
+		  -H 'Connection: keep-alive' \
+		  -H 'Accept: application/json' \
+		  -H "Origin: https://${svr}" \
+		  -H 'X-Requested-With: XMLHttpRequest' \
+		  -H "User-Agent: ${user_Agent}" \
+		  -H 'Sec-Fetch-Mode: cors' \
+		  -H 'Content-Type: application/x-www-form-urlencoded' \
+		  -H 'Sec-Fetch-Site: same-origin' \
+		  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+		  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
+		  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
 	  echo -e "$t" > ${venderId}_signUp.html
 	  echo -e "$t" | jq
 	  echo "$t"| jq '.isOk' | grep 'true' && a=true
-	  if [ -z "$now_" ]; then
-		  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
-		fi
+	  
+	  if [ $(echo "$t" | jq '.msg' | egrep '当前不存在有效的活动|活动已结束|活动已经结束|该活动已经不存在'>/dev/null;echo $?) -eq 0 ]; then
+	  	echo "活动已结束. $2 --> ${v_f}_del"
+	  	mv -vf "$2" "${v_f}_del"
+	  	isover=true
+	  	a=true
+	  	break
+	  fi
+		echo "$t" | jq '.msg' | egrep '非法用户|您已完成当天签到|当天只能签到一次|当天只允许签到一次|会员才能参加活动|用户达到签到上限' && a=true
 	fi
 
 	if [ "$a" = "true" ]; then
-	echo "签到${vendername}完成"
+		echo "签到${vendername}完成"
 		break
 	else
 		time sleep $(echo "0.2 * $delay"|bc)
-		if [ -z "$now_" ]; then
-			delay=$(($delay + 1))
-		fi
+		delay=$(($delay + 1))
 	fi
 	done
 
@@ -160,12 +205,14 @@ else
 		let RANDOM_num=RANDOM_num*2
 		sleep $RANDOM_num
 	fi
-
+	
+	source /home/myid/jd/jd_signup/common.sh
+	if [ -z "$isover" ]; then
+		sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+	fi
 fi
 
 
-echo
-echo "${pin_name}签到${vendername}查看结果, 活动规则"
 s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/getSignInfo" \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
@@ -178,5 +225,21 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDa
   -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
+
+if [ -z "$isover" ]; then
+	if [ "$3" != "check" ]; then
+		write_sign_res_lzkj_7 "$pin_name ${pt_pin}" ${2} "$s" "$t"
+	fi
+fi
+
+echo
+echo "${pin_name}签到${vendername}查看结果, 活动规则"
 echo -e "$s"
+echo
+if [ -z "$isover" ]; then
+	cat "$2"
+else
+	cat "${v_f}_del"
+fi
+
 #echo -e "$s" | jq '{signDetail, contiSignNum: .signRecord.contiSignNum, totalSignNum: .signRecord.totalSignNum}'

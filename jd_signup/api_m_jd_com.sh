@@ -1,5 +1,6 @@
 #!/bin/bash
 
+date +"%x %X %N  %s"
 a=false
 b=false
 delay=1
@@ -16,50 +17,62 @@ fi
 source $1
 source $2
 
-unset giftDate
-unset sign_res_info
-bb=$(mktemp)
-sed -r -n '/#.* '${pt_pin1}' sign_res$/,/#.* '${pt_pin1}' sign_res_end$/p' "$2" > $bb
-source $bb
-rm -rvf $bb
-if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
-	date +"%x %X %N  %s"
-	echo "$pin1_name 今天已经签到过. giftDate: $giftDate"
-	echo "***********************************************"
-	echo -e "$sign_res_info"
-	echo "***********************************************"
-	echo
-	a=true
-fi
-
-unset giftDate
-unset sign_res_info
-bb=$(mktemp)
-sed -r -n '/#.* '${pt_pin2}' sign_res$/,/#.* '${pt_pin2}' sign_res_end$/p' "$2" > $bb
-source $bb
-rm -rvf $bb
-if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
-	echo "$pin2_name 今天已经签到过. giftDate: $giftDate"
-	echo "***********************************************"
-	echo -e "$sign_res_info"
-	echo "***********************************************"
-	echo
-	b=true
-fi
-
-if [ "$a" = "true" ] && [ "$b" = "true" ]; then
-	echo "今天已全部签到过"
-	cat "$2"
-	exit
-fi
-
-v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
-isover=
-
-
 if [ "$3" == "check" ]; then
 	echo "check sign. not run sign"
 else
+	if [ ! -z "$3" ]; then
+		RANDOM_num="$3"
+	fi
+	echo "RANDOM_num: $RANDOM_num"
+
+	if [ "$4" == "force" ]; then
+		echo "force to sign"
+	else
+		unset giftDate
+		unset sign_res_info
+		bb=$(mktemp)
+		sed -r -n '/#.* '${pt_pin1}' sign_res$/,/#.* '${pt_pin1}' sign_res_end$/p' "$2" > $bb
+		source $bb
+		rm -rvf $bb
+		if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+			date +"%x %X %N  %s"
+			echo "$pin1_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
+			echo "***********************************************"
+			echo -e "$sign_res_info"
+			echo "***********************************************"
+			echo
+			a=true
+		fi
+
+		if [ -z "$pt_pin2" ]; then
+				b=true
+		else
+			unset giftDate
+			unset sign_res_info
+			bb=$(mktemp)
+			sed -r -n '/#.* '${pt_pin2}' sign_res$/,/#.* '${pt_pin2}' sign_res_end$/p' "$2" > $bb
+			source $bb
+			rm -rvf $bb
+			if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+				echo "$pin2_name 今天已经签到过. giftDate: $giftDate"
+				echo "***********************************************"
+				echo -e "$sign_res_info"
+				echo "***********************************************"
+				echo
+				b=true
+			fi
+		fi
+
+		if [ "$a" = "true" ] && [ "$b" = "true" ]; then
+			echo "今天已全部签到过"
+			cat "$2"
+			exit
+		fi
+	fi
+
+	v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
+	isover=
+
 
 	for i in $(seq 1 20); do
 
@@ -141,17 +154,24 @@ else
 	if [ "$3" = "now" ]; then 
 		sleep 0.5
 	elif [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ]; then 
-		sleep 3
+		sleep $RANDOM_num
 	else
-		sleep 28
+		let RANDOM_num=RANDOM_num*2
+		sleep $RANDOM_num
+	fi
+
+	source /home/myid/jd/jd_signup/common.sh
+	if [ -z "$isover" ]; then
+		sed -i -r '/#.* '${pt_pin1}' sign_res$/,/#.* '${pt_pin1}' sign_res_end$/d' $2
+	fi
+	if [ ! -z "$pt_pin2" ]; then
+		if [ -z "$isover" ]; then
+			sed -i -r '/#.* '${pt_pin2}' sign_res$/,/#.* '${pt_pin2}' sign_res_end$/d' $2
+		fi
 	fi
 
 fi
 
-source /home/myid/jd/jd_signup/common.sh
-if [ -z "$isover" ]; then
-	sed -i -r '/#.* sign_res$/,$d' $2
-fi
 
 echo
 echo "${pin1_name}签到${vendername}查看结果"
@@ -167,7 +187,9 @@ s1=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=16095888
   -H "cookie: pt_key=${pt_key1}; pt_pin=${pt_pin1}" \
   --compressed | sed -r -e 's,^jsonp[_]*[^(]+[(],,' -e 's,[)][;]*$,,' )
 if [ -z "$isover" ]; then
-	write_sign_res "$pin1_name ${pt_pin1}" ${2} "$s1"
+	if [ "$3" != "check" ]; then
+		write_sign_res "$pin1_name ${pt_pin1}" ${2} "$s1" "$t1"
+	fi
 fi
 
 if [ ! -z "$pt_pin2" ]; then
@@ -185,7 +207,9 @@ if [ ! -z "$pt_pin2" ]; then
 	  -H "cookie: pt_key=${pt_key2}; pt_pin=${pt_pin2}" \
 	  --compressed | sed -r -e 's,^jsonp[_]*[^(]+[(],,' -e 's,[)][;]*$,,' )
 	if [ -z "$isover" ]; then
-		write_sign_res "$pin2_name ${pt_pin2}" ${2} "$s2"
+		if [ "$3" != "check" ]; then
+			write_sign_res "$pin2_name ${pt_pin2}" ${2} "$s2" "$t2"
+		fi
 	fi
 fi
 

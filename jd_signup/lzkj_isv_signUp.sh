@@ -1,5 +1,6 @@
 #set -e
 
+date +"%x %X %N  %s"
 if [ ! -f "$1" ]; then
 	echo "not find $1"
 	exit
@@ -21,25 +22,39 @@ unset user_Agent
 
 source $1
 source $2
-unset giftDate
-unset sign_res_info
-b=$(mktemp)
-sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
-source $b
-rm -rvf $b
-if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
-	date +"%x %X %N  %s"
-	echo "$pin_name 今天已经签到过. giftDate: $giftDate"
-	echo "***********************************************"
-	echo -e "$sign_res_info"
-	echo "***********************************************"
-	echo
-	cat "$2"
-	exit
-fi
 
-v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
-isover=
+if [ "$3" == "check" ]; then
+	echo "check sign. not run sign"
+else
+	if [ ! -z "$3" ]; then
+		RANDOM_num="$3"
+	fi
+	echo "RANDOM_num: $RANDOM_num"
+	
+	if [ "$4" == "force" ]; then
+		echo "force to sign"
+	else
+		unset giftDate
+		unset sign_res_info
+		b=$(mktemp)
+		sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
+		source $b
+		rm -rvf $b
+		if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+			date +"%x %X %N  %s"
+			echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
+			echo "***********************************************"
+			echo -e "$sign_res_info"
+			echo "***********************************************"
+			echo
+			cat "$2"
+			exit
+		fi
+	fi
+
+	v_f=$(echo $2 | sed -r -e 's,_delay$|_fq$|_del$,,')
+	isover=
+fi
 
 mkdir -vp "$pt_pin"
 cd "$pt_pin"
@@ -56,31 +71,30 @@ curl -c ${venderId}_signActivity2.cookie -sS -k "https://lzkj-isv.isvjcloud.com/
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' > ${venderId}__signActivity2.html
 cat ${venderId}_signActivity2.cookie | grep 'LZ_TOKEN' || exit 1
 
-
 if [ ! -z "$pt_key" ]; then
-echo "use pt_key"
-token=$(curl -sS -k "https://api.m.jd.com/client.action?functionId=isvObfuscator&${shebei_info}" \
-  -H 'Connection: Keep-Alive' \
-  -H "Cookie: pt_pin=${pt_pin};pt_key=${pt_key};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
-  -H 'Charset: UTF-8' \
-  -H "jdc-backup: pt_pin=${pt_pin};pt_key=${pt_key};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
-  -H 'Cache-Control: no-cache' \
-  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H 'User-Agent: okhttp/3.12.1' \
-  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
-  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
+	echo "use pt_key"
+	token=$(curl -sS -k "https://api.m.jd.com/client.action?functionId=isvObfuscator&${shebei_info}" \
+	  -H 'Connection: Keep-Alive' \
+	  -H "Cookie: pt_pin=${pt_pin};pt_key=${pt_key};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
+	  -H 'Charset: UTF-8' \
+	  -H "jdc-backup: pt_pin=${pt_pin};pt_key=${pt_key};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
+	  -H 'Cache-Control: no-cache' \
+	  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+	  -H 'User-Agent: okhttp/3.12.1' \
+	  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+	  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 else
-echo "use wskey"
-token=$(curl -sS -k "https://api.m.jd.com/client.action?functionId=isvObfuscator&${shebei_info}" \
-  -H 'Connection: Keep-Alive' \
-  -H "Cookie: pin=${pt_pin};wskey=${wskey};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
-  -H 'Charset: UTF-8' \
-  -H "jdc-backup: pin=${pt_pin};wskey=${wskey};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
-  -H 'Cache-Control: no-cache' \
- 	-H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H 'User-Agent: okhttp/3.12.1' \
-  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
-  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
+	echo "use wskey"
+	token=$(curl -sS -k "https://api.m.jd.com/client.action?functionId=isvObfuscator&${shebei_info}" \
+	  -H 'Connection: Keep-Alive' \
+	  -H "Cookie: pin=${pt_pin};wskey=${wskey};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
+	  -H 'Charset: UTF-8' \
+	  -H "jdc-backup: pin=${pt_pin};wskey=${wskey};whwswswws=foI18Q9zUaC97i6asoUmDtCfd4THnF/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61/QlYFcOsBjUZp7Xm8qlQ==;unionwsws={"devicefinger":"eidA71730131OWEwZDEzODE5MTUzNjliYQ==h4ZzXnuV\/hV8InouSfik8v9bERfLRGc9CC89m+eZer\/sGIDO0Nt96jztN5cRrPy3nYK1G1Oqe395sa9x","jmafinger":"foI18Q9zUaC97i6asoUmDtCfd4THnF\/Hg0kQlv4wvMWHd2xpCmOPMgMdpYZmKHAqh61\/QlYFcOsBjUZp7Xm8qlQ=="};" \
+	  -H 'Cache-Control: no-cache' \
+	 	-H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+	  -H 'User-Agent: okhttp/3.12.1' \
+	  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+	  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 fi
 echo "token: $token"
 [ ! -z "$token" ] || exit 2
@@ -135,7 +149,7 @@ else
 	  	a=true
 	  	break
 	  fi
-	  echo "$t" | jq '.msg' | egrep '您已完成当天签到|当天只能签到一次|当天只允许签到一次|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
+	  echo "$t" | jq '.msg' | egrep '非法用户|您已完成当天签到|当天只能签到一次|当天只允许签到一次|会员才能参加活动|该活动已经不存在|用户达到签到上限' && a=true
 	fi
 
 	if [ "$a" = "true" ]; then
@@ -156,11 +170,10 @@ else
 		sleep $RANDOM_num
 	fi
 
-fi
-
-source /home/myid/jd/jd_signup/common.sh
-if [ -z "$isover" ]; then
-	sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+	source /home/myid/jd/jd_signup/common.sh
+	if [ -z "$isover" ]; then
+		sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+	fi
 fi
 
 s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getSignInfo' \
@@ -176,7 +189,9 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
 if [ -z "$isover" ]; then
-	write_sign_res_lzkj "$pin_name ${pt_pin}" ${2} "$s" "$t"
+	if [ "$3" != "check" ]; then
+		write_sign_res_lzkj "$pin_name ${pt_pin}" ${2} "$s" "$t"
+	fi
 fi
 
 p=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
