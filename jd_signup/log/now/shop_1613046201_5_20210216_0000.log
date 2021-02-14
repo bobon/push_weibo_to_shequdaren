@@ -1,0 +1,233 @@
+02/15/21 00:00:02 166497300  1613318402
+RANDOM_num: 20
+removed '/tmp/tmp.WXBDjBYhs1'
+removed '/tmp/tmp.XkCaQFgZK0'
+
+02/15/21 00:00:08 585574800  1613318408
+赵签到赤木水耀星专卖店
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+02/15/21 
+肥鹅签到赤木水耀星专卖店查看结果
+
+***********************************************
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_12:44:00  2    [已~签~到]
+2021/02/15_00:00:06  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 2 天
+***********************************************
+
+
+
+肥鹅签到赤木水耀星专卖店日志
+{"code":200,"data":{"signRecords":[{"signTime":1612540800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612627200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612713600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613059200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613277840600,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318406007,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":2,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 2
+}
+签到赤木水耀星专卖店日志
+
+# 短链接
+suo_url=""
+venderId=10568849
+startTime=1612540800000
+endTime=1613491199000
+activityId=10268344
+token=5D6FFABDEB385CF03B838031DB1A8D3C
+#店铺名称
+vendername="赤木水耀星专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5D6FFABDEB385CF03B838031DB1A8D3C
+# 活动时间：2021.02.06 00:00:00 - 2021.02.16 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆
+连续签到10天：20京豆
+"
+
+
+
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062818;signed=2;currentDay=2
+signTime=1613149235;signed=2;currentDay=2
+signTime=1613232007;signed=2;currentDay=2
+signTime=1613318410;signed=2;currentDay=1
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="4"
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:18  2    [已~签~到]
+2021/02/13_01:00:35  2    [已~签~到]
+2021/02/14_00:00:07  2    [已~签~到]
+2021/02/15_00:00:10  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 4 天"
+#赵 122294312-396444 sign_res_end
+
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062818;signed=2;currentDay=2
+signTime=1613149235;signed=2;currentDay=2
+signTime=1613232009;signed=2;currentDay=2
+signTime=1613318414;signed=2;currentDay=1
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="4"
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:18  2    [已~签~到]
+2021/02/13_01:00:35  2    [已~签~到]
+2021/02/14_00:00:09  2    [已~签~到]
+2021/02/15_00:00:14  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 4 天"
+#王 1309893722-164885 sign_res_end
+
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613277840;signed=2;currentDay=2
+signTime=1613318406;signed=2;currentDay=1
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="2"
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_12:44:00  2    [已~签~到]
+2021/02/15_00:00:06  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 2 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+
+tDay=3
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="1"
+giftDate="20210214"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_12:44:00  1    [已~签~到]
+2021/02/15_00:00:00  3    未签到
+2021/02/16_00:00:00  3    未签到
+已签到 1 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+
+
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062818;signed=2;currentDay=2
+signTime=1613149235;signed=2;currentDay=2
+signTime=1613232007;signed=2;currentDay=2
+signTime=1613318410;signed=2;currentDay=1
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="4"
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:18  2    [已~签~到]
+2021/02/13_01:00:35  2    [已~签~到]
+2021/02/14_00:00:07  2    [已~签~到]
+2021/02/15_00:00:10  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 4 天"
+#赵 122294312-396444 sign_res_end
+
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062818;signed=2;currentDay=2
+signTime=1613149235;signed=2;currentDay=2
+signTime=1613232009;signed=2;currentDay=2
+signTime=1613318414;signed=2;currentDay=1
+signTime=1613404800;signed=1;currentDay=3"
+sign_num="4"
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:18  2    [已~签~到]
+2021/02/13_01:00:35  2    [已~签~到]
+2021/02/14_00:00:09  2    [已~签~到]
+2021/02/15_00:00:14  1    [已~签~到]
+2021/02/16_00:00:00  3    未签到
+已签到 4 天"
+#王 1309893722-164885 sign_res_end
+

@@ -12,45 +12,6 @@ actId="f8d4b0c5dfaf4c49b415987962ee9ef4"
 ##店铺id
 venderId="1000300368"
 
-#赵 122294312-396444 sign_res
-sign_res="
-signTime=1612137600;signed=2
-signTime=1612224000;signed=2
-signTime=1612310400;signed=2
-signTime=1612396800;signed=2
-signTime=1612483200;signed=2
-signTime=1612569600;signed=2
-signTime=1612656000;signed=2
-signTime=1612742400;signed=2
-signTime=1612828800;signed=2
-signTime=1612915200;signed=2
-signTime=1613001600;signed=2
-signTime=1613088000;signed=2
-signTime=1613174400;signed=2
-signTime=1613260800;signed=2"
-sign_num="15"
-sign_total_num="36"
-giftName=""10积分""
-giftDate="20210214"
-sign_res_info="
-2021/02/01_08:00:00  [已~签~到]      
-2021/02/02_08:00:00  [已~签~到]      
-2021/02/03_08:00:00  [已~签~到]      
-2021/02/04_08:00:00  [已~签~到]      
-2021/02/05_08:00:00  [已~签~到]      
-2021/02/06_08:00:00  [已~签~到]      
-2021/02/07_08:00:00  [已~签~到]      
-2021/02/08_08:00:00  [已~签~到]      
-2021/02/09_08:00:00  [已~签~到]      
-2021/02/10_08:00:00  [已~签~到]      
-2021/02/11_08:00:00  [已~签~到]      
-2021/02/12_08:00:00  [已~签~到]      
-2021/02/13_08:00:00  [已~签~到]      
-2021/02/14_08:00:00  [已~签~到]      
-当天签到奖励 "10积分"
-连续签到 15 天
-签到总天数 36"
-#赵 122294312-396444 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1612137600;signed=2
@@ -66,11 +27,13 @@ signTime=1612915200;signed=2
 signTime=1613001600;signed=2
 signTime=1613088000;signed=2
 signTime=1613174400;signed=2
-signTime=1613260800;signed=2"
-sign_num="15"
-sign_total_num="15"
-giftName=""100积分""
-giftDate="20210214"
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="16"
+sign_total_num="16"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210215"
 sign_res_info="
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -86,9 +49,10 @@ sign_res_info="
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
 2021/02/14_08:00:00  [已~签~到]      
-当天签到奖励 "100积分"
-连续签到 15 天
-签到总天数 15"
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 16 天
+签到总天数 16"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
@@ -105,11 +69,13 @@ signTime=1612915200;signed=2
 signTime=1613001600;signed=2
 signTime=1613088000;signed=2
 signTime=1613174400;signed=2
-signTime=1613260800;signed=2"
-sign_num="15"
-sign_total_num="15"
-giftName=""100积分""
-giftDate="20210214"
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="16"
+sign_total_num="16"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210215"
 sign_res_info="
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -125,20 +91,66 @@ sign_res_info="
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
 2021/02/14_08:00:00  [已~签~到]      
-当天签到奖励 "100积分"
-连续签到 15 天
-签到总天数 15"
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 16 天
+签到总天数 16"
 #移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612137600;signed=2
+signTime=1612224000;signed=2
+signTime=1612310400;signed=2
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="16"
+sign_total_num="37"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/01_08:00:00  [已~签~到]      
+2021/02/02_08:00:00  [已~签~到]      
+2021/02/03_08:00:00  [已~签~到]      
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 16 天
+签到总天数 37"
+#赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
-signTime=1613260800;signed=2"
-sign_num="1"
-sign_total_num="22"
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="2"
+sign_total_num="23"
 giftName=""10积分""
-giftDate="20210214"
+giftRes="ok"
+giftDate="20210215"
 sign_res_info="
 2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
 当天签到奖励 "10积分"
-连续签到 1 天
-签到总天数 22"
+连续签到 2 天
+签到总天数 23"
 #王 1309893722-164885 sign_res_end

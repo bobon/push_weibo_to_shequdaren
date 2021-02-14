@@ -1,0 +1,161 @@
+02/15/21 01:08:53 793171200  1613322533
+RANDOM_num: 20
+removed '/tmp/tmp.2vdSHkel2J'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613323134	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613323134	LZ_TOKEN_KEY	lztokenpage06896af56edf484bb8149f298adbd96d
+use pt_key
+token: AAFgKVkmADDNYmNtSphCyqwZpqeVJJnkF62GUAIo8nmfdEV8U3kCkNTWSD73t__XJXnSvVPZGnA
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/15/21 01:08:54 614877200  1613322534
+肥鹅签到博世电动工具京东自营旗舰店
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1146224",
+    "giftType": "6",
+    "giftName": "2京豆",
+    "giftNum": "2",
+    "giftTotal": "750000",
+    "giftResidue": null,
+    "priceInfo": "0.02",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "be048f19810347b3bfda01a9c9f8f8fa",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "zgRMiS"
+}
+true
+签到博世电动工具京东自营旗舰店完成
+
+***********************************************
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 4 天
+签到总天数 4
+***********************************************
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+肥鹅签到博世电动工具京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210212":"y","20210213":"y","20210214":"y","20210215":"y"},"isOk":true,"signDetail":{"20210212":"y","20210213":"y","20210214":"y","20210215":"y"},"followDays":3,"signRecord":{"nicknameShow":null,"id":"b05cea6194b644409080ba1253172934","venderId":1000002423,"actId":"3d6cd5a6cf4f47a8a28477116bdc9ad3","actName":"博世过年不打签到有礼","nick":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210215,"contiSignNum":4,"totalSignNum":4,"createTime":1613062894000,"updateTime":1613322534000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210212": "y",
+    "20210213": "y",
+    "20210214": "y",
+    "20210215": "y"
+  },
+  "contiSignNum": 4,
+  "totalSignNum": 4
+}
+
+博世电动工具京东自营旗舰店活动规则
+
+
+actId=3d6cd5a6cf4f47a8a28477116bdc9ad3
+venderId=1000002423
+startTime=1612454400000
+endTime=1613836799000
+# 短链接
+suo_url="https://3.cn/100Y-jKRp"
+actTimeStr="2021-02-05 00:00 至 2021-02-20 23:59"
+#店铺名称
+vendername="博世电动工具京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3d6cd5a6cf4f47a8a28477116bdc9ad3&venderId=1000002423
+# 活动时间：2021.02.05 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：66京豆 66京豆
+连续签到15天：88京豆 88京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""2京豆""
+giftDate="20210214"
+sign_res_info="
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 4 天
+签到总天数 4"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210215"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 4 天
+签到总天数 4"
+#肥鹅 jd_4d651d9e48204 sign_res_end

@@ -1,0 +1,103 @@
+02/15/21 01:10:35 412126900  1613322635
+RANDOM_num: 40
+removed '/tmp/tmp.l67ZfdfadE'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613323235	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613323235	LZ_TOKEN_KEY	lztokenpageac4826e9d07c46249aab18fdff5c1d62
+use wskey
+token: AAFgKVmLADCuvTl8s5WdECV-_bPc_HP2cQjw8Zk2VZGBqxA2K2zFSmRlkcT1jhBZoT-38quBEt8
+secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/15/21 01:10:36 228993200  1613322636
+移动签到美肤宝京东自营官方旗舰店
+{
+  "msg": "",
+  "signResult": {
+    "key": "CwSqpA",
+    "giftLogId": "ae4b7ecc998549f1bd8a443419229d14",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "50",
+      "giftType": "9",
+      "giftName": "50店铺积分",
+      "giftNum": "50",
+      "giftTotal": "800",
+      "giftResidue": null,
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+签到美肤宝京东自营官方旗舰店完成
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+***********************************************
+7天签到 第  天
+***********************************************
+
+移动签到美肤宝京东自营官方旗舰店查看结果, 活动规则
+
+
+#店铺名称
+vendername="美肤宝京东自营官方旗舰店"
+#店铺激活码
+actId="8723eda7d300499d9003f164a247cdd7"
+#店铺id
+venderId="1000002726"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=8723eda7d300499d9003f164a247cdd7&venderId=1000002726&adsource=tg_xuanFuTuBiao"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：5京豆
+连续签到4天：
+连续签到5天：50店铺积分
+连续签到6天：
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_days_7="
+4"
+sign_res_info="
+7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210215"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_days_7="
+2"
+sign_res_info="
+7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210215"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_days_7="
+4"
+sign_res_info="
+7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210215"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_days_7="
+"
+sign_res_info="
+7天签到 第  天"
+giftRes="ok"
+giftDate="20210215"
+#移动 jd_OeTNobRVGiNZ sign_res_end

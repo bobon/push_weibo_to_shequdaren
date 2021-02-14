@@ -18,11 +18,35 @@ actRule="
 连续签到6天：2京豆
 连续签到7天：5元京东E卡
 "
+#赵 122294312-396444 sign_res
+sign_days_7="
+0"
+sign_res_info="
+7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210215"
+#赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_days_7="
 0"
 sign_res_info="
 7天签到 第 0 天"
 giftRes="ok"
-giftDate="20210214"
+giftDate="20210215"
 #王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_days_7="
+4"
+sign_res_info="
+7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210215"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_days_7="
+5"
+sign_res_info="
+7天签到 第 5 天"
+giftRes="ok"
+giftDate="20210215"
+#移动 jd_OeTNobRVGiNZ sign_res_end
