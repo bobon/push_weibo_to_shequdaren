@@ -54,7 +54,7 @@ else
 			source $bb
 			rm -rvf $bb
 			if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
-				echo "$pin2_name 今天已经签到过. giftDate: $giftDate"
+				echo "$pin2_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
 				echo "***********************************************"
 				echo -e "$sign_res_info"
 				echo "***********************************************"
