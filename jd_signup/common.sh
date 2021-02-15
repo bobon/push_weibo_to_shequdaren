@@ -141,12 +141,12 @@ find_all_sign_res() {
 if_chang_delay() {
 	local ven_f="$1"
 	echo -e "\n* * * * * * * *\nchekc if chang delay $ven_f"
-	if [ "${ven_f:0-4:4}" = "_del" ] || [ "${ven_f:0-3:3}" = "_fq" ]; then
-		echo "find del or jq file. skip."
+	if [ "${ven_f:0-4:4}" = "_del" ] || [ "${ven_f:0-3:3}" = "_fq" ]  || [ "${ven_f:0-6:6}" = "_jifen" ]; then
+		echo "find del or jq or jifen file. skip."
 		return
 	fi
 	
-	unset token; unset rule; unset actRule; unset vendername
+	unset actId; unset token; unset rule; unset actRule; unset vendername
 	source "$ven_f"
 	if [ -z "$vendername" ]; then
 		vendername=$(basename $ven_f)
@@ -156,13 +156,28 @@ if_chang_delay() {
 	echo -e "$actRule$rule"
 	#sed -n '/^#.* sign_res$/,$p' "$ven_f"
 	
-	local key="$token"	
+	local type=
+	if [ -z "$token" ]; then
+		local key="$actId"
+		local type="lzkj"
+	else
+		local key="$token"
+		local type="h5"
+	fi
+	[ ! -z "$key" ] || error "key is empty from $ven_f"
+	
 	local sign_num_=$(find_all_sign_res "$ven_f")
 	local tt=$(for j in $(echo -e "$sign_num_" | cut -d ';' -f 1 | sort | uniq); do
 		echo -e "$sign_num_" | grep "^$j" | xargs
-	done | sed -r -e 's,sign_res .*;#,,')
+	done | sed -r -e 's,sign_res [0-9]+;#,,g')
 	#echo -e "$tt"
 
+	ls -1 shop/$key/prize/ >/dev/null || local res=1
+	if [ "$res" = "1" ]; then
+		echo "[WARN] not find shop/$key/prize"
+		echo
+		return
+	fi
 	local tmm=$((echo -e "$tt";ls -1 shop/$key/prize/) | sed -r -e 's,;|$,   ;,' | sort -r -t ';' -k 1,1 | uniq -w 3 -d)
 	echo "show shop/$key/prize/: $(ls -1 shop/$key/prize/ | sort -n | xargs)"
 	if [ -z "$tmm" ]; then
@@ -170,7 +185,11 @@ if_chang_delay() {
 			echo "明天签到 $vendername, 不会获取奖品, 保持文件名 $ven_f 不变."
 		else
 			echo "[RUN] 明天签到 $vendername, 不会获取奖品. $ven_f --> ${ven_f}_delay"
-			mv -vf "$ven_f" "${ven_f}_delay"
+			if [ "$2" = "test" ]; then
+				echo mv -vf "$ven_f" "${ven_f}_delay"
+			else
+				mv -vf "$ven_f" "${ven_f}_delay"
+			fi
 		fi
 	else
 		echo
@@ -189,24 +208,52 @@ if_chang_delay() {
 			local f=$(echo $ven_f | sed -r -e 's,_delay$|_fq$|_del$,,')	
 			local remind="$sign_n 明天可获得"
 			local is_now=false
-			if [ "$p_type" = "6" ]; then
-				local remind="$remind ${discount} 店铺积分"
-			elif [ "$p_type" = "4" ]; then
-				local remind="$remind ${discount} 京豆"
-				local is_now=true	
-			elif [ "$p_type" = "10" ]; then
-				local remind="${remind} ${discount}元E卡"
-			elif [ "$p_type" = "1" ]; then
-				local remind="${remind} 满${quota}-${discount}店铺券"
-			elif [ "$p_type" = "14" ]; then
-				local remind="${remind} $(echo "scale=2; $discount/100" | bc)元红包"
-			elif [ "$p_type" = "9" ]; then
-				local remind="${remind} 专享价商品（${promoPrice}元购买原价${jdPrice}元的商品）"
-			elif [ "$p_type" = "null" ]; then
-				local remind=""
-			else 
-				error "not support sign type: $p_type"
-			fi	
+			
+			if [ "$type" = "h5" ]; then
+				if [ "$p_type" = "6" ]; then
+					local remind="$remind ${discount} 店铺积分"
+				elif [ "$p_type" = "4" ]; then
+					local remind="$remind ${discount} 京豆"
+					local is_now=true	
+				elif [ "$p_type" = "10" ]; then
+					local remind="${remind} ${discount}元E卡"
+				elif [ "$p_type" = "1" ]; then
+					local remind="${remind} 满${quota}-${discount}店铺券"
+				elif [ "$p_type" = "14" ]; then
+					local remind="${remind} $(echo "scale=2; $discount/100" | bc)元红包"
+				elif [ "$p_type" = "9" ]; then
+					local remind="${remind} 专享价商品（${promoPrice}元购买原价${jdPrice}元的商品）"
+				elif [ "$p_type" = "null" ]; then
+					local remind=""
+				else 
+					error "not support sign type: $p_type"
+				fi	
+			elif [ "$type" = "lzkj" ]; then
+				if [ "$p_type" = "1" ]; then
+					local remind="$remind ${giftName}"
+					local is_now=true	
+				elif [ "$p_type" = "6" ]; then
+					local remind="$remind ${discount}京豆 $giftName"
+					local is_now=true	
+				elif [ "$p_type" = "7" ]; then
+					local remind="$remind 赠送${giftName}"
+					local is_now=true	
+				elif [ "$p_type" = "8" ]; then
+					local remind="$remind ${giftName}"
+					local is_now=true	
+				elif [ "$p_type" = "9" ]; then
+					local remind="$remind ${discount}积分 $giftName"
+				elif [ "$p_type" = "10" ]; then
+					local remind="$remind ${giftName}"
+					local is_now=true	
+				elif [ "$p_type" = "null" ]; then
+					local remind=""
+				else 
+					error "not support sign type: $p_type"
+				fi
+			else
+				error "not support type: $type"
+			fi
 			echo -e "$remind"
 		done
 		echo
@@ -216,7 +263,11 @@ if_chang_delay() {
 				echo "明天立即执行. 不改名字 $ven_f"
 			else
 				echo "[RUN] 明天立即执行. $ven_f --> ${f}"
-				mv -vf "$ven_f" "${f}"
+				if [ "$2" = "test" ]; then
+					echo mv -vf "$ven_f" "${f}"
+				else
+					mv -vf "$ven_f" "${f}"
+				fi
 			fi
 		fi
 	fi
@@ -226,4 +277,8 @@ if_chang_delay() {
 
 for p_f in $(find api_vender/ -type f | egrep -v '_del$|_fq$'); do
 	if_chang_delay "$p_f"
+done
+
+for p_f in $(find vender/ -type f | egrep -v '_del$|_fq$'); do
+	if_chang_delay "$p_f" test
 done
