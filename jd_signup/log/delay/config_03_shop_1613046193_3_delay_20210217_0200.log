@@ -1,0 +1,62 @@
+02/16/21 02:02:11 031930300  1613412131
+RANDOM_num: 10
+removed '/tmp/tmp.T6Qme8j4cW'
+02/16/21 02:02:11 154598900  1613412131
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210216
+***********************************************
+
+7天签到 第 6 天
+***********************************************
+
+#店铺名称
+vendername="卡西欧晶晶专卖店"
+#店铺激活码
+actId="49f82fc8fe22491db69f61fd67c5680c"
+#店铺id
+venderId="203224"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=49f82fc8fe22491db69f61fd67c5680c&venderId=203224"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：100京豆
+连续签到2天：100京豆
+连续签到3天：100京豆
+连续签到4天：100京豆
+连续签到5天：100京豆
+连续签到6天：100京豆
+连续签到7天：1000京豆
+"
+#王 1309893722-164885 sign_res
+sign_days_7="
+4"
+sign_res_info="
+7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210216"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_days_7="
+6"
+sign_res_info="
+7天签到 第 6 天"
+giftRes="ok"
+giftDate="20210216"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_days_7="
+0"
+sign_res_info="
+7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210216"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_days_7="
+6"
+sign_res_info="
+7天签到 第 6 天"
+giftRes="ok"
+giftDate="20210216"
+#赵 122294312-396444 sign_res_end

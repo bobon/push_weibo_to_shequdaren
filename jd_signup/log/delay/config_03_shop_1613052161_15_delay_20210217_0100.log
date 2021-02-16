@@ -1,0 +1,129 @@
+02/16/21 01:09:29 491443000  1613408969
+RANDOM_num: 30
+removed '/tmp/tmp.HFpkyq8A18'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613409569	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613409569	LZ_TOKEN_KEY	lztokenpage2092bce952c548d38070e4ce82627706
+use pt_key
+token: AAFgKqrKADCnFG3sf5B7FWsujpjuvsLyDfvy39i49VuJTXpDuY3_9T7yZkSbyNxF13sp10gkGBk
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/16/21 01:09:30 505397000  1613408970
+肥鹅签到美肤宝京东自营官方旗舰店
+{
+  "msg": "",
+  "signResult": {
+    "key": "dEHFnX",
+    "giftLogId": "41bd535a4e104cd89c9546f2968c9171",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "50",
+      "giftType": "9",
+      "giftName": "50店铺积分",
+      "giftNum": "50",
+      "giftTotal": "800",
+      "giftResidue": null,
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+签到美肤宝京东自营官方旗舰店完成
+find: ‘api_vender/’: No such file or directory
+find: ‘vender/’: No such file or directory
+
+***********************************************
+7天签到 第 5 天
+***********************************************
+
+肥鹅签到美肤宝京东自营官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"10店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"10","activityType":null},"imgUrl":"","giftInfoId":"f7b2f37ba4384767a25f073cc7acd8dd","dayNum":"1","showType":"1"},{"gift":null,"imgUrl":"","giftInfoId":"a1b12d27f186439caa29ef81074907db","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143532","activityType":null},"imgUrl":"","giftInfoId":"bf048b6339564e5b833a533665dd1550","dayNum":"3","showType":"1"},{"gift":null,"imgUrl":"","giftInfoId":"73bdb00494724efc9d3a43d559d1d490","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"50店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"50","activityType":null},"imgUrl":"","giftInfoId":"7d70336055d9423c893a217df2f5f77e","dayNum":"5","showType":"1"},{"gift":null,"imgUrl":"","giftInfoId":"40ecbd7b3b84409bae52f3fedbe7b4d5","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143532","activityType":null},"imgUrl":"","giftInfoId":"7211f6c3f8f44d0989366d641fe71c02","dayNum":"7","showType":"1"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":5,"actRule":"1、活动时间：2021-02-05 00:00 - 2021-02-18 23:59；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、签到7天后不能再参加；
+5、第1天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送5京豆，限量1000份；
+7、第5天签到，有机会赠送50店铺积分，限量800份；
+8、第7天签到，有机会赠送30京豆，限量500份；
+9、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+10、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":0,"isSign":"y"}
+
+#店铺名称
+vendername="美肤宝京东自营官方旗舰店"
+#店铺激活码
+actId="8723eda7d300499d9003f164a247cdd7"
+#店铺id
+venderId="1000002726"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=8723eda7d300499d9003f164a247cdd7&venderId=1000002726&adsource=tg_xuanFuTuBiao"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：5京豆
+连续签到4天：
+连续签到5天：50店铺积分
+连续签到6天：
+连续签到7天：5京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_days_7="
+"
+sign_res_info="
+7天签到 第  天"
+giftRes="ok"
+giftDate="20210215"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_days_7="
+5"
+sign_res_info="
+7天签到 第 5 天"
+giftRes="ok"
+giftDate="20210216"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_days_7="
+3"
+sign_res_info="
+7天签到 第 3 天"
+giftRes="ok"
+giftDate="20210216"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_days_7="
+5"
+sign_res_info="
+7天签到 第 5 天"
+giftRes="ok"
+giftDate="20210216"
+#肥鹅 jd_4d651d9e48204 sign_res_end

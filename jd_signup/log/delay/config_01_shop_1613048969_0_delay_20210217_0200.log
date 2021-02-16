@@ -1,0 +1,117 @@
+02/16/21 02:01:07 870565800  1613412067
+RANDOM_num: 40
+removed '/tmp/tmp.FM8lT8pUUS'
+02/16/21 02:01:08 133523000  1613412068
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210216
+***********************************************
+
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+当天签到奖励 1积分
+连续签到 5 天
+签到总天数 5
+***********************************************
+
+actId=58b23c01ebb94a429aa107f0004a3dda
+venderId=1000325645
+startTime=1611561000000
+endTime=1614153059000
+# 短链接
+suo_url="https://3.cn/100T0J-vw"
+actTimeStr="2021-01-25 15:50 至 2021-02-24 15:50"
+#店铺名称
+vendername="每日鲜语京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=58b23c01ebb94a429aa107f0004a3dda&venderId=1000325645&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.01.25 15:50:00 - 2021.02.24 15:50:59
+# 奖励说明：
+actRule="
+连续签到7天：2京豆 2京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613433600;signed=2"
+sign_num="1"
+sign_total_num="4"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210216"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 1 天
+签到总天数 4"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210216"
+sign_res_info="
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 6 天
+签到总天数 6"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210216"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 5 天
+签到总天数 5"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210216"
+sign_res_info="
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+当天签到奖励 "1积分"
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
