@@ -49,20 +49,6 @@ sign_res_info="
 连续签到 13 天
 签到总天数 13"
 #赵 122294312-396444 sign_res_end
-#王 1309893722-164885 sign_res
-sign_res="
-"
-sign_num="0"
-sign_total_num="0"
-giftName="null"
-giftRes=""
-giftDate="20210216"
-sign_res_info="
-
-当天签到奖励 null
-连续签到 0 天
-签到总天数 0"
-#王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1612396800;signed=2
@@ -107,7 +93,7 @@ sign_res="
 sign_num="0"
 sign_total_num="0"
 giftName="null"
-giftRes=""
+giftRes="只有该店铺的会员才能参加活动"
 giftDate="20210216"
 sign_res_info="
 
@@ -115,3 +101,17 @@ sign_res_info="
 连续签到 0 天
 签到总天数 0"
 #移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210216"
+sign_res_info="
+
+当天签到奖励 null
+连续签到 0 天
+签到总天数 0"
+#王 1309893722-164885 sign_res_end

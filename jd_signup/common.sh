@@ -8,6 +8,20 @@ export TOP_PID=$$
 
 old_IFS=$IFS
 IFS=$'\n'
+sign_base_dir=/home/myid/jd/jd_signup
+
+log_s() {
+	if [ -z "$send_log" ]; then 
+		send_log=$sign_base_dir/log/sendNotify_$(date +"%Y%m%d_%H%M%S_%N").log
+	fi
+	if [ "$1" = "-" ]; then
+		cat $1
+		cat $1 >> "$send_log"
+  else
+  	echo -e "$1"
+		echo -e "$1" >> "$send_log"
+	fi
+}
 
 log_error() {
 	echo -e "\e[0;31;3m${1}\e[0m" "\e[0;31;3m[$(date '+%Y%m%d %H:%M:%S')] [ERROR] \e[0m" >&2
@@ -68,7 +82,7 @@ write_sign_res() {
 
 write_sign_res_lzkj() {
 	local giftName=$(echo -e "$4" | jq '.gift.giftName')
-	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只能签到一次|只能签到一次")) ) then "ok" else empty end')
+	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只允许签到一次|只能签到一次")) ) then "ok" else .msg end')
 	
 	local sign_res_num=$(echo -e "$3" | jq -r '"contiSignNum=" + (.signRecord.contiSignNum|tostring) + ";totalSignNum=" + (.signRecord.totalSignNum|tostring)')
 	eval $(echo $sign_res_num)
@@ -100,8 +114,8 @@ write_sign_res_lzkj_7() {
 	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只允许签到一次|只能签到一次")) ) then "ok" else empty end')
 	
 	echo "#$1 sign_res" >> $2
-	echo -e "sign_days_7=\"\n$sign_days_7\"" >> $2
-	echo -e "sign_res_info=\"\n$sign_res_info\"" >> $2
+	echo -e "sign_num=\"$sign_days_7\"" >> $2
+	echo -e "sign_res_info=\"$sign_res_info\"" >> $2
 	echo -e "giftRes=\"$giftRes\"" >> $2
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
 	echo "#$1 sign_res_end" >> $2
@@ -183,15 +197,17 @@ if_chang_delay() {
 		if [ "${ven_f:0-6:6}" = "_delay" ]; then
 			echo "明天签到 $vendername, 不会获取奖品, 保持文件名 $ven_f 不变."
 		else
-			echo "[RUN] 明天签到 $vendername, 不会获取奖品. $ven_f --> ${ven_f}_delay"
+			log_s "[RUN] 明天签到 $vendername, 不会获取奖品. $ven_f --> ${ven_f}_delay"
 			if [ "$2" = "test" ]; then
 				echo mv -vf "$ven_f" "${ven_f}_delay"
 			else
 				mv -vf "$ven_f" "${ven_f}_delay"
 			fi
+			log_s ""
 		fi
 	else
 		echo
+		local is_now=false
 		for tm in $(echo -e "$tmm"); do
 			local sign_num_=$(echo "$tm" | cut -d ';' -f 1 | sed -r -e 's,[ ]+$,,')
 			local sign_n=$(echo "$tm" | cut -d ';' -f 2 | sed -r -e 's,^#,,' -e 's,[ ]+sign_res$,,')
@@ -199,14 +215,12 @@ if_chang_delay() {
 			[ ! -z "$sign_n" ] || error "sign_n is empty from shop/$key/prize/ and $ven_f"
 			local prize=$(ls -1 shop/$key/prize/$sign_num_ 2>/dev/null)
 			[ ! -z "$prize" ] || error "prize file is not exit: shop/$key/prize/$sign_num_"
-			echo "发现明天是 [$sign_n] 签到 [$vendername] 的第 $sign_num_ 天，将要获取到奖品."	
 
 			unset days; unset p_type; unset level; unset discount; unset quota; unset promoPrice; unset jdPrice
 			source "$prize"
 			
 			local f=$(echo $ven_f | sed -r -e 's,_delay$|_fq$|_del$,,')	
 			local remind="$sign_n 明天可获得"
-			local is_now=false
 			
 			if [ "$type" = "h5" ]; then
 				if [ "$p_type" = "6" ]; then
@@ -223,7 +237,7 @@ if_chang_delay() {
 				elif [ "$p_type" = "9" ]; then
 					local remind="${remind} 专享价商品（${promoPrice}元购买原价${jdPrice}元的商品）"
 				elif [ "$p_type" = "null" ]; then
-					local remind=""
+					continue
 				else 
 					error "not support sign type: $p_type"
 				fi	
@@ -241,23 +255,28 @@ if_chang_delay() {
 					local remind="$remind ${discount}积分 $giftName"
 				elif [ "$p_type" = "10" ]; then
 					local remind="$remind ${giftName}"
+				elif [ "$p_type" = "13" ]; then
+					local remind="$remind ${giftName}"
 				elif [ "$p_type" = "null" ]; then
-					local remind=""
+					continue
+				elif [ "$p_type" = "" ]; then
+					continue
 				else 
 					error "not support sign type: $p_type"
 				fi
 			else
 				error "not support type: $type"
 			fi
-			echo -e "$remind"
+			log_s "发现明天是 [$sign_n] 签到 [$vendername] 的第 $sign_num_ 天，将要获取到奖品."	
+			log_s "$remind"
 		done
 		echo
 		
 		if [ "$is_now" = "true" ]; then
 			if [ "$ven_f" = "${f}" ]; then
-				echo "明天立即执行. 不改名字 $ven_f"
+				log_s "明天立即执行. 不改名字 $ven_f"
 			else
-				echo "[RUN] 明天立即执行. $ven_f --> ${f}"
+				log_s "[RUN] 明天立即执行. $ven_f --> ${f}"
 				if [ "$2" = "test" ]; then
 					echo mv -vf "$ven_f" "${f}"
 				else
@@ -265,6 +284,6 @@ if_chang_delay() {
 				fi
 			fi
 		fi
+		log_s ""
 	fi
-	echo
 }

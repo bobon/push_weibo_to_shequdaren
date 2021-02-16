@@ -1,19 +1,5 @@
-#王 1309893722-164885 sign_res
-sign_res="
-signTime=1612396800;signed=2
-signTime=1613260800;signed=2
-signTime=1613347200;signed=2
-signTime=1613433600;signed=2"
-sign_num="3";f="#王 1309893722-164885 sign_res"
-sign_total_num="4"
-giftName="null"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="6";f="#移动 jd_OeTNobRVGiNZ sign_res"
+sign_res_info="7天签到 第 6 天"
 giftRes="ok"
 giftDate="20210216"
-sign_res_info="
-2021/02/04_08:00:00  [已~签~到]      
-2021/02/14_08:00:00  [已~签~到]      
-2021/02/15_08:00:00  [已~签~到]      
-2021/02/16_08:00:00  [已~签~到]      
-当天签到奖励 null
-连续签到 3 天
-签到总天数 4"

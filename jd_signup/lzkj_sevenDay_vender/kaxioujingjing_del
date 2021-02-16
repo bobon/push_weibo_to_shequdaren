@@ -10,10 +10,7 @@ venderId="203224"
 
 now_=true
 loop_num=40
-date_0_f=1613491200
 
-# date -d "2021-02-17 00:00:00" +%s
-#date_0_f=1613009940
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_days_7="
 0"

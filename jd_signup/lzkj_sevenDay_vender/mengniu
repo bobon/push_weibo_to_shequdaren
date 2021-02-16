@@ -22,35 +22,27 @@ actRule="
 连续签到7天：15京豆
 "
 
-#肥鹅 jd_4d651d9e48204 sign_res
-sign_days_7="
-1"
-sign_res_info="
-7天签到 第 1 天"
-giftRes="ok"
-giftDate="20210216"
-#肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
-sign_days_7="
-2"
-sign_res_info="
-7天签到 第 2 天"
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
 giftRes="ok"
 giftDate="20210216"
 #移动 jd_OeTNobRVGiNZ sign_res_end
-#赵 122294312-396444 sign_res
-sign_days_7="
-1"
-sign_res_info="
-7天签到 第 1 天"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
 giftRes="ok"
 giftDate="20210216"
-#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res_end
 #王 1309893722-164885 sign_res
-sign_days_7="
-3"
-sign_res_info="
-7天签到 第 3 天"
+sign_num="3"
+sign_res_info="7天签到 第 3 天"
 giftRes="ok"
 giftDate="20210216"
 #王 1309893722-164885 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210216"
+#赵 122294312-396444 sign_res_end

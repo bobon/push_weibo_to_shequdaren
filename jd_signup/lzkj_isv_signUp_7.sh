@@ -31,23 +31,6 @@ else
 	if [ "$4" == "force" ]; then
 		echo "force to sign"
 	else
-		unset giftDate
-		unset sign_res_info
-		b=$(mktemp)
-		sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
-		source $b
-		rm -rvf $b
-		if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
-			date +"%x %X %N  %s"
-			echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
-			echo "***********************************************"
-			echo -e "$sign_res_info"
-			echo "***********************************************"
-			echo
-			cat "$2"
-			exit
-		fi
-	
 		if [ ! -z "$date_0_f" ]; then
 			d=$(date -d @$date_0_f +"%Y%m%d_%H:%M:%S %s")
 			echo "$d 时间未到"
@@ -60,6 +43,23 @@ else
 				fi
 			done
 			date +"%x %X %N  %s"
+		else
+			unset giftDate
+			unset sign_res_info
+			b=$(mktemp)
+			sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
+			source $b
+			rm -rvf $b
+			if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+				date +"%x %X %N  %s"
+				echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
+				echo "***********************************************"
+				echo -e "$sign_res_info"
+				echo "***********************************************"
+				echo
+				cat "$2"
+				exit
+			fi
 		fi
 	fi
 
