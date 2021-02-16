@@ -9,9 +9,9 @@ mkdir -vp $base_dir/log/jifen
 [ -d "log" ] || mkdir -vp log
 if [ $(date +"%H") -ge 23 ]; then
 	log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")
-	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell.sh
-	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell_delay.sh
-	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell_jifen.sh
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell.sh
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_delay.sh
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_jifen.sh
 else 
 	log_f=$(date +"%Y%m%d_%H%M%S_%N")
 	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell.sh
