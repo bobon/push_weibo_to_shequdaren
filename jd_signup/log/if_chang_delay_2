@@ -2,16 +2,18 @@
 sign_res="
 signTime=1612396800;signed=2
 signTime=1613260800;signed=2
-signTime=1613347200;signed=2"
-sign_num="2";f="#王 1309893722-164885 sign_res"
-sign_total_num="3"
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2"
+sign_num="3";f="#王 1309893722-164885 sign_res"
+sign_total_num="4"
 giftName="null"
 giftRes="ok"
-giftDate="20210215"
+giftDate="20210216"
 sign_res_info="
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
 当天签到奖励 null
-连续签到 2 天
-签到总天数 3"
+连续签到 3 天
+签到总天数 4"

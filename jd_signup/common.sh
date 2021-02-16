@@ -59,7 +59,6 @@ write_sign_res() {
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
 	echo -e "sign_res_info=\"\n$sign_res_info\"" >> $2
 	echo "#$1 sign_res_end" >> $2
-	echo >> $2
 	
 	echo
 	echo "***********************************************"
@@ -231,21 +230,17 @@ if_chang_delay() {
 			elif [ "$type" = "lzkj" ]; then
 				if [ "$p_type" = "1" ]; then
 					local remind="$remind ${giftName}"
-					local is_now=true	
 				elif [ "$p_type" = "6" ]; then
 					local remind="$remind ${discount}京豆 $giftName"
 					local is_now=true	
 				elif [ "$p_type" = "7" ]; then
 					local remind="$remind 赠送${giftName}"
-					local is_now=true	
 				elif [ "$p_type" = "8" ]; then
 					local remind="$remind ${giftName}"
-					local is_now=true	
 				elif [ "$p_type" = "9" ]; then
 					local remind="$remind ${discount}积分 $giftName"
 				elif [ "$p_type" = "10" ]; then
 					local remind="$remind ${giftName}"
-					local is_now=true	
 				elif [ "$p_type" = "null" ]; then
 					local remind=""
 				else 
@@ -273,12 +268,3 @@ if_chang_delay() {
 	fi
 	echo
 }
-
-
-for p_f in $(find api_vender/ -type f | egrep -v '_del$|_fq$'); do
-	if_chang_delay "$p_f"
-done
-
-for p_f in $(find vender/ -type f | egrep -v '_del$|_fq$'); do
-	if_chang_delay "$p_f" test
-done

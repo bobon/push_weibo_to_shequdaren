@@ -14,54 +14,6 @@ venderId="10176670"
 #店铺令牌
 token="28AABCB3B08D6DF9BB03788D53E84C2B"
 
-
-
-
-
-
-
-
-#肥鹅 jd_4d651d9e48204 sign_res
-sign_res="
-signTime=1612454400;signed=1;currentDay=2
-signTime=1612540800;signed=1;currentDay=2
-signTime=1612674138;signed=2;currentDay=2
-signTime=1612713600;signed=1;currentDay=2
-signTime=1612800000;signed=1;currentDay=2
-signTime=1612886400;signed=1;currentDay=2
-signTime=1612972800;signed=1;currentDay=2
-signTime=1613059200;signed=1;currentDay=2
-signTime=1613145600;signed=1;currentDay=2
-signTime=1613303508;signed=2;currentDay=2
-signTime=1613322237;signed=2;currentDay=2
-signTime=1613404808;signed=2;currentDay=1
-signTime=1613491200;signed=1;currentDay=3
-signTime=1613577600;signed=1;currentDay=3
-signTime=1613664000;signed=1;currentDay=3
-signTime=1613750400;signed=1;currentDay=3"
-sign_num="3"
-giftRes="ok"
-giftDate="20210216"
-sign_res_info="
-2021/02/05_00:00:00  2    未签到
-2021/02/06_00:00:00  2    未签到
-2021/02/07_13:02:18  2    [已~签~到]
-2021/02/08_00:00:00  2    未签到
-2021/02/09_00:00:00  2    未签到
-2021/02/10_00:00:00  2    未签到
-2021/02/11_00:00:00  2    未签到
-2021/02/12_00:00:00  2    未签到
-2021/02/13_00:00:00  2    未签到
-2021/02/14_19:51:48  2    [已~签~到]
-2021/02/15_01:03:57  2    [已~签~到]
-2021/02/16_00:00:08  1    [已~签~到]
-2021/02/17_00:00:00  3    未签到
-2021/02/18_00:00:00  3    未签到
-2021/02/19_00:00:00  3    未签到
-2021/02/20_00:00:00  3    未签到
-已签到 3 天"
-#肥鹅 jd_4d651d9e48204 sign_res_end
-
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1612454400;signed=1;currentDay=2
@@ -81,7 +33,7 @@ signTime=1613577600;signed=1;currentDay=3
 signTime=1613664000;signed=1;currentDay=3
 signTime=1613750400;signed=1;currentDay=3"
 sign_num="11"
-giftRes=""
+giftRes="ok"
 giftDate="20210216"
 sign_res_info="
 2021/02/05_00:00:00  2    未签到
@@ -102,7 +54,6 @@ sign_res_info="
 2021/02/20_00:00:00  3    未签到
 已签到 11 天"
 #赵 122294312-396444 sign_res_end
-
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1612454400;signed=1;currentDay=2
@@ -143,4 +94,43 @@ sign_res_info="
 2021/02/20_00:00:00  3    未签到
 已签到 11 天"
 #王 1309893722-164885 sign_res_end
-
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612454400;signed=1;currentDay=2
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612674138;signed=2;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613303508;signed=2;currentDay=2
+signTime=1613322237;signed=2;currentDay=2
+signTime=1613404808;signed=2;currentDay=1
+signTime=1613491200;signed=1;currentDay=3
+signTime=1613577600;signed=1;currentDay=3
+signTime=1613664000;signed=1;currentDay=3
+signTime=1613750400;signed=1;currentDay=3"
+sign_num="3"
+giftRes="ok"
+giftDate="20210216"
+sign_res_info="
+2021/02/05_00:00:00  2    未签到
+2021/02/06_00:00:00  2    未签到
+2021/02/07_13:02:18  2    [已~签~到]
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_19:51:48  2    [已~签~到]
+2021/02/15_01:03:57  2    [已~签~到]
+2021/02/16_00:00:08  1    [已~签~到]
+2021/02/17_00:00:00  3    未签到
+2021/02/18_00:00:00  3    未签到
+2021/02/19_00:00:00  3    未签到
+2021/02/20_00:00:00  3    未签到
+已签到 3 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end

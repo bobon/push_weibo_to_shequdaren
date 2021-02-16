@@ -20,27 +20,6 @@ token="938178698B30D33A73C3A059ECC5A838"
 # https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
 # vender_info_end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1612954589;signed=2;currentDay=2
@@ -87,7 +66,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 7 天"
 #赵 122294312-396444 sign_res_end
-
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1612886400;signed=1;currentDay=2
@@ -134,7 +112,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 3 天"
 #肥鹅 jd_4d651d9e48204 sign_res_end
-
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1612927195;signed=2;currentDay=2
@@ -181,4 +158,3 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 7 天"
 #王 1309893722-164885 sign_res_end
-

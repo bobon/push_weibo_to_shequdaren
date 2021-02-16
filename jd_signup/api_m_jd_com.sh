@@ -174,6 +174,7 @@ fi
 
 
 echo
+date +"%x %X %N  %s"
 echo "${pin1_name}签到${vendername}查看结果"
 s1=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=1609588867000&loginType=2&functionId=interact_center_shopSign_getSignRecord&body=\{%22token%22:%22${token}%22,%22venderId%22:${venderId},%22activityId%22:${activityId},%22type%22:56\}&jsonp=jsonp1006" \
   -H 'authority: api.m.jd.com' \

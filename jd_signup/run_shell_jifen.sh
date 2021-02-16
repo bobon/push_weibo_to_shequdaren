@@ -1,4 +1,4 @@
-log_f=$(date -d next-day +"%Y%m%d_%H%M")
+log_f=$(date +"%Y%m%d_%H%M%S_%N")
 sleep 2
 sleep 2
 sleep 2

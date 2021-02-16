@@ -176,6 +176,7 @@ else
 	fi
 fi
 
+date +"%x %X %N  %s"
 s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getSignInfo' \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \

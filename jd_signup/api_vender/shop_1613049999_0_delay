@@ -15,11 +15,6 @@ actRule="
 连续签到2天：2京豆
 "
 
-
-
-
-
-
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1612368000;signed=1;currentDay=2
@@ -78,7 +73,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 5 天"
 #赵 122294312-396444 sign_res_end
-
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1612368000;signed=1;currentDay=2
@@ -137,7 +131,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 5 天"
 #王 1309893722-164885 sign_res_end
-
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1612368000;signed=1;currentDay=2
@@ -196,4 +189,3 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 3 天"
 #肥鹅 jd_4d651d9e48204 sign_res_end
-

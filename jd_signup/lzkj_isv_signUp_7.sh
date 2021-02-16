@@ -213,6 +213,7 @@ else
 fi
 
 
+date +"%x %X %N  %s"
 s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDay/wx/getSignInfo" \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \

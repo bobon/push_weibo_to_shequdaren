@@ -11,11 +11,6 @@ venderId="10344276"
 #店铺令牌
 token="41D687C46BF413A660C07863A21E95A4"
 
-
-
-
-
-
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1612271237;signed=2;currentDay=2
@@ -78,7 +73,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 10 天"
 #赵 122294312-396444 sign_res_end
-
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1612271237;signed=2;currentDay=2
@@ -141,7 +135,6 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 10 天"
 #王 1309893722-164885 sign_res_end
-
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1612195200;signed=1;currentDay=2
@@ -204,4 +197,3 @@ sign_res_info="
 2021/02/28_00:00:00  3    未签到
 已签到 3 天"
 #肥鹅 jd_4d651d9e48204 sign_res_end
-

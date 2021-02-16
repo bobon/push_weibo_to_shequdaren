@@ -1,36 +1,56 @@
-log_f=$(date -d next-day +"%Y%m%d_%H%M")
+log_f=$(date +"%Y%m%d_%H%M%S_%N")
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/COMOTEK_delay 40 > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/COMOTEK_delay 35 > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/COMOTEK_delay 45 > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/COMOTEK_delay 40 > /home/myid/jd/jd_signup/log/delay/COMOTEK_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/LG_delay 5 > /home/myid/jd/jd_signup/log/delay/LG_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/LG_delay 45 > /home/myid/jd/jd_signup/log/delay/LG_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/LG_delay 10 > /home/myid/jd/jd_signup/log/delay/LG_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/LG_delay 5 > /home/myid/jd/jd_signup/log/delay/LG_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/aikemi_delay 15 > /home/myid/jd/jd_signup/log/delay/aikemi_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/ZJUZ_delay 10 > /home/myid/jd/jd_signup/log/delay/ZJUZ_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/aikemi_delay 20 > /home/myid/jd/jd_signup/log/delay/aikemi_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/ZJUZ_delay 15 > /home/myid/jd/jd_signup/log/delay/ZJUZ_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/dishini_delay 25 > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/d_233621_delay 20 > /home/myid/jd/jd_signup/log/delay/d_233621_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/dishini_delay 30 > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/d_233621_delay 25 > /home/myid/jd/jd_signup/log/delay/d_233621_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/keleige_delay 35 > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/dishini_delay 30 > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/keleige_delay 40 > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/dishini_delay 35 > /home/myid/jd/jd_signup/log/delay/dishini_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046243_10_delay 45 > /home/myid/jd/jd_signup/log/delay/shop_1613046243_10_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/everybuild_delay 40 > /home/myid/jd/jd_signup/log/delay/everybuild_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613046243_10_delay 5 > /home/myid/jd/jd_signup/log/delay/shop_1613046243_10_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/everybuild_delay 45 > /home/myid/jd/jd_signup/log/delay/everybuild_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046255_12_delay 10 > /home/myid/jd/jd_signup/log/delay/shop_1613046255_12_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/keleige_delay 5 > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613046255_12_delay 15 > /home/myid/jd/jd_signup/log/delay/shop_1613046255_12_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/keleige_delay 10 > /home/myid/jd/jd_signup/log/delay/keleige_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613049999_0_delay 20 > /home/myid/jd/jd_signup/log/delay/shop_1613049999_0_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046205_6_delay 15 > /home/myid/jd/jd_signup/log/delay/shop_1613046205_6_delay_${log_f}.log 2>&1
 sleep 1
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613049999_0_delay 25 > /home/myid/jd/jd_signup/log/delay/shop_1613049999_0_delay_${log_f}.log 2>&1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613046205_6_delay 20 > /home/myid/jd/jd_signup/log/delay/shop_1613046205_6_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613046243_10_delay 25 > /home/myid/jd/jd_signup/log/delay/shop_1613046243_10_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613046243_10_delay 30 > /home/myid/jd/jd_signup/log/delay/shop_1613046243_10_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613049999_0_delay 35 > /home/myid/jd/jd_signup/log/delay/shop_1613049999_0_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613049999_0_delay 40 > /home/myid/jd/jd_signup/log/delay/shop_1613049999_0_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613050528_1_delay 45 > /home/myid/jd/jd_signup/log/delay/shop_1613050528_1_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613050528_1_delay 5 > /home/myid/jd/jd_signup/log/delay/shop_1613050528_1_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613050632_5_delay 10 > /home/myid/jd/jd_signup/log/delay/shop_1613050632_5_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613050632_5_delay 15 > /home/myid/jd/jd_signup/log/delay/shop_1613050632_5_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613052219_22_delay 20 > /home/myid/jd/jd_signup/log/delay/shop_1613052219_22_delay_${log_f}.log 2>&1
+sleep 1
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613052219_22_delay 25 > /home/myid/jd/jd_signup/log/delay/shop_1613052219_22_delay_${log_f}.log 2>&1
 sleep 2
 sleep 2
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/aoyouruye_delay 30 > /home/myid/jd/jd_signup/log/delay/config_01_aoyouruye_delay_${log_f}.log 2>&1 &

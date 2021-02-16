@@ -7,10 +7,17 @@ mkdir -vp $base_dir/log/delay
 mkdir -vp $base_dir/log/jifen
 
 [ -d "log" ] || mkdir -vp log
-log_f=$(date -d next-day +"%Y%m%d_%H%M")
-echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell.sh
-echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_delay.sh
-echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M")' > run_shell_jifen.sh
+if [ $(date +"%H") -ge 23 ]; then
+	log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")
+	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell.sh
+	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell_delay.sh
+	echo 'log_f=$(date -d next-day +"%Y%m%d_%H%M%S_%N")' > run_shell_jifen.sh
+else 
+	log_f=$(date +"%Y%m%d_%H%M%S_%N")
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell.sh
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_delay.sh
+	echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_jifen.sh
+fi
 
 RANDOM_nums=(5 10 15 20 25 30 35 40 45)
 RANDOM_len=$(echo ${#RANDOM_nums[@]})
