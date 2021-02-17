@@ -1,0 +1,151 @@
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210218_030001_125637100
+
+发现明天是 [王 1309893722-164885] 签到 [埃可米官方旗舰店] 的第 14 天，将要获取到奖品[ 10 京豆]
+[RUN] 明天立即执行. api_vender/aikemi_delay --> api_vender/aikemi
+
+[RUN] 明天签到 迪士尼贝贝怡专卖店, 不会获取奖品. api_vender/dishini --> api_vender/dishini_delay
+
+[RUN] 明天签到 LG家电旗舰店, 不会获取奖品. api_vender/LG --> api_vender/LG_delay
+
+[RUN] 明天签到 菲诗蔻（FicceCode）个护京东自营旗舰店, 不会获取奖品. api_vender/shop_1613050528_1 --> api_vender/shop_1613050528_1_delay
+
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [CHUMS运动户外旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+[RUN] 明天立即执行. api_vender/shop_1613569733_13_delay --> api_vender/shop_1613569733_13
+
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [阳光飞歌旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+发现明天是 [王 1309893722-164885] 签到 [阳光飞歌旗舰店] 的第 2 天，将要获取到奖品[ 2 京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [阳光飞歌旗舰店] 的第 1 天，将要获取到奖品[ 1 京豆]
+[RUN] 明天立即执行. api_vender/shop_1613569746_51_delay --> api_vender/shop_1613569746_51
+
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [猫人京东自营旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [猫人京东自营旗舰店] 的第 1 天，将要获取到奖品[ 1 京豆]
+[RUN] 明天立即执行. api_vender/shop_1613569811_180_delay --> api_vender/shop_1613569811_180
+
+发现明天是 [赵 122294312-396444 王 1309893722-164885] 签到 [ZJUZ珠宝旗舰店] 的第 10 天，将要获取到奖品[ 50 京豆]
+明天立即执行. 不改名字 api_vender/ZJUZ
+
+[RUN] 明天签到 贝亲辅食尿裤京东自营旗舰店, 不会获取奖品. vender/beiqinfushi --> vender/beiqinfushi_delay
+
+发现明天是 [王 1309893722-164885] 签到 [博世电动工具京东自营旗舰店] 的第 7 天，将要获取到奖品[ 66京豆 66京豆]
+明天立即执行. 不改名字 vender/shop_1613046172_0
+
+发现明天是 [赵 122294312-396444] 签到 [康比特京东自营旗舰店] 的第 8 天，将要获取到奖品[ 10京豆 10京豆]
+发现明天是 [肥鹅 jd_4d651d9e48204 王 1309893722-164885 移动 jd_OeTNobRVGiNZ] 签到 [康比特京东自营旗舰店] 的第 1 天，将要获取到奖品[ 5积分 5积分]
+明天立即执行. 不改名字 vender/shop_1613046189_2
+
+[RUN] 明天签到 每日鲜语京东自营旗舰店, 不会获取奖品. vender/shop_1613048969_0 --> vender/shop_1613048969_0_delay
+
+发现明天是 [王 1309893722-164885 移动 jd_OeTNobRVGiNZ] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [PUMA官方旗舰店] 的第 3 天，将要获取到奖品[ 40元优惠券]
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [WOWO官方旗舰店] 的第 3 天，将要获取到奖品[ 50积分 50积分]
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [金利来男装旗舰店] 的第 3 天，将要获取到奖品[ 50积分 50积分]
+
+发现明天是 [赵 122294312-396444] 签到 [蒙牛官方旗舰店] 的第 4 天，将要获取到奖品[ 8京豆京豆 8京豆]
+发现明天是 [王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [蒙牛官方旗舰店] 的第 1 天，将要获取到奖品[ 15京豆京豆 15京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/mengniu
+
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
+
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [美肤宝京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 10店铺积分积分 10店铺积分]
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [GARMIN佳明官方旗舰店] 的第 3 天，将要获取到奖品[ 2京豆京豆 2京豆]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569736_21_delay --> lzkj_sevenDay_vender/shop_1613569736_21
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [滴露旗舰店] 的第 3 天，将要获取到奖品[ 10元优惠券]
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [滴露旗舰店] 的第 2 天，将要获取到奖品[ 1京豆京豆 1京豆]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569736_23_delay --> lzkj_sevenDay_vender/shop_1613569736_23
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [泉林本色京东自营旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [泉林本色京东自营旗舰店] 的第 2 天，将要获取到奖品[ 10元优惠券]
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [维他奶官方旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+
+发现明天是 [王 1309893722-164885] 签到 [卡西欧晶晶专卖店] 的第 7 天，将要获取到奖品[ 1000京豆京豆 1000京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [卡西欧晶晶专卖店] 的第 3 天，将要获取到奖品[ 100京豆京豆 100京豆]
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [卡西欧晶晶专卖店] 的第 2 天，将要获取到奖品[ 100京豆京豆 100京豆]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569758_88_delay --> lzkj_sevenDay_vender/shop_1613569758_88
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [英氏YeeHoO奥特莱斯店] 的第 3 天，将要获取到奖品[ 7京豆京豆 7京豆]
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [英氏YeeHoO奥特莱斯店] 的第 2 天，将要获取到奖品[ 6京豆京豆 6京豆]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569768_117_delay --> lzkj_sevenDay_vender/shop_1613569768_117
+
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [LIFAair京东自营官方旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [LIFAair京东自营官方旗舰店] 的第 2 天，将要获取到奖品[ 1京豆京豆 1京豆]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569823_197_delay --> lzkj_sevenDay_vender/shop_1613569823_197
+
+
+签到 [柳丝木化妆品旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E93DF22A595D30D294BD2373F8C62F10
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613567480_7_delay
+
+签到 [寅书母婴官方旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=EC205A8747E239EEC597C1D544597789
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613567488_10_delay
+
+签到 [绿尔康保健品专营店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=F41E097FF02F43D736D62CDF88B27935
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613567501_15_delay
+
+签到 [AHASTYLE旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FD47D3D062F2A8401FAD6808B1BF1484
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613567513_20_delay
+
+签到 [阳光飞歌旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=2D55B608A393EE079A92746DBAD6BFBC
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569746_51
+
+签到 [比乐京东自营旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=73E495F79889862EDBADCF57FE4F6378
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569773_134_delay
+
+签到 [GENEWISDOM官方旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8747136D01595ED0815BFA5AE0BFB1C3
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569790_156_delay
+
+签到 [北面（The North Face）京东自营专区] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=89335A545F9B50C93D7886A8977F251D
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569790_157_delay
+
+签到 [] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569799_167_delay
+
+签到 [猫人京东自营旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+#移动 jd_OeTNobRVGiNZ 签到失败: ""
+from api_vender/shop_1613569811_180
+
+签到 [自然堂官方旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+#王 1309893722-164885 签到失败: ""
+from lzkj_sevenDay_vender/zirantang
+
+签到 [初么（chume）京东自营旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+#王 1309893722-164885 签到失败: "只有该店铺的会员才能参加活动"
+#移动 jd_OeTNobRVGiNZ 签到失败: "只有该店铺的会员才能参加活动"
+from vender/chume_jifen
+
+签到 [康比特京东自营旗舰店] 店铺失败. 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+#王 1309893722-164885 签到失败: ""
+from vender/shop_1613046189_2
+
+
+检查是否有删除的活动
+log/delay/config_01_shop_1613046228_9_delay_20210218_010002_060745700.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046228_9_delay --> /home/myid/jd/jd_signup/vender/shop_1613046228_9_del

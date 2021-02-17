@@ -1,0 +1,56 @@
+02/18/21 02:03:48 679561800  1613585028
+RANDOM_num: 10
+removed '/tmp/tmp.vyyNWBHUqM'
+02/18/21 02:03:48 737905800  1613585028
+移动 今天已经签到过. 签到结果: ok  giftDate: 20210218
+***********************************************
+7天签到 第 2 天
+***********************************************
+
+#店铺名称
+vendername="GARMIN佳明官方旗舰店"
+#店铺激活码
+actId="116ca4b40be946c1ae32efbb568825f2"
+#店铺id
+venderId="797351"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=116ca4b40be946c1ae32efbb568825f2&venderId=797351&adsource=tg_xuanFuTuBiao"
+
+startTime=1612152720
+endTime=1613664000
+# 活动时间：2021-02-01 12:12 - 2021-02-19 00:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20元优惠券
+连续签到2天：
+连续签到3天：2京豆
+连续签到4天：
+连续签到5天：50店铺积分
+连续签到6天：
+连续签到7天：3京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210218"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#王 1309893722-164885 sign_res_end

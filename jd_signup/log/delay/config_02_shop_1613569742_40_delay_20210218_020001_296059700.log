@@ -1,0 +1,90 @@
+02/18/21 02:02:05 436265000  1613584925
+RANDOM_num: 30
+removed '/tmp/tmp.uAePOBZyq7'
+02/18/21 02:02:05 497929600  1613584925
+王 今天已经签到过. 签到结果: ok  giftDate: 20210218
+***********************************************
+
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 1 天
+签到总天数 1
+***********************************************
+
+actId=271685eb45df483385cc52f935fcec8d
+venderId=714450
+startTime=1612145400000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/-100W9Ehb"
+actTimeStr="2021-02-01 10:10 至 2021-02-28 23:59"
+#店铺名称
+vendername="三草两木Saselomo旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=271685eb45df483385cc52f935fcec8d&venderId=714450&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 10:10:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：50积分 50积分
+连续签到14天：100积分 100积分
+连续签到21天：200积分 200积分
+连续签到28天：赠送植萃护手霜礼盒
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210218"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 1 天
+签到总天数 1"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210218"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210218"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210218"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 2 天
+签到总天数 2"
+#移动 jd_OeTNobRVGiNZ sign_res_end
