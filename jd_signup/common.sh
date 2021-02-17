@@ -11,8 +11,8 @@ IFS=$'\n'
 sign_base_dir=/home/myid/jd/jd_signup
 
 log_s() {
-	if [ -z "$send_log" ]; then 
-		send_log=$sign_base_dir/log/sendNotify_$(date +"%Y%m%d_%H%M%S_%N").log
+	if [ -z "$send_log" ]; then
+		send_log=$sign_base_dir/log/sendNotify_$(date +"%Y%m%d").log
 	fi
 	if [ "$1" = "-" ]; then
 		cat $1
@@ -208,6 +208,7 @@ if_chang_delay() {
 	else
 		echo
 		local is_now=false
+		local is_force_delay=false
 		for tm in $(echo -e "$tmm"); do
 			local sign_num_=$(echo "$tm" | cut -d ';' -f 1 | sed -r -e 's,[ ]+$,,')
 			local sign_n=$(echo "$tm" | cut -d ';' -f 2 | sed -r -e 's,^#,,' -e 's,[ ]+sign_res$,,')
@@ -220,7 +221,7 @@ if_chang_delay() {
 			source "$prize"
 			
 			local f=$(echo $ven_f | sed -r -e 's,_delay$|_fq$|_del$,,')	
-			local remind="$sign_n 明天可获得"
+			local remind=""
 			
 			if [ "$type" = "h5" ]; then
 				if [ "$p_type" = "6" ]; then
@@ -230,6 +231,7 @@ if_chang_delay() {
 					local is_now=true	
 				elif [ "$p_type" = "10" ]; then
 					local remind="${remind} ${discount}元E卡"
+					local is_force_delay=true
 				elif [ "$p_type" = "1" ]; then
 					local remind="${remind} 满${quota}-${discount}店铺券"
 				elif [ "$p_type" = "14" ]; then
@@ -249,14 +251,16 @@ if_chang_delay() {
 					local is_now=true	
 				elif [ "$p_type" = "7" ]; then
 					local remind="$remind 赠送${giftName}"
+					local is_force_delay=true
 				elif [ "$p_type" = "8" ]; then
 					local remind="$remind ${giftName}"
 				elif [ "$p_type" = "9" ]; then
 					local remind="$remind ${discount}积分 $giftName"
 				elif [ "$p_type" = "10" ]; then
 					local remind="$remind ${giftName}"
-				elif [ "$p_type" = "13" ]; then
+				elif [ "$p_type" = "13" ]; then  #京东E卡
 					local remind="$remind ${giftName}"
+					local is_force_delay=true
 				elif [ "$p_type" = "null" ]; then
 					continue
 				elif [ "$p_type" = "" ]; then
@@ -267,8 +271,7 @@ if_chang_delay() {
 			else
 				error "not support type: $type"
 			fi
-			log_s "发现明天是 [$sign_n] 签到 [$vendername] 的第 $sign_num_ 天，将要获取到奖品."	
-			log_s "$remind"
+			log_s "发现明天是 [$sign_n] 签到 [$vendername] 的第 $sign_num_ 天，将要获取到奖品[$remind]"
 		done
 		echo
 		
@@ -280,7 +283,21 @@ if_chang_delay() {
 				if [ "$2" = "test" ]; then
 					echo mv -vf "$ven_f" "${f}"
 				else
-					mv -vf "$ven_f" "${f}"
+					mv -vf "$ven_f" "${f}"					
+				fi
+				local ven_f="${f}"
+			fi
+		fi
+		
+		if [ "$is_force_delay" = "true" ]; then
+			if [ "${ven_f:0-6:6}" = "_delay" ]; then
+				log_s "奖品需要手工拼抢，并填写地址. 不改名字 $ven_f"
+			else	
+				log_s "[RUN] 奖品需要手工拼抢，并填写地址. $ven_f --> ${ven_f}_delay"
+				if [ "$2" = "test" ]; then
+					echo mv -vf "$ven_f" "${ven_f}_delay"
+				else
+					mv -vf "$ven_f" "${ven_f}_delay"
 				fi
 			fi
 		fi

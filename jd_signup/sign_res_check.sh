@@ -5,7 +5,11 @@ check_if_have_fail() {
 	for i in $(grep -r 'giftRes=' api_vender/ lzkj_sevenDay_vender/ vender | grep -v '"ok"' | cut -d ':' -f 1 | sort | uniq); do
 		unset vendername
 		source "$i"
-		log_s "签到 [$vendername] 店铺失败. 活动链接 $url"
+		if [ -z "$url" ] ; then
+			log_s "签到 [$vendername] 店铺失败. 活动链接"
+		else
+			log_s "签到 [$vendername] 店铺失败. 活动链接\n$url"
+		fi
 		local ss=$(awk 'BEGIN {b=0} {
 			if($0~/#.* sign_res$/) {a=1;b++;c=$0;sub(" sign_res", "", c)} else if($0~/#.* sign_res_end$/) {a=0}; if(a==1) 
 			{
@@ -17,6 +21,15 @@ check_if_have_fail() {
 		}' "$i")		
 		log_s "$ss\nfrom $i\n"
 	done
+}
+
+check_del_vender() {
+	local dd=$(grep -r '活动已结束' log)
+	if [ -z "$dd" ]; then
+		log_s "\n检查是否有删除的活动"
+	else
+		log_s "\n检查是否有删除的活动\n$dd"
+	fi
 }
 
 check_res() {
@@ -33,13 +46,16 @@ check_res() {
 	done
 	log_s ""
 	check_if_have_fail
+	check_del_vender
 }
 
-source /home/myid/jd/jd_signup/common.sh
+cd /home/myid/jd/jd_signup/
+source common.sh
+log_s "\n\n* * * * * * * * * * * * * * * * * *\n记录时刻 $(date +"%Y%m%d_%H%M%S_%N")\n"
 if [ "$1" = "checkfail" ]; then
 	check_if_have_fail
 elif [ ! -z "$1" ]; then
 	if_chang_delay "$1"
 else
-	check_res >/home/myid/jd/jd_signup/log/common_$(date +"%Y%m%d_%H%M%S_%N").log 2>&1
+	check_res >> log/common_$(date +"%Y%m%d").log 2>&1
 fi
