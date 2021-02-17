@@ -1,0 +1,68 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t1/94543/21/17827/4039/5e8d31d4E273c7de9/d01e16506d23e660.gif",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "白银会员",
+         "maxOrderCount" : "6",
+         "maxOrderPrice" : "2888",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.5"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "2",
+         "gradeName" : "黄金会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "3999",
+         "minOrderCount" : "6",
+         "minOrderPrice" : "2888",
+         "multiple" : "2.0"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "钻石会员",
+         "maxOrderCount" : "20",
+         "maxOrderPrice" : "9999",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "3999",
+         "multiple" : "2.5"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "4",
+         "gradeName" : "至尊会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "20",
+         "minOrderPrice" : "9999",
+         "multiple" : "3.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10205216,
+   "shopLatestSignUrl" : "//img11.360buyimg.com/cms/jfs/t1/138501/31/13878/79479/5fa91fc5E5a8fa977/3f72970e89e8fede.jpg",
+   "shopName" : "雪初颜美妆专营店",
+   "time" : 1613555226,
+   "totalScore" : "",
+   "venderId" : 10351903
+}

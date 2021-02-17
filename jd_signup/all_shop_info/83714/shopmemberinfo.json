@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t3190/135/4984600648/3988/5a50e36b/585f3010N387ef5ef.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "10000",
+         "maxOrderPrice" : "500",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10001",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "10000",
+         "minOrderPrice" : "500",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "88888",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "10001",
+         "minOrderPrice" : "1000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "99999",
+         "maxOrderPrice" : "4000",
+         "minOrderCount" : "88888",
+         "minOrderPrice" : "2000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "99999",
+         "minOrderPrice" : "4000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 80651,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/jshopm/jfs/t2653/324/4255739144/23134/dc37778a/57b289c5Nf41a1ab1.jpg",
+   "shopName" : "联购家居专营店",
+   "time" : 1613556701,
+   "totalScore" : "",
+   "venderId" : 83714
+}

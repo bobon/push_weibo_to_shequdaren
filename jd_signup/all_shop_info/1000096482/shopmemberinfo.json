@@ -1,0 +1,48 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/cms/jfs/t20863/193/308667165/6105/e076e9b7/5b08fcb4N2c91b3f3.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "5000",
+         "multiple" : "1.4"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 1000096482,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/cms/jfs/t1/64111/29/245/203256/5ce66688E9d2eddda/30f80539d5c79f7b.jpg",
+   "shopName" : "巴黎水（Perrier）京东自营旗舰店",
+   "time" : 1613560035,
+   "totalScore" : "",
+   "venderId" : 1000096482
+}

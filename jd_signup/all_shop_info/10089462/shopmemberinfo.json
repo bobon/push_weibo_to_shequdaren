@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/cms/jfs/t1/30592/17/852/7855/5c417ecfE85d44c18/73ae9a626715fea4.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "1500",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "1000",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "7",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "1500",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "3000",
+         "minOrderCount" : "7",
+         "minOrderPrice" : "2000",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "3000",
+         "multiple" : "1.4"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 1,
+   "shopId" : 933425,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/143566/17/1371/153923/5ef1a522E45f8bdb0/f658a9d28a6bed76.jpg",
+   "shopName" : "DR.ROTUS旗舰店",
+   "time" : 1613562541,
+   "totalScore" : "",
+   "venderId" : 10089462
+}

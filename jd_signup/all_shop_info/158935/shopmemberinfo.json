@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/zx/jfs/t19378/71/436362775/4414/942eacd5/5a7709d3Neb77be4b.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "400",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "600",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "400",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "900",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "600",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "1500",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "900",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "1500",
+         "multiple" : "1.4"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 153713,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/zx/jfs/t18931/161/2053109542/82720/dc0f0d0/5ae2d5bfN2be3c46b.jpg",
+   "shopName" : "协作共赢服饰专营店",
+   "time" : 1613564038,
+   "totalScore" : "",
+   "venderId" : 158935
+}

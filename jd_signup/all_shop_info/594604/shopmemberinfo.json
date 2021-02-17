@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img12.360buyimg.com/cms/jfs/t1/89039/5/10454/6542/5e1d6926E91b3c5a0/c78d9853937e270d.gif",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "1",
+         "maxOrderPrice" : "1",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "3000",
+         "minOrderCount" : "1",
+         "minOrderPrice" : "1",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "4000",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "3000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "6",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "4000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "6",
+         "minOrderPrice" : "5000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 586392,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/85606/22/8391/68237/5e047a88E7301e610/85d8c2f9d937fb17.jpg",
+   "shopName" : "小宠宝宝宠物用品专营店",
+   "time" : 1613559218,
+   "totalScore" : "",
+   "venderId" : 594604
+}

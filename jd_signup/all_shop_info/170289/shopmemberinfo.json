@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t2503/187/1051194289/19612/82e6897a/563b6ef4N2dba92b9.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "200",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "500",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "200",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "50",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "500",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "150",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "50",
+         "minOrderPrice" : "2000",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "150",
+         "minOrderPrice" : "5000",
+         "multiple" : "1.3"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 164723,
+   "shopLatestSignUrl" : "//img30.360buyimg.com/cms/jfs/t16936/264/1681570577/52086/e47956d7/5ad3fff1Ncf4ec060.png",
+   "shopName" : "百娇化妆品专营店",
+   "time" : 1613559078,
+   "totalScore" : "",
+   "venderId" : 170289
+}

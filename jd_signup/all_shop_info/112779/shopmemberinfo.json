@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img10.360buyimg.com/cms/jfs/t1/127309/21/7260/9523/5f11442cEa9a706c7/251fb30f8cec6927.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "599",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "1599",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "599",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "3599",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "1599",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "20",
+         "maxOrderPrice" : "6699",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "3599",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "20",
+         "minOrderPrice" : "6699",
+         "multiple" : "1.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 110024,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/121759/2/7241/142417/5f1144efE9667025f/b4d41ddfb156e7ed.jpg",
+   "shopName" : "波什宠物官方旗舰店",
+   "time" : 1613559020,
+   "totalScore" : "",
+   "venderId" : 112779
+}

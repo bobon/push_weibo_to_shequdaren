@@ -1,0 +1,30 @@
+actId=3c01293b278443d1bda532575fa810d1
+venderId=1000091866
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100T0m-Im"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="iQunix京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3c01293b278443d1bda532575fa810d1&venderId=1000091866&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到26天：赠送L-Stand笔记本支架
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210217"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 1 天
+签到总天数 1"
+#移动 jd_OeTNobRVGiNZ sign_res_end

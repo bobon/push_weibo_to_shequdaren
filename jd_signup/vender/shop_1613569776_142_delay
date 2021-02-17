@@ -1,0 +1,31 @@
+actId=7ad66b65b611428da4705537dfe56906
+venderId=62656
+startTime=1612540800000
+endTime=1613663999000
+# 短链接
+suo_url="https://3.cn/100Yi7w-z"
+actTimeStr="2021-02-06 00:00 至 2021-02-18 23:59"
+#店铺名称
+vendername="ECCO爱步女鞋旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7ad66b65b611428da4705537dfe56906&venderId=62656&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.06 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：100元优惠券
+连续签到10天：赠送ECCO定制口袋保温杯
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210217"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 1 天
+签到总天数 1"
+#移动 jd_OeTNobRVGiNZ sign_res_end

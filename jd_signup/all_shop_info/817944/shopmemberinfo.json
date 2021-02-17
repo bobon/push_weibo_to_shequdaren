@@ -1,0 +1,58 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img12.360buyimg.com/cms/jfs/t24175/269/2393571976/40472/19b2fa65/5b7f5ddcNea9b6c16.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.50",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "18000",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "5000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "18000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 816207,
+   "shopLatestSignUrl" : "//img11.360buyimg.com/cms/jfs/t1/155098/32/16093/296682/60126c7aEd358dc1e/036d000705d1ca4a.jpg",
+   "shopName" : "希治丹尼运动旗舰店",
+   "time" : 1613564989,
+   "totalScore" : "",
+   "venderId" : 817944
+}

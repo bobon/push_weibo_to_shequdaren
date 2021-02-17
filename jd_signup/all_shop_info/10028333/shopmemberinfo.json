@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t1/2637/18/9411/3187/5bac85ebE0f879442/ccecb01272351198.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "小试牛刀",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "800",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "初露锋芒",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "1800",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "800",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "3",
+         "gradeName" : "崭露头角",
+         "maxOrderCount" : "7",
+         "maxOrderPrice" : "2800",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "1800",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.60",
+         "grade" : "4",
+         "gradeName" : "健身达人",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "3800",
+         "minOrderCount" : "7",
+         "minOrderPrice" : "2800",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "5",
+         "gradeName" : "专职教练",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "3800",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 865344,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/cms/jfs/t1/90827/14/3329/59569/5dde1366E5cfc60b4/5355469378e03cd5.jpg",
+   "shopName" : "NewRell海外专营店",
+   "time" : 1613562459,
+   "totalScore" : "",
+   "venderId" : 10028333
+}

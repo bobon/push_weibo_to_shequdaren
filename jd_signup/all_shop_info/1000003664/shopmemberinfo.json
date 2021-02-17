@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/jshopm/jfs/t3046/164/6610667365/8843/85292f46/58a7c22bN8528c169.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "999",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "2999",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "999",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "9999",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "2999",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "15",
+         "maxOrderPrice" : "19999",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "9999",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "15",
+         "minOrderPrice" : "19999",
+         "multiple" : "1.4"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 1000003664,
+   "shopLatestSignUrl" : "//img13.360buyimg.com/cms/jfs/t20365/34/2243353233/72020/dfc6cb82/5b4c6a0bNdc84f51f.jpg",
+   "shopName" : "萤石京东自营旗舰店",
+   "time" : 1613561951,
+   "totalScore" : "",
+   "venderId" : 1000003664
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/jshopm/jfs/t11317/219/364402830/9011/35900364/59eeb323Nc24db4d2.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "299",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "0.5"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "499",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "299",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "799",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "499",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "999",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "799",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "999",
+         "multiple" : "1.5"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 677828,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t20011/317/849589512/170213/a8ffb6d9/5b0cb537N43b2a1e4.jpg",
+   "shopName" : "大湖食品专营店",
+   "time" : 1613561217,
+   "totalScore" : "",
+   "venderId" : 682219
+}

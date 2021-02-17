@@ -1,0 +1,58 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img11.360buyimg.com/cms/jfs/t1/94372/12/15103/30833/5e6c39deE628ea3ef/f13ab9b8424695f2.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "3000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "10000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "3000",
+         "multiple" : "5.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "10000",
+         "multiple" : "10.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10174284,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t1/92876/17/14884/289762/5e6b3bbeEb7ed151a/163d6080c2941acf.jpg",
+   "shopName" : "ORZUV旗舰店",
+   "time" : 1613563163,
+   "totalScore" : "",
+   "venderId" : 10313527
+}

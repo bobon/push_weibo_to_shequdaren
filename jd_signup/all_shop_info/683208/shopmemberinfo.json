@@ -1,0 +1,38 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img10.360buyimg.com/zx/jfs/t17809/8/441462749/8972/a7678c2b/5a773d4dN75a39cb2.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 678802,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/zx/jfs/t15913/355/2181247924/184938/bda7d448/5a960901Nc6da5407.jpg",
+   "shopName" : "Niulook旗舰店",
+   "time" : 1613564665,
+   "totalScore" : "",
+   "venderId" : 683208
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/cms/jfs/t1/53312/35/12253/7989/5d91c74cEe2292b2b/e94f24753a3fc00f.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.50",
+         "grade" : "1",
+         "gradeName" : "初级会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "199",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.20",
+         "grade" : "2",
+         "gradeName" : "中级会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "299",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "199",
+         "multiple" : "1.5"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "3",
+         "gradeName" : "中高级会员",
+         "maxOrderCount" : "6",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "299",
+         "multiple" : "2.0"
+      },
+      {
+         "discount" : "8.80",
+         "grade" : "4",
+         "gradeName" : "高级会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "559",
+         "minOrderCount" : "6",
+         "minOrderPrice" : "399",
+         "multiple" : "2.5"
+      },
+      {
+         "discount" : "8.50",
+         "grade" : "5",
+         "gradeName" : "VIP会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "559",
+         "multiple" : "3.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 952660,
+   "shopLatestSignUrl" : "//img11.360buyimg.com/cms/jfs/t1/68534/14/3041/168464/5d142026E3a872527/d88f3b0af8aff7b0.jpg",
+   "shopName" : "晏聖堂官方旗舰店",
+   "time" : 1613560298,
+   "totalScore" : "",
+   "venderId" : 10108557
+}

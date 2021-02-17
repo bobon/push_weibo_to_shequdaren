@@ -1,0 +1,68 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/cms/jfs/t1/28717/13/15082/25636/5cadc2a6Eacaf1c43/62e4d868454b9ce8.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "普通会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "银卡会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "1000",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "金卡会员",
+         "maxOrderCount" : "7",
+         "maxOrderPrice" : "3000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "2000",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "钻石会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "7",
+         "minOrderPrice" : "3000",
+         "multiple" : "1.4"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 807896,
+   "shopLatestSignUrl" : "//img13.360buyimg.com/cms/jfs/t1/72827/28/6567/80879/5d4aa5dfE60c2ffe6/7b42d4dcce967ff7.jpg",
+   "shopName" : "科洱美CORDMAGIC旗舰店",
+   "time" : 1613559598,
+   "totalScore" : "",
+   "venderId" : 809952
+}

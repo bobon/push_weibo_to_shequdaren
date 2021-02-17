@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img20.360buyimg.com/zx/jfs/t15406/54/2286802516/11259/c8e90a7d/5a912f34N142a3025.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.80",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "599",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "0.1"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "999",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "599",
+         "multiple" : "0.1"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "15",
+         "maxOrderPrice" : "1499",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "999",
+         "multiple" : "0.2"
+      },
+      {
+         "discount" : "8.80",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "30",
+         "maxOrderPrice" : "2999",
+         "minOrderCount" : "15",
+         "minOrderPrice" : "1499",
+         "multiple" : "0.2"
+      },
+      {
+         "discount" : "8.50",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "30",
+         "minOrderPrice" : "2999",
+         "multiple" : "0.3"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 746476,
+   "shopLatestSignUrl" : "//img30.360buyimg.com/cms/jfs/t16936/264/1681570577/52086/e47956d7/5ad3fff1Ncf4ec060.png",
+   "shopName" : "应杰堂官方旗舰店",
+   "time" : 1613561327,
+   "totalScore" : "",
+   "venderId" : 751037
+}

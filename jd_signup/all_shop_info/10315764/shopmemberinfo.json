@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/cms/jfs/t1/94264/36/13408/25113/5e57759cEbd8f8fb7/152bcf88abb7670a.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "1899",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "20",
+         "maxOrderPrice" : "3899",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "1899",
+         "multiple" : "2.0"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "40",
+         "maxOrderPrice" : "5899",
+         "minOrderCount" : "20",
+         "minOrderPrice" : "3899",
+         "multiple" : "3.0"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "60",
+         "maxOrderPrice" : "8899",
+         "minOrderCount" : "40",
+         "minOrderPrice" : "5899",
+         "multiple" : "4.0"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "60",
+         "minOrderPrice" : "8899",
+         "multiple" : "5.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10176217,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t1/93225/8/13184/239878/5e5775a2E15c6ca70/aabc19709333b58c.jpg",
+   "shopName" : "華人青年旗舰店",
+   "time" : 1613563181,
+   "totalScore" : "",
+   "venderId" : 10315764
+}

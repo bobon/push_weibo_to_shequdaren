@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/zx/jfs/t17752/296/968972296/6534/5e881c78/5ab49d01N4aef982b.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "1",
+         "maxOrderPrice" : "1",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "1",
+         "minOrderPrice" : "1",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "30",
+         "maxOrderPrice" : "699",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "399",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "60",
+         "maxOrderPrice" : "1299",
+         "minOrderCount" : "30",
+         "minOrderPrice" : "699",
+         "multiple" : ""
+      },
+      {
+         "discount" : "8.80",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "60",
+         "minOrderPrice" : "1299",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 702307,
+   "shopLatestSignUrl" : "//img13.360buyimg.com/zx/jfs/t15883/44/2418305047/48136/6c2aea66/5ab49c45N36242503.jpg",
+   "shopName" : "贵范官方旗舰店",
+   "time" : 1613559403,
+   "totalScore" : "",
+   "venderId" : 706254
+}

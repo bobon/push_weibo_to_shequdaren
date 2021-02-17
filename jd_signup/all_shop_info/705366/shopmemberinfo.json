@@ -1,0 +1,68 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t1/32899/40/5543/6631/5c87089dE863173df/8eb45c0835618b04.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "199",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "199",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.40",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "699",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "399",
+         "multiple" : "1.5"
+      },
+      {
+         "discount" : "9.20",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "699",
+         "multiple" : "1.7"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 701376,
+   "shopLatestSignUrl" : "//img13.360buyimg.com/cms/jfs/t1/10699/1/15424/47124/5c92f08dE29d316f6/7ad617b4132e5bee.jpg",
+   "shopName" : "半亩花田美妆旗舰店",
+   "time" : 1613559402,
+   "totalScore" : "",
+   "venderId" : 705366
+}

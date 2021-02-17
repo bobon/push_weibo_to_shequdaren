@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/jshopm/jfs/t3700/253/1891430601/4504/edf1f298/58341301N83946f61.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "普通会员",
+         "maxOrderCount" : "99",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "高级会员",
+         "maxOrderCount" : "199",
+         "maxOrderPrice" : "699",
+         "minOrderCount" : "99",
+         "minOrderPrice" : "399",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "3",
+         "gradeName" : "黄金会员",
+         "maxOrderCount" : "299",
+         "maxOrderPrice" : "999",
+         "minOrderCount" : "199",
+         "minOrderPrice" : "699",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.60",
+         "grade" : "4",
+         "gradeName" : "白金会员",
+         "maxOrderCount" : "399",
+         "maxOrderPrice" : "1999",
+         "minOrderCount" : "299",
+         "minOrderPrice" : "999",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "5",
+         "gradeName" : "钻石会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "399",
+         "minOrderPrice" : "1999",
+         "multiple" : "1.5"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 1,
+   "shopId" : 52258,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/cms/jfs/t1/28493/23/4888/132045/5c36b700E1c648a1b/4a18e41e0b2e7d51.jpg",
+   "shopName" : "十月结晶官方旗舰店",
+   "time" : 1613559204,
+   "totalScore" : "",
+   "venderId" : 56226
+}

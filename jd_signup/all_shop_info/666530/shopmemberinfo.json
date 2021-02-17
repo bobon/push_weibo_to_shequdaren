@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img11.360buyimg.com/jshopm/jfs/t5593/83/2840923728/11417/95b0ba20/593522a1N2a9d1716.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "100",
+         "maxOrderPrice" : "1",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "300",
+         "maxOrderPrice" : "3",
+         "minOrderCount" : "100",
+         "minOrderPrice" : "1",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "500",
+         "maxOrderPrice" : "5",
+         "minOrderCount" : "300",
+         "minOrderPrice" : "3",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.60",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "1000",
+         "maxOrderPrice" : "10",
+         "minOrderCount" : "500",
+         "minOrderPrice" : "5",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "1000",
+         "minOrderPrice" : "10",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 661513,
+   "shopLatestSignUrl" : "//img11.360buyimg.com/jshopm/jfs/t10774/45/712365108/61983/2790f7c7/59d7118aN23d7aa09.jpg",
+   "shopName" : "特步鑫球专卖店",
+   "time" : 1613564617,
+   "totalScore" : "",
+   "venderId" : 666530
+}

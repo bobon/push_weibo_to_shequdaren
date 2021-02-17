@@ -1,0 +1,38 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/cms/jfs/t1/33921/30/833/15056/5ca1b971E07170f40/d8f05cf89feec5c0.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.80",
+         "grade" : "1",
+         "gradeName" : "欧脉钻石会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 55820,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/21597/38/13724/271856/5ca1bbe6E2c4d1dc0/206ade15d8b59593.jpg",
+   "shopName" : "欧脉官方旗舰店",
+   "time" : 1613556002,
+   "totalScore" : "",
+   "venderId" : 59990
+}

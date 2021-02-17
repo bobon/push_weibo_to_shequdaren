@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img10.360buyimg.com/cms/jfs/t24217/228/1730742391/5720/ff7daa90/5b6910d7N730ab08d.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "800",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "1200",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "800",
+         "multiple" : ""
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "1200",
+         "multiple" : ""
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "7",
+         "maxOrderPrice" : "3000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "2000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "7",
+         "minOrderPrice" : "3000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 40648,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t22963/17/1704576623/107205/6136b4b8/5b6910e2N9bc0976e.jpg",
+   "shopName" : "Vans官方旗舰店",
+   "time" : 1613564283,
+   "totalScore" : "",
+   "venderId" : 43071
+}

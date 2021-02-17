@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t2149/122/467411858/8620/adcc02f6/560f4696N1a89aae7.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "注册会员",
+         "maxOrderCount" : "20",
+         "maxOrderPrice" : "1999",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "2",
+         "gradeName" : "银卡会员",
+         "maxOrderCount" : "50",
+         "maxOrderPrice" : "10000",
+         "minOrderCount" : "20",
+         "minOrderPrice" : "1999",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.90",
+         "grade" : "3",
+         "gradeName" : "金卡会员",
+         "maxOrderCount" : "100",
+         "maxOrderPrice" : "100000",
+         "minOrderCount" : "50",
+         "minOrderPrice" : "10000",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "4",
+         "gradeName" : "铂金会员",
+         "maxOrderCount" : "200",
+         "maxOrderPrice" : "1000000",
+         "minOrderCount" : "100",
+         "minOrderPrice" : "100000",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "5",
+         "gradeName" : "至尊会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "200",
+         "minOrderPrice" : "1000000",
+         "multiple" : "1.3"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 136496,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t1/95444/10/9031/55621/5e0b0696E43ca878c/126fb4abb173bd76.jpg",
+   "shopName" : "醉缘酒类专营店",
+   "time" : 1613559832,
+   "totalScore" : "",
+   "venderId" : 140720
+}

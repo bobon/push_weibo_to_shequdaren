@@ -1,0 +1,58 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img10.360buyimg.com/zx/jfs/t17641/141/1104816259/9891/e98cd96c/5abc9217Nc903124d.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.50",
+         "grade" : "1",
+         "gradeName" : "宝家入门粉",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.40",
+         "grade" : "2",
+         "gradeName" : "宝家爱用粉",
+         "maxOrderCount" : "30",
+         "maxOrderPrice" : "10000",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "5000",
+         "multiple" : "1.5"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "3",
+         "gradeName" : "宝家真爱粉",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "30",
+         "minOrderPrice" : "10000",
+         "multiple" : "2.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 738880,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t1/131210/27/19238/31513/5fd1bdfbE23d90a19/8c82b96191c94323.jpg",
+   "shopName" : "宝体安官方旗舰店",
+   "time" : 1613561309,
+   "totalScore" : "",
+   "venderId" : 743560
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img11.360buyimg.com/cms/jfs/t1/82025/33/16130/6807/5dde2ffeE5515a0e1/58db714551ad65c3.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "199",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "299",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "199",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "6",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "299",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "599",
+         "minOrderCount" : "6",
+         "minOrderPrice" : "399",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "8.80",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "599",
+         "multiple" : "2.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10142075,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/cms/jfs/t1/60512/6/16371/224343/5dde30baE44f33865/54ed669035ae296a.jpg",
+   "shopName" : "康恩贝保健食品旗舰店",
+   "time" : 1613560487,
+   "totalScore" : "",
+   "venderId" : 10278717
+}

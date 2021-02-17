@@ -1,0 +1,68 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img10.360buyimg.com/cms/jfs/t1/171324/1/5961/18381/601fa1bfEb985cc2c/e186433ff8bd502a.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.50",
+         "grade" : "1",
+         "gradeName" : "国品新粉",
+         "maxOrderCount" : "1",
+         "maxOrderPrice" : "300",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "2.0"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "2",
+         "gradeName" : "国品老粉",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "500",
+         "minOrderCount" : "1",
+         "minOrderPrice" : "300",
+         "multiple" : "3.0"
+      },
+      {
+         "discount" : "9.20",
+         "grade" : "3",
+         "gradeName" : "国品忠粉",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "500",
+         "multiple" : "4.0"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "4",
+         "gradeName" : "国品尊粉",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "1000",
+         "multiple" : "5.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10056090,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t1/164946/32/5949/250149/601fa335E01b9e3af/e8cdec294ba89aff.jpg",
+   "shopName" : "巧茜妮国品化妆品旗舰店",
+   "time" : 1613558143,
+   "totalScore" : "",
+   "venderId" : 10191544
+}

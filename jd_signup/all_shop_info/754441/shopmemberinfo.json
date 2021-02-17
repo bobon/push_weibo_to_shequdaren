@@ -1,0 +1,48 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/cms/jfs/t1/33505/11/7517/3753/5cc29f87Ea3c5b6ff/0d9a3f2eada04132.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "0.1"
+      },
+      {
+         "discount" : "9.80",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "1000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 750252,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/169738/11/6428/134159/602519bdE17416ad9/15882b54b4f3476a.jpg",
+   "shopName" : "莎芡服饰旗舰店",
+   "time" : 1613564827,
+   "totalScore" : "",
+   "venderId" : 754441
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t1/149026/28/16561/6879/5fc60ae4E23e04b05/f3408eb8d0416e7c.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.50",
+         "grade" : "1",
+         "gradeName" : "白银卡",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "99",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "0.1"
+      },
+      {
+         "discount" : "9.20",
+         "grade" : "2",
+         "gradeName" : "黄金卡",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "199",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "99",
+         "multiple" : "0.5"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "3",
+         "gradeName" : "铂金卡",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "399",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "199",
+         "multiple" : "0.6"
+      },
+      {
+         "discount" : "8.80",
+         "grade" : "4",
+         "gradeName" : "钻石卡",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "599",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "399",
+         "multiple" : "0.7"
+      },
+      {
+         "discount" : "8.50",
+         "grade" : "5",
+         "gradeName" : "星耀卡",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "599",
+         "multiple" : "0.8"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 10349685,
+   "shopLatestSignUrl" : "//img30.360buyimg.com/cms/jfs/t16936/264/1681570577/52086/e47956d7/5ad3fff1Ncf4ec060.png",
+   "shopName" : "志仕影音娱乐专营店",
+   "time" : 1613563741,
+   "totalScore" : "",
+   "venderId" : 10562227
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 0,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/cms/jfs/t16849/132/2545309265/6828/663b3e6a/5afa85c1Nddb67d0b.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "5",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "10",
+         "maxOrderPrice" : "10000",
+         "minOrderCount" : "5",
+         "minOrderPrice" : "2000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "25",
+         "maxOrderPrice" : "50000",
+         "minOrderCount" : "10",
+         "minOrderPrice" : "10000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.20",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "100",
+         "maxOrderPrice" : "250000",
+         "minOrderCount" : "25",
+         "minOrderPrice" : "50000",
+         "multiple" : ""
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "100",
+         "minOrderPrice" : "250000",
+         "multiple" : ""
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 669741,
+   "shopLatestSignUrl" : "//img10.360buyimg.com/cms/jfs/t21208/196/76653315/18589/3943e13c/5af93f95N247af228.jpg",
+   "shopName" : "众力达医疗器械专营店",
+   "time" : 1613556170,
+   "totalScore" : "",
+   "venderId" : 673333
+}

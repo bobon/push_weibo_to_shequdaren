@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img30.360buyimg.com/popshop/jfs/t5629/350/3350792673/11838/2f1fd974/593b5a6eNc876be2c.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.80",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "99",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "0.5"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "299",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "99",
+         "multiple" : "2.0"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "16",
+         "maxOrderPrice" : "599",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "299",
+         "multiple" : "2.5"
+      },
+      {
+         "discount" : "9.10",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "30",
+         "maxOrderPrice" : "999",
+         "minOrderCount" : "16",
+         "minOrderPrice" : "599",
+         "multiple" : "3.0"
+      },
+      {
+         "discount" : "8.90",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "30",
+         "minOrderPrice" : "999",
+         "multiple" : "3.5"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 204553,
+   "shopLatestSignUrl" : "//img30.360buyimg.com/cms/jfs/t16936/264/1681570577/52086/e47956d7/5ad3fff1Ncf4ec060.png",
+   "shopName" : "红凡旗舰店",
+   "time" : 1613559130,
+   "totalScore" : "",
+   "venderId" : 213436
+}

@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img13.360buyimg.com/jshopm/jfs/t14002/358/1824366142/5942/cd84c691/5a2a45f4Nb3e94154.png",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "9.90",
+         "grade" : "1",
+         "gradeName" : "一星会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "180",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "9.70",
+         "grade" : "2",
+         "gradeName" : "二星会员",
+         "maxOrderCount" : "15",
+         "maxOrderPrice" : "1000",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "180",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "9.50",
+         "grade" : "3",
+         "gradeName" : "三星会员",
+         "maxOrderCount" : "70",
+         "maxOrderPrice" : "5000",
+         "minOrderCount" : "15",
+         "minOrderPrice" : "1000",
+         "multiple" : "1.5"
+      },
+      {
+         "discount" : "9.30",
+         "grade" : "4",
+         "gradeName" : "四星会员",
+         "maxOrderCount" : "100",
+         "maxOrderPrice" : "10000",
+         "minOrderCount" : "70",
+         "minOrderPrice" : "5000",
+         "multiple" : "1.8"
+      },
+      {
+         "discount" : "9.00",
+         "grade" : "5",
+         "gradeName" : "五星会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "100",
+         "minOrderPrice" : "10000",
+         "multiple" : "2.0"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 649459,
+   "shopLatestSignUrl" : "//img14.360buyimg.com/cms/jfs/t22234/147/1201972295/238619/a5b3fa61/5b21ff6fN4ecd7052.jpg",
+   "shopName" : "Wholly Moly!旗舰店",
+   "time" : 1613561183,
+   "totalScore" : "",
+   "venderId" : 653537
+}

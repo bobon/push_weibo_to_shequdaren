@@ -1,0 +1,78 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img12.360buyimg.com/cms/jfs/t1/45111/6/1309/4823/5cf13230E19522710/a61c533e2f38613a.jpg",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "积分会员",
+         "maxOrderCount" : "1",
+         "maxOrderPrice" : "1",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "白银会员",
+         "maxOrderCount" : "3",
+         "maxOrderPrice" : "500",
+         "minOrderCount" : "1",
+         "minOrderPrice" : "1",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "黄金会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "2000",
+         "minOrderCount" : "3",
+         "minOrderPrice" : "500",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "钻石会员",
+         "maxOrderCount" : "20",
+         "maxOrderPrice" : "6000",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "2000",
+         "multiple" : "1.3"
+      },
+      {
+         "discount" : "",
+         "grade" : "5",
+         "gradeName" : "黑金会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "20",
+         "minOrderPrice" : "6000",
+         "multiple" : "1.5"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 1000221587,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/76757/10/2328/123635/5d09e998Ef248f145/80e24b4fb8569f54.jpg",
+   "shopName" : "Ubras京东自营旗舰店",
+   "time" : 1613562270,
+   "totalScore" : "",
+   "venderId" : 1000221587
+}

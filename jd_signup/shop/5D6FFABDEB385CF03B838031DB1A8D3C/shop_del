@@ -1,0 +1,27 @@
+# 短链接
+suo_url=""
+venderId=10568849
+startTime=1612540800000
+endTime=1613491199000
+activityId=10268344
+token=5D6FFABDEB385CF03B838031DB1A8D3C
+#店铺名称
+vendername="赤木水耀星专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5D6FFABDEB385CF03B838031DB1A8D3C
+# 活动时间：2021.02.06 00:00:00 - 2021.02.16 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆
+连续签到10天：20京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="null"
+giftRes=""
+giftDate="20210217"
+sign_res_info="
+
+已签到 null 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

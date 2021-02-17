@@ -1,0 +1,68 @@
+{
+   "PointExSku" : 0,
+   "browse" : "WeiXin",
+   "discount" : "0.00",
+   "env" : 1,
+   "errMsg" : "",
+   "hasMemPoint" : 1,
+   "hasPin" : 0,
+   "iRet" : 0,
+   "lmVender" : 0,
+   "login" : 0,
+   "logoUrl" : "//img14.360buyimg.com/cms/jfs/t1/40454/31/13093/30300/5d8319d1Edcde4147/3742094bb039fc67.gif",
+   "memLeveRuleListJson" : [
+      {
+         "discount" : "",
+         "grade" : "1",
+         "gradeName" : "银卡会员",
+         "maxOrderCount" : "2",
+         "maxOrderPrice" : "299",
+         "minOrderCount" : "0",
+         "minOrderPrice" : "0",
+         "multiple" : "1.0"
+      },
+      {
+         "discount" : "",
+         "grade" : "2",
+         "gradeName" : "黄金会员",
+         "maxOrderCount" : "4",
+         "maxOrderPrice" : "1999",
+         "minOrderCount" : "2",
+         "minOrderPrice" : "299",
+         "multiple" : "1.1"
+      },
+      {
+         "discount" : "",
+         "grade" : "3",
+         "gradeName" : "铂金会员",
+         "maxOrderCount" : "8",
+         "maxOrderPrice" : "5999",
+         "minOrderCount" : "4",
+         "minOrderPrice" : "1999",
+         "multiple" : "1.2"
+      },
+      {
+         "discount" : "",
+         "grade" : "4",
+         "gradeName" : "钻石会员",
+         "maxOrderCount" : "2147483647",
+         "maxOrderPrice" : "92233720368547758.07",
+         "minOrderCount" : "8",
+         "minOrderPrice" : "5999",
+         "multiple" : "1.5"
+      }
+   ],
+   "member" : 0,
+   "memberLevel" : 0,
+   "memberPoints" : 0,
+   "memberTradeCount" : 0,
+   "merberTradeAmount" : "0.00",
+   "openVip" : 1,
+   "pointExCoupon" : 0,
+   "shopId" : 1000014349,
+   "shopLatestSignUrl" : "//img12.360buyimg.com/cms/jfs/t1/60309/30/2783/160784/5d11849cE239eb1f4/a5913a13a30c5998.jpg",
+   "shopName" : "欧诗漫京东自营官方旗舰店",
+   "time" : 1613557199,
+   "totalScore" : "",
+   "venderId" : 1000014349
+}
