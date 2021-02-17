@@ -1,0 +1,40 @@
+RANDOM_num: 15
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1613496221	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1613496221	LZ_TOKEN_KEY	lztokenpagea2b61658e8b146acbbcaf26b1f526a49
+use pt_key
+token: AAFgK_1GADBJX2lMY3hhcHueI8beaKWbVKtLk-NKxl_AhK9TDM8rMcsK2p_v_h0aByUXo2MMB4E
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/17/21 01:13:42 463579500  1613495622
+肥鹅签到蒙牛京东自营旗舰店
+{
+  "result": true,
+  "data": {
+    "taskInfo": [
+      false,
+      false
+    ]
+  },
+  "count": 0,
+  "errorMessage": ""
+}
+
+real	0m0.233s
+user	0m0.000s
+sys	0m0.031s
+
+02/17/21 01:13:43 140059100  1613495623
+肥鹅签到蒙牛京东自营旗舰店
+{
+  "result": false,
+  "data": "",
+  "count": 0,
+  "errorMessage": "您已完成当天签到！"
+}
+"您已完成当天签到！"
+签到蒙牛京东自营旗舰店完成
+
+肥鹅签到蒙牛京东自营旗舰店查看结果, 活动规则
+curl: (6) Could not resolve host: lzdz-isv.isvjcloud.com
+
+

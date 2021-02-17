@@ -1,0 +1,53 @@
+02/17/21 00:30:01 771453600  1613493001
+RANDOM_num: 35
+removed '/tmp/tmp.GS0RTWXWfh'
+02/17/21 00:30:04 078185000  1613493004
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210217
+***********************************************
+7天签到 第 0 天
+***********************************************
+
+#活动规则
+rule="1、活动时间：2021-01-30 00:00 - 2021-02-28 23:59；
+连续签到7天后，清零可重新开始；
+4、第1天签到，有机会赠送10店铺积分；
+5、第2天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送15京豆；
+7、第4天签到，有机会赠送20店铺积分；
+8、第5天签到，有机会赠送20店铺积分；
+9、第6天签到，有机会赠送20店铺积分；
+10、第7天签到，有机会赠送30京豆；"
+
+#店铺名称
+vendername="卫仕京东自营官方旗舰店"
+#店铺激活码
+actId="8a60a89469dd449eb9f931ce1fc01cde"
+##店铺id
+venderId="1000010241"
+
+svr="cjhy-isv.isvjcloud.com"
+
+#赵 122294312-396444 sign_res
+sign_num="3"
+sign_res_info="7天签到 第 3 天"
+giftRes="ok"
+giftDate="20210217"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="4"
+sign_res_info="7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210217"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+sign_res_info="7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210217"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+sign_res_info="7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210217"
+#移动 jd_OeTNobRVGiNZ sign_res_end

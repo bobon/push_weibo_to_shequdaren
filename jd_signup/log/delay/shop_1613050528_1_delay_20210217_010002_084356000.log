@@ -1,0 +1,145 @@
+02/17/21 01:10:07 613720100  1613495407
+RANDOM_num: 40
+removed '/tmp/tmp.k1dLaIYEdM'
+
+02/17/21 01:10:07 752454100  1613495407
+肥鹅签到菲诗蔻（FicceCode）个护京东自营旗舰店
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+签到菲诗蔻（FicceCode）个护京东自营旗舰店完成
+
+02/17/21 01:10:48 055543300  1613495448
+肥鹅签到菲诗蔻（FicceCode）个护京东自营旗舰店查看结果
+
+***********************************************
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_14:03:57  2    [已~签~到]
+2021/02/15_00:00:07  2    [已~签~到]
+2021/02/16_00:00:07  2    [已~签~到]
+2021/02/17_01:10:07  1    [已~签~到]
+2021/02/18_00:00:00  3    未签到
+已签到 4 天
+***********************************************
+
+
+
+肥鹅签到菲诗蔻（FicceCode）个护京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1612713600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613059200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613282637363,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318407311,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404807499,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613495407861,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613577600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":4,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 4
+}
+签到菲诗蔻（FicceCode）个护京东自营旗舰店日志
+
+# 短链接
+suo_url=""
+venderId=1000362721
+startTime=1612713600000
+endTime=1613663999000
+activityId=10269485
+token=3CC03F9C032D5BC42C24441D665C8FC2
+#店铺名称
+vendername="菲诗蔻（FicceCode）个护京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=3CC03F9C032D5BC42C24441D665C8FC2
+# 活动时间：2021.02.08 00:00:00 - 2021.02.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：2京豆
+连续签到5天：3京豆
+连续签到7天：4京豆
+"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062847;signed=2;currentDay=2
+signTime=1613149273;signed=2;currentDay=2
+signTime=1613232008;signed=2;currentDay=2
+signTime=1613318410;signed=2;currentDay=2
+signTime=1613404809;signed=2;currentDay=2
+signTime=1613495369;signed=2;currentDay=1
+signTime=1613577600;signed=1;currentDay=3"
+sign_num="6"
+giftRes="ok"
+giftDate="20210217"
+sign_res_info="
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:47  2    [已~签~到]
+2021/02/13_01:01:13  2    [已~签~到]
+2021/02/14_00:00:08  2    [已~签~到]
+2021/02/15_00:00:10  2    [已~签~到]
+2021/02/16_00:00:09  2    [已~签~到]
+2021/02/17_01:09:29  1    [已~签~到]
+2021/02/18_00:00:00  3    未签到
+已签到 6 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613062847;signed=2;currentDay=2
+signTime=1613149273;signed=2;currentDay=2
+signTime=1613232010;signed=2;currentDay=2
+signTime=1613318414;signed=2;currentDay=2
+signTime=1613404816;signed=2;currentDay=2
+signTime=1613495370;signed=2;currentDay=1
+signTime=1613577600;signed=1;currentDay=3"
+sign_num="6"
+giftRes="ok"
+giftDate="20210217"
+sign_res_info="
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_01:00:47  2    [已~签~到]
+2021/02/13_01:01:13  2    [已~签~到]
+2021/02/14_00:00:10  2    [已~签~到]
+2021/02/15_00:00:14  2    [已~签~到]
+2021/02/16_00:00:16  2    [已~签~到]
+2021/02/17_01:09:30  1    [已~签~到]
+2021/02/18_00:00:00  3    未签到
+已签到 6 天"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613282637;signed=2;currentDay=2
+signTime=1613318407;signed=2;currentDay=2
+signTime=1613404807;signed=2;currentDay=2
+signTime=1613495407;signed=2;currentDay=1
+signTime=1613577600;signed=1;currentDay=3"
+sign_num="4"
+giftRes="ok"
+giftDate="20210217"
+sign_res_info="
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_14:03:57  2    [已~签~到]
+2021/02/15_00:00:07  2    [已~签~到]
+2021/02/16_00:00:07  2    [已~签~到]
+2021/02/17_01:10:07  1    [已~签~到]
+2021/02/18_00:00:00  3    未签到
+已签到 4 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
