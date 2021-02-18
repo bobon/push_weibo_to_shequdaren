@@ -81,10 +81,10 @@ get_sign() {
 }
 
 get_shopmemberinfo() {
-	if [ -d "all_shop_info/${1}" ]; then
-		error "重复的店铺 all_shop_info/${1}"
+	if [ -d "/home/myid/all_shop_info/${1}" ]; then
+		error "重复的店铺 /home/myid/all_shop_info/${1}"
 	else
-		mkdir -vp "all_shop_info/${1}" | log_d -
+		mkdir -vp "/home/myid/all_shop_info/${1}" | log_d -
 	fi
 	
 	curl -sS -k "https://shop.m.jd.com/mshop/QueryShopMemberInfoJson?venderId=${1}" \
@@ -95,8 +95,10 @@ get_shopmemberinfo() {
 	  -H 'Sec-Fetch-Mode: no-cors' \
 	  -H 'Sec-Fetch-Dest: script' \
 	  -H 'Referer: https://shop.m.jd.com/shopv2/mzpage?venderId=1000017162&_fd=jdm' \
-		-H 'Accept-Language: zh-CN,zh;q=0.9' > "all_shop_info/${1}/shopmemberinfo.json" || rm -rvf "all_shop_info/${1}" | log_d -
-	jq -r '.shopName' "all_shop_info/${1}/shopmemberinfo.json"
+		-H 'Accept-Language: zh-CN,zh;q=0.9' > "/home/myid/all_shop_info/${1}/shopmemberinfo.json" || rm -rvf "/home/myid/all_shop_info/${1}" | log_d -
+	if [ -d "/home/myid/all_shop_info/${1}" ]; then
+		jq -r '.shopName' "/home/myid/all_shop_info/${1}/shopmemberinfo.json"
+	fi
 }
 
 filer_shopurl() {
@@ -149,7 +151,7 @@ filer_venderId_from_shop() {
 #check_sign venderId.tmp
 #| sed -r -e '/shop_logo/s,\,,,' -e '/"shop_name"/d' -e '/"shop_brief"/d' | jq -c '.shops[]|{shop_id, vender_type, vender_id}'
 
-mkdir -vp all_shop_info
+mkdir -vp /home/myid/all_shop_info
 if [ -f "$1" ]; then
 	echo "search $1 sign"
 	source "$1" || error "source $1 error"
