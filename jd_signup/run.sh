@@ -18,9 +18,9 @@ index=0
 
 for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/now/config_${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/now/config2_${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
 done >> run_shell.sh
 
@@ -84,10 +84,10 @@ done >> run_shell.sh
 for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | grep '_delay$') ; do
 	vender_name=$i
 	echo "sleep 1"
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/delay/config_${vender_name}_\${log_f}.log 2>&1"
 	let index++
 	echo "sleep 1"
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/delay/${vender_name}_\${log_f}.log 2>&1"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/delay/config2_${vender_name}_\${log_f}.log 2>&1"
 	let index++
 done >> run_shell_delay.sh
 
@@ -130,10 +130,10 @@ done >> run_shell_delay.sh
 
 for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | grep '_jifen$') ; do
 	vender_name=$i
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/jifen/${vender_name}_\${log_f}.log 2>&1 &"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/jifen/config_${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
 	echo "sleep 1"
-	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/jifen/${vender_name}_\${log_f}.log 2>&1 &"
+	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} > $base_dir/log/jifen/config2_${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
 done >> run_shell_jifen.sh
 

@@ -496,7 +496,6 @@ exit 0
 #<a class="dtm-map-area" href="//h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=28AABCB3B08D6DF9BB03788D53E84C2B" style="position: absolute; width: 126.667px; height: 195.573px; top: 1278.83px; left: 1.01333px;"></a>
 
 ## ./parse.sh lzkj_sevenDay_vender/mengniu -f
-#find api_vender/ -type f | egrep -v '_del$|_fq$' | wc -l
 
 # rm -rvf rr err repeatshop shop locations; find fq_vender vender api_vender/ lzkj_sevenDay_vender dingzhi_vender -type f | xargs -i ./parse.sh {} >rr 2>err
 # ./sign_check.sh | tee sign_check

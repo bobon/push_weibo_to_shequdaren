@@ -15,20 +15,6 @@ actRule="
 连续签到7天：66京豆 66京豆
 连续签到15天：88京豆 88京豆
 "
-#赵 122294312-396444 sign_res
-sign_res="
-"
-sign_num=""
-sign_total_num=""
-giftName=""66京豆""
-giftRes="ok"
-giftDate="20210218"
-sign_res_info="
-
-当天签到奖励 "66京豆"
-连续签到  天
-签到总天数 "
-#赵 122294312-396444 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 signTime=1613001600;signed=2
@@ -107,3 +93,29 @@ sign_res_info="
 连续签到 7 天
 签到总天数 7"
 #肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2"
+sign_num="7"
+sign_total_num="7"
+giftName="null"
+giftRes="ok"
+giftDate="20210218"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 7 天
+签到总天数 7"
+#赵 122294312-396444 sign_res_end

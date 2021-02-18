@@ -207,6 +207,7 @@ if_chang_delay() {
 		fi
 	else
 		echo
+		log_s "$ven_f  $url"
 		local is_now=false
 		local is_force_delay=false
 		for tm in $(echo -e "$tmm"); do

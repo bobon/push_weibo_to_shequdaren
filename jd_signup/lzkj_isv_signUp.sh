@@ -34,21 +34,26 @@ else
 	if [ "$4" == "force" ]; then
 		echo "force to sign"
 	else
-		unset giftDate
+		unset giftDate; unset sign_num; unset sign_total_num
 		unset sign_res_info
 		b=$(mktemp)
 		sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
 		source $b
 		rm -rvf $b
-		if [ "$giftDate" = "$(date +"%Y%m%d")" ]; then
+		if [ "$giftDate" = "$(date +"%Y%m%d")" ] && [ "$giftRes" = "ok" ]; then
 			date +"%x %X %N  %s"
 			echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
 			echo "***********************************************"
 			echo -e "$sign_res_info"
 			echo "***********************************************"
 			echo
-			cat "$2"
-			exit
+		
+			if [ "$sign_num" = "" ] || [ "$sign_total_num" = "" ]; then
+				echo "$pin_name 签到结果获取失败."
+			else
+				cat "$2"
+				exit
+			fi			
 		fi
 	fi
 
