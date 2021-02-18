@@ -110,11 +110,11 @@ signTime=1613232000;signed=1;currentDay=2
 signTime=1613318400;signed=1;currentDay=2
 signTime=1613404800;signed=1;currentDay=2
 signTime=1613491200;signed=1;currentDay=2
-signTime=1613581504;signed=2;currentDay=1
-signTime=1613664000;signed=1;currentDay=3"
-sign_num="1"
+signTime=1613581504;signed=2;currentDay=2
+signTime=1613667979;signed=2;currentDay=1"
+sign_num="2"
 giftRes="ok"
-giftDate="20210218"
+giftDate="20210219"
 sign_res_info="
 2021/01/22_00:00:00  2    未签到
 2021/01/23_00:00:00  2    未签到
@@ -143,9 +143,9 @@ sign_res_info="
 2021/02/15_00:00:00  2    未签到
 2021/02/16_00:00:00  2    未签到
 2021/02/17_00:00:00  2    未签到
-2021/02/18_01:05:04  1    [已~签~到]
-2021/02/19_00:00:00  3    未签到
-已签到 1 天"
+2021/02/18_01:05:04  2    [已~签~到]
+2021/02/19_01:06:19  1    [已~签~到]
+已签到 2 天"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
@@ -176,11 +176,11 @@ signTime=1613232000;signed=1;currentDay=2
 signTime=1613318400;signed=1;currentDay=2
 signTime=1613404800;signed=1;currentDay=2
 signTime=1613491200;signed=1;currentDay=2
-signTime=1613581504;signed=2;currentDay=1
-signTime=1613664000;signed=1;currentDay=3"
-sign_num="1"
+signTime=1613581504;signed=2;currentDay=2
+signTime=1613667979;signed=2;currentDay=1"
+sign_num="2"
 giftRes="ok"
-giftDate="20210218"
+giftDate="20210219"
 sign_res_info="
 2021/01/22_00:00:00  2    未签到
 2021/01/23_00:00:00  2    未签到
@@ -209,9 +209,9 @@ sign_res_info="
 2021/02/15_00:00:00  2    未签到
 2021/02/16_00:00:00  2    未签到
 2021/02/17_00:00:00  2    未签到
-2021/02/18_01:05:04  1    [已~签~到]
-2021/02/19_00:00:00  3    未签到
-已签到 1 天"
+2021/02/18_01:05:04  2    [已~签~到]
+2021/02/19_01:06:19  1    [已~签~到]
+已签到 2 天"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
@@ -242,11 +242,11 @@ signTime=1613232000;signed=1;currentDay=2
 signTime=1613318400;signed=1;currentDay=2
 signTime=1613404800;signed=1;currentDay=2
 signTime=1613491200;signed=1;currentDay=2
-signTime=1613581547;signed=2;currentDay=1
-signTime=1613664000;signed=1;currentDay=3"
-sign_num="1"
+signTime=1613581547;signed=2;currentDay=2
+signTime=1613668023;signed=2;currentDay=1"
+sign_num="2"
 giftRes="ok"
-giftDate="20210218"
+giftDate="20210219"
 sign_res_info="
 2021/01/22_00:00:00  2    未签到
 2021/01/23_00:00:00  2    未签到
@@ -275,7 +275,7 @@ sign_res_info="
 2021/02/15_00:00:00  2    未签到
 2021/02/16_00:00:00  2    未签到
 2021/02/17_00:00:00  2    未签到
-2021/02/18_01:05:47  1    [已~签~到]
-2021/02/19_00:00:00  3    未签到
-已签到 1 天"
+2021/02/18_01:05:47  2    [已~签~到]
+2021/02/19_01:07:03  1    [已~签~到]
+已签到 2 天"
 #肥鹅 jd_4d651d9e48204 sign_res_end

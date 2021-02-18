@@ -1,0 +1,66 @@
+02/19/21 00:00:04 981592900  1613664004
+RANDOM_num: 15
+removed '/tmp/tmp.VEsTVAwKq9'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664611	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664611	LZ_TOKEN_KEY	lztokenpage4cb1d7ef14734d32a2a41a744e35cd03
+use wskey
+token: AAFgLo8PADCwEtJFxV9lk6lUPVa2YfHvrsYiHftG94uHXs0HMPBGYYPqOAv7BEQK4tC4sBqjXgY
+secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/19/21 00:00:19 141288300  1613664019
+移动签到美肤宝京东自营官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.564s
+user	0m0.000s
+sys	0m0.031s
+
+02/19/21 00:00:32 001782600  1613664032
+移动签到美肤宝京东自营官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.213s
+user	0m0.000s
+sys	0m0.031s
+
+02/19/21 00:00:38 453728600  1613664038
+移动签到美肤宝京东自营官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.510s
+user	0m0.000s
+sys	0m0.031s
+
+02/19/21 00:00:44 660751700  1613664044
+移动签到美肤宝京东自营官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.419s
+user	0m0.000s
+sys	0m0.016s
+
+02/19/21 00:00:49 499729700  1613664049
+移动签到美肤宝京东自营官方旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15_del
+mv: cannot stat '/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15': No such file or directory
+02/19/21 00:01:21 772580000  1613664081
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {232:<--} ERROR CODE: 6[0m [0;31;3m[20210219 00:01:21] [ERROR] [0m
+

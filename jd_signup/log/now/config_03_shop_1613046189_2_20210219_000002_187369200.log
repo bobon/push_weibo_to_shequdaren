@@ -1,0 +1,49 @@
+02/19/21 00:00:03 310100300  1613664003
+RANDOM_num: 5
+removed '/tmp/tmp.opug7T6eN6'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664607	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664607	LZ_TOKEN_KEY	lztokenpage0b68ff021f5d435794e1d9d967626e8b
+use pt_key
+token: AAFgLo8KADAQTRRyatfK0ZKbElV6i64ydl_pjaNOFRWq4kdrLAMV4mSjH-pSeRb7za0lMadvtBs
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/19/21 00:00:15 774814700  1613664015
+肥鹅签到康比特京东自营旗舰店
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046189_2 --> /home/myid/jd/jd_signup/vender/shop_1613046189_2_del
+mv: cannot stat '/home/myid/jd/jd_signup/vender/shop_1613046189_2': No such file or directory
+02/19/21 00:00:41 347716000  1613664041
+
+肥鹅签到康比特京东自营旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {221:<--} ERROR CODE: 4[0m [0;31;3m[20210219 00:00:44] [ERROR] [0m
+

@@ -1,0 +1,57 @@
+02/19/21 00:02:01 806251500  1613664121
+RANDOM_num: 10
+removed '/tmp/tmp.ppxSqgtbQy'
+02/19/21 00:02:03 236503700  1613664123
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210219
+***********************************************
+7天签到 第 4 天
+***********************************************
+
+#店铺名称
+vendername="蒙牛官方旗舰店"
+#店铺激活码
+actId="3f064b1a32ec4b2ab6e044aa1cacad06"
+#店铺id
+venderId="182542"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542"
+
+startTime=1612108800
+endTime=1614527940
+# 活动时间：2021-02-01 00:00 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：15京豆
+连续签到2天：30元优惠券
+连续签到3天：40元优惠券
+连续签到4天：8京豆
+连续签到5天：50元优惠券
+连续签到6天：20元优惠券
+连续签到7天：15京豆
+"
+
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210219"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="4"
+sign_res_info="7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210219"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+sign_res_info="7天签到 第 6 天"
+giftRes="ok"
+giftDate="20210219"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="4"
+sign_res_info="7天签到 第 4 天"
+giftRes="ok"
+giftDate="20210219"
+#肥鹅 jd_4d651d9e48204 sign_res_end

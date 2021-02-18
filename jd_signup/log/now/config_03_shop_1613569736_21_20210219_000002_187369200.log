@@ -1,0 +1,104 @@
+02/19/21 00:00:02 722270600  1613664002
+RANDOM_num: 5
+removed '/tmp/tmp.Cxtyz776oY'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664607	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664607	LZ_TOKEN_KEY	lztokenpage7e87166267a147cda91a13216216ab0e
+use pt_key
+token: AAFgLo8JADAL8n8lenixIucaq3bNhazV-sGOuJM8dtngqFrnwMxqLuetRNn195V-NKGvwqg8G-8
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/19/21 00:00:14 501001400  1613664014
+肥鹅签到GARMIN佳明官方旗舰店
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": null,
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+签到GARMIN佳明官方旗舰店完成
+02/19/21 00:00:37 900879000  1613664037
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+7天签到 第  天
+***********************************************
+
+肥鹅签到GARMIN佳明官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="GARMIN佳明官方旗舰店"
+#店铺激活码
+actId="116ca4b40be946c1ae32efbb568825f2"
+#店铺id
+venderId="797351"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=116ca4b40be946c1ae32efbb568825f2&venderId=797351&adsource=tg_xuanFuTuBiao"
+
+startTime=1612152720
+endTime=1613664000
+# 活动时间：2021-02-01 12:12 - 2021-02-19 00:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20元优惠券
+连续签到2天：
+连续签到3天：2京豆
+连续签到4天：
+连续签到5天：50店铺积分
+连续签到6天：
+连续签到7天：3京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210218"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210219"
+#肥鹅 jd_4d651d9e48204 sign_res_end

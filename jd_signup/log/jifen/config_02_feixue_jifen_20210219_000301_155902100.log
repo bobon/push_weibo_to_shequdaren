@@ -1,0 +1,42 @@
+02/19/21 00:03:17 491665000  1613664197
+RANDOM_num: 15
+removed '/tmp/tmp.c4CwrNxRC6'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664798	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664798	LZ_TOKEN_KEY	lztokenpage9f1a933165e04166b0bb59ad4824e6b2
+use pt_key
+token: AAFgLo_GADAIXby7uWkdqcs7MemeBRLNvKcVhwnIX-hZCy5GAoXrKsnfmGYEwPxGq8g6LCdGmW8
+secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/19/21 00:03:18 833925400  1613664198
+王签到费雪京东自营旗舰店
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "5",
+    "giftType": "9",
+    "giftName": "5积分",
+    "giftNum": "5",
+    "giftTotal": "100000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "c43a469f3e984705878a2aa07a3fafac",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "zrJDjg"
+}
+true
+签到费雪京东自营旗舰店完成
+02/19/21 00:03:49 923322800  1613664229
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {196:<--} ERROR CODE: 6[0m [0;31;3m[20210219 00:03:50] [ERROR] [0m
+

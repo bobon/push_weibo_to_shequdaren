@@ -1,0 +1,82 @@
+02/19/21 00:00:02 771930000  1613664002
+RANDOM_num: 45
+removed '/tmp/tmp.8JoTfaLUXu'
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664608	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613664608	LZ_TOKEN_KEY	lztokenpage4545a907cf9c4f6390d88073a6710ab3
+use pt_key
+token: AAFgLo8OADB4BKOkjONXdgClr1ESrWMtkIL6bZObaVRBHxGAxuVFxZsq21RLOxZNebvznrMXC5o
+secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/19/21 00:00:19 012091600  1613664019
+王签到GARMIN佳明官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.566s
+user	0m0.000s
+sys	0m0.016s
+
+02/19/21 00:00:31 905833900  1613664031
+王签到GARMIN佳明官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.282s
+user	0m0.000s
+sys	0m0.047s
+
+02/19/21 00:00:38 030725000  1613664038
+王签到GARMIN佳明官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.092s
+user	0m0.000s
+sys	0m0.047s
+
+02/19/21 00:00:43 596449200  1613664043
+王签到GARMIN佳明官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.251s
+user	0m0.000s
+sys	0m0.031s
+
+02/19/21 00:00:47 895973500  1613664047
+王签到GARMIN佳明官方旗舰店
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.458s
+user	0m0.000s
+sys	0m0.031s
+
+02/19/21 00:00:51 473025800  1613664051
+王签到GARMIN佳明官方旗舰店
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": null,
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+签到GARMIN佳明官方旗舰店完成
+sed: can't read /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21: No such file or directory
+[0;31;3mRUN  at {215:<--} ERROR CODE: 2[0m [0;31;3m[20210219 00:02:24] [ERROR] [0m
+

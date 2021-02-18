@@ -1,0 +1,149 @@
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210219_030001_638270800
+
+[RUN] 明天签到 埃可米官方旗舰店, 不会获取奖品. api_vender/aikemi --> api_vender/aikemi_delay
+
+api_vender/COMOTEK_delay  
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [COMOTEK鞋靴旗舰店] 的第 7 天，将要获取到奖品[ 50 京豆]
+[RUN] 明天立即执行. api_vender/COMOTEK_delay --> api_vender/COMOTEK
+
+api_vender/everybuild_delay  
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [everbuild京东自营旗舰店] 的第 7 天，将要获取到奖品[ 500 店铺积分]
+
+api_vender/keleige_delay  
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [克雷格运动户外旗舰店] 的第 7 天，将要获取到奖品[ 5 京豆]
+[RUN] 明天立即执行. api_vender/keleige_delay --> api_vender/keleige
+
+api_vender/LG_delay  
+发现明天是 [赵 122294312-396444 王 1309893722-164885] 签到 [LG家电旗舰店] 的第 15 天，将要获取到奖品[ 满100-50店铺券]
+
+api_vender/shop_1613567513_20_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FD47D3D062F2A8401FAD6808B1BF1484
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [AHASTYLE旗舰店] 的第 3 天，将要获取到奖品[ 3 京豆]
+[RUN] 明天立即执行. api_vender/shop_1613567513_20_delay --> api_vender/shop_1613567513_20
+
+api_vender/shop_1613569733_13  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=0B61C7659EFF3FAFA47FAFD6F550B94A
+发现明天是 [王 1309893722-164885] 签到 [CHUMS运动户外旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+明天立即执行. 不改名字 api_vender/shop_1613569733_13
+
+api_vender/shop_1613569746_51  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=2D55B608A393EE079A92746DBAD6BFBC
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [阳光飞歌旗舰店] 的第 4 天，将要获取到奖品[ 8 京豆]
+发现明天是 [王 1309893722-164885] 签到 [阳光飞歌旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [阳光飞歌旗舰店] 的第 1 天，将要获取到奖品[ 1 京豆]
+明天立即执行. 不改名字 api_vender/shop_1613569746_51
+
+api_vender/shop_1613569811_180  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [猫人京东自营旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [猫人京东自营旗舰店] 的第 1 天，将要获取到奖品[ 1 京豆]
+明天立即执行. 不改名字 api_vender/shop_1613569811_180
+
+[RUN] 明天签到 ZJUZ珠宝旗舰店, 不会获取奖品. api_vender/ZJUZ --> api_vender/ZJUZ_delay
+
+vender/aoyouruye_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [澳优乳业官方旗舰店] 的第 7 天，将要获取到奖品[ 10京豆 10京豆]
+[RUN] 明天立即执行. vender/aoyouruye_delay --> vender/aoyouruye
+
+vender/beiqinfushi  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [贝亲辅食尿裤京东自营旗舰店] 的第 20 天，将要获取到奖品[ 10京豆 10京豆]
+明天立即执行. 不改名字 vender/beiqinfushi
+
+[RUN] 明天签到 博世电动工具京东自营旗舰店, 不会获取奖品. vender/shop_1613046172_0 --> vender/shop_1613046172_0_delay
+
+vender/shop_1613046198_4_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [美赞臣京东自营官方旗舰店] 的第 7 天，将要获取到奖品[ 30积分 30积分]
+
+vender/shop_1613048969_0_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [每日鲜语京东自营旗舰店] 的第 7 天，将要获取到奖品[ 2京豆 2京豆]
+[RUN] 明天立即执行. vender/shop_1613048969_0_delay --> vender/shop_1613048969_0
+
+vender/shop_1613052094_7_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [完美日记官方旗舰店] 的第 7 天，将要获取到奖品[ 专享价眼唇卸]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [完美日记官方旗舰店] 的第 10 天，将要获取到奖品[ 专享价六角眉笔]
+
+vender/shop_1613052102_8_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
+
+vender/shop_1613052185_19_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [尤妮佳舒蔻京东自营官方旗舰店] 的第 10 天，将要获取到奖品[ 10积分 10积分]
+
+vender/shop_1613569741_37_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [肥鹅 jd_4d651d9e48204 赵 122294312-396444 王 1309893722-164885] 签到 [PUMA官方旗舰店] 的第 3 天，将要获取到奖品[ 40元优惠券]
+
+vender/shop_1613569763_104_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [WOWO官方旗舰店] 的第 3 天，将要获取到奖品[ 50积分 50积分]
+
+vender/shop_1613569820_195_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [金利来男装旗舰店] 的第 3 天，将要获取到奖品[ 50积分 50积分]
+
+vender/yikaide_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
+发现明天是 [王 1309893722-164885] 签到 [易开得官方京东自营旗舰店] 的第 7 天，将要获取到奖品[ 赠送精品毛毯一条]
+奖品需要手工拼抢，并填写地址. 不改名字 vender/yikaide_delay
+
+lzkj_sevenDay_vender/mengniu  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
+发现明天是 [王 1309893722-164885] 签到 [蒙牛官方旗舰店] 的第 7 天，将要获取到奖品[ 15京豆京豆 15京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [蒙牛官方旗舰店] 的第 6 天，将要获取到奖品[ 20元优惠券]
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [蒙牛官方旗舰店] 的第 5 天，将要获取到奖品[ 50元优惠券]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/mengniu
+
+lzkj_sevenDay_vender/shop_1613046181_1_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
+
+lzkj_sevenDay_vender/shop_1613569736_23  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_xuanFuTuBiao
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [滴露旗舰店] 的第 4 天，将要获取到奖品[ 1京豆京豆 1京豆]
+发现明天是 [王 1309893722-164885 肥鹅 jd_4d651d9e48204 赵 122294312-396444] 签到 [滴露旗舰店] 的第 3 天，将要获取到奖品[ 10元优惠券]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569736_23
+
+lzkj_sevenDay_vender/shop_1613569740_34_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [泉林本色京东自营旗舰店] 的第 4 天，将要获取到奖品[ 1京豆京豆 1京豆]
+发现明天是 [王 1309893722-164885 肥鹅 jd_4d651d9e48204 赵 122294312-396444] 签到 [泉林本色京东自营旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613569740_34_delay --> lzkj_sevenDay_vender/shop_1613569740_34
+
+lzkj_sevenDay_vender/shop_1613569750_65_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao
+发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [维他奶官方旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+
+lzkj_sevenDay_vender/shop_1613569768_117  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [英氏YeeHoO奥特莱斯店] 的第 4 天，将要获取到奖品[ 8京豆京豆 8京豆]
+发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204 王 1309893722-164885] 签到 [英氏YeeHoO奥特莱斯店] 的第 3 天，将要获取到奖品[ 7京豆京豆 7京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569768_117
+
+lzkj_sevenDay_vender/shop_1613569823_197  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=b422cf6ec97e4d54a7001684c53ccad1&venderId=10524448&adsource=tg_xuanFuTuBiao
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [LIFAair京东自营官方旗舰店] 的第 4 天，将要获取到奖品[ 2京豆京豆 2京豆]
+发现明天是 [王 1309893722-164885 肥鹅 jd_4d651d9e48204 赵 122294312-396444] 签到 [LIFAair京东自营官方旗舰店] 的第 3 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569823_197
+
+
+签到 [初么（chume）京东自营旗舰店] 店铺有问题 vender/chume_jifen 活动链接
+王 1309893722-164885 签到失败: 只有该店铺的会员才能参加活动
+移动 jd_OeTNobRVGiNZ 签到失败: 只有该店铺的会员才能参加活动
+
+
+检查是否有删除的活动
+log/now/config_01_shop_1613046189_2_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046189_2 --> /home/myid/jd/jd_signup/vender/shop_1613046189_2_del
+log/now/config_01_shop_1613052161_15_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15_del
+log/now/config_01_shop_1613569736_21_20210219_000201_613418600.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21_del
+log/now/config_01_shop_1613569758_88_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88_del
+log/now/config_01_zirantang_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang_del
+log/now/config_02_kaxioujingjing_20210219_235901.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del
+log/now/config_02_shop_1613046189_2_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046189_2 --> /home/myid/jd/jd_signup/vender/shop_1613046189_2_del
+log/now/config_02_shop_1613052161_15_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15_del
+log/now/config_02_shop_1613569736_21_20210219_000201_613418600.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21_del
+log/now/config_02_shop_1613569758_88_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88_del
+log/now/config_02_zirantang_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang_del
+log/now/config_03_kaxioujingjing_20210219_235901.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del
+log/now/config_03_shop_1613046189_2_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046189_2 --> /home/myid/jd/jd_signup/vender/shop_1613046189_2_del
+log/now/config_03_shop_1613052161_15_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15_del
+log/now/config_03_shop_1613569736_21_20210219_000201_613418600.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21_del
+log/now/config_03_shop_1613569758_88_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569758_88_del
+log/now/config_03_zirantang_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/zirantang_del
+log/now/config_04_kaxioujingjing_20210219_000201_613418600.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del
+log/now/config_04_kaxioujingjing_20210219_003001_781704400.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del
+log/now/config_04_shop_1613052161_15_20210219_000002_187369200.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613052161_15_del
+log/now/config_04_shop_1613569736_21_20210219_000201_613418600.log:活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21 --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569736_21_del
+log/delay/config_01_shop_1613046217_8_delay_20210219_010002_119124700.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613046217_8_delay --> /home/myid/jd/jd_signup/vender/shop_1613046217_8_del
+log/delay/config_01_shop_1613569776_142_delay_20210219_010002_119124700.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613569776_142_delay --> /home/myid/jd/jd_signup/vender/shop_1613569776_142_del
+log/delay/config_01_shop_1613569832_206_delay_20210219_010002_119124700.log:活动已结束. /home/myid/jd/jd_signup/vender/shop_1613569832_206_delay --> /home/myid/jd/jd_signup/vender/shop_1613569832_206_del
+log/delay/config_shop_1613050528_1_delay_20210219_010002_119124700.log:活动已结束. /home/myid/jd/jd_signup/api_vender/shop_1613050528_1_delay --> /home/myid/jd/jd_signup/api_vender/shop_1613050528_1_del
+log/delay/config_shop_1613569790_156_delay_20210219_010002_119124700.log:活动已结束. /home/myid/jd/jd_signup/api_vender/shop_1613569790_156_delay --> /home/myid/jd/jd_signup/api_vender/shop_1613569790_156_del
+
+h5签到总数 17

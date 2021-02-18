@@ -1,0 +1,104 @@
+02/19/21 00:00:03 067728800  1613664003
+RANDOM_num: 30
+removed '/tmp/tmp.owysrN2izu'
+cjhy 忽略 LZ_TOKEN
+use pt_key
+token: AAFgLo8IADCn8fhYw-lYguSE_VUjlbsCwP38vzK5aJ9Zj5Q63Ab_dFWwCZR0sJtJaDed1tr8Nik
+secretPin: 8zfoIjWIu/DcpxQNzAV7/oJ/aYQCF9xTRGADPBdXAeGZIc5W3Gm9rFqTMy14wk5X4TLid74kYDlVq9GcJaKyuw==
+
+02/19/21 00:00:14 106081600  1613664014
+王签到卫仕京东自营官方旗舰店
+{
+  "msg": "",
+  "signResult": {
+    "key": "uLLewm",
+    "giftLogId": "efad0a5d7cda4749a7e94d0be9a54034",
+    "gift": {
+      "id": "20",
+      "giftType": "9",
+      "giftName": "20店铺积分",
+      "giftNum": "20",
+      "giftTotal": "5000",
+      "giftResidue": null,
+      "memo": "",
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null
+    },
+    "send": true
+  },
+  "isOk": true
+}
+true
+签到卫仕京东自营官方旗舰店完成
+02/19/21 00:01:27 673566900  1613664087
+
+***********************************************
+7天签到 第 6 天
+***********************************************
+
+王签到卫仕京东自营官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"dayNum":"1","imgUrl":"","showType":"0","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"321c49f93a054f34a1d45ad7a2dbc334"},{"dayNum":"2","imgUrl":"","showType":"0","gift":{"id":"10","giftType":"9","giftName":"10店铺积分","giftNum":"10","giftTotal":"10000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"4ca343961b6a41828ec62ce8f613398d"},{"dayNum":"3","imgUrl":"","showType":"0","gift":{"id":"1103765","giftType":"6","giftName":"15京豆","giftNum":"15","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0.15","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"95b42726eb184bde8ec7b4cd91de90a1"},{"dayNum":"4","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"102c59e4e7d94b059d6a7c122bfc54cf"},{"dayNum":"5","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"d49a08ed06ff41a0aafc748b26fad193"},{"dayNum":"6","imgUrl":"","showType":"0","gift":{"id":"20","giftType":"9","giftName":"20店铺积分","giftNum":"20","giftTotal":"5000","giftResidue":null,"memo":"","priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"c9710fbb70f94bfdbb54f7f967f28085"},{"dayNum":"7","imgUrl":"","showType":"0","gift":{"id":"1103765","giftType":"6","giftName":"30京豆","giftNum":"30","giftTotal":"3000","giftResidue":null,"memo":"","priceInfo":"0.30","shortLink":"","orginLink":null,"giftInfoId":null},"giftInfoId":"4f3b89c20bf042cbb287dccbf4826bd5"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":6,"actRule":"1、活动时间：2021-01-30 00:00 - 2021-02-28 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+3、连续签到7天后，清零可重新开始；
+4、第1天签到，有机会赠送10店铺积分；
+5、第2天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送15京豆；
+7、第4天签到，有机会赠送20店铺积分；
+8、第5天签到，有机会赠送20店铺积分；
+9、第6天签到，有机会赠送20店铺积分；
+10、第7天签到，有机会赠送30京豆；
+11、本次活动如果中了任何奖品。如优惠券需要您手动领取；实物类奖品需要您主动联系卖家进行兑换；超过奖品有效期限未兑换视为自动放弃；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过；
+13、奖品数量有限，先到先得；
+14、如果奖品是京豆/优惠券，需增加京豆预计24小时到账，请耐心等待;
+15、【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+","followDays":0,"isSign":"y"}
+
+#活动规则
+rule="1、活动时间：2021-01-30 00:00 - 2021-02-28 23:59；
+连续签到7天后，清零可重新开始；
+4、第1天签到，有机会赠送10店铺积分；
+5、第2天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送15京豆；
+7、第4天签到，有机会赠送20店铺积分；
+8、第5天签到，有机会赠送20店铺积分；
+9、第6天签到，有机会赠送20店铺积分；
+10、第7天签到，有机会赠送30京豆；"
+
+#店铺名称
+vendername="卫仕京东自营官方旗舰店"
+#店铺激活码
+actId="8a60a89469dd449eb9f931ce1fc01cde"
+##店铺id
+venderId="1000010241"
+
+svr="cjhy-isv.isvjcloud.com"
+
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+sign_res_info="7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210218"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+sign_res_info="7天签到 第 0 天"
+giftRes="ok"
+giftDate="20210218"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="5"
+sign_res_info="7天签到 第 5 天"
+giftRes="ok"
+giftDate="20210219"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+sign_res_info="7天签到 第 6 天"
+giftRes="ok"
+giftDate="20210219"
+#王 1309893722-164885 sign_res_end
