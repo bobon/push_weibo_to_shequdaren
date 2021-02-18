@@ -1,1235 +1,769 @@
 removed 'log/check_new_shop'
+removed 'log/check_new_shop.sh'
 check sign /home/myid/jd/jd_signup/shop/00A643371F64475042A07EBADBFD8EBD/shop
-check 12533
-发现未签到的活动. /home/myid/jd/jd_signup/shop/00A643371F64475042A07EBADBFD8EBD/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/00E58D5CF584F3B757B69FD3844A41E8/shop
-check 99731
-发现未签到的活动. /home/myid/jd/jd_signup/shop/00E58D5CF584F3B757B69FD3844A41E8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/027D93033E14267139DD6BE2BC3C4535/shop
-check 714666
-发现未签到的活动. /home/myid/jd/jd_signup/shop/027D93033E14267139DD6BE2BC3C4535/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/029279B58B02A513F9700A5D6FDABFC2/shop
-check 1000128821
-发现未签到的活动. /home/myid/jd/jd_signup/shop/029279B58B02A513F9700A5D6FDABFC2/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/0311C6EF1D78A9843A0465666A0B9209/shop
-check 10054491
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0311C6EF1D78A9843A0465666A0B9209/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/031AC747F24130BFE7DD5B4C0EDED18B/shop
-check 716164
-发现未签到的活动. /home/myid/jd/jd_signup/shop/031AC747F24130BFE7DD5B4C0EDED18B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/03992F4A0DA98DDC1D6651DA106A1C3B/shop
-check 161192
-发现未签到的活动. /home/myid/jd/jd_signup/shop/03992F4A0DA98DDC1D6651DA106A1C3B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/03C9E1B58E7D384F384CFE2643AEB6DF/shop
-check 1000000285
-发现未签到的活动. /home/myid/jd/jd_signup/shop/03C9E1B58E7D384F384CFE2643AEB6DF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/03F24C6CCF2D78AFFB8B258950EA8695/shop
-check 1000139865
-发现未签到的活动. /home/myid/jd/jd_signup/shop/03F24C6CCF2D78AFFB8B258950EA8695/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/045F648EBC2E036B266B3A88A4C28C95/shop
-check 1000342143
-发现未签到的活动. /home/myid/jd/jd_signup/shop/045F648EBC2E036B266B3A88A4C28C95/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/048A0A7EFC06153EC5A4CE270EE5E3C0/shop
-check 10525592
-发现未签到的活动. /home/myid/jd/jd_signup/shop/048A0A7EFC06153EC5A4CE270EE5E3C0/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0532BC19C157CC49428E7CD2BC0D0F74/shop
-check 10571880
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0532BC19C157CC49428E7CD2BC0D0F74/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/09912DB263BEA2DE80B7EF36D0532514/shop
-check 58018
-发现未签到的活动. /home/myid/jd/jd_signup/shop/09912DB263BEA2DE80B7EF36D0532514/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0B61C7659EFF3FAFA47FAFD6F550B94A/shop
-check 10026448
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0B61C7659EFF3FAFA47FAFD6F550B94A/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0BC9510C416C04ED9B913CBBE26BBC39/shop
-check 10205879
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0BC9510C416C04ED9B913CBBE26BBC39/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0dd5dff2523344ba8b3a1683ec2973df/shop
-check 1000101935
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0dd5dff2523344ba8b3a1683ec2973df/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0E5040232D4732B3980E3F767ED20A7F/shop
-check 590700
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0E5040232D4732B3980E3F767ED20A7F/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0E6A5583B3D5BD95D82F511B03DE4AC1/shop
-check 10342917
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0E6A5583B3D5BD95D82F511B03DE4AC1/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0EBF6A10D4E73FB9D63DDABAFA92DFB8/shop
-check 653039
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0EBF6A10D4E73FB9D63DDABAFA92DFB8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0ECB053E86952AEBC747B2BF26114721/shop
-check 10057980
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0ECB053E86952AEBC747B2BF26114721/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/0F4BDB9C04701400E8032BA7215861F5/shop
-check 752187
-发现未签到的活动. /home/myid/jd/jd_signup/shop/0F4BDB9C04701400E8032BA7215861F5/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/116ca4b40be946c1ae32efbb568825f2/shop
-check 797351
-发现未签到的活动. /home/myid/jd/jd_signup/shop/116ca4b40be946c1ae32efbb568825f2/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1282D8A262E548BAA72A53CDA60A3C0A/shop
-check 621530
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1282D8A262E548BAA72A53CDA60A3C0A/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/13126645fcb2477fa1090a94cb7f3ca2/shop
-check 206265
-发现未签到的活动. /home/myid/jd/jd_signup/shop/13126645fcb2477fa1090a94cb7f3ca2/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/15C967ADD74DDD3A8DAAA1E765D8FC6D/shop
-check 1000209142
-发现未签到的活动. /home/myid/jd/jd_signup/shop/15C967ADD74DDD3A8DAAA1E765D8FC6D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1611635c76a84d969234b8b7c6871c65/shop
-check 1000087322
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1611635c76a84d969234b8b7c6871c65/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/177B5D4981965F37E225FD9E6478EE6D/shop
-check 722449
-发现未签到的活动. /home/myid/jd/jd_signup/shop/177B5D4981965F37E225FD9E6478EE6D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/19009F3586F52C269BB48457EBE4B3A8/shop
-check 10114919
-发现未签到的活动. /home/myid/jd/jd_signup/shop/19009F3586F52C269BB48457EBE4B3A8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1A0FCD9A4AC7DEE20CBBAE1FF3E82E76/shop
-check 1000303562
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1A0FCD9A4AC7DEE20CBBAE1FF3E82E76/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1AE5340D7A8F8F25A039D85EEFFFC06D/shop
-check 10242170
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1AE5340D7A8F8F25A039D85EEFFFC06D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1B11953AEEAF6D711ED6B84998A25F1F/shop
-check 79174
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1B11953AEEAF6D711ED6B84998A25F1F/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1B466595ABEE5BD90540DD88C09DF7AB/shop
-check 707201
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1B466595ABEE5BD90540DD88C09DF7AB/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1C13EAD515BB3B40831FE3E4A26899F4/shop
-check 679672
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1C13EAD515BB3B40831FE3E4A26899F4/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1C4E94DC9764EA62914515904CAF4554/shop
-check 205646
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1C4E94DC9764EA62914515904CAF4554/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1e5cac4ad760485d931141412c9fab0c/shop
-check 1000001906
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1e5cac4ad760485d931141412c9fab0c/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/1EEAA3666DC9E22BABE44B1ABCC27325/shop
-check 10525472
-发现未签到的活动. /home/myid/jd/jd_signup/shop/1EEAA3666DC9E22BABE44B1ABCC27325/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/213B190A536E466F3C597165488D7600/shop
-check 65036
-发现未签到的活动. /home/myid/jd/jd_signup/shop/213B190A536E466F3C597165488D7600/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/22836992c50446e1bb31f6f7ae31cb75/shop
-check 35967
-发现未签到的活动. /home/myid/jd/jd_signup/shop/22836992c50446e1bb31f6f7ae31cb75/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/232A438B8CD9B1B455A9FCEA299E8AF8/shop
-check 635033
-发现未签到的活动. /home/myid/jd/jd_signup/shop/232A438B8CD9B1B455A9FCEA299E8AF8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/25EEAB76305279E3D5ED376296350941/shop
-check 626045
-发现未签到的活动. /home/myid/jd/jd_signup/shop/25EEAB76305279E3D5ED376296350941/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/271685eb45df483385cc52f935fcec8d/shop
-check 714450
-发现未签到的活动. /home/myid/jd/jd_signup/shop/271685eb45df483385cc52f935fcec8d/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2718B654685C55D6D9EE8467C22EBD2E/shop
-check 10125176
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2718B654685C55D6D9EE8467C22EBD2E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2778C3D566A1F3D278DFD8C0902ABCB4/shop
-check 1000118675
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2778C3D566A1F3D278DFD8C0902ABCB4/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/2784B82C64BAD0480938CD873E13DFE7/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/28228D1B5414046523D6E67DFC5B9E72/shop
-check 1000306383
-发现未签到的活动. /home/myid/jd/jd_signup/shop/28228D1B5414046523D6E67DFC5B9E72/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/28268AC3B0FC54FB2ABD5260C48AE62F/shop
-check 10531917
-发现未签到的活动. /home/myid/jd/jd_signup/shop/28268AC3B0FC54FB2ABD5260C48AE62F/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/28AABCB3B08D6DF9BB03788D53E84C2B/shop
-check 10176670
-发现未签到的活动. /home/myid/jd/jd_signup/shop/28AABCB3B08D6DF9BB03788D53E84C2B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/29B9DE367087FBDE0EE2BA7D52AD058A/shop
-check 10245196
-发现未签到的活动. /home/myid/jd/jd_signup/shop/29B9DE367087FBDE0EE2BA7D52AD058A/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2A17A1A86ACB6377D8AACA43816120AA/shop
-check 10506094
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2A17A1A86ACB6377D8AACA43816120AA/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2BADF557F5EF4511E566ABB47657C86C/shop
-check 10495904
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2BADF557F5EF4511E566ABB47657C86C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2D28388E3BFBF9D78094B96100A8EFEE/shop
-check 10182303
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2D28388E3BFBF9D78094B96100A8EFEE/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2D2B1BA130EB83688889F141A2A2B607/shop
-check 21176
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2D2B1BA130EB83688889F141A2A2B607/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2D55B608A393EE079A92746DBAD6BFBC/shop
-check 10499265
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2D55B608A393EE079A92746DBAD6BFBC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/2F0506E096E39E3DCB02C67A39883902/shop
-check 10402588
-发现未签到的活动. /home/myid/jd/jd_signup/shop/2F0506E096E39E3DCB02C67A39883902/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/31BFA9C7FFB8731302C2E4FEDF05AD0C/shop
-check 10494940
-发现未签到的活动. /home/myid/jd/jd_signup/shop/31BFA9C7FFB8731302C2E4FEDF05AD0C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/31E7E6A028BAAB4D0D15C6905E9FF6C8/shop
-check 142935
-发现未签到的活动. /home/myid/jd/jd_signup/shop/31E7E6A028BAAB4D0D15C6905E9FF6C8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/31FDF39500035661FBA8E3F3363CAE2D/shop
-check 187226
-发现未签到的活动. /home/myid/jd/jd_signup/shop/31FDF39500035661FBA8E3F3363CAE2D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/32469FD0862188F84D266F46DC013258/shop
-check 760461
-发现未签到的活动. /home/myid/jd/jd_signup/shop/32469FD0862188F84D266F46DC013258/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/32BCD4DD3955AB4D49105BA09CB83BF0/shop
-check 1000362345
-发现未签到的活动. /home/myid/jd/jd_signup/shop/32BCD4DD3955AB4D49105BA09CB83BF0/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/33711E18F790A9451F2C8641B4BF4E56/shop
-check 123331
-发现未签到的活动. /home/myid/jd/jd_signup/shop/33711E18F790A9451F2C8641B4BF4E56/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/343BF6E782F58C6C78976E9DCE3451BE/shop
-check 167955
-发现未签到的活动. /home/myid/jd/jd_signup/shop/343BF6E782F58C6C78976E9DCE3451BE/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/34CA3190EE9FD67D1635D62F3F4A59EA/shop
-check 10668422
-发现未签到的活动. /home/myid/jd/jd_signup/shop/34CA3190EE9FD67D1635D62F3F4A59EA/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/34F5264592DB6267CFA09F5848770FFF/shop
-check 1000116687
-发现未签到的活动. /home/myid/jd/jd_signup/shop/34F5264592DB6267CFA09F5848770FFF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/352B1BDBA71A8033BB1E61D50A482B9C/shop
-check 10511868
-发现未签到的活动. /home/myid/jd/jd_signup/shop/352B1BDBA71A8033BB1E61D50A482B9C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/35415B8ABB8D2A715C5605D8862DBADE/shop
-check 135331
-发现未签到的活动. /home/myid/jd/jd_signup/shop/35415B8ABB8D2A715C5605D8862DBADE/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/35C8403320DB32EDDA2E2C989B146041/shop
-check 1000348868
-发现未签到的活动. /home/myid/jd/jd_signup/shop/35C8403320DB32EDDA2E2C989B146041/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/35d14c0f97194095934fbde1271ff651/shop
-check 10353060
-发现未签到的活动. /home/myid/jd/jd_signup/shop/35d14c0f97194095934fbde1271ff651/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/373388AD9B5E62AFA2DFDEEFD70AF17F/shop
-check 1000346987
-发现未签到的活动. /home/myid/jd/jd_signup/shop/373388AD9B5E62AFA2DFDEEFD70AF17F/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/37ECAA4F283B7767F670F9896C78F36E/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/388A0F5154EC84D101CC5B201E781144/shop
-check 10537507
-发现未签到的活动. /home/myid/jd/jd_signup/shop/388A0F5154EC84D101CC5B201E781144/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3A8E032F6489C34E8BED29F9051BE31E/shop
-check 720201
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3A8E032F6489C34E8BED29F9051BE31E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3AD8016B69812CE45E5E78782A65B4B8/shop
-check 10611466
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3AD8016B69812CE45E5E78782A65B4B8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3c01293b278443d1bda532575fa810d1/shop
-check 1000091866
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3c01293b278443d1bda532575fa810d1/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3CC03F9C032D5BC42C24441D665C8FC2/shop
-check 1000362721
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3CC03F9C032D5BC42C24441D665C8FC2/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3d6cd5a6cf4f47a8a28477116bdc9ad3/shop
-check 1000002423
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3d6cd5a6cf4f47a8a28477116bdc9ad3/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3D9A62DB29E20DBBEAD9819489F64E71/shop
-check 42011
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3D9A62DB29E20DBBEAD9819489F64E71/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3E80F08783A94C00025DA1EF6234EB6E/shop
-check 689269
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3E80F08783A94C00025DA1EF6234EB6E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3EA82DAF42DC7F206B8E5F0E7E589F93/shop
-check 108421
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3EA82DAF42DC7F206B8E5F0E7E589F93/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3f064b1a32ec4b2ab6e044aa1cacad06/shop
-check 182542
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3f064b1a32ec4b2ab6e044aa1cacad06/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/3f6c151718844239b7be3ecca403cd70/shop
-check 1000002710
-发现未签到的活动. /home/myid/jd/jd_signup/shop/3f6c151718844239b7be3ecca403cd70/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/402C8F0E7C290BA054D3DA257FCA0C51/shop
-check 1000074782
-发现未签到的活动. /home/myid/jd/jd_signup/shop/402C8F0E7C290BA054D3DA257FCA0C51/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/408F5240E0FA897F9F10694FF8560C97/shop
-check 10156830
-发现未签到的活动. /home/myid/jd/jd_signup/shop/408F5240E0FA897F9F10694FF8560C97/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/41141224D92A6ED202831D25FC24ED5C/shop
-check 50425
-发现未签到的活动. /home/myid/jd/jd_signup/shop/41141224D92A6ED202831D25FC24ED5C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/41D687C46BF413A660C07863A21E95A4/shop
-check 10344276
-发现未签到的活动. /home/myid/jd/jd_signup/shop/41D687C46BF413A660C07863A21E95A4/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/42C83EDF5D201F2B07FD751E4B3F1FF3/shop
-check 10545030
-发现未签到的活动. /home/myid/jd/jd_signup/shop/42C83EDF5D201F2B07FD751E4B3F1FF3/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/42F441BD330D269B60FC28DA0B173B9B/shop
-check 653465
-发现未签到的活动. /home/myid/jd/jd_signup/shop/42F441BD330D269B60FC28DA0B173B9B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/444E1C25F05387E0FBBA4E2078C13501/shop
-check 117307
-发现未签到的活动. /home/myid/jd/jd_signup/shop/444E1C25F05387E0FBBA4E2078C13501/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/461E626B024D2830F592FE5F98A62172/shop
-check 28318
-发现未签到的活动. /home/myid/jd/jd_signup/shop/461E626B024D2830F592FE5F98A62172/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/47091d03407c4415aadbfaed7c6c9065/shop
-check 1000001381
-发现未签到的活动. /home/myid/jd/jd_signup/shop/47091d03407c4415aadbfaed7c6c9065/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/48A0A73ACF6C547F7B3B001AAA3394FB/shop
-check 1000016326
-发现未签到的活动. /home/myid/jd/jd_signup/shop/48A0A73ACF6C547F7B3B001AAA3394FB/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/49f82fc8fe22491db69f61fd67c5680c/shop
-check 203224
-发现未签到的活动. /home/myid/jd/jd_signup/shop/49f82fc8fe22491db69f61fd67c5680c/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4a669aaf044540ae859b472c07e472e5/shop
-check 1000003179
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4a669aaf044540ae859b472c07e472e5/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4AFD90FAB1F2333F447FFA97ADC7280E/shop
-check 619484
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4AFD90FAB1F2333F447FFA97ADC7280E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4C106061DD517CB8892D3AD92DC896C5/shop
-check 1000090387
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4C106061DD517CB8892D3AD92DC896C5/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4CEBBE2B227114D9FC0276FDCB8719BD/shop
-check 10180892
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4CEBBE2B227114D9FC0276FDCB8719BD/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4D77C8515726977AF03F526A4B262EE4/shop
-check 684460
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4D77C8515726977AF03F526A4B262EE4/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4FB5C04E5C7FB53F269D3E743EA9D259/shop
-check 10221049
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4FB5C04E5C7FB53F269D3E743EA9D259/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/4FC9CB66C42E5D79DF8C615D546738F6/shop
-check 170825
-发现未签到的活动. /home/myid/jd/jd_signup/shop/4FC9CB66C42E5D79DF8C615D546738F6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5357D8F01A9B1BABC8AEC9A05B0270FA/shop
-check 1000002490
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5357D8F01A9B1BABC8AEC9A05B0270FA/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5784F40564512C110B8B7541A02D4732/shop
-check 653260
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5784F40564512C110B8B7541A02D4732/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/57A719F696148C109114A38C25516F5E/shop
-check 95978
-发现未签到的活动. /home/myid/jd/jd_signup/shop/57A719F696148C109114A38C25516F5E/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/57CBB799813DE43C0771FBA035A22939/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/58012A53188549474089CB53842A93A6/shop
-check 10415226
-发现未签到的活动. /home/myid/jd/jd_signup/shop/58012A53188549474089CB53842A93A6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/580579FBF71A90C6ED63C769184CB126/shop
-check 10601226
-发现未签到的活动. /home/myid/jd/jd_signup/shop/580579FBF71A90C6ED63C769184CB126/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/58b23c01ebb94a429aa107f0004a3dda/shop
-check 1000325645
-发现未签到的活动. /home/myid/jd/jd_signup/shop/58b23c01ebb94a429aa107f0004a3dda/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/58f043de9dd740b885a4265972e7ff00/shop
-check 670865
-发现未签到的活动. /home/myid/jd/jd_signup/shop/58f043de9dd740b885a4265972e7ff00/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/590CCC18955094C7E90E78E6AC1ABB7A/shop
-check 1000118615
-发现未签到的活动. /home/myid/jd/jd_signup/shop/590CCC18955094C7E90E78E6AC1ABB7A/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/590fbd3f258f40cf974966a386efb147/shop
-check 10398914
-发现未签到的活动. /home/myid/jd/jd_signup/shop/590fbd3f258f40cf974966a386efb147/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5A78CA2EB976E245FC9B10695C9C0C57/shop
-check 178694
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5A78CA2EB976E245FC9B10695C9C0C57/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5AB692B5E2C488D821004A99C128530B/shop
-check 10202187
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5AB692B5E2C488D821004A99C128530B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5B448D555BEDB6D9E47A4A232989F295/shop
-check 10401660
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5B448D555BEDB6D9E47A4A232989F295/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5c7786775c86478f87e13e067736560f/shop
-check 220174
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5c7786775c86478f87e13e067736560f/shop --> vender
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/5C95607A9C7E420DFC233D99B34FDA95/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5CA7349E418195D60CDC75E225CD8AA4/shop
-check 614401
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5CA7349E418195D60CDC75E225CD8AA4/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/5D2D61B1E9CC63F103C5DFEFD2F94A06/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5D603D2C26CEBEA16EB56AF8EE3C8FD2/shop
-check 98286
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5D603D2C26CEBEA16EB56AF8EE3C8FD2/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5D8186A8C86CBD8D5417DF93450AB82D/shop
-check 10211943
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5D8186A8C86CBD8D5417DF93450AB82D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5E08D8C0C39217CD6B8C914684A3AA84/shop
-check 10104999
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5E08D8C0C39217CD6B8C914684A3AA84/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5E21043FDB5D5546AE8AC31DC616FC26/shop
-check 1000245945
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5E21043FDB5D5546AE8AC31DC616FC26/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5E432DF5433365542651B5553AD5351C/shop
-check 1000091042
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5E432DF5433365542651B5553AD5351C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5EE9681DB28E8717CFFFA99344F5308E/shop
-check 69906
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5EE9681DB28E8717CFFFA99344F5308E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5FA66556A145870F8143AA46053F6ADE/shop
-check 10517324
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5FA66556A145870F8143AA46053F6ADE/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/5ff5ff7000d444a0893a41c1f678e4bf/shop
-check 10409042
-发现未签到的活动. /home/myid/jd/jd_signup/shop/5ff5ff7000d444a0893a41c1f678e4bf/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/603C77A9AEB4740041C64EB91AA0F8F0/shop
-check 10643122
-发现未签到的活动. /home/myid/jd/jd_signup/shop/603C77A9AEB4740041C64EB91AA0F8F0/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/603DC3F17DD17AB86A8DDB1E191A6F66/shop
-check 755769
-发现未签到的活动. /home/myid/jd/jd_signup/shop/603DC3F17DD17AB86A8DDB1E191A6F66/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/627E2823F6198238F0C682B42BF036C3/shop
-check 1000102784
-发现未签到的活动. /home/myid/jd/jd_signup/shop/627E2823F6198238F0C682B42BF036C3/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/6365de679b174d909e5474ce869c32fe/shop
-check 1000348442
-发现未签到的活动. /home/myid/jd/jd_signup/shop/6365de679b174d909e5474ce869c32fe/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/638356542798A5F48DBBE8D3D5CCFF18/shop
-check 10288901
-发现未签到的活动. /home/myid/jd/jd_signup/shop/638356542798A5F48DBBE8D3D5CCFF18/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/6453D7B3CB26B4B3BBFCFFE78CC37CBA/shop
-check 594032
-发现未签到的活动. /home/myid/jd/jd_signup/shop/6453D7B3CB26B4B3BBFCFFE78CC37CBA/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/647FDA75E8C35629CBE3DF8850D9195C/shop
-check 10234653
-发现未签到的活动. /home/myid/jd/jd_signup/shop/647FDA75E8C35629CBE3DF8850D9195C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/64BB8198DEADBF376D0CDAEC8D13E5ED/shop
-check 1000001306
-发现未签到的活动. /home/myid/jd/jd_signup/shop/64BB8198DEADBF376D0CDAEC8D13E5ED/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/66CF50347AF0B68AF089BA258A09CC80/shop
-check 10342304
-发现未签到的活动. /home/myid/jd/jd_signup/shop/66CF50347AF0B68AF089BA258A09CC80/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/67B726B7BB649E99843EEA260BBC1552/shop
-check 680028
-发现未签到的活动. /home/myid/jd/jd_signup/shop/67B726B7BB649E99843EEA260BBC1552/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/698CD9D9291844FA0A6E4C385F8DC279/shop
-check 10402917
-发现未签到的活动. /home/myid/jd/jd_signup/shop/698CD9D9291844FA0A6E4C385F8DC279/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/6cdc325cc58e438c916226a3f6ce4287/shop
-check 112369
-发现未签到的活动. /home/myid/jd/jd_signup/shop/6cdc325cc58e438c916226a3f6ce4287/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/6F96B368F76FFD63CF506481793B2FAF/shop
-check 10356748
-发现未签到的活动. /home/myid/jd/jd_signup/shop/6F96B368F76FFD63CF506481793B2FAF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7054B18F7026BD480DF438C93923971B/shop
-check 816750
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7054B18F7026BD480DF438C93923971B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/72B896D00EA2EE0A6C029A5733297052/shop
-check 37325
-发现未签到的活动. /home/myid/jd/jd_signup/shop/72B896D00EA2EE0A6C029A5733297052/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/731DB0ABF6794D31313D03F62D9981A8/shop
-check 10146033
-发现未签到的活动. /home/myid/jd/jd_signup/shop/731DB0ABF6794D31313D03F62D9981A8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/73E495F79889862EDBADCF57FE4F6378/shop
-check 1000095723
-发现未签到的活动. /home/myid/jd/jd_signup/shop/73E495F79889862EDBADCF57FE4F6378/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/772DE68B06ED6166D310CD1DD1877194/shop
-check 809902
-发现未签到的活动. /home/myid/jd/jd_signup/shop/772DE68B06ED6166D310CD1DD1877194/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/776A669AF2CBFBE13692D6080EF2EF87/shop
-check 44354
-发现未签到的活动. /home/myid/jd/jd_signup/shop/776A669AF2CBFBE13692D6080EF2EF87/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7915D3D314BD2C2F4DA3E6483086D241/shop
-check 10112259
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7915D3D314BD2C2F4DA3E6483086D241/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7966F46138A2A487A3C0E6E220566DC6/shop
-check 10503741
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7966F46138A2A487A3C0E6E220566DC6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/79C7605C0859997E74498CC2B4C88C47/shop
-check 10314126
-发现未签到的活动. /home/myid/jd/jd_signup/shop/79C7605C0859997E74498CC2B4C88C47/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/79F18F32112DA29A68AD23D3959B4E6D/shop
-check 728086
-发现未签到的活动. /home/myid/jd/jd_signup/shop/79F18F32112DA29A68AD23D3959B4E6D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7A6816EED893FEB8B86055E169C30493/shop
-check 1000098549
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7A6816EED893FEB8B86055E169C30493/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7ad66b65b611428da4705537dfe56906/shop
-check 62656
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7ad66b65b611428da4705537dfe56906/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7B38BFB2742A7A14CDB306823038C533/shop
-check 29214
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7B38BFB2742A7A14CDB306823038C533/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7CA952E01AD6887CE721E25980DA6A1E/shop
-check 1000081130
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7CA952E01AD6887CE721E25980DA6A1E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7CC223FDDC46CA7A96BAF077E71C51C9/shop
-check 25602
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7CC223FDDC46CA7A96BAF077E71C51C9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7D7911B13774A59BB5FD7F159E607EF3/shop
-check 110711
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7D7911B13774A59BB5FD7F159E607EF3/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7E649057BF96C51EDD3A6F604AC73B7B/shop
-check 1000080441
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7E649057BF96C51EDD3A6F604AC73B7B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/7F1721052687E981F31F4B8510D692EF/shop
-check 1000077443
-发现未签到的活动. /home/myid/jd/jd_signup/shop/7F1721052687E981F31F4B8510D692EF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/80165DEF36889DD08BAC65F08C809713/shop
-check 770525
-发现未签到的活动. /home/myid/jd/jd_signup/shop/80165DEF36889DD08BAC65F08C809713/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8168B0BFA88E6877E97C658C5F790A29/shop
-check 1000355243
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8168B0BFA88E6877E97C658C5F790A29/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/83537B256474E950635ED98A83E451A7/shop
-renamed '/home/myid/jd/jd_signup/shop/83537B256474E950635ED98A83E451A7/shop' -> '/home/myid/jd/jd_signup/shop/83537B256474E950635ED98A83E451A7/shop_del'
-发现不存在的活动. /home/myid/jd/jd_signup/shop/83537B256474E950635ED98A83E451A7/shop --> /home/myid/jd/jd_signup/shop/83537B256474E950635ED98A83E451A7/shop_del
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/83C5B187793EED3D352C34484B142CED/shop
-check 591961
-发现未签到的活动. /home/myid/jd/jd_signup/shop/83C5B187793EED3D352C34484B142CED/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8470BC17F965FE8351DA4197044C92FE/shop
-check 10167553
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8470BC17F965FE8351DA4197044C92FE/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/861D5CE99725D8388B377EEFD004E495/shop
-check 1000102203
-发现未签到的活动. /home/myid/jd/jd_signup/shop/861D5CE99725D8388B377EEFD004E495/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8682F0CA97CA2FABE55226D27A68027D/shop
-check 1000094623
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8682F0CA97CA2FABE55226D27A68027D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8723eda7d300499d9003f164a247cdd7/shop
-check 1000002726
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8723eda7d300499d9003f164a247cdd7/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8747136D01595ED0815BFA5AE0BFB1C3/shop
-check 10260396
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8747136D01595ED0815BFA5AE0BFB1C3/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/89335A545F9B50C93D7886A8977F251D/shop
-check 1000300421
-发现未签到的活动. /home/myid/jd/jd_signup/shop/89335A545F9B50C93D7886A8977F251D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8A06F1A93774715A0B595E792D1B2B01/shop
-check 10135900
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8A06F1A93774715A0B595E792D1B2B01/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8AFD297088F11E654587867617C5F8BF/shop
-check 10561860
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8AFD297088F11E654587867617C5F8BF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8B4AC259FB7B37215364C2F52E2861F6/shop
-check 30367
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8B4AC259FB7B37215364C2F52E2861F6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8D8EF036A6797C6D4D6B6C8C24664C80/shop
-check 1000282021
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8D8EF036A6797C6D4D6B6C8C24664C80/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/8F3E9D1E42ADCF3522F53566A78FB4E4/shop
-check 38522
-发现未签到的活动. /home/myid/jd/jd_signup/shop/8F3E9D1E42ADCF3522F53566A78FB4E4/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/902915EBC75EDFB534CC5CD8432169FD/shop
-check 44824
-发现未签到的活动. /home/myid/jd/jd_signup/shop/902915EBC75EDFB534CC5CD8432169FD/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/91CFA12DDE5E9893514D940DF4EF821B/shop
-check 1000006201
-发现未签到的活动. /home/myid/jd/jd_signup/shop/91CFA12DDE5E9893514D940DF4EF821B/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/924BA72B06785EC3B24674EE86651659/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/938178698B30D33A73C3A059ECC5A838/shop
-check 187290
-发现未签到的活动. /home/myid/jd/jd_signup/shop/938178698B30D33A73C3A059ECC5A838/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9407996F8D6B206D1496D7D4027FA5DC/shop
-check 42803
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9407996F8D6B206D1496D7D4027FA5DC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9427FEC37B8799EEC044AB62828FAA36/shop
-check 1000362164
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9427FEC37B8799EEC044AB62828FAA36/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/976DDF5D984ABAEC271E3A09178B4EFB/shop
-check 10290627
-发现未签到的活动. /home/myid/jd/jd_signup/shop/976DDF5D984ABAEC271E3A09178B4EFB/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9C3BD37ADDF89C69FFA94310E65BAF3E/shop
-check 10013545
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9C3BD37ADDF89C69FFA94310E65BAF3E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9C429EF438FCB6E5A82900C2CBF74063/shop
-check 1000099045
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9C429EF438FCB6E5A82900C2CBF74063/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9C5636738F1BB88E075D3A355272BEE3/shop
-check 133326
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9C5636738F1BB88E075D3A355272BEE3/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9C8C431DC8A44F35DC595733CD7F9041/shop
-check 680938
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9C8C431DC8A44F35DC595733CD7F9041/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9D0B0534EBE9AA31E8A8A8D227B93034/shop
-check 1000278646
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9D0B0534EBE9AA31E8A8A8D227B93034/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9DC153963E42D6FBB83CB48ADAD87FDF/shop
-check 83211
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9DC153963E42D6FBB83CB48ADAD87FDF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9e6c312a63dd467881e9f0ebc9715fbe/shop
-check 1000006151
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9e6c312a63dd467881e9f0ebc9715fbe/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/9F32AF8D7A055BD6760EF22E08FB6470/shop
-check 10166483
-发现未签到的活动. /home/myid/jd/jd_signup/shop/9F32AF8D7A055BD6760EF22E08FB6470/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/a29651e2037d44008a18c99c8d2241ac/shop
-check 1000106868
-发现未签到的活动. /home/myid/jd/jd_signup/shop/a29651e2037d44008a18c99c8d2241ac/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/A5B67E8A3BC1C2EF057F52FF8C2FE46F/shop
-check 10248019
-发现未签到的活动. /home/myid/jd/jd_signup/shop/A5B67E8A3BC1C2EF057F52FF8C2FE46F/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/A5E0FE0B010BCA2ADD3A43CAECCFD01B/shop
-check 1000298522
-发现未签到的活动. /home/myid/jd/jd_signup/shop/A5E0FE0B010BCA2ADD3A43CAECCFD01B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/A91A92BF40CF8B22B9F862A34AE58D9B/shop
-check 1000081910
-发现未签到的活动. /home/myid/jd/jd_signup/shop/A91A92BF40CF8B22B9F862A34AE58D9B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AB0C86BB8C809846FBB72E6DC816DF00/shop
-check 10262588
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AB0C86BB8C809846FBB72E6DC816DF00/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AB3ADABDB26E551268EA64FC4B1DE363/shop
-check 1000009202
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AB3ADABDB26E551268EA64FC4B1DE363/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/ABF598106E227D40CD0E09A073E9449D/shop
-check 10115254
-发现未签到的活动. /home/myid/jd/jd_signup/shop/ABF598106E227D40CD0E09A073E9449D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AC861B422538601C957A8AE899B43E78/shop
-check 16687
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AC861B422538601C957A8AE899B43E78/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AC8EDBC4AD56E9E592105C12978DB938/shop
-check 673599
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AC8EDBC4AD56E9E592105C12978DB938/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/ACB0DE11E61272423781C1A881050962/shop
-check 122014
-发现未签到的活动. /home/myid/jd/jd_signup/shop/ACB0DE11E61272423781C1A881050962/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AD6D888FC352DF47F896144895D3AD1D/shop
-check 10025885
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AD6D888FC352DF47F896144895D3AD1D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/ADC8C3553216669ADD0D2AB057307213/shop
-check 1000002782
-发现未签到的活动. /home/myid/jd/jd_signup/shop/ADC8C3553216669ADD0D2AB057307213/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AE91A94D25B6DF5495D61888B59D8585/shop
-check 10352057
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AE91A94D25B6DF5495D61888B59D8585/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/AEF4A100EF754D28619234F6E5ADC136/shop
-check 10378777
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AEF4A100EF754D28619234F6E5ADC136/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/AFD2C979E2C254AD68A0A9102009D317/shop
-check 10098730
-发现未签到的活动. /home/myid/jd/jd_signup/shop/AFD2C979E2C254AD68A0A9102009D317/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B0EBE2D413EDDFAD1C8E75F24CF921FC/shop
-check 651792
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B0EBE2D413EDDFAD1C8E75F24CF921FC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B192C51532E80FC2550E60C659C2D7F5/shop
-check 10505037
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B192C51532E80FC2550E60C659C2D7F5/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/b1d87d7302234f1b937d56bce7b1ba42/shop
-check 115090
-发现未签到的活动. /home/myid/jd/jd_signup/shop/b1d87d7302234f1b937d56bce7b1ba42/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/b270fef38a7846acb90f9f96437ebd1c/shop
-check 78257
-发现未签到的活动. /home/myid/jd/jd_signup/shop/b270fef38a7846acb90f9f96437ebd1c/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B317969FE668F6FE39338F212E2345BD/shop
-check 1000100314
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B317969FE668F6FE39338F212E2345BD/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/b422cf6ec97e4d54a7001684c53ccad1/shop
-check 10524448
-发现未签到的活动. /home/myid/jd/jd_signup/shop/b422cf6ec97e4d54a7001684c53ccad1/shop --> lzkj_sevenDay_vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B473E87DF38664B5480C7328F671565E/shop
-check 10198910
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B473E87DF38664B5480C7328F671565E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B511F1BF7DECF604424E4516F73FA42B/shop
-check 619891
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B511F1BF7DECF604424E4516F73FA42B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B68981DB278BC4F5E653B4FF12023660/shop
-check 782322
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B68981DB278BC4F5E653B4FF12023660/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/B7E3E19D27056F1C0F5C6C9826BB44D7/shop
-renamed '/home/myid/jd/jd_signup/shop/B7E3E19D27056F1C0F5C6C9826BB44D7/shop' -> '/home/myid/jd/jd_signup/shop/B7E3E19D27056F1C0F5C6C9826BB44D7/shop_del'
-发现不存在的活动. /home/myid/jd/jd_signup/shop/B7E3E19D27056F1C0F5C6C9826BB44D7/shop --> /home/myid/jd/jd_signup/shop/B7E3E19D27056F1C0F5C6C9826BB44D7/shop_del
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/B7EA16A4FFFE4083B3989412C8726E13/shop
-check 1000081853
-发现未签到的活动. /home/myid/jd/jd_signup/shop/B7EA16A4FFFE4083B3989412C8726E13/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/BA8A3EADF83F624620A2E81A407170BC/shop
-check 126197
-发现未签到的活动. /home/myid/jd/jd_signup/shop/BA8A3EADF83F624620A2E81A407170BC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/BAA75D8206C5A108C7A2020FB757D936/shop
-check 10200057
-发现未签到的活动. /home/myid/jd/jd_signup/shop/BAA75D8206C5A108C7A2020FB757D936/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/BB473518091C7504C754DDD2E345287E/shop
-check 832880
-发现未签到的活动. /home/myid/jd/jd_signup/shop/BB473518091C7504C754DDD2E345287E/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/BCDF088E4D696B07B55C3566FD7F5B4D/shop
-check 1000332147
-发现未签到的活动. /home/myid/jd/jd_signup/shop/BCDF088E4D696B07B55C3566FD7F5B4D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/c17c944ffc0e40f1b36b68422e5e73a4/shop
-check 62866
-发现未签到的活动. /home/myid/jd/jd_signup/shop/c17c944ffc0e40f1b36b68422e5e73a4/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/C24B95376B648B8EE1138D5ACAF7E7EC/shop
-check 10294807
-发现未签到的活动. /home/myid/jd/jd_signup/shop/C24B95376B648B8EE1138D5ACAF7E7EC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/C454B34D650C926E0E68D77CEBCE470C/shop
-check 1000116826
-发现未签到的活动. /home/myid/jd/jd_signup/shop/C454B34D650C926E0E68D77CEBCE470C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/C7EF9B02003F5AB735694C73734675D8/shop
-check 10495153
-发现未签到的活动. /home/myid/jd/jd_signup/shop/C7EF9B02003F5AB735694C73734675D8/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/C8BCF8C30E815E6D37BF853E177D0593/shop
-check 10576455
-发现未签到的活动. /home/myid/jd/jd_signup/shop/C8BCF8C30E815E6D37BF853E177D0593/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/C98EC76D1C3F55F063491196FD78F4BD/shop
-check 10582786
-发现未签到的活动. /home/myid/jd/jd_signup/shop/C98EC76D1C3F55F063491196FD78F4BD/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CA0220301C2A9071C001C77E2E914D90/shop
-check 1000351484
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CA0220301C2A9071C001C77E2E914D90/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CAFD90F3040A52A2B5762C9EA174BD97/shop
-check 10205822
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CAFD90F3040A52A2B5762C9EA174BD97/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CB5E22790FB699F1933743F626EAFEC9/shop
-check 140979
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CB5E22790FB699F1933743F626EAFEC9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CC4EAD64A304F18F1C555A0C8F6977C6/shop
-check 10520175
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CC4EAD64A304F18F1C555A0C8F6977C6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CCE3CC93C2581FF7CEE39DA1A7B1E0BF/shop
-check 10556425
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CCE3CC93C2581FF7CEE39DA1A7B1E0BF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/ce895ed405234bf794275f998e28b6b6/shop
-check 1000015761
-发现未签到的活动. /home/myid/jd/jd_signup/shop/ce895ed405234bf794275f998e28b6b6/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CF4A2BC9E3B56C0750EBCA8C4E64B815/shop
-check 10513313
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CF4A2BC9E3B56C0750EBCA8C4E64B815/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/CFA0DC443FCD3A8D512BB5BB1C2CF1B9/shop
-check 112005
-发现未签到的活动. /home/myid/jd/jd_signup/shop/CFA0DC443FCD3A8D512BB5BB1C2CF1B9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D060C5A98F27331582AC754C8980F0EB/shop
-check 667651
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D060C5A98F27331582AC754C8980F0EB/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D0617FFD00E332E70F9AE3AF6F25C01B/shop
-check 10490699
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D0617FFD00E332E70F9AE3AF6F25C01B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D08A705742E6BFE376AFC4175FADF5E9/shop
-check 1000124001
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D08A705742E6BFE376AFC4175FADF5E9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D0DCD063D98C1D035BD4F634F92E1871/shop
-check 601235
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D0DCD063D98C1D035BD4F634F92E1871/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/d31e2fdc64bc453cb458bd2818deb581/shop
-check 1000007127
-发现未签到的活动. /home/myid/jd/jd_signup/shop/d31e2fdc64bc453cb458bd2818deb581/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D3E3FCF7EF16F8AF260B395D319C6742/shop
-check 10105562
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D3E3FCF7EF16F8AF260B395D319C6742/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D5EC4B9770B1B4C875EB16ADE524B4CC/shop
-check 14689
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D5EC4B9770B1B4C875EB16ADE524B4CC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D71848E997002DC4F23CA79DB33BF16B/shop
-check 1000001383
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D71848E997002DC4F23CA79DB33BF16B/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/D946EA7F480360414BBA4B40F53D6D20/shop
-check 10558772
-发现未签到的活动. /home/myid/jd/jd_signup/shop/D946EA7F480360414BBA4B40F53D6D20/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/DB5CB93CBD5503D2AEE57008785F96DA/shop
-check 1000351846
-发现未签到的活动. /home/myid/jd/jd_signup/shop/DB5CB93CBD5503D2AEE57008785F96DA/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/DC404336B2A559B9B2F873ACB22B55BC/shop
-check 10595909
-发现未签到的活动. /home/myid/jd/jd_signup/shop/DC404336B2A559B9B2F873ACB22B55BC/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/DD6018475CD9F439DEC632304181D027/shop
-check 601467
-发现未签到的活动. /home/myid/jd/jd_signup/shop/DD6018475CD9F439DEC632304181D027/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/DDBCCEFA3E482983C0457909147790BF/shop
-check 10214469
-发现未签到的活动. /home/myid/jd/jd_signup/shop/DDBCCEFA3E482983C0457909147790BF/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/DE6E331A08C4C52CB8F1C32D461033E6/shop
-check 10056326
-发现未签到的活动. /home/myid/jd/jd_signup/shop/DE6E331A08C4C52CB8F1C32D461033E6/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E0503EDC02E47488A9B1B404DC26D8B4/shop
-check 1000102589
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E0503EDC02E47488A9B1B404DC26D8B4/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E0E4489224EB2A2228DA22615733F2D0/shop
-check 10525261
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E0E4489224EB2A2228DA22615733F2D0/shop --> api_vender_pre
-check sign /home/myid/jd/jd_signup/shop/E1A69395B91DDD56996037EB56F0583A/shop
-renamed '/home/myid/jd/jd_signup/shop/E1A69395B91DDD56996037EB56F0583A/shop' -> '/home/myid/jd/jd_signup/shop/E1A69395B91DDD56996037EB56F0583A/shop_del'
-发现不存在的活动. /home/myid/jd/jd_signup/shop/E1A69395B91DDD56996037EB56F0583A/shop --> /home/myid/jd/jd_signup/shop/E1A69395B91DDD56996037EB56F0583A/shop_del
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E54F15DFE82242540F8C5A135E0FA580/shop
-check 184672
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E54F15DFE82242540F8C5A135E0FA580/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E6591E0FA6E8C7CB64BF3990F7DCEAA9/shop
-check 10040450
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E6591E0FA6E8C7CB64BF3990F7DCEAA9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E6A845062C32B18E1F6AF9D617B94A17/shop
-check 103927
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E6A845062C32B18E1F6AF9D617B94A17/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E6DDB35DD0300EC34AF650E3A2EFFA25/shop
-check 10182890
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E6DDB35DD0300EC34AF650E3A2EFFA25/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/E7C81E48AFD3A28A765BBDCF08700C61/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E7ED7A8BB3CDEFEE8345E5F244DB904D/shop
-check 10527072
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E7ED7A8BB3CDEFEE8345E5F244DB904D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E82EED70984EEFB4E44421A0DB150931/shop
-check 10131071
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E82EED70984EEFB4E44421A0DB150931/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E89A70999ADE33C7D8D2DDD5ACAD0C5C/shop
-check 1000323646
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E89A70999ADE33C7D8D2DDD5ACAD0C5C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E93DF22A595D30D294BD2373F8C62F10/shop
-check 756245
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E93DF22A595D30D294BD2373F8C62F10/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/E9799EF0627A29E6A6992335986B990C/shop
-check 1000002295
-发现未签到的活动. /home/myid/jd/jd_signup/shop/E9799EF0627A29E6A6992335986B990C/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/EA0DE28627B7787EEB0B80A10D9109B7/shop
-check 653927
-发现未签到的活动. /home/myid/jd/jd_signup/shop/EA0DE28627B7787EEB0B80A10D9109B7/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/EA349F2B7EAB98B5F12C366C2F5E1579/shop
-check 744242
-发现未签到的活动. /home/myid/jd/jd_signup/shop/EA349F2B7EAB98B5F12C366C2F5E1579/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/eb0ef5535d6e462096ab4e2135ba6c45/shop
-check 37166
-发现未签到的活动. /home/myid/jd/jd_signup/shop/eb0ef5535d6e462096ab4e2135ba6c45/shop --> vender
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/EC205A8747E239EEC597C1D544597789/shop
-check 10424407
-发现未签到的活动. /home/myid/jd/jd_signup/shop/EC205A8747E239EEC597C1D544597789/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/ECE97755DA83F03A4E290AEF18935726/shop
-check 10582819
-发现未签到的活动. /home/myid/jd/jd_signup/shop/ECE97755DA83F03A4E290AEF18935726/shop --> api_vender_pre
+checked. continue
+check sign /home/myid/jd/jd_signup/shop/ED8E5BDD9EF6C0CD20877DEF796F3F3E/shop
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/EE20A5121BF4326D4CEC950720F45E2F/shop
-check 1000135241
-发现未签到的活动. /home/myid/jd/jd_signup/shop/EE20A5121BF4326D4CEC950720F45E2F/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/EEEE3AAFA63B769550E8A1B3892B2A1A/shop
-check 1000139827
-发现未签到的活动. /home/myid/jd/jd_signup/shop/EEEE3AAFA63B769550E8A1B3892B2A1A/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F23B5DE7BD17BE868C8F80F2870F5404/shop
-check 10097736
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F23B5DE7BD17BE868C8F80F2870F5404/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F2B6CA378B6ED2C9BA7D5F7D9CA54F8D/shop
-check 10361141
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F2B6CA378B6ED2C9BA7D5F7D9CA54F8D/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F41E097FF02F43D736D62CDF88B27935/shop
-check 197497
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F41E097FF02F43D736D62CDF88B27935/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F73FCD8D8D421F4880FFDC0AB4E39CA2/shop
-check 617492
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F73FCD8D8D421F4880FFDC0AB4E39CA2/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F912FDCCC2A6F4DBA81697A7FABB3C91/shop
-check 756509
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F912FDCCC2A6F4DBA81697A7FABB3C91/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/F9D84A7B7237E78C7294D22FE64B25E5/shop
-check 663008
-发现未签到的活动. /home/myid/jd/jd_signup/shop/F9D84A7B7237E78C7294D22FE64B25E5/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/FA286162CC629CD3649D6B50299AC126/shop
-check 1000348325
-发现未签到的活动. /home/myid/jd/jd_signup/shop/FA286162CC629CD3649D6B50299AC126/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/FD47D3D062F2A8401FAD6808B1BF1484/shop
-check 10055303
-发现未签到的活动. /home/myid/jd/jd_signup/shop/FD47D3D062F2A8401FAD6808B1BF1484/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/FD8F6EDB325BCD95E49E32F7ABDA9677/shop
-check 10257015
-发现未签到的活动. /home/myid/jd/jd_signup/shop/FD8F6EDB325BCD95E49E32F7ABDA9677/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/FE9F0AD85D109BBC3A8451BBF34CF4E9/shop
-check 88399
-发现未签到的活动. /home/myid/jd/jd_signup/shop/FE9F0AD85D109BBC3A8451BBF34CF4E9/shop --> api_vender_pre
+checked. continue
 check sign /home/myid/jd/jd_signup/shop/FF9CC792656A2403F2BBDC2D30DE4570/shop
-check 41440
-发现未签到的活动. /home/myid/jd/jd_signup/shop/FF9CC792656A2403F2BBDC2D30DE4570/shop --> api_vender_pre
+checked. continue
 check find un_check:
-venderId=1000000285
-venderId=1000001306
-venderId=1000001906
-venderId=1000002782
-venderId=1000006151
-venderId=1000006201
-venderId=1000007127
-venderId=1000015761
-venderId=1000016326
-venderId=1000074782
-venderId=1000077443
-venderId=1000081130
-venderId=1000081910
-venderId=1000087322
-venderId=1000091866
-venderId=1000094623
-venderId=1000095723
-venderId=1000098549
-venderId=1000099045
-venderId=1000101935
-venderId=1000102203
-venderId=1000102589
-venderId=1000116687
-venderId=1000116826
-venderId=1000118615
-venderId=1000124001
-venderId=1000139827
-venderId=1000139865
-venderId=1000209142
-venderId=1000245945
-venderId=1000298522
-venderId=1000300421
-venderId=1000303562
-venderId=1000306383
-venderId=1000323646
-venderId=1000342143
-venderId=1000348325
-venderId=1000348868
-venderId=1000351846
-venderId=1000362164
-venderId=1000362345
-venderId=10013545
-venderId=10025885
-venderId=10026448
-venderId=10040450
-venderId=10054491
-venderId=10056326
-venderId=10057980
-venderId=10097736
-venderId=10098730
-venderId=10104999
-venderId=10105562
-venderId=10115254
-venderId=10131071
-venderId=10135900
-venderId=10146033
-venderId=10156830
-venderId=10167553
-venderId=10180892
-venderId=10182303
-venderId=10182890
-venderId=10198910
-venderId=10200057
-venderId=10202187
-venderId=10205822
-venderId=10205879
-venderId=10211943
-venderId=10214469
-venderId=10221049
-venderId=10234653
-venderId=10242170
-venderId=10245196
-venderId=10248019
-venderId=10257015
-venderId=10260396
-venderId=10262588
-venderId=10288901
-venderId=10290627
-venderId=10294807
-venderId=10314126
-venderId=10342304
-venderId=10342917
-venderId=10352057
-venderId=10353060
-venderId=10356748
-venderId=10361141
-venderId=10378777
-venderId=103927
-venderId=10398914
-venderId=10401660
-venderId=10402588
-venderId=10402917
-venderId=10409042
-venderId=10415226
-venderId=10490699
-venderId=10494940
-venderId=10495153
-venderId=10495904
-venderId=10499265
-venderId=10503741
-venderId=10505037
-venderId=10506094
-venderId=10511868
-venderId=10513313
-venderId=10517324
-venderId=10520175
-venderId=10524448
-venderId=10525261
-venderId=10525592
-venderId=10527072
-venderId=10531917
-venderId=10537507
-venderId=10545030
-venderId=10556425
-venderId=10558772
-venderId=10561860
-venderId=10571880
-venderId=10576455
-venderId=10582786
-venderId=10582819
-venderId=10595909
-venderId=10601226
-venderId=10611466
-venderId=10643122
-venderId=10668422
-venderId=108421
-venderId=110711
-venderId=112005
-venderId=117307
-venderId=122014
-venderId=12533
-venderId=126197
-venderId=133326
-venderId=135331
-venderId=140979
-venderId=142935
-venderId=14689
-venderId=16687
-venderId=167955
-venderId=170825
-venderId=178694
-venderId=184672
-venderId=187226
-venderId=203224
-venderId=206265
-venderId=21176
-venderId=28318
-venderId=29214
-venderId=30367
-venderId=35967
-venderId=37325
-venderId=38522
-venderId=41440
-venderId=42011
-venderId=44354
-venderId=44824
-venderId=50425
-venderId=58018
-venderId=590700
-venderId=591961
-venderId=594032
-venderId=601235
-venderId=601467
-venderId=614401
-venderId=617492
-venderId=619484
-venderId=619891
-venderId=621530
-venderId=626045
-venderId=62656
-venderId=62866
-venderId=65036
-venderId=651792
-venderId=653039
-venderId=653465
-venderId=653927
-venderId=663008
-venderId=667651
-venderId=673599
-venderId=679672
-venderId=680028
-venderId=680938
-venderId=684460
-venderId=689269
-venderId=69906
-venderId=707201
-venderId=714450
-venderId=714666
-venderId=716164
-venderId=720201
-venderId=722449
-venderId=744242
-venderId=752187
-venderId=755769
-venderId=756509
-venderId=760461
-venderId=782322
-venderId=78257
-venderId=79174
-venderId=797351
-venderId=809902
-venderId=816750
-venderId=83211
-venderId=832880
-venderId=88399
-venderId=95978
-venderId=98286
-venderId=99731
+venderId=1000001383
+venderId=1000002295
+venderId=1000090387
+venderId=1000102784
+venderId=1000332147
+venderId=1000351484
+venderId=1000355562
+venderId=10047712
+venderId=10176670
+venderId=10269216
+venderId=10327444
+venderId=590253
+venderId=593297
 未签到的活动:
-./api_vender/shop_1613046205_6_delay
-./api_vender/shop_1613046243_10_delay
-./api_vender/shop_1613046255_12_delay
-./api_vender/shop_1613049999_0_delay
-./api_vender/shop_1613050632_5_delay
-./api_vender/shop_1613052219_22_delay
+./api_vender/shop_1613050528_1_delay
 ./api_vender/shop_1613567480_7_delay
 ./api_vender/shop_1613567488_10_delay
 ./api_vender/shop_1613567501_15_delay
 ./api_vender/shop_1613567513_20_delay
+./api_vender/shop_1613569773_134_delay
+./api_vender/shop_1613569790_156_delay
+./api_vender/shop_1613569790_157_delay
+./api_vender/shop_1613569799_167_delay
+./api_vender_pre/shop_1613569729_0_delay
+./api_vender_pre/shop_1613569729_1_delay
+./api_vender_pre/shop_1613569730_2_delay
+./api_vender_pre/shop_1613569730_4_delay
+./api_vender_pre/shop_1613569731_5_delay
+./api_vender_pre/shop_1613569731_7_delay
+./api_vender_pre/shop_1613569732_10_delay
+./api_vender_pre/shop_1613569732_11_delay
+./api_vender_pre/shop_1613569732_8_delay
+./api_vender_pre/shop_1613569732_9_delay
+./api_vender_pre/shop_1613569733_12_delay
+./api_vender_pre/shop_1613569733_14_delay
+./api_vender_pre/shop_1613569734_16_delay
+./api_vender_pre/shop_1613569734_17_delay
+./api_vender_pre/shop_1613569735_18_delay
+./api_vender_pre/shop_1613569735_19_delay
+./api_vender_pre/shop_1613569735_20_delay
+./api_vender_pre/shop_1613569736_22_delay
+./api_vender_pre/shop_1613569737_24_delay
+./api_vender_pre/shop_1613569738_26_delay
+./api_vender_pre/shop_1613569738_28_delay
+./api_vender_pre/shop_1613569738_29_delay
+./api_vender_pre/shop_1613569739_30_delay
+./api_vender_pre/shop_1613569739_31_delay
+./api_vender_pre/shop_1613569739_32_delay
+./api_vender_pre/shop_1613569741_36_delay
+./api_vender_pre/shop_1613569742_39_delay
+./api_vender_pre/shop_1613569743_43_delay
+./api_vender_pre/shop_1613569743_44_delay
+./api_vender_pre/shop_1613569744_46_delay
+./api_vender_pre/shop_1613569744_47_delay
+./api_vender_pre/shop_1613569745_48_delay
+./api_vender_pre/shop_1613569745_49_delay
+./api_vender_pre/shop_1613569745_50_delay
+./api_vender_pre/shop_1613569746_52_delay
+./api_vender_pre/shop_1613569746_53_delay
+./api_vender_pre/shop_1613569747_54_delay
+./api_vender_pre/shop_1613569747_55_delay
+./api_vender_pre/shop_1613569747_56_delay
+./api_vender_pre/shop_1613569748_57_delay
+./api_vender_pre/shop_1613569748_59_delay
+./api_vender_pre/shop_1613569749_60_delay
+./api_vender_pre/shop_1613569749_61_delay
+./api_vender_pre/shop_1613569749_62_delay
+./api_vender_pre/shop_1613569750_63_delay
+./api_vender_pre/shop_1613569750_64_delay
+./api_vender_pre/shop_1613569751_67_delay
+./api_vender_pre/shop_1613569751_68_delay
+./api_vender_pre/shop_1613569752_69_delay
+./api_vender_pre/shop_1613569753_73_delay
+./api_vender_pre/shop_1613569753_74_delay
+./api_vender_pre/shop_1613569754_75_delay
+./api_vender_pre/shop_1613569755_78_delay
+./api_vender_pre/shop_1613569755_79_delay
+./api_vender_pre/shop_1613569755_80_delay
+./api_vender_pre/shop_1613569756_82_delay
+./api_vender_pre/shop_1613569756_83_delay
+./api_vender_pre/shop_1613569757_84_delay
+./api_vender_pre/shop_1613569757_85_delay
+./api_vender_pre/shop_1613569758_87_delay
+./api_vender_pre/shop_1613569759_90_delay
+./api_vender_pre/shop_1613569759_92_delay
+./api_vender_pre/shop_1613569760_93_delay
+./api_vender_pre/shop_1613569760_94_delay
+./api_vender_pre/shop_1613569760_95_delay
+./api_vender_pre/shop_1613569761_98_delay
+./api_vender_pre/shop_1613569762_100_delay
+./api_vender_pre/shop_1613569762_99_delay
+./api_vender_pre/shop_1613569763_103_delay
+./api_vender_pre/shop_1613569764_105_delay
+./api_vender_pre/shop_1613569764_106_delay
+./api_vender_pre/shop_1613569764_107_delay
+./api_vender_pre/shop_1613569765_109_delay
+./api_vender_pre/shop_1613569765_110_delay
+./api_vender_pre/shop_1613569766_111_delay
+./api_vender_pre/shop_1613569766_112_delay
+./api_vender_pre/shop_1613569766_113_delay
+./api_vender_pre/shop_1613569767_115_delay
+./api_vender_pre/shop_1613569767_116_delay
+./api_vender_pre/shop_1613569768_118_delay
+./api_vender_pre/shop_1613569768_119_delay
+./api_vender_pre/shop_1613569770_122_delay
+./api_vender_pre/shop_1613569770_123_delay
+./api_vender_pre/shop_1613569770_124_delay
+./api_vender_pre/shop_1613569771_125_delay
+./api_vender_pre/shop_1613569771_126_delay
+./api_vender_pre/shop_1613569771_127_delay
+./api_vender_pre/shop_1613569772_128_delay
+./api_vender_pre/shop_1613569772_130_delay
+./api_vender_pre/shop_1613569773_131_delay
+./api_vender_pre/shop_1613569773_132_delay
+./api_vender_pre/shop_1613569773_133_delay
+./api_vender_pre/shop_1613569774_135_delay
+./api_vender_pre/shop_1613569774_136_delay
+./api_vender_pre/shop_1613569775_138_delay
+./api_vender_pre/shop_1613569775_139_delay
+./api_vender_pre/shop_1613569776_141_delay
+./api_vender_pre/shop_1613569776_143_delay
+./api_vender_pre/shop_1613569777_144_delay
+./api_vender_pre/shop_1613569779_146_delay
+./api_vender_pre/shop_1613569782_148_delay
+./api_vender_pre/shop_1613569788_151_delay
+./api_vender_pre/shop_1613569789_152_delay
+./api_vender_pre/shop_1613569789_153_delay
+./api_vender_pre/shop_1613569789_154_delay
+./api_vender_pre/shop_1613569791_158_delay
+./api_vender_pre/shop_1613569791_159_delay
+./api_vender_pre/shop_1613569791_160_delay
+./api_vender_pre/shop_1613569794_162_delay
+./api_vender_pre/shop_1613569794_163_delay
+./api_vender_pre/shop_1613569795_164_delay
+./api_vender_pre/shop_1613569800_168_delay
+./api_vender_pre/shop_1613569800_169_delay
+./api_vender_pre/shop_1613569800_170_delay
+./api_vender_pre/shop_1613569801_171_delay
+./api_vender_pre/shop_1613569801_172_delay
+./api_vender_pre/shop_1613569804_174_delay
+./api_vender_pre/shop_1613569810_178_delay
+./api_vender_pre/shop_1613569811_179_delay
+./api_vender_pre/shop_1613569811_181_delay
+./api_vender_pre/shop_1613569814_183_delay
+./api_vender_pre/shop_1613569814_184_delay
+./api_vender_pre/shop_1613569814_185_delay
+./api_vender_pre/shop_1613569815_186_delay
+./api_vender_pre/shop_1613569815_187_delay
+./api_vender_pre/shop_1613569815_188_delay
+./api_vender_pre/shop_1613569816_189_delay
+./api_vender_pre/shop_1613569816_190_delay
+./api_vender_pre/shop_1613569816_191_delay
+./api_vender_pre/shop_1613569817_192_delay
+./api_vender_pre/shop_1613569817_193_delay
+./api_vender_pre/shop_1613569823_198_delay
+./api_vender_pre/shop_1613569824_199_delay
+./api_vender_pre/shop_1613569824_200_delay
+./api_vender_pre/shop_1613569828_202_delay
+./api_vender_pre/shop_1613569829_203_delay
+./api_vender_pre/shop_1613569829_204_delay
+./api_vender_pre/shop_1613569832_207_delay
+./api_vender_pre/shop_1613569832_208_delay
+./api_vender_pre/shop_1613569833_209_delay
+./api_vender_pre/shop_1613569833_210_delay
+./api_vender_pre/shop_1613569833_211_delay
+./api_vender_pre/shop_1613569836_213_delay
+./api_vender_pre/shop_1613569836_214_delay
+./api_vender_pre/shop_1613569837_215_delay
+./api_vender_pre/shop_1613569837_216_delay
+./api_vender_pre/shop_1613569841_218_delay
+./api_vender_pre/shop_1613569841_219_delay
+./api_vender_pre/shop_1613569841_220_delay
+./api_vender_pre/shop_1613569842_221_delay
+./api_vender_pre/shop_1613569842_222_delay
+./api_vender_pre/shop_1613569842_223_delay
+./api_vender_pre/shop_1613569843_225_delay
+./api_vender_pre/shop_1613569843_226_delay
+./api_vender_pre/shop_1613569846_228_delay
+./api_vender_pre/shop_1613569848_229_delay
+./api_vender_pre/shop_1613569849_230_delay
+./api_vender_pre/shop_1613569849_231_delay
+./api_vender_pre/shop_1613569849_232_delay
+./api_vender_pre/shop_1613569850_233_delay
+./api_vender_pre/shop_1613569850_234_delay
+./api_vender_pre/shop_1613569850_235_delay
+./api_vender_pre/shop_1613569852_236_delay
+./api_vender_pre/shop_1613569853_237_delay
+./api_vender_pre/shop_1613569853_238_delay
+./api_vender_pre/shop_1613569853_239_delay
+./api_vender_pre/shop_1613569854_240_delay
+./api_vender_pre/shop_1613569854_241_delay
+./api_vender_pre/shop_1613569854_242_delay
+./api_vender_pre/shop_1613569857_245_delay
+./api_vender_pre/shop_1613569858_246_delay
+./api_vender_pre/shop_1613569861_249_delay
+./api_vender_pre/shop_1613569864_251_delay
+./api_vender_pre/shop_1613569864_252_delay
+./api_vender_pre/shop_1613569865_253_delay
+./api_vender_pre/shop_1613569865_255_delay
+./api_vender_pre/shop_1613569866_256_delay
+./api_vender_pre/shop_1613569866_257_delay
+./api_vender_pre/shop_1613569866_258_delay
+./api_vender_pre/shop_1613569867_260_delay
+./api_vender_pre/shop_1613569867_261_delay
+./api_vender_pre/shop_1613569868_262_delay
+./api_vender_pre/shop_1613652083_0_delay
+./api_vender_pre/shop_1613652085_1_delay
 ./fq_vender/shop_1613103343_0_delay
 ./lzkj_sevenDay_vender/shop_1613046181_1_delay
+./lzkj_sevenDay_vender/shop_1613569740_34_delay
+./lzkj_sevenDay_vender/shop_1613569750_65_delay
 ./vender/shop_1613046198_4_delay
 ./vender/shop_1613046217_8_delay
-./vender/shop_1613046228_9_delay
+./vender/shop_1613048969_0_delay
 ./vender/shop_1613052094_7_delay
 ./vender/shop_1613052102_8_delay
 ./vender/shop_1613052185_19_delay
-'/home/myid/jd/jd_signup/shop/00E58D5CF584F3B757B69FD3844A41E8/shop' -> 'api_vender_pre/shop_1613569729_1_delay'
-'/home/myid/jd/jd_signup/shop/5D603D2C26CEBEA16EB56AF8EE3C8FD2/shop' -> 'api_vender_pre/shop_1613569765_110_delay'
-'/home/myid/jd/jd_signup/shop/57A719F696148C109114A38C25516F5E/shop' -> 'api_vender_pre/shop_1613569761_98_delay'
-'/home/myid/jd/jd_signup/shop/FE9F0AD85D109BBC3A8451BBF34CF4E9/shop' -> 'api_vender_pre/shop_1613569867_261_delay'
-'/home/myid/jd/jd_signup/shop/BB473518091C7504C754DDD2E345287E/shop' -> 'api_vender_pre/shop_1613569829_204_delay'
-'/home/myid/jd/jd_signup/shop/9DC153963E42D6FBB83CB48ADAD87FDF/shop' -> 'api_vender_pre/shop_1613569804_174_delay'
-'/home/myid/jd/jd_signup/shop/7054B18F7026BD480DF438C93923971B/shop' -> 'api_vender_pre/shop_1613569773_131_delay'
-'/home/myid/jd/jd_signup/shop/772DE68B06ED6166D310CD1DD1877194/shop' -> 'api_vender_pre/shop_1613569774_135_delay'
-'/home/myid/jd/jd_signup/shop/116ca4b40be946c1ae32efbb568825f2/shop' -> 'lzkj_sevenDay_vender/shop_1613569736_21_delay'
-'/home/myid/jd/jd_signup/shop/1B11953AEEAF6D711ED6B84998A25F1F/shop' -> 'api_vender_pre/shop_1613569739_30_delay'
-'/home/myid/jd/jd_signup/shop/b270fef38a7846acb90f9f96437ebd1c/shop' -> 'vender/shop_1613569820_195_delay'
-'/home/myid/jd/jd_signup/shop/B68981DB278BC4F5E653B4FF12023660/shop' -> 'api_vender_pre/shop_1613569824_200_delay'
-'/home/myid/jd/jd_signup/shop/32469FD0862188F84D266F46DC013258/shop' -> 'api_vender_pre/shop_1613569747_56_delay'
-'/home/myid/jd/jd_signup/shop/F912FDCCC2A6F4DBA81697A7FABB3C91/shop' -> 'api_vender_pre/shop_1613569866_256_delay'
-'/home/myid/jd/jd_signup/shop/603DC3F17DD17AB86A8DDB1E191A6F66/shop' -> 'api_vender_pre/shop_1613569768_119_delay'
-'/home/myid/jd/jd_signup/shop/0F4BDB9C04701400E8032BA7215861F5/shop' -> 'api_vender_pre/shop_1613569735_20_delay'
-'/home/myid/jd/jd_signup/shop/EA349F2B7EAB98B5F12C366C2F5E1579/shop' -> 'api_vender_pre/shop_1613569858_246_delay'
-'/home/myid/jd/jd_signup/shop/177B5D4981965F37E225FD9E6478EE6D/shop' -> 'api_vender_pre/shop_1613569738_26_delay'
-'/home/myid/jd/jd_signup/shop/3A8E032F6489C34E8BED29F9051BE31E/shop' -> 'api_vender_pre/shop_1613569751_68_delay'
-'/home/myid/jd/jd_signup/shop/031AC747F24130BFE7DD5B4C0EDED18B/shop' -> 'api_vender_pre/shop_1613569731_5_delay'
-'/home/myid/jd/jd_signup/shop/027D93033E14267139DD6BE2BC3C4535/shop' -> 'api_vender_pre/shop_1613569730_2_delay'
-'/home/myid/jd/jd_signup/shop/271685eb45df483385cc52f935fcec8d/shop' -> 'vender/shop_1613569742_40_delay'
-'/home/myid/jd/jd_signup/shop/1B466595ABEE5BD90540DD88C09DF7AB/shop' -> 'api_vender_pre/shop_1613569739_31_delay'
-'/home/myid/jd/jd_signup/shop/5EE9681DB28E8717CFFFA99344F5308E/shop' -> 'api_vender_pre/shop_1613569767_115_delay'
-'/home/myid/jd/jd_signup/shop/3E80F08783A94C00025DA1EF6234EB6E/shop' -> 'api_vender_pre/shop_1613569753_74_delay'
-'/home/myid/jd/jd_signup/shop/4D77C8515726977AF03F526A4B262EE4/shop' -> 'api_vender_pre/shop_1613569760_93_delay'
-'/home/myid/jd/jd_signup/shop/9C8C431DC8A44F35DC595733CD7F9041/shop' -> 'api_vender_pre/shop_1613569801_172_delay'
-'/home/myid/jd/jd_signup/shop/67B726B7BB649E99843EEA260BBC1552/shop' -> 'api_vender_pre/shop_1613569771_127_delay'
-'/home/myid/jd/jd_signup/shop/1C13EAD515BB3B40831FE3E4A26899F4/shop' -> 'api_vender_pre/shop_1613569739_32_delay'
-'/home/myid/jd/jd_signup/shop/AC8EDBC4AD56E9E592105C12978DB938/shop' -> 'api_vender_pre/shop_1613569814_185_delay'
-'/home/myid/jd/jd_signup/shop/D060C5A98F27331582AC754C8980F0EB/shop' -> 'api_vender_pre/shop_1613569841_220_delay'
-'/home/myid/jd/jd_signup/shop/F9D84A7B7237E78C7294D22FE64B25E5/shop' -> 'api_vender_pre/shop_1613569866_257_delay'
-'/home/myid/jd/jd_signup/shop/EA0DE28627B7787EEB0B80A10D9109B7/shop' -> 'api_vender_pre/shop_1613569857_245_delay'
-'/home/myid/jd/jd_signup/shop/42F441BD330D269B60FC28DA0B173B9B/shop' -> 'api_vender_pre/shop_1613569756_83_delay'
-'/home/myid/jd/jd_signup/shop/0EBF6A10D4E73FB9D63DDABAFA92DFB8/shop' -> 'api_vender_pre/shop_1613569735_18_delay'
-'/home/myid/jd/jd_signup/shop/B0EBE2D413EDDFAD1C8E75F24CF921FC/shop' -> 'api_vender_pre/shop_1613569817_192_delay'
-'/home/myid/jd/jd_signup/shop/213B190A536E466F3C597165488D7600/shop' -> 'api_vender_pre/shop_1613569741_36_delay'
-'/home/myid/jd/jd_signup/shop/c17c944ffc0e40f1b36b68422e5e73a4/shop' -> 'vender/shop_1613569832_206_delay'
-'/home/myid/jd/jd_signup/shop/7ad66b65b611428da4705537dfe56906/shop' -> 'vender/shop_1613569776_142_delay'
-'/home/myid/jd/jd_signup/shop/25EEAB76305279E3D5ED376296350941/shop' -> 'api_vender_pre/shop_1613569742_39_delay'
-'/home/myid/jd/jd_signup/shop/1282D8A262E548BAA72A53CDA60A3C0A/shop' -> 'api_vender_pre/shop_1613569736_22_delay'
-'/home/myid/jd/jd_signup/shop/B511F1BF7DECF604424E4516F73FA42B/shop' -> 'api_vender_pre/shop_1613569824_199_delay'
-'/home/myid/jd/jd_signup/shop/4AFD90FAB1F2333F447FFA97ADC7280E/shop' -> 'api_vender_pre/shop_1613569759_90_delay'
-'/home/myid/jd/jd_signup/shop/F73FCD8D8D421F4880FFDC0AB4E39CA2/shop' -> 'api_vender_pre/shop_1613569865_255_delay'
-'/home/myid/jd/jd_signup/shop/5CA7349E418195D60CDC75E225CD8AA4/shop' -> 'api_vender_pre/shop_1613569765_109_delay'
-'/home/myid/jd/jd_signup/shop/DD6018475CD9F439DEC632304181D027/shop' -> 'api_vender_pre/shop_1613569849_231_delay'
-'/home/myid/jd/jd_signup/shop/D0DCD063D98C1D035BD4F634F92E1871/shop' -> 'api_vender_pre/shop_1613569842_223_delay'
-'/home/myid/jd/jd_signup/shop/6453D7B3CB26B4B3BBFCFFE78CC37CBA/shop' -> 'api_vender_pre/shop_1613569770_123_delay'
-'/home/myid/jd/jd_signup/shop/83C5B187793EED3D352C34484B142CED/shop' -> 'api_vender_pre/shop_1613569788_151_delay'
-'/home/myid/jd/jd_signup/shop/0E5040232D4732B3980E3F767ED20A7F/shop' -> 'api_vender_pre/shop_1613569734_16_delay'
-'/home/myid/jd/jd_signup/shop/09912DB263BEA2DE80B7EF36D0532514/shop' -> 'api_vender_pre/shop_1613569733_12_delay'
-'/home/myid/jd/jd_signup/shop/41141224D92A6ED202831D25FC24ED5C/shop' -> 'api_vender_pre/shop_1613569755_80_delay'
-'/home/myid/jd/jd_signup/shop/902915EBC75EDFB534CC5CD8432169FD/shop' -> 'api_vender_pre/shop_1613569794_163_delay'
-'/home/myid/jd/jd_signup/shop/776A669AF2CBFBE13692D6080EF2EF87/shop' -> 'api_vender_pre/shop_1613569774_136_delay'
-'/home/myid/jd/jd_signup/shop/3D9A62DB29E20DBBEAD9819489F64E71/shop' -> 'api_vender_pre/shop_1613569753_73_delay'
-'/home/myid/jd/jd_signup/shop/FF9CC792656A2403F2BBDC2D30DE4570/shop' -> 'api_vender_pre/shop_1613569868_262_delay'
-'/home/myid/jd/jd_signup/shop/8F3E9D1E42ADCF3522F53566A78FB4E4/shop' -> 'api_vender_pre/shop_1613569794_162_delay'
-'/home/myid/jd/jd_signup/shop/72B896D00EA2EE0A6C029A5733297052/shop' -> 'api_vender_pre/shop_1613569773_132_delay'
-'/home/myid/jd/jd_signup/shop/22836992c50446e1bb31f6f7ae31cb75/shop' -> 'vender/shop_1613569741_37_delay'
-'/home/myid/jd/jd_signup/shop/8B4AC259FB7B37215364C2F52E2861F6/shop' -> 'api_vender_pre/shop_1613569791_160_delay'
-'/home/myid/jd/jd_signup/shop/7B38BFB2742A7A14CDB306823038C533/shop' -> 'api_vender_pre/shop_1613569776_143_delay'
-'/home/myid/jd/jd_signup/shop/461E626B024D2830F592FE5F98A62172/shop' -> 'api_vender_pre/shop_1613569757_85_delay'
-'/home/myid/jd/jd_signup/shop/2D2B1BA130EB83688889F141A2A2B607/shop' -> 'api_vender_pre/shop_1613569745_50_delay'
-'/home/myid/jd/jd_signup/shop/13126645fcb2477fa1090a94cb7f3ca2/shop' -> 'lzkj_sevenDay_vender/shop_1613569736_23_delay'
-'/home/myid/jd/jd_signup/shop/49f82fc8fe22491db69f61fd67c5680c/shop' -> 'lzkj_sevenDay_vender/shop_1613569758_88_delay'
-'/home/myid/jd/jd_signup/shop/31FDF39500035661FBA8E3F3363CAE2D/shop' -> 'api_vender_pre/shop_1613569747_55_delay'
-'/home/myid/jd/jd_signup/shop/E54F15DFE82242540F8C5A135E0FA580/shop' -> 'api_vender_pre/shop_1613569852_236_delay'
-'/home/myid/jd/jd_signup/shop/5A78CA2EB976E245FC9B10695C9C0C57/shop' -> 'api_vender_pre/shop_1613569764_105_delay'
-'/home/myid/jd/jd_signup/shop/4FC9CB66C42E5D79DF8C615D546738F6/shop' -> 'api_vender_pre/shop_1613569760_95_delay'
-'/home/myid/jd/jd_signup/shop/343BF6E782F58C6C78976E9DCE3451BE/shop' -> 'api_vender_pre/shop_1613569748_59_delay'
-'/home/myid/jd/jd_signup/shop/AC861B422538601C957A8AE899B43E78/shop' -> 'api_vender_pre/shop_1613569814_184_delay'
-'/home/myid/jd/jd_signup/shop/D5EC4B9770B1B4C875EB16ADE524B4CC/shop' -> 'api_vender_pre/shop_1613569843_226_delay'
-'/home/myid/jd/jd_signup/shop/31E7E6A028BAAB4D0D15C6905E9FF6C8/shop' -> 'api_vender_pre/shop_1613569747_54_delay'
-'/home/myid/jd/jd_signup/shop/CB5E22790FB699F1933743F626EAFEC9/shop' -> 'api_vender_pre/shop_1613569836_214_delay'
-'/home/myid/jd/jd_signup/shop/35415B8ABB8D2A715C5605D8862DBADE/shop' -> 'api_vender_pre/shop_1613569750_63_delay'
-'/home/myid/jd/jd_signup/shop/9C5636738F1BB88E075D3A355272BEE3/shop' -> 'api_vender_pre/shop_1613569801_171_delay'
-'/home/myid/jd/jd_signup/shop/BA8A3EADF83F624620A2E81A407170BC/shop' -> 'api_vender_pre/shop_1613569828_202_delay'
-'/home/myid/jd/jd_signup/shop/00A643371F64475042A07EBADBFD8EBD/shop' -> 'api_vender_pre/shop_1613569729_0_delay'
-'/home/myid/jd/jd_signup/shop/ACB0DE11E61272423781C1A881050962/shop' -> 'api_vender_pre/shop_1613569815_186_delay'
-'/home/myid/jd/jd_signup/shop/444E1C25F05387E0FBBA4E2078C13501/shop' -> 'api_vender_pre/shop_1613569757_84_delay'
-'/home/myid/jd/jd_signup/shop/CFA0DC443FCD3A8D512BB5BB1C2CF1B9/shop' -> 'api_vender_pre/shop_1613569841_219_delay'
-'/home/myid/jd/jd_signup/shop/7D7911B13774A59BB5FD7F159E607EF3/shop' -> 'api_vender_pre/shop_1613569779_146_delay'
-'/home/myid/jd/jd_signup/shop/3EA82DAF42DC7F206B8E5F0E7E589F93/shop' -> 'api_vender_pre/shop_1613569754_75_delay'
-'/home/myid/jd/jd_signup/shop/34CA3190EE9FD67D1635D62F3F4A59EA/shop' -> 'api_vender_pre/shop_1613569749_60_delay'
-'/home/myid/jd/jd_signup/shop/603C77A9AEB4740041C64EB91AA0F8F0/shop' -> 'api_vender_pre/shop_1613569768_118_delay'
-'/home/myid/jd/jd_signup/shop/3AD8016B69812CE45E5E78782A65B4B8/shop' -> 'api_vender_pre/shop_1613569752_69_delay'
-'/home/myid/jd/jd_signup/shop/580579FBF71A90C6ED63C769184CB126/shop' -> 'api_vender_pre/shop_1613569762_100_delay'
-'/home/myid/jd/jd_signup/shop/DC404336B2A559B9B2F873ACB22B55BC/shop' -> 'api_vender_pre/shop_1613569849_230_delay'
-'/home/myid/jd/jd_signup/shop/ECE97755DA83F03A4E290AEF18935726/shop' -> 'api_vender_pre/shop_1613569861_249_delay'
-'/home/myid/jd/jd_signup/shop/C98EC76D1C3F55F063491196FD78F4BD/shop' -> 'api_vender_pre/shop_1613569833_211_delay'
-'/home/myid/jd/jd_signup/shop/C8BCF8C30E815E6D37BF853E177D0593/shop' -> 'api_vender_pre/shop_1613569833_210_delay'
-'/home/myid/jd/jd_signup/shop/0532BC19C157CC49428E7CD2BC0D0F74/shop' -> 'api_vender_pre/shop_1613569732_11_delay'
-'/home/myid/jd/jd_signup/shop/8AFD297088F11E654587867617C5F8BF/shop' -> 'api_vender_pre/shop_1613569791_159_delay'
-'/home/myid/jd/jd_signup/shop/D946EA7F480360414BBA4B40F53D6D20/shop' -> 'api_vender_pre/shop_1613569846_228_delay'
-'/home/myid/jd/jd_signup/shop/CCE3CC93C2581FF7CEE39DA1A7B1E0BF/shop' -> 'api_vender_pre/shop_1613569837_216_delay'
-'/home/myid/jd/jd_signup/shop/42C83EDF5D201F2B07FD751E4B3F1FF3/shop' -> 'api_vender_pre/shop_1613569756_82_delay'
-'/home/myid/jd/jd_signup/shop/388A0F5154EC84D101CC5B201E781144/shop' -> 'api_vender_pre/shop_1613569751_67_delay'
-'/home/myid/jd/jd_signup/shop/28268AC3B0FC54FB2ABD5260C48AE62F/shop' -> 'api_vender_pre/shop_1613569743_44_delay'
-'/home/myid/jd/jd_signup/shop/E7ED7A8BB3CDEFEE8345E5F244DB904D/shop' -> 'api_vender_pre/shop_1613569854_240_delay'
-'/home/myid/jd/jd_signup/shop/048A0A7EFC06153EC5A4CE270EE5E3C0/shop' -> 'api_vender_pre/shop_1613569732_10_delay'
-'/home/myid/jd/jd_signup/shop/E0E4489224EB2A2228DA22615733F2D0/shop' -> 'api_vender_pre/shop_1613569850_235_delay'
-'/home/myid/jd/jd_signup/shop/b422cf6ec97e4d54a7001684c53ccad1/shop' -> 'lzkj_sevenDay_vender/shop_1613569823_197_delay'
-'/home/myid/jd/jd_signup/shop/CC4EAD64A304F18F1C555A0C8F6977C6/shop' -> 'api_vender_pre/shop_1613569837_215_delay'
-'/home/myid/jd/jd_signup/shop/5FA66556A145870F8143AA46053F6ADE/shop' -> 'api_vender_pre/shop_1613569767_116_delay'
-'/home/myid/jd/jd_signup/shop/CF4A2BC9E3B56C0750EBCA8C4E64B815/shop' -> 'api_vender_pre/shop_1613569841_218_delay'
-'/home/myid/jd/jd_signup/shop/352B1BDBA71A8033BB1E61D50A482B9C/shop' -> 'api_vender_pre/shop_1613569749_62_delay'
-'/home/myid/jd/jd_signup/shop/2A17A1A86ACB6377D8AACA43816120AA/shop' -> 'api_vender_pre/shop_1613569744_47_delay'
-'/home/myid/jd/jd_signup/shop/B192C51532E80FC2550E60C659C2D7F5/shop' -> 'api_vender_pre/shop_1613569817_193_delay'
-'/home/myid/jd/jd_signup/shop/7966F46138A2A487A3C0E6E220566DC6/shop' -> 'api_vender_pre/shop_1613569775_138_delay'
-'/home/myid/jd/jd_signup/shop/2D55B608A393EE079A92746DBAD6BFBC/shop' -> 'api_vender_pre/shop_1613569746_51_delay'
-'/home/myid/jd/jd_signup/shop/2BADF557F5EF4511E566ABB47657C86C/shop' -> 'api_vender_pre/shop_1613569745_48_delay'
-'/home/myid/jd/jd_signup/shop/C7EF9B02003F5AB735694C73734675D8/shop' -> 'api_vender_pre/shop_1613569833_209_delay'
-'/home/myid/jd/jd_signup/shop/31BFA9C7FFB8731302C2E4FEDF05AD0C/shop' -> 'api_vender_pre/shop_1613569746_53_delay'
-'/home/myid/jd/jd_signup/shop/D0617FFD00E332E70F9AE3AF6F25C01B/shop' -> 'api_vender_pre/shop_1613569842_221_delay'
-'/home/myid/jd/jd_signup/shop/58012A53188549474089CB53842A93A6/shop' -> 'api_vender_pre/shop_1613569762_99_delay'
-'/home/myid/jd/jd_signup/shop/5ff5ff7000d444a0893a41c1f678e4bf/shop' -> 'lzkj_sevenDay_vender/shop_1613569768_117_delay'
-'/home/myid/jd/jd_signup/shop/698CD9D9291844FA0A6E4C385F8DC279/shop' -> 'api_vender_pre/shop_1613569772_128_delay'
-'/home/myid/jd/jd_signup/shop/2F0506E096E39E3DCB02C67A39883902/shop' -> 'api_vender_pre/shop_1613569746_52_delay'
-'/home/myid/jd/jd_signup/shop/5B448D555BEDB6D9E47A4A232989F295/shop' -> 'api_vender_pre/shop_1613569764_107_delay'
-'/home/myid/jd/jd_signup/shop/590fbd3f258f40cf974966a386efb147/shop' -> 'vender/shop_1613569763_104_delay'
-'/home/myid/jd/jd_signup/shop/E6A845062C32B18E1F6AF9D617B94A17/shop' -> 'api_vender_pre/shop_1613569853_238_delay'
-'/home/myid/jd/jd_signup/shop/AEF4A100EF754D28619234F6E5ADC136/shop' -> 'api_vender_pre/shop_1613569816_190_delay'
-'/home/myid/jd/jd_signup/shop/F2B6CA378B6ED2C9BA7D5F7D9CA54F8D/shop' -> 'api_vender_pre/shop_1613569865_253_delay'
-'/home/myid/jd/jd_signup/shop/6F96B368F76FFD63CF506481793B2FAF/shop' -> 'api_vender_pre/shop_1613569772_130_delay'
-'/home/myid/jd/jd_signup/shop/35d14c0f97194095934fbde1271ff651/shop' -> 'lzkj_sevenDay_vender/shop_1613569750_65_delay'
-'/home/myid/jd/jd_signup/shop/AE91A94D25B6DF5495D61888B59D8585/shop' -> 'api_vender_pre/shop_1613569816_189_delay'
-'/home/myid/jd/jd_signup/shop/0E6A5583B3D5BD95D82F511B03DE4AC1/shop' -> 'api_vender_pre/shop_1613569734_17_delay'
-'/home/myid/jd/jd_signup/shop/66CF50347AF0B68AF089BA258A09CC80/shop' -> 'api_vender_pre/shop_1613569771_126_delay'
-'/home/myid/jd/jd_signup/shop/79C7605C0859997E74498CC2B4C88C47/shop' -> 'api_vender_pre/shop_1613569775_139_delay'
-'/home/myid/jd/jd_signup/shop/C24B95376B648B8EE1138D5ACAF7E7EC/shop' -> 'api_vender_pre/shop_1613569832_207_delay'
-'/home/myid/jd/jd_signup/shop/976DDF5D984ABAEC271E3A09178B4EFB/shop' -> 'api_vender_pre/shop_1613569800_168_delay'
-'/home/myid/jd/jd_signup/shop/638356542798A5F48DBBE8D3D5CCFF18/shop' -> 'api_vender_pre/shop_1613569770_122_delay'
-'/home/myid/jd/jd_signup/shop/AB0C86BB8C809846FBB72E6DC816DF00/shop' -> 'api_vender_pre/shop_1613569811_181_delay'
-'/home/myid/jd/jd_signup/shop/8747136D01595ED0815BFA5AE0BFB1C3/shop' -> 'api_vender_pre/shop_1613569790_156_delay'
-'/home/myid/jd/jd_signup/shop/FD8F6EDB325BCD95E49E32F7ABDA9677/shop' -> 'api_vender_pre/shop_1613569867_260_delay'
-'/home/myid/jd/jd_signup/shop/A5B67E8A3BC1C2EF057F52FF8C2FE46F/shop' -> 'api_vender_pre/shop_1613569810_178_delay'
-'/home/myid/jd/jd_signup/shop/29B9DE367087FBDE0EE2BA7D52AD058A/shop' -> 'api_vender_pre/shop_1613569744_46_delay'
-'/home/myid/jd/jd_signup/shop/1AE5340D7A8F8F25A039D85EEFFFC06D/shop' -> 'api_vender_pre/shop_1613569738_29_delay'
-'/home/myid/jd/jd_signup/shop/647FDA75E8C35629CBE3DF8850D9195C/shop' -> 'api_vender_pre/shop_1613569770_124_delay'
-'/home/myid/jd/jd_signup/shop/4FB5C04E5C7FB53F269D3E743EA9D259/shop' -> 'api_vender_pre/shop_1613569760_94_delay'
-'/home/myid/jd/jd_signup/shop/DDBCCEFA3E482983C0457909147790BF/shop' -> 'api_vender_pre/shop_1613569849_232_delay'
-'/home/myid/jd/jd_signup/shop/5D8186A8C86CBD8D5417DF93450AB82D/shop' -> 'api_vender_pre/shop_1613569766_111_delay'
-'/home/myid/jd/jd_signup/shop/0BC9510C416C04ED9B913CBBE26BBC39/shop' -> 'api_vender_pre/shop_1613569733_14_delay'
-'/home/myid/jd/jd_signup/shop/CAFD90F3040A52A2B5762C9EA174BD97/shop' -> 'api_vender_pre/shop_1613569836_213_delay'
-'/home/myid/jd/jd_signup/shop/5AB692B5E2C488D821004A99C128530B/shop' -> 'api_vender_pre/shop_1613569764_106_delay'
-'/home/myid/jd/jd_signup/shop/BAA75D8206C5A108C7A2020FB757D936/shop' -> 'api_vender_pre/shop_1613569829_203_delay'
-'/home/myid/jd/jd_signup/shop/B473E87DF38664B5480C7328F671565E/shop' -> 'api_vender_pre/shop_1613569823_198_delay'
-'/home/myid/jd/jd_signup/shop/E6DDB35DD0300EC34AF650E3A2EFFA25/shop' -> 'api_vender_pre/shop_1613569853_239_delay'
-'/home/myid/jd/jd_signup/shop/2D28388E3BFBF9D78094B96100A8EFEE/shop' -> 'api_vender_pre/shop_1613569745_49_delay'
-'/home/myid/jd/jd_signup/shop/4CEBBE2B227114D9FC0276FDCB8719BD/shop' -> 'api_vender_pre/shop_1613569759_92_delay'
-'/home/myid/jd/jd_signup/shop/8470BC17F965FE8351DA4197044C92FE/shop' -> 'api_vender_pre/shop_1613569789_152_delay'
-'/home/myid/jd/jd_signup/shop/408F5240E0FA897F9F10694FF8560C97/shop' -> 'api_vender_pre/shop_1613569755_79_delay'
-'/home/myid/jd/jd_signup/shop/731DB0ABF6794D31313D03F62D9981A8/shop' -> 'api_vender_pre/shop_1613569773_133_delay'
-'/home/myid/jd/jd_signup/shop/8A06F1A93774715A0B595E792D1B2B01/shop' -> 'api_vender_pre/shop_1613569791_158_delay'
-'/home/myid/jd/jd_signup/shop/E82EED70984EEFB4E44421A0DB150931/shop' -> 'api_vender_pre/shop_1613569854_241_delay'
-'/home/myid/jd/jd_signup/shop/ABF598106E227D40CD0E09A073E9449D/shop' -> 'api_vender_pre/shop_1613569814_183_delay'
-'/home/myid/jd/jd_signup/shop/D3E3FCF7EF16F8AF260B395D319C6742/shop' -> 'api_vender_pre/shop_1613569843_225_delay'
-'/home/myid/jd/jd_signup/shop/5E08D8C0C39217CD6B8C914684A3AA84/shop' -> 'api_vender_pre/shop_1613569766_112_delay'
-'/home/myid/jd/jd_signup/shop/AFD2C979E2C254AD68A0A9102009D317/shop' -> 'api_vender_pre/shop_1613569816_191_delay'
-'/home/myid/jd/jd_signup/shop/F23B5DE7BD17BE868C8F80F2870F5404/shop' -> 'api_vender_pre/shop_1613569864_252_delay'
-'/home/myid/jd/jd_signup/shop/0ECB053E86952AEBC747B2BF26114721/shop' -> 'api_vender_pre/shop_1613569735_19_delay'
-'/home/myid/jd/jd_signup/shop/DE6E331A08C4C52CB8F1C32D461033E6/shop' -> 'api_vender_pre/shop_1613569850_233_delay'
-'/home/myid/jd/jd_signup/shop/0311C6EF1D78A9843A0465666A0B9209/shop' -> 'api_vender_pre/shop_1613569730_4_delay'
-'/home/myid/jd/jd_signup/shop/E6591E0FA6E8C7CB64BF3990F7DCEAA9/shop' -> 'api_vender_pre/shop_1613569853_237_delay'
-'/home/myid/jd/jd_signup/shop/0B61C7659EFF3FAFA47FAFD6F550B94A/shop' -> 'api_vender_pre/shop_1613569733_13_delay'
-'/home/myid/jd/jd_signup/shop/AD6D888FC352DF47F896144895D3AD1D/shop' -> 'api_vender_pre/shop_1613569815_187_delay'
-'/home/myid/jd/jd_signup/shop/9C3BD37ADDF89C69FFA94310E65BAF3E/shop' -> 'api_vender_pre/shop_1613569800_169_delay'
-'/home/myid/jd/jd_signup/shop/32BCD4DD3955AB4D49105BA09CB83BF0/shop' -> 'api_vender_pre/shop_1613569748_57_delay'
-'/home/myid/jd/jd_signup/shop/9427FEC37B8799EEC044AB62828FAA36/shop' -> 'api_vender_pre/shop_1613569799_167_delay'
-'/home/myid/jd/jd_signup/shop/DB5CB93CBD5503D2AEE57008785F96DA/shop' -> 'api_vender_pre/shop_1613569848_229_delay'
-'/home/myid/jd/jd_signup/shop/35C8403320DB32EDDA2E2C989B146041/shop' -> 'api_vender_pre/shop_1613569750_64_delay'
-'/home/myid/jd/jd_signup/shop/FA286162CC629CD3649D6B50299AC126/shop' -> 'api_vender_pre/shop_1613569866_258_delay'
-'/home/myid/jd/jd_signup/shop/045F648EBC2E036B266B3A88A4C28C95/shop' -> 'api_vender_pre/shop_1613569732_9_delay'
-'/home/myid/jd/jd_signup/shop/E89A70999ADE33C7D8D2DDD5ACAD0C5C/shop' -> 'api_vender_pre/shop_1613569854_242_delay'
-'/home/myid/jd/jd_signup/shop/28228D1B5414046523D6E67DFC5B9E72/shop' -> 'api_vender_pre/shop_1613569743_43_delay'
-'/home/myid/jd/jd_signup/shop/1A0FCD9A4AC7DEE20CBBAE1FF3E82E76/shop' -> 'api_vender_pre/shop_1613569738_28_delay'
-'/home/myid/jd/jd_signup/shop/89335A545F9B50C93D7886A8977F251D/shop' -> 'api_vender_pre/shop_1613569790_157_delay'
-'/home/myid/jd/jd_signup/shop/A5E0FE0B010BCA2ADD3A43CAECCFD01B/shop' -> 'api_vender_pre/shop_1613569811_179_delay'
-'/home/myid/jd/jd_signup/shop/5E21043FDB5D5546AE8AC31DC616FC26/shop' -> 'api_vender_pre/shop_1613569766_113_delay'
-'/home/myid/jd/jd_signup/shop/15C967ADD74DDD3A8DAAA1E765D8FC6D/shop' -> 'api_vender_pre/shop_1613569737_24_delay'
-'/home/myid/jd/jd_signup/shop/03F24C6CCF2D78AFFB8B258950EA8695/shop' -> 'api_vender_pre/shop_1613569732_8_delay'
-'/home/myid/jd/jd_signup/shop/EEEE3AAFA63B769550E8A1B3892B2A1A/shop' -> 'api_vender_pre/shop_1613569864_251_delay'
-'/home/myid/jd/jd_signup/shop/D08A705742E6BFE376AFC4175FADF5E9/shop' -> 'api_vender_pre/shop_1613569842_222_delay'
-'/home/myid/jd/jd_signup/shop/590CCC18955094C7E90E78E6AC1ABB7A/shop' -> 'api_vender_pre/shop_1613569763_103_delay'
-'/home/myid/jd/jd_signup/shop/C454B34D650C926E0E68D77CEBCE470C/shop' -> 'api_vender_pre/shop_1613569832_208_delay'
-'/home/myid/jd/jd_signup/shop/34F5264592DB6267CFA09F5848770FFF/shop' -> 'api_vender_pre/shop_1613569749_61_delay'
-'/home/myid/jd/jd_signup/shop/E0503EDC02E47488A9B1B404DC26D8B4/shop' -> 'api_vender_pre/shop_1613569850_234_delay'
-'/home/myid/jd/jd_signup/shop/861D5CE99725D8388B377EEFD004E495/shop' -> 'api_vender_pre/shop_1613569789_153_delay'
-'/home/myid/jd/jd_signup/shop/0dd5dff2523344ba8b3a1683ec2973df/shop' -> 'vender/shop_1613569734_15_delay'
-'/home/myid/jd/jd_signup/shop/9C429EF438FCB6E5A82900C2CBF74063/shop' -> 'api_vender_pre/shop_1613569800_170_delay'
-'/home/myid/jd/jd_signup/shop/7A6816EED893FEB8B86055E169C30493/shop' -> 'api_vender_pre/shop_1613569776_141_delay'
-'/home/myid/jd/jd_signup/shop/73E495F79889862EDBADCF57FE4F6378/shop' -> 'api_vender_pre/shop_1613569773_134_delay'
-'/home/myid/jd/jd_signup/shop/8682F0CA97CA2FABE55226D27A68027D/shop' -> 'api_vender_pre/shop_1613569789_154_delay'
-'/home/myid/jd/jd_signup/shop/3c01293b278443d1bda532575fa810d1/shop' -> 'vender/shop_1613569752_70_delay'
-'/home/myid/jd/jd_signup/shop/1611635c76a84d969234b8b7c6871c65/shop' -> 'vender/shop_1613569737_25_delay'
-'/home/myid/jd/jd_signup/shop/A91A92BF40CF8B22B9F862A34AE58D9B/shop' -> 'api_vender_pre/shop_1613569811_180_delay'
-'/home/myid/jd/jd_signup/shop/7CA952E01AD6887CE721E25980DA6A1E/shop' -> 'api_vender_pre/shop_1613569777_144_delay'
-'/home/myid/jd/jd_signup/shop/7F1721052687E981F31F4B8510D692EF/shop' -> 'api_vender_pre/shop_1613569782_148_delay'
-'/home/myid/jd/jd_signup/shop/402C8F0E7C290BA054D3DA257FCA0C51/shop' -> 'api_vender_pre/shop_1613569755_78_delay'
-'/home/myid/jd/jd_signup/shop/48A0A73ACF6C547F7B3B001AAA3394FB/shop' -> 'api_vender_pre/shop_1613569758_87_delay'
-'/home/myid/jd/jd_signup/shop/ce895ed405234bf794275f998e28b6b6/shop' -> 'vender/shop_1613569840_217_delay'
-'/home/myid/jd/jd_signup/shop/d31e2fdc64bc453cb458bd2818deb581/shop' -> 'vender/shop_1613569843_224_delay'
-'/home/myid/jd/jd_signup/shop/91CFA12DDE5E9893514D940DF4EF821B/shop' -> 'api_vender_pre/shop_1613569795_164_delay'
-'/home/myid/jd/jd_signup/shop/9e6c312a63dd467881e9f0ebc9715fbe/shop' -> 'vender/shop_1613569804_175_delay'
-'/home/myid/jd/jd_signup/shop/ADC8C3553216669ADD0D2AB057307213/shop' -> 'api_vender_pre/shop_1613569815_188_delay'
-'/home/myid/jd/jd_signup/shop/1e5cac4ad760485d931141412c9fab0c/shop' -> 'lzkj_sevenDay_vender/shop_1613569740_34_delay'
-'/home/myid/jd/jd_signup/shop/64BB8198DEADBF376D0CDAEC8D13E5ED/shop' -> 'api_vender_pre/shop_1613569771_125_delay'
-'/home/myid/jd/jd_signup/shop/03C9E1B58E7D384F384CFE2643AEB6DF/shop' -> 'api_vender_pre/shop_1613569731_7_delay'
+./vender/shop_1613569734_15_delay
+./vender/shop_1613569737_25_delay
+./vender/shop_1613569741_37_delay
+./vender/shop_1613569742_40_delay
+./vender/shop_1613569752_70_delay
+./vender/shop_1613569763_104_delay
+./vender/shop_1613569776_142_delay
+./vender/shop_1613569804_175_delay
+./vender/shop_1613569820_195_delay
+./vender/shop_1613569832_206_delay
+./vender/shop_1613569840_217_delay
+./vender/shop_1613569843_224_delay
+将未签到的活动移入签到目录

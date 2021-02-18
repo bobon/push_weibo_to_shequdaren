@@ -18,6 +18,10 @@ error() {
   kill -s TERM $TOP_PID
 }
 
+ERRTRAP() {
+  log_error "RUN $u31_2_ume_sh at $1 ERROR CODE: $?"
+}
+trap 'ERRTRAP {$LINENO:${FUNCNAME[0]}\<--${FUNCNAME[1]}}' ERR
 
 mkdir -vp log
 mkdir -vp api_vender_pre
@@ -48,8 +52,10 @@ for i in $(find $sign_base_dir/shop/ -name shop -type f); do
 	fi
 	#continue
 	
-	#cat log/tmp
-	if [ $(egrep '当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在' log/tmp>/dev/null;echo $?) -eq 0 ]; then
+	if [ ! -f "$i" ]; then
+		cat log/tmp
+		echo "$i 已经被删除."
+	elif [ $(egrep '当前不存在有效的活动|活动已结束|活动已经结束|会员才能参加活动|该活动已经不存在' log/tmp>/dev/null;echo $?) -eq 0 ]; then
 		mv -vf "$i" "${i}_del"
 		echo "发现不存在的活动. $i --> ${i}_del"
 	else

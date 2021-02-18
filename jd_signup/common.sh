@@ -33,6 +33,11 @@ error() {
   kill -s TERM $TOP_PID
 }
 
+ERRTRAP() {
+  log_error "RUN $u31_2_ume_sh at $1 ERROR CODE: $?"
+}
+trap 'ERRTRAP {$LINENO:${FUNCNAME[0]}\<--${FUNCNAME[1]}}' ERR
+
 log_d() {
 	if [ "$1" = "-" ]; then
     cat $1 >&2

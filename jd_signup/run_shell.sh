@@ -71,5 +71,5 @@ sleep 0.3
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1613046189_2 20 > /home/myid/jd/jd_signup/log/now/config_04_shop_1613046189_2_${log_f}.log 2>&1 &
 
 sleep 0.3
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del 5 > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del 25 > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_${log_f}.log 2>&1 &
 

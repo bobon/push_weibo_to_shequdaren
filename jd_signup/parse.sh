@@ -89,15 +89,23 @@ check_shop_base() {
 			jq '' $shop_base/shopSign.json		
 		else
 			error "解析重复的店铺活动失败。"
+		fi		
+		error "[ERROR] 重复的 $shop_base"
+	else
+		if [ "$batch_pro" = "true" ]; then
+			echo "批量处理时，发现新店铺活动"
+			echo "$shop_base" >> $sign_base_dir/log/batch_parse_find_new_vender.tmp
 		fi
-		error "[ERROR] 重复的 $shop_base"		
 	fi
 }
 
 get_shopSign_h5() {
 	unset token
-	token=$(echo $location | sed -r -e 's,.*token=,,' -e 's,&.*,,')
-	[ ! -z "$token" ] || error "token error"
+	token=$(echo $location | grep 'token=' | sed -r -e 's,.*token=,,' -e 's,&.*,,')
+	if [ -z "$token" ]; then
+		echo "[WARN] token error from $location"
+		return
+	fi
 	log_d "get token from location:\n$token"
 	
 	shop_base="shop/$token"
@@ -436,10 +444,14 @@ parse_prize_lzkj() {
 }
 
 
+sign_base_dir=/home/myid/jd/jd_signup
+cd $sign_base_dir
+
 if [ "$2" = "-f" ]; then
 	force_del="force"
+elif [ "$2" = "batch_pro" ]; then
+	batch_pro=true
 fi
-input="$1"
 if [ ! -z "$1" ] && [ $(echo "$1" | egrep "^https:" >/dev/null;echo $?) -eq 0 ]; then
 	locations="$1"
 elif [ -f "$1" ]; then
@@ -455,10 +467,13 @@ fi
 echo -e "$locations"
 mkdir -vp locations
 echo -e "$locations" >> locations/locations
+cat locations/locations | sort | uniq > locations/locations.tmp
+mv locations/locations.tmp locations/locations
 echo
 
 for location in $(echo -e "$locations"); do
 	echo "location: $location"
+	input="$location"
 	# https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
 	if [ $(echo "$location" | egrep "^https://${lzkj_svr}/sign/sevenDay/signActivity" >/dev/null;echo $?) -eq 0 ]; then
 		get_shopSign_lzkj_sevenDay $(parse_venderId_actId_from_location "$location")
@@ -469,7 +484,7 @@ for location in $(echo -e "$locations"); do
 	# https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1EEAA3666DC9E22BABE44B1ABCC27325
 	elif [ $(echo "$location" | egrep "^https://${h5_svr}/babelDiy/Zeus/" >/dev/null;echo $?) -eq 0 ]; then
 		get_shopSign_h5
-	elif [ $(echo "$1" | egrep "^https://u.jd.com/" >/dev/null;echo $?) -eq 0 ]; then
+	elif [ $(echo "$location" | egrep "^https://u.jd.com/" >/dev/null;echo $?) -eq 0 ]; then
 		# https://u.jd.com/IyOZZAp
 		readonly duan="$1"
 		readonly log=log/parse/$(echo "$1" | sed -r -e 's,:|[.]|/,_,g')
@@ -514,14 +529,3 @@ exit 0
 # cat log/sign.tmp | xargs -i ./parse.sh {}
 # ./sign_check.sh | tee log/sign_check
 # find ./ -name 'shop_[0-9]*_delay'
-
-
-for kk in $(find api_vender_pre/ -type f); do
-	unset actRule
-	source $kk
-	if [ $(echo -e "$actRule" | grep '京豆' >/dev/null;echo $?) -eq 0 ]; then
-		echo -e "$kk\n$actRule"
-	else
-		echo rm -rvf $kk
-	fi
-done

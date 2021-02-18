@@ -110,6 +110,7 @@ filer_venderId() {
 }
 
 check_sign() {
+	echo "新店铺 $(cat "$1" | wc -l) 个"
 	for i in $(cat "$1"); do
 		echo "check vender: $i -> $(get_shopmemberinfo $i)"
 		get_sign "$i"  | tee -a log/sign.tmp

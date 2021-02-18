@@ -1,0 +1,17 @@
+# 短链接
+suo_url="https://u.jd.com/IZQif16"
+venderId=1000003448
+startTime=1612368000000
+endTime=1614527999000
+activityId=10266364
+token=D0AD720BE08231838A03965EA510C73C
+#店铺名称
+vendername="好孩子京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D0AD720BE08231838A03965EA510C73C&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_2011197925_&utm_term=11ef1c76d98343c689ee80e9f7c1d54a
+# 活动时间：2021.02.04 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5京豆
+连续签到7天：50京豆
+"
