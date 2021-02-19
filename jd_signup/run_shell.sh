@@ -9,7 +9,7 @@ if [ "$2" = "precise" ]; then
 			break
 		else
 			sleep 0.5
-			echo "$(date +"%x %X %N %s") sleep 0.5 继续等待"
+			#echo "$(date +"%x %X %N %s") sleep 0.5 继续等待"
 		fi
 	done
 	unset date_0_f

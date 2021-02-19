@@ -48,7 +48,7 @@ log_d() {
 
 cd $sign_base_dir
 
-if false; then
+if true; then
 ./search.sh 牛奶 || true
 ./search.sh 奶粉 || true
 ./search.sh 计生 || true
