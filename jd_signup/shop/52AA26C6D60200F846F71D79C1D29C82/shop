@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=1000090926
+startTime=1611936000000
+endTime=1614527999000
+activityId=10260897
+token=52AA26C6D60200F846F71D79C1D29C82
+#店铺名称
+vendername="迪士尼玩具京东自营专区"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=52AA26C6D60200F846F71D79C1D29C82
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到7天：100店铺积分
+连续签到15天：200店铺积分
+"

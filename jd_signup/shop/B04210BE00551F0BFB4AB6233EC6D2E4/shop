@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10155532
+startTime=1613664000000
+endTime=1616169599000
+activityId=10270975
+token=B04210BE00551F0BFB4AB6233EC6D2E4
+#店铺名称
+vendername="滋味轩官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B04210BE00551F0BFB4AB6233EC6D2E4
+# 活动时间：2021.02.19 00:00:00 - 2021.03.19 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到7天：100店铺积分
+"

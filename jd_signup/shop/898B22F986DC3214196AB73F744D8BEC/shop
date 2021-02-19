@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000081929
+startTime=1612112400000
+endTime=1614441600000
+activityId=10259360
+token=898B22F986DC3214196AB73F744D8BEC
+#店铺名称
+vendername="莫代尔京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=898B22F986DC3214196AB73F744D8BEC
+# 活动时间：2021.02.01 01:00:00 - 2021.02.28 00:00:00
+# 奖励说明：
+actRule="
+连续签到3天：满79-5店铺券
+连续签到5天：1京豆
+"

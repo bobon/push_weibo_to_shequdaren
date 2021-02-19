@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10199182
+startTime=1612195200000
+endTime=1614527999000
+activityId=10262486
+token=5DB9DC17949E2FBCA252DEE9D651F794
+#店铺名称
+vendername="丘巴旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5DB9DC17949E2FBCA252DEE9D651F794
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：2京豆
+连续签到7天：满499-160店铺券
+"

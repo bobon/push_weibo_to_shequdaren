@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10638184
+startTime=1611590400000
+endTime=1614182399000
+activityId=10256604
+token=D1F792B0244A7A46B15027CD0F5E1EA1
+#店铺名称
+vendername="乐境旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D1F792B0244A7A46B15027CD0F5E1EA1
+# 活动时间：2021.01.26 00:00:00 - 2021.02.24 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：满30-5店铺券
+"

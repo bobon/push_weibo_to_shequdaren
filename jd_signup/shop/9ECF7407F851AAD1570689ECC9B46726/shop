@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=218367
+startTime=1612368000000
+endTime=1614527999000
+activityId=10266794
+token=9ECF7407F851AAD1570689ECC9B46726
+#店铺名称
+vendername="红功夫旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9ECF7407F851AAD1570689ECC9B46726
+# 活动时间：2021.02.04 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到3天：满20-10店铺券
+"

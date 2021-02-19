@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000294878
+startTime=1611590400000
+endTime=1614182399000
+activityId=10257343
+token=B7035D608A30C2FDE19AAD89AAFA78E4
+#店铺名称
+vendername="若来京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B7035D608A30C2FDE19AAD89AAFA78E4
+# 活动时间：2021.01.26 00:00:00 - 2021.02.24 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1店铺积分
+连续签到30天：30店铺积分
+"

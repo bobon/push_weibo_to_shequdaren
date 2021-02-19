@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=222366
+startTime=1613318400000
+endTime=1614527999000
+activityId=10260223
+token=7FF3158096B9045A4D20371EFA3EC509
+#店铺名称
+vendername="肖三婆旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7FF3158096B9045A4D20371EFA3EC509
+# 活动时间：2021.02.15 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：满199-50店铺券
+连续签到7天：满258-60店铺券
+"

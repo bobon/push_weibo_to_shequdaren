@@ -48,7 +48,8 @@ else
 				a=false
 			fi
 		fi
-
+		echo "$(date +"%x %X %N  %s") 检查$pt_pin1签到"
+		
 		if [ -z "$pt_pin2" ]; then
 				b=true
 		else
@@ -72,7 +73,8 @@ else
 				b=false
 			fi
 		fi
-
+		echo "$(date +"%x %X %N  %s") 检查$pt_pin2签到"
+		
 		if [ "$a" = "true" ] && [ "$b" = "true" ]; then
 			echo "今天已全部签到过"
 			cat "$2"
@@ -88,9 +90,8 @@ else
 
 		if [ "$a" = "false" ]; then
 		echo
-		date +"%x %X %N  %s"
-		echo "${pin1_name}签到$vendername"
-		t1=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=1609588867000&loginType=2&functionId=interact_center_shopSign_signCollectGift&body=\{%22token%22:%22${token}%22,%22venderId%22:${venderId},%22activityId%22:${activityId},%22type%22:56,%22actionType%22:7\}&jsonp=jsonp1004" \
+		echo "$(date +"%x %X %N  %s") ${pin1_name}签到$vendername"
+		time t1=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=1609588867000&loginType=2&functionId=interact_center_shopSign_signCollectGift&body=\{%22token%22:%22${token}%22,%22venderId%22:${venderId},%22activityId%22:${activityId},%22type%22:56,%22actionType%22:7\}&jsonp=jsonp1004" \
 		  -H 'authority: api.m.jd.com' \
 		  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
 		  -H 'accept: */*' \
@@ -122,9 +123,8 @@ else
 		else
 			if [ "$b" = "false" ]; then
 			echo
-			date +"%x %X %N  %s"
-			echo "${pin2_name}签到$vendername"
-			t2=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=1609588867000&loginType=2&functionId=interact_center_shopSign_signCollectGift&body=\{%22token%22:%22${token}%22,%22venderId%22:${venderId},%22activityId%22:${activityId},%22type%22:56,%22actionType%22:7\}&jsonp=jsonp1004" \
+			echo "$(date +"%x %X %N  %s") ${pin2_name}签到$vendername"
+			time t2=$(curl -sS -k "https://api.m.jd.com/api?appid=interCenter_shopSign&t=1609588867000&loginType=2&functionId=interact_center_shopSign_signCollectGift&body=\{%22token%22:%22${token}%22,%22venderId%22:${venderId},%22activityId%22:${activityId},%22type%22:56,%22actionType%22:7\}&jsonp=jsonp1004" \
 			  -H 'authority: api.m.jd.com' \
 			  -H 'user-agent: jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0' \
 			  -H 'accept: */*' \
@@ -151,9 +151,10 @@ else
 			  fi
 			fi	
 		fi
-
+		date +"%x %X %N %s"
+		
 		if [ "$a" = "true" ] && [ "$b" = "true" ]; then
-			echo "签到${vendername}完成"
+			echo "$(date +"%x %X %N %s") 签到${vendername}完成"
 			break
 		else
 			time sleep $(echo "0.2 * $delay"|bc)
@@ -166,7 +167,7 @@ else
 	elif [ $(echo "$2" | grep '_delay$'>/dev/null;echo $?) -eq 0 ]; then 
 		sleep $RANDOM_num
 	else
-		let RANDOM_num=RANDOM_num*2
+		let RANDOM_num=RANDOM_num*3
 		sleep $RANDOM_num
 	fi
 

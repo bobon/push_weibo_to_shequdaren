@@ -164,7 +164,7 @@ if_chang_delay() {
 		return
 	fi
 	
-	unset actId; unset token; unset rule; unset actRule; unset vendername
+	unset actId; unset token; unset rule; unset actRule; unset vendername; unset url
 	source "$ven_f"
 	if [ -z "$vendername" ]; then
 		vendername=$(basename $ven_f)
@@ -297,7 +297,7 @@ if_chang_delay() {
 		
 		if [ "$is_force_delay" = "true" ]; then
 			if [ "${ven_f:0-6:6}" = "_delay" ]; then
-				log_s "奖品需要手工拼抢，并填写地址. 不改名字 $ven_f"
+				log_s "[RUN] 奖品需要手工拼抢，并填写地址. 不改名字 $ven_f"
 			else	
 				log_s "[RUN] 奖品需要手工拼抢，并填写地址. $ven_f --> ${ven_f}_delay"
 				if [ "$2" = "test" ]; then

@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=143980
+startTime=1612540800000
+endTime=1614959999000
+activityId=10268856
+token=B21EC2FAEC0CF77E52797FECB941A58D
+#店铺名称
+vendername="大江米瑟专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B21EC2FAEC0CF77E52797FECB941A58D
+# 活动时间：2021.02.06 00:00:00 - 2021.03.05 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：满45-5店铺券
+"

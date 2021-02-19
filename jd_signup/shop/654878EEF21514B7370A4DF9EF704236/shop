@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=738257
+startTime=1611849600000
+endTime=1614441599000
+activityId=10259971
+token=654878EEF21514B7370A4DF9EF704236
+#店铺名称
+vendername="田野尽头生鲜旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=654878EEF21514B7370A4DF9EF704236
+# 活动时间：2021.01.29 00:00:00 - 2021.02.27 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：满99-5店铺券
+连续签到5天：满10-5店铺券
+"

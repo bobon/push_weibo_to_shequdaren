@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=10606682
+startTime=1612108800000
+endTime=1614527999000
+activityId=10261098
+token=933C474FE0F42792FA428D0D24C22025
+#店铺名称
+vendername="雅马哈绿城专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=933C474FE0F42792FA428D0D24C22025
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到7天：30店铺积分
+连续签到14天：50店铺积分
+连续签到21天：90店铺积分
+"

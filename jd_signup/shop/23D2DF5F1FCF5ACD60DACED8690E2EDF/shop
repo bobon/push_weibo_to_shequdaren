@@ -1,0 +1,55 @@
+# 短链接
+suo_url=""
+venderId=750284
+startTime=1612540800000
+endTime=1613750399000
+activityId=10267687
+token=23D2DF5F1FCF5ACD60DACED8690E2EDF
+#店铺名称
+vendername="黑鲸 HLAJEANS旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=23D2DF5F1FCF5ACD60DACED8690E2EDF
+# 活动时间：2021.02.06 00:00:00 - 2021.02.19 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到3天：30店铺积分
+连续签到5天：50店铺积分
+连续签到10天：150店铺积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1612540800;signed=1;currentDay=2
+signTime=1612627200;signed=1;currentDay=2
+signTime=1612713600;signed=1;currentDay=2
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613232000;signed=1;currentDay=2
+signTime=1613318400;signed=1;currentDay=2
+signTime=1613404800;signed=1;currentDay=2
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613664000;signed=1;currentDay=1"
+sign_num="0"
+giftRes=""
+giftDate="20210219"
+sign_res_info="
+2021/02/06_00:00:00  2    未签到
+2021/02/07_00:00:00  2    未签到
+2021/02/08_00:00:00  2    未签到
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  1    未签到
+已签到 0 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

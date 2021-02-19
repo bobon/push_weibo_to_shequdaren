@@ -79,6 +79,9 @@ check_if_have_fail_lzkj() {
 			
 			if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
 				local err_="$err_$pin_name ${pt_pin} 签到失败: $giftRes\n"
+				if [ "$1" = "batch" ]; then
+					echo "[sign fail] $tt"
+				fi
 			fi
 			if [ "${tt:0:7}" = "vender/" ]; then
 				if [ "$sign_num" = "" ] || [ "$sign_total_num" = "" ]; then
@@ -99,7 +102,7 @@ check_if_have_fail_lzkj() {
 }
 
 check_del_vender() {
-	local dd=$(grep -r '活动已结束' log/now log/delay log/jifen)
+	local dd=$(grep -r '活动已结束' log/now log/delay log/jifen | sed -r -e 's,.*活动已结束.,,' | sort | uniq)
 	if [ -z "$dd" ]; then
 		log_s "\n检查是否有删除的活动"
 	else
@@ -109,7 +112,7 @@ check_del_vender() {
 
 check_if_have_fail() {
 	check_if_have_fail_h5
-	check_if_have_fail_lzkj
+	check_if_have_fail_lzkj "$1"
 }
 
 check_res() {
@@ -135,7 +138,7 @@ cd /home/myid/jd/jd_signup/
 source common.sh
 log_s "\n\n* * * * * * * * * * * * * * * * * *\n记录时刻 $(date +"%Y%m%d_%H%M%S_%N")\n"
 if [ "$1" = "checkfail" ]; then
-	check_if_have_fail
+	check_if_have_fail "$2"
 elif [ ! -z "$1" ]; then
 	if_chang_delay "$1"
 else

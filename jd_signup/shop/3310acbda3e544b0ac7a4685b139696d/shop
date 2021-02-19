@@ -1,0 +1,30 @@
+actId=3310acbda3e544b0ac7a4685b139696d
+venderId=143080
+startTime=1612540800000
+endTime=1614514739000
+# 短链接
+suo_url="https://3.cn/100YkXR-Q"
+actTimeStr="2021-02-06 00:00 至 2021-02-28 20:18"
+#店铺名称
+vendername="戴尔官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3310acbda3e544b0ac7a4685b139696d&venderId=143080&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.06 00:00:00 - 2021.02.28 20:18:59
+# 奖励说明：
+actRule="
+连续签到15天：20京豆 20京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613692800;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210219"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+当天签到奖励 "2京豆"
+连续签到 1 天
+签到总天数 1"
+#移动 jd_OeTNobRVGiNZ sign_res_end

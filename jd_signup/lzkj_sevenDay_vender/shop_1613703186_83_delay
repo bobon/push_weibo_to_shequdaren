@@ -1,0 +1,47 @@
+#店铺名称
+vendername="Kendall康度京东自营专区"
+#店铺激活码
+actId="cd7a717f17914fda93377be959493730"
+#店铺id
+venderId="1000103167"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao"
+
+startTime=1612341120
+endTime=1614933120
+# 活动时间：2021-02-03 16:32 - 2021-03-05 16:32；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20店铺积分
+连续签到2天：50店铺积分
+连续签到3天：50店铺积分
+连续签到4天：50店铺积分
+连续签到5天：50店铺积分
+连续签到6天：2京豆
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210219"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210219"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210219"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210219"
+#移动 jd_OeTNobRVGiNZ sign_res_end

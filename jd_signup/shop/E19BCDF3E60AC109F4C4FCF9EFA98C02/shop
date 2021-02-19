@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10518193
+startTime=1611849600000
+endTime=1614441599000
+activityId=10259901
+token=E19BCDF3E60AC109F4C4FCF9EFA98C02
+#店铺名称
+vendername="植得旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E19BCDF3E60AC109F4C4FCF9EFA98C02
+# 活动时间：2021.01.29 00:00:00 - 2021.02.27 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到7天：100店铺积分
+"
