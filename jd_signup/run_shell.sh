@@ -124,5 +124,5 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/
 
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del 10 > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del 25 > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_${log_f}.log 2>&1 &
 

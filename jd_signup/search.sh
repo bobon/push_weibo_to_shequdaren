@@ -41,6 +41,11 @@ log_d() {
 	fi
 }
 
+ERRTRAP() {
+  log_error "RUN $u31_2_ume_sh at $1 ERROR CODE: $?"
+}
+trap 'ERRTRAP {$LINENO:${FUNCNAME[0]}\<--${FUNCNAME[1]}}' ERR
+
 search() {
 	curl -sS -k 'https://so.m.jd.com/ware/search.action?searchFrom=search&sf=11&as=1' \
 	  -H 'Connection: keep-alive' \
@@ -82,7 +87,11 @@ get_sign() {
 
 get_shopmemberinfo() {
 	if [ -d "/home/myid/all_shop_info/${1}" ]; then
-		error "重复的店铺 /home/myid/all_shop_info/${1}"
+		if [ "$flush" = "true" ]; then
+			echo "[WARN] 重复的店铺 /home/myid/all_shop_info/${1}"
+		else
+			error "重复的店铺 /home/myid/all_shop_info/${1}"
+		fi
 	else
 		mkdir -vp "/home/myid/all_shop_info/${1}" | log_d -
 	fi
@@ -159,6 +168,17 @@ if [ -f "$1" ]; then
 	[ ! -z "$venderId" ] || error "venderId error from $1"
 	echo "check vender: $venderId -> $(get_shopmemberinfo $venderId)"
 	get_sign "$venderId"
+elif [ "$1" = "flush" ]; then
+	flush=true
+	echo "重新从log/all_shop.tmp中查找所有活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
+	if [ -f "log/sign.tmp" ]; then
+		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
+	fi
+	rm -rvf log/sign.tmp
+	check_sign log/all_shop.tmp
+	cat log/sign.tmp | sort | uniq > log/shop2.tmp
+	mv -vf log/shop2.tmp log/sign.tmp
+	echo "从 $(cat log/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
 else
 	unset shop_count; unset page_c
 	key="$1"
