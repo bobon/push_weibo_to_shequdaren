@@ -1,0 +1,139 @@
+02/20/21 00:00:02 905997300  1613750402
+RANDOM_num: 5
+force to sign
+
+real	0m0.890s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613751004	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613751004	LZ_TOKEN_KEY	lztokenpagebf35d006d9f448eeb169c8d56f005e55
+02/20/21 00:00:05 454873700  1613750405
+use pt_key
+
+real	0m1.160s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:00:06 865710400  1613750406 token: AAFgL-CGADBfFEwqmrCPPO5Ps_oTntFIcy2k9EfKMcespgFhZjRAgclwsMZ7G9zv-ilQjwdWVXY
+
+real	0m1.610s
+user	0m0.109s
+sys	0m0.125s
+02/20/21 00:00:08 986318500  1613750408 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/20/21 00:00:09 477933300  1613750409 赵签到泉林本色京东自营旗舰店
+
+real	0m1.715s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "dkklSV",
+    "giftLogId": "ab626708f16b4b48a8a45ff446f0bf1c",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "20",
+      "giftType": "9",
+      "giftName": "20店铺积分",
+      "giftNum": "20",
+      "giftTotal": "10000",
+      "giftResidue": null,
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+02/20/21 00:00:15 170905700 1613750415
+02/20/21 00:00:15 440194900 1613750415 签到泉林本色京东自营旗舰店完成
+02/20/21 00:00:32 669909400  1613750432
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+7天签到 第  天
+***********************************************
+
+赵签到泉林本色京东自营旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="泉林本色京东自营旗舰店"
+#店铺激活码
+actId="1e5cac4ad760485d931141412c9fab0c"
+#店铺id
+venderId="1000001906"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao"
+
+startTime=1612496160
+endTime=1614483360
+# 活动时间：2021-02-05 11:36 - 2021-02-28 11:36；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：10元优惠券
+连续签到3天：20店铺积分
+连续签到4天：1京豆
+连续签到5天：2京豆
+连续签到6天：3京豆
+连续签到7天：5京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="3"
+sign_res_info="7天签到 第 3 天"
+giftRes="ok"
+giftDate="20210219"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210219"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210219"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210220"
+#赵 122294312-396444 sign_res_end

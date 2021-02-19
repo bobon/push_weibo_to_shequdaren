@@ -1,0 +1,105 @@
+02/20/21 02:07:11 992072900  1613758031
+RANDOM_num: 10
+removed '/tmp/tmp.oxn4nzTwFh'
+02/20/21 02:07:12 071674900  1613758032
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210220
+***********************************************
+
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 10积分
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+actId=d31e2fdc64bc453cb458bd2818deb581
+venderId=1000007127
+startTime=1612144800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/1-00W9bVY"
+actTimeStr="2021-02-01 10:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="膳魔师（THERMOS）京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d31e2fdc64bc453cb458bd2818deb581&venderId=1000007127&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 10:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到28天：500积分 500积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 4 天
+签到总天数 4"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,116 @@
+02/20/21 00:30:02 856005300  1613752202
+RANDOM_num: 20
+removed '/tmp/tmp.QWcYllM6Bb'
+02/20/21 00:30:03 385084300  1613752203 检查赵签到
+
+real	0m0.819s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613752804	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613752804	LZ_TOKEN_KEY	lztokenpage0feda30bd48149b9b1454f992f37a67a
+02/20/21 00:30:05 294026200  1613752205
+use pt_key
+
+real	0m0.668s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:30:06 222911800  1613752206 token: AAFgL-eNADAd9G1C3AubTwwC4aHhYgWlAyqFd9FqAyno3SZe8PLOgE9PGtYo4W-GE0GKJ6gAmHE
+
+real	0m1.422s
+user	0m0.078s
+sys	0m0.078s
+02/20/21 00:30:07 858121500  1613752207 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/20/21 00:30:08 139442800  1613752208 赵签到蒙牛官方旗舰店
+
+real	0m0.900s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "当天只允许签到一次",
+  "isOk": false
+}
+"当天只允许签到一次"
+02/20/21 00:30:12 867574900 1613752212
+02/20/21 00:30:13 289599000 1613752213 签到蒙牛官方旗舰店完成
+02/20/21 00:31:14 553516300  1613752274
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+7天签到 第  天
+***********************************************
+
+赵签到蒙牛官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="蒙牛官方旗舰店"
+#店铺激活码
+actId="3f064b1a32ec4b2ab6e044aa1cacad06"
+#店铺id
+venderId="182542"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542"
+
+startTime=1612108800
+endTime=1614527940
+# 活动时间：2021-02-01 00:00 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：15京豆
+连续签到2天：30元优惠券
+连续签到3天：40元优惠券
+连续签到4天：8京豆
+连续签到5天：50元优惠券
+连续签到6天：20元优惠券
+连续签到7天：15京豆
+"
+
+#王 1309893722-164885 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes=""
+giftDate="20210220"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes=""
+giftDate="20210220"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes=""
+giftDate="20210220"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210220"
+#赵 122294312-396444 sign_res_end

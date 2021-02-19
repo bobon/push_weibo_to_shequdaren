@@ -1,0 +1,773 @@
+02/20/21 00:02:06 643714500  1613750526
+RANDOM_num: 20
+removed '/tmp/tmp.24YMiytfKd'
+02/20/21 00:02:08 196777600  1613750528
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210220
+***********************************************
+7天签到 第  天
+***********************************************
+
+赵 签到结果获取失败.
+02/20/21 00:02:08 406444400  1613750528 检查赵签到
+
+real	0m1.300s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:11 159516500  1613750531
+use pt_key
+
+real	0m1.079s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:02:12 633506700  1613750532 token: AAFgL-EEADAKymfd9k0OO0PGOrhi33Io8LJzaupfUF_U6LUwyR_F9XcEOA_oRCXUMRjIro-CaDw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.728s
+user	0m0.078s
+sys	0m0.078s
+02/20/21 00:02:15 001553700  1613750535 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:15 742979100  1613750535 赵签到蒙牛官方旗舰店
+
+real	0m1.640s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:02:23 470468500 1613750543
+
+real	0m1.710s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.666s
+user	0m0.047s
+sys	0m0.016s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:28 248310000  1613750548
+use pt_key
+
+real	0m3.137s
+user	0m0.078s
+sys	0m0.125s
+02/20/21 00:02:31 828736600  1613750551 token: AAFgL-EXADDlWxlWysKoMJHu2sYxM0WN6Ems6kInI9BLDkNpApF2Ew1sYDchXesfHLUU73kNA70
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.447s
+user	0m0.156s
+sys	0m0.078s
+02/20/21 00:02:35 739754400  1613750555 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:36 281540400  1613750556 赵签到蒙牛官方旗舰店
+
+real	0m1.497s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:02:48 320414900 1613750568
+
+real	0m2.072s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.904s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:55 289790800  1613750575
+use pt_key
+
+real	0m1.416s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:02:57 037669100  1613750577 token: AAFgL-EwADCg1BA1JgWEvJwWb8ixCzpIOy6FKV_kR_2JvlQI2EvnGNt9kJDJQ_SAY9Qxq5jlFRE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.869s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:02:59 326944000  1613750579 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:59 780976000  1613750579 赵签到蒙牛官方旗舰店
+
+real	0m1.086s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:08 314850900 1613750588
+
+real	0m2.557s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.305s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:14 555886600  1613750594
+use pt_key
+
+real	0m2.279s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:03:17 582268100  1613750597 token: AAFgL-FEADBc4tztT6epeWwOk2d0H0bCbtgurTRUONkaUMvQGb7W283h9hUEm0j5d7G2iHvJwLo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m4.475s
+user	0m0.125s
+sys	0m0.109s
+02/20/21 00:03:22 682136800  1613750602 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:23 161628200  1613750603 赵签到蒙牛官方旗舰店
+
+real	0m1.599s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:34 922010900 1613750614
+
+real	0m2.684s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.510s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:44 747789900  1613750624
+use pt_key
+
+real	0m2.283s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:03:47 727041600  1613750627 token: AAFgL-FiADC8IkEj7cARfHJVpLmaBChV0vmnM_xfVqhb8LqDH8FcHtOxdgCNmASR2okf_IBPQEE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.271s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:03:50 547033000  1613750630 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:51 137782200  1613750631 赵签到蒙牛官方旗舰店
+
+real	0m1.671s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:16 561043400 1613750656
+
+real	0m2.252s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.292s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:28 332734700  1613750668
+use pt_key
+
+real	0m2.272s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:04:31 232201500  1613750671 token: AAFgL-GNADAg-hSYhYYNie9TuqDbSbKLzVDD16rp3ATgKFLnLJ-3tbwHsRUoO-MOMbdLthi6nWQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.309s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:04:34 166491900  1613750674 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:04:34 765183600  1613750674 赵签到蒙牛官方旗舰店
+
+real	0m1.990s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:47 279852600 1613750687
+
+real	0m2.967s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m3.162s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:54 538992100  1613750694
+use pt_key
+
+real	0m2.603s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:04:58 058832400  1613750698 token: AAFgL-GoADBSLbcq6mWB3YLPycmYl41dyvn3LGxLQHCw94Tk6mgtuxggpITFD-NJQqG_ymgYQj4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.303s
+user	0m0.125s
+sys	0m0.094s
+02/20/21 00:05:01 682583300  1613750701 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:02 106519800  1613750702 赵签到蒙牛官方旗舰店
+
+real	0m2.085s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:13 486697300 1613750713
+
+real	0m2.969s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.181s
+user	0m0.000s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:24 224893000  1613750724
+use pt_key
+
+real	0m2.382s
+user	0m0.141s
+sys	0m0.078s
+02/20/21 00:05:27 191368300  1613750727 token: AAFgL-HGADB1opcjZj8xQ2vgmkDguIaRhWjOdfJb-NM8fK_dKJR20OMX4ZXEYWE9ZeZ7pSWhcjM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.298s
+user	0m0.078s
+sys	0m0.047s
+02/20/21 00:05:30 295997500  1613750730 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:30 637966400  1613750730 赵签到蒙牛官方旗舰店
+
+real	0m1.745s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:41 544741100 1613750741
+
+real	0m2.666s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.898s
+user	0m0.000s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:47 552669200  1613750747
+use pt_key
+
+real	0m2.103s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:05:50 011818300  1613750750 token: AAFgL-HdADBPKxi0h4II5qWVpOn-5m7IWRE514O8EFmi0kg2Z-foK8if-qYGLp240drXtThrYEI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.496s
+user	0m0.156s
+sys	0m0.125s
+02/20/21 00:05:53 112066500  1613750753 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:53 783946300  1613750753 赵签到蒙牛官方旗舰店
+
+real	0m2.009s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:04 871991200 1613750764
+
+real	0m3.663s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.498s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:12 690133300  1613750772
+use pt_key
+
+real	0m1.502s
+user	0m0.141s
+sys	0m0.031s
+02/20/21 00:06:14 749167800  1613750774 token: AAFgL-H2ADDCA5SkN-zWUfzVQVc3m10xGMtj5BtYp7qQMTC3ZnuKoK6ZX6uhDNL3g3qnzvSEOmc
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.137s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:06:18 259726700  1613750778 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:18 752482200  1613750778 赵签到蒙牛官方旗舰店
+
+real	0m1.857s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:31 011812200 1613750791
+
+real	0m2.857s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.150s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:39 349648300  1613750799
+use pt_key
+
+real	0m2.014s
+user	0m0.141s
+sys	0m0.078s
+02/20/21 00:06:41 746828600  1613750801 token: AAFgL-IRADAjkIZTpzPg9AYMMPihGPKLaShaYYmcX-quL4g7QeeRbdA36mJ-PbmYxz52SCR09zA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.771s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:06:43 952925600  1613750803 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:44 381579300  1613750804 赵签到蒙牛官方旗舰店
+
+real	0m1.559s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:52 678755000 1613750812
+
+real	0m4.029s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m3.547s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:01 704427000  1613750821
+use pt_key
+
+real	0m1.762s
+user	0m0.109s
+sys	0m0.109s
+02/20/21 00:07:04 041551900  1613750824 token: AAFgL-InADA9372M0VeYCNvv6FQzVB1HU-iqSrxSf5svtvHaqBaaGtNmOnHAI3DUwSm3FplObpg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.141s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:07:06 681462400  1613750826 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:07 350422200  1613750827 赵签到蒙牛官方旗舰店
+
+real	0m2.213s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:17 235163000 1613750837
+
+real	0m4.213s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.929s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:26 720630800  1613750846
+use pt_key
+
+real	0m2.171s
+user	0m0.078s
+sys	0m0.109s
+02/20/21 00:07:30 126591600  1613750850 token: AAFgL-JAADBKsJ2OCbihSoTjonmi6Kjlf5h4RO0W5naIgua-3M_9FL-LTB-6npoqmPug6xhz-WA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.759s
+user	0m0.078s
+sys	0m0.125s
+02/20/21 00:07:32 176343500  1613750852 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:32 535003500  1613750852 赵签到蒙牛官方旗舰店
+
+real	0m1.141s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:41 850489900 1613750861
+
+real	0m4.321s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.845s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:50 514504600  1613750870
+use pt_key
+
+real	0m1.908s
+user	0m0.125s
+sys	0m0.047s
+02/20/21 00:07:53 099393800  1613750873 token: AAFgL-JYADBDl5a9iJxbZFdCpNpBTi-pislnLI1-WCm47H30oExxoiLXntvL0l9tIBvUKrnqUvE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.095s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:07:56 698228400  1613750876 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:56 950137500  1613750876 赵签到蒙牛官方旗舰店
+
+real	0m1.418s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:07 057496600 1613750887
+
+real	0m4.250s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.845s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:14 360908600  1613750894
+use pt_key
+
+real	0m1.902s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:08:16 816310500  1613750896 token: AAFgL-JvADA8OBDInUGU5ZbHpyeEnqV0H-gPSB336jFiySLtMN5WTJ8NrXdBds0G4UiX7fywWCk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.692s
+user	0m0.125s
+sys	0m0.109s
+02/20/21 00:08:20 397060400  1613750900 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:20 902500300  1613750900 赵签到蒙牛官方旗舰店
+
+real	0m2.008s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:31 893661200 1613750911
+
+real	0m4.004s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.660s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:39 778468400  1613750919
+use pt_key
+
+real	0m1.925s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:08:41 988468700  1613750921 token: AAFgL-KJADAn-l-_rVTcRwv2bBT9PWYdjzem01QM7biwiqKsJwWTSeO5NJMPSBPfKPuH5dwG78E
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.932s
+user	0m0.172s
+sys	0m0.078s
+02/20/21 00:08:44 315178500  1613750924 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:44 837861900  1613750924 赵签到蒙牛官方旗舰店
+
+real	0m1.483s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:53 552605900 1613750933
+
+real	0m4.482s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.976s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:59 526771700  1613750939
+use pt_key
+
+real	0m1.866s
+user	0m0.125s
+sys	0m0.094s
+02/20/21 00:09:01 734997700  1613750941 token: AAFgL-KdADBXNznNu61JF6yjXl0nhiaoP3A65lEdw8zs8kdXn1mXTqJTiphbRJl_M29cPx7iRAw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.775s
+user	0m0.125s
+sys	0m0.063s
+02/20/21 00:09:03 788467800  1613750943 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:04 113628400  1613750944 赵签到蒙牛官方旗舰店
+
+real	0m1.261s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:11 817216600 1613750951
+
+real	0m4.699s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.395s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:22 786901500  1613750962
+use pt_key
+
+real	0m1.592s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:09:24 588853300  1613750964 token: AAFgL-K0ADByRyPR8NbQ9wpKKazW0xDEPnyTkWgwzs4QP3lPET1mSTpdwWe5w2TmXx_bzJLN4Ug
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.250s
+user	0m0.109s
+sys	0m0.125s
+02/20/21 00:09:27 520557900  1613750967 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:28 120013300  1613750968 赵签到蒙牛官方旗舰店
+
+real	0m1.468s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:39 795299500 1613750979
+
+real	0m5.148s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.824s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:48 147065900  1613750988
+use pt_key
+
+real	0m1.978s
+user	0m0.141s
+sys	0m0.094s
+02/20/21 00:09:50 679323300  1613750990 token: AAFgL-LNADAMilou8OD0JGnzpxjt98ArYj_02u62K1MPhzS7_wkd3KQQamiTNSPezYTZsiG-UqM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.520s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:09:53 737420500  1613750993 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:54 526531100  1613750994 赵签到蒙牛官方旗舰店
+
+real	0m2.212s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:03 974987600 1613751003
+
+real	0m5.071s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.259s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:10:12 803337600  1613751012
+use pt_key
+
+real	0m2.035s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:10:15 533761600  1613751015 token: AAFgL-LmADCsZx-od53hLngqUaH4fqOH6KWVLtX92r2PzdwWulDHRx8btk4M7WsBXr_NU-3xf0M
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.026s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:10:18 139292500  1613751018 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:10:18 663129900  1613751018 赵签到蒙牛官方旗舰店
+
+real	0m1.838s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:29 716005000 1613751029
+
+real	0m5.566s
+user	0m0.000s
+sys	0m0.031s
+02/20/21 00:11:37 124666600  1613751097
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+7天签到 第  天
+***********************************************
+
+赵签到蒙牛官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="蒙牛官方旗舰店"
+#店铺激活码
+actId="3f064b1a32ec4b2ab6e044aa1cacad06"
+#店铺id
+venderId="182542"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542"
+
+startTime=1612108800
+endTime=1614527940
+# 活动时间：2021-02-01 00:00 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：15京豆
+连续签到2天：30元优惠券
+连续签到3天：40元优惠券
+连续签到4天：8京豆
+连续签到5天：50元优惠券
+连续签到6天：20元优惠券
+连续签到7天：15京豆
+"
+
+#王 1309893722-164885 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210220"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210220"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes=""
+giftDate="20210220"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes=""
+giftDate="20210220"
+#赵 122294312-396444 sign_res_end

@@ -1,0 +1,782 @@
+02/20/21 00:02:12 837808600  1613750532
+RANDOM_num: 20
+removed '/tmp/tmp.vZkMWS53pU'
+02/20/21 00:02:15 073114100  1613750535
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210220
+***********************************************
+
+
+当天签到奖励 null
+连续签到  天
+签到总天数 
+***********************************************
+
+赵 签到结果获取失败.
+02/20/21 00:02:15 483943600  1613750535 检查赵签到
+
+real	0m2.083s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:21 394540600  1613750541
+use pt_key
+
+real	0m1.578s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:02:23 428517000  1613750543 token: AAFgL-EOADCSWnKIB2pdC6FU3FW0lhtl836F5dUgl0hr-4s2JvvxL_rb-LkZae1fbncGGb9W2cg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.377s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:02:26 152729000  1613750546 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:26 469987600  1613750546 赵签到澳优乳业官方旗舰店
+
+real	0m1.565s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:02:36 370577400 1613750556
+
+real	0m1.640s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m3.413s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:45 211175400  1613750565
+use pt_key
+
+real	0m4.323s
+user	0m0.141s
+sys	0m0.047s
+02/20/21 00:02:50 096721100  1613750570 token: AAFgL-EnADCAxIFH7tZyUD0zDqiW-ASdtUxJEGrsxLFIos3FQUUUJnUtXEv3i49Z2YCT9kvuEK4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.969s
+user	0m0.109s
+sys	0m0.125s
+02/20/21 00:02:52 498738200  1613750572 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:52 973050800  1613750572 赵签到澳优乳业官方旗舰店
+
+real	0m1.525s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:02 782691500 1613750582
+
+real	0m1.882s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m3.403s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:10 315945500  1613750590
+use pt_key
+
+real	0m2.899s
+user	0m0.156s
+sys	0m0.063s
+02/20/21 00:03:13 860565800  1613750593 token: AAFgL-FAADC7YKqBaShgwMqe-o91Uax9mhJf0JXcMxZUx5zvbm-AXMvYJXaeLs4-zvavsvRaPdI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.864s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:03:17 146943400  1613750597 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:17 587740100  1613750597 赵签到澳优乳业官方旗舰店
+
+real	0m1.603s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:32 472534400 1613750612
+
+real	0m2.132s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.280s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:38 541950700  1613750618
+use pt_key
+
+real	0m2.732s
+user	0m0.078s
+sys	0m0.156s
+02/20/21 00:03:41 966022400  1613750621 token: AAFgL-FcADCVcm90CPXURkYF853ixZf_ST_nFgKJOyB860eeIxFt5Jp6CnanBaauEIKX_RMV74I
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.403s
+user	0m0.078s
+sys	0m0.109s
+02/20/21 00:03:44 832840200  1613750624 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:45 622548800  1613750625 赵签到澳优乳业官方旗舰店
+
+real	0m2.341s
+user	0m0.078s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:59 265645700 1613750639
+
+real	0m2.336s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m3.059s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:09 529148900  1613750649
+use pt_key
+
+real	0m2.305s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:04:12 472134100  1613750652 token: AAFgL-F7ADDpit-I10gVohUjfTmatY6KKydYVcjv0DFJwqTRe_YG9zhz0L619ZeuU4vyF__b4u0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.841s
+user	0m0.125s
+sys	0m0.094s
+02/20/21 00:04:14 794089700  1613750654 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:04:15 217699400  1613750655 赵签到澳优乳业官方旗舰店
+
+real	0m1.400s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:26 243448400 1613750666
+
+real	0m3.030s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.328s
+user	0m0.063s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:33 702034000  1613750673
+use pt_key
+
+real	0m2.249s
+user	0m0.109s
+sys	0m0.172s
+02/20/21 00:04:36 665666400  1613750676 token: AAFgL-GTADAylujh5eGp8SDafp5Am0tqaFH5avXwUQGfnRHbDCFFlD6ifTKsGpk5MxehntIv1ko
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.704s
+user	0m0.141s
+sys	0m0.109s
+02/20/21 00:04:39 738240900  1613750679 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:04:40 168283400  1613750680 赵签到澳优乳业官方旗舰店
+
+real	0m1.617s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:53 327931900 1613750693
+
+real	0m2.465s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m3.971s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:02 083243300  1613750702
+use pt_key
+
+real	0m2.092s
+user	0m0.078s
+sys	0m0.094s
+02/20/21 00:05:04 860481500  1613750704 token: AAFgL-GvADDiHWE2uU-I94SxE8BkktPKfG-N9nh3_sNt8BPItGNfSzX3qaYFFVyBLUHVSaRJuCU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.496s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:05:08 057346900  1613750708 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:09 218814600  1613750709 赵签到澳优乳业官方旗舰店
+
+real	0m1.032s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:24 885372800 1613750724
+
+real	0m3.248s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.141s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:35 233699100  1613750735
+use pt_key
+
+real	0m2.089s
+user	0m0.125s
+sys	0m0.063s
+02/20/21 00:05:38 117698300  1613750738 token: AAFgL-HRADDpb3VrDeHPG-nV52zBCs_dwOpM0-9_SFCsj9k-w0s6dyzZ5Io7ECqqUtGxOjYuRmo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.719s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:05:41 203935200  1613750741 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:41 721200400  1613750741 赵签到澳优乳业官方旗舰店
+
+real	0m1.519s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:56 605605100 1613750756
+
+real	0m3.556s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.170s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:05 340359500  1613750765
+use pt_key
+
+real	0m2.168s
+user	0m0.109s
+sys	0m0.109s
+02/20/21 00:06:07 924810500  1613750767 token: AAFgL-HvADAMHKYFD2Pz0AK2V70tZhjt9qBCtgcOgKmrQWozwnVMyo2-M0UIpNnCwNL3sXRvqsA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.380s
+user	0m0.141s
+sys	0m0.047s
+02/20/21 00:06:10 755687600  1613750770 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:11 230130300  1613750771 赵签到澳优乳业官方旗舰店
+
+real	0m1.487s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:17 866478900 1613750777
+
+real	0m3.276s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.300s
+user	0m0.078s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:31 706065100  1613750791
+use pt_key
+
+real	0m1.215s
+user	0m0.125s
+sys	0m0.125s
+02/20/21 00:06:33 176072100  1613750793 token: AAFgL-IIADBGFDCSOmBY7gHL3AU8hjlv25DNZgejJ3A1ctyuQTu4d0D9-IGDrUEDYTlIhykCf-o
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.826s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:06:35 526618300  1613750795 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:36 162583600  1613750796 赵签到澳优乳业官方旗舰店
+
+real	0m1.345s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:44 715426100 1613750804
+
+real	0m3.410s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.962s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:51 740506700  1613750811
+use pt_key
+
+real	0m2.493s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:06:55 023477700  1613750815 token: AAFgL-IeADDGaxR-bHGPFOkODQMAp-bEG_WBCNYyi90swUQLCWTSWazAvFDdVghKBsE8KALyKA4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.413s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:07:00 038946300  1613750820 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:00 776733800  1613750820 赵签到澳优乳业官方旗舰店
+
+real	0m1.745s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:09 509640000 1613750829
+
+real	0m3.799s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.754s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:17 153446300  1613750837
+use pt_key
+
+real	0m1.967s
+user	0m0.141s
+sys	0m0.078s
+02/20/21 00:07:19 990286800  1613750839 token: AAFgL-I2ADAgzi7iOC-8ZW2p9Gszapzrx5mEJrwuLxCC6z425hW1ioVyV7L5evxlYPTvFegQSnA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.175s
+user	0m0.125s
+sys	0m0.094s
+02/20/21 00:07:23 175421500  1613750843 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:23 812784300  1613750843 赵签到澳优乳业官方旗舰店
+
+real	0m1.530s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:38 163952500 1613750858
+
+real	0m3.715s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.800s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:44 895643300  1613750864
+use pt_key
+
+real	0m2.338s
+user	0m0.156s
+sys	0m0.094s
+02/20/21 00:07:47 678735300  1613750867 token: AAFgL-JSADBZfBVqCsv28FZUWDhcYzzOGghJvjx1FuNklyDwqMBuakTEkGEcZQ8XpgH5yQ8syzA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.579s
+user	0m0.141s
+sys	0m0.031s
+02/20/21 00:07:51 744724500  1613750871 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:52 246895800  1613750872 赵签到澳优乳业官方旗舰店
+
+real	0m1.808s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:03 177325000 1613750883
+
+real	0m3.542s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.097s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:09 737200800  1613750889
+use pt_key
+
+real	0m1.758s
+user	0m0.094s
+sys	0m0.109s
+02/20/21 00:08:11 993795500  1613750891 token: AAFgL-JrADD3-w4v7jsAJPp14a5jGabz-XiDSyYxPohEBYDuFzUbxea86C0zLZ96NRCfvPhFdM8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.714s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:08:14 132090200  1613750894 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:14 492108800  1613750894 赵签到澳优乳业官方旗舰店
+
+real	0m1.697s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:25 148361000 1613750905
+
+real	0m3.926s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.244s
+user	0m0.047s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:33 843766400  1613750913
+use pt_key
+
+real	0m1.870s
+user	0m0.125s
+sys	0m0.141s
+02/20/21 00:08:35 987430200  1613750915 token: AAFgL-KDADBXfyBauFr8JZfFvPOynqyV9oU6PHJseskDWsEB2CpIk-3DrvJ8VmJMD4p5zuSX1_c
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.887s
+user	0m0.109s
+sys	0m0.125s
+02/20/21 00:08:38 498345600  1613750918 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:38 976418500  1613750918 赵签到澳优乳业官方旗舰店
+
+real	0m1.621s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:49 727473200 1613750929
+
+real	0m4.453s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.208s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:00 182605100  1613750940
+use pt_key
+
+real	0m1.327s
+user	0m0.063s
+sys	0m0.094s
+02/20/21 00:09:01 835815800  1613750941 token: AAFgL-KdADDtlSxKyMkFkK5iKpm1JGccLkfBtpEY6s0YeXDrC_u1ggJl0WMUXVxSseG4xSU1JdE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.771s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:09:03 747193700  1613750943 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:04 105639600  1613750944 赵签到澳优乳业官方旗舰店
+
+real	0m1.336s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:15 386708300 1613750955
+
+real	0m4.319s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.554s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:22 673112500  1613750962
+use pt_key
+
+real	0m1.606s
+user	0m0.109s
+sys	0m0.047s
+02/20/21 00:09:24 601231300  1613750964 token: AAFgL-K0ADAJkpRnvojMaTwzrvOGkg7GIHxsl0RubYPGMq9BGW58DWESfhyyIa_f123--DmLQZU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.018s
+user	0m0.156s
+sys	0m0.031s
+02/20/21 00:09:27 177821100  1613750967 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:27 641304700  1613750967 赵签到澳优乳业官方旗舰店
+
+real	0m1.957s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:39 813900800 1613750979
+
+real	0m5.106s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.984s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:48 351283000  1613750988
+use pt_key
+
+real	0m2.104s
+user	0m0.125s
+sys	0m0.063s
+02/20/21 00:09:50 922731600  1613750990 token: AAFgL-LOADDxWpv6cFjwUmoEV5sIzF5Y4hjUg5xvguxuxe2vuZPuN5JYPFps4jJJcSym82mZTdg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.257s
+user	0m0.125s
+sys	0m0.047s
+02/20/21 00:09:53 721675800  1613750993 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:54 317699200  1613750994 赵签到澳优乳业官方旗舰店
+
+real	0m2.368s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:09 526154000 1613751009
+
+real	0m5.303s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.957s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:10:17 559330700  1613751017
+use pt_key
+
+real	0m1.449s
+user	0m0.141s
+sys	0m0.078s
+02/20/21 00:10:19 500366600  1613751019 token: AAFgL-LqADAtKtLLpS6IisuxtmHGkKO5cIWRtjWL0ey-1XuXvQUqITvMtBMzG6S3wLMpcHdphEs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.137s
+user	0m0.109s
+sys	0m0.125s
+02/20/21 00:10:22 108797500  1613751022 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:10:22 506201400  1613751022 赵签到澳优乳业官方旗舰店
+
+real	0m1.591s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:33 616878500 1613751033
+
+real	0m5.342s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.475s
+user	0m0.047s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/20/21 00:10:44 725918300  1613751044
+use pt_key
+
+real	0m1.483s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:10:46 599323700  1613751046 token: AAFgL-MGADCCshmFamCpUykCqArWeobjM3PTfilN5xH7hvhxzD3VazxGl5WRa6lmEPSIEFUZuJs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.264s
+user	0m0.094s
+sys	0m0.109s
+02/20/21 00:10:49 302539600  1613751049 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:10:49 808970000  1613751049 赵签到澳优乳业官方旗舰店
+
+real	0m1.454s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:56 316522900 1613751056
+
+real	0m5.054s
+user	0m0.000s
+sys	0m0.031s
+02/20/21 00:12:02 586534900  1613751122
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 
+连续签到  天
+签到总天数 
+***********************************************
+
+赵签到澳优乳业官方旗舰店查看结果
+
+
+
+澳优乳业官方旗舰店活动规则
+
+
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+#店铺激活码
+actId="eb0ef5535d6e462096ab4e2135ba6c45"
+##店铺id
+venderId="37166"
+
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+
+当天签到奖励 null
+连续签到  天
+签到总天数 "
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+
+当天签到奖励 null
+连续签到  天
+签到总天数 "
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""
+giftRes=""
+giftDate="20210220"
+sign_res_info="
+
+当天签到奖励 
+连续签到  天
+签到总天数 "
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""
+giftRes=""
+giftDate="20210220"
+sign_res_info="
+
+当天签到奖励 
+连续签到  天
+签到总天数 "
+#赵 122294312-396444 sign_res_end

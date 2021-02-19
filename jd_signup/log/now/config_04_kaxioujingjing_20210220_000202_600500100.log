@@ -1,0 +1,990 @@
+02/20/21 00:02:35 340087700  1613750555
+RANDOM_num: 10
+removed '/tmp/tmp.hVXvFDftDY'
+02/20/21 00:02:38 228666900  1613750558 检查移动签到
+
+real	0m2.312s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:02:45 334839700  1613750565
+use wskey
+
+real	0m2.835s
+user	0m0.078s
+sys	0m0.078s
+02/20/21 00:02:48 677028000  1613750568 token: AAFgL-EnADCZR7SrvFBAqu5ivDx1sMicoZNzVzV-5RMKLFoZP6Tjv0wNicKr7x4if20ImVIGxPo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.121s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:02:51 408441800  1613750571 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:02:51 911963200  1613750571 移动签到卡西欧晶晶专卖店
+
+real	0m1.182s
+user	0m0.000s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:03 276053100 1613750583
+
+real	0m2.552s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m3.872s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:11 272968100  1613750591
+use wskey
+
+real	0m2.513s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:03:14 432493300  1613750594 token: AAFgL-FBADA1fThn-W1jNKtR0ju-AsXKUMIGHbaBz6VG9AD1JNCxgdBxj-PvFejv5hBseKTUeC8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.738s
+user	0m0.063s
+sys	0m0.078s
+02/20/21 00:03:17 812622000  1613750597 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:19 072062000  1613750599 移动签到卡西欧晶晶专卖店
+
+real	0m2.714s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:03:39 313458600 1613750619
+
+real	0m2.547s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.013s
+user	0m0.078s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:03:50 639301500  1613750630
+use wskey
+
+real	0m1.965s
+user	0m0.109s
+sys	0m0.047s
+02/20/21 00:03:53 071635000  1613750633 token: AAFgL-FoADDgqZeY1Jcm38hKOM5J36HCsAE2SpVbu4RCWmx7xdRp--BLa9vdtJwflva7XEWDQKg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.109s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:03:55 767794700  1613750635 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:03:56 207106900  1613750636 移动签到卡西欧晶晶专卖店
+
+real	0m1.765s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:11 722865100 1613750651
+
+real	0m2.258s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.861s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:18 970636400  1613750658
+use wskey
+
+real	0m2.130s
+user	0m0.078s
+sys	0m0.141s
+02/20/21 00:04:21 540397700  1613750661 token: AAFgL-GEADDhmjE_8nTr3OxNS4-7AavszEUGx5oWDMjRIBw0JiS0LLhMYxC_Sj7DQor_BcAeazw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.822s
+user	0m0.109s
+sys	0m0.109s
+02/20/21 00:04:23 790736800  1613750663 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:04:24 164885900  1613750664 移动签到卡西欧晶晶专卖店
+
+real	0m1.251s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:33 476304400 1613750673
+
+real	0m2.370s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.905s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:04:42 777275400  1613750682
+use wskey
+
+real	0m1.614s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:04:45 045404300  1613750685 token: AAFgL-GcADDsYrW_nzdRCDHTugt6zpvoKaLo-KhfGdJmw3O7zBU8iEKEue8e9gHlA4R0kUPJYhw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.165s
+user	0m0.094s
+sys	0m0.141s
+02/20/21 00:04:46 912687400  1613750686 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:04:47 456617500  1613750687 移动签到卡西欧晶晶专卖店
+
+real	0m1.661s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:04:55 977501100 1613750695
+
+real	0m3.152s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m3.336s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:07 654525900  1613750707
+use wskey
+
+real	0m3.249s
+user	0m0.078s
+sys	0m0.125s
+02/20/21 00:05:11 422653700  1613750711 token: AAFgL-G2ADCwVaIGkjqlIKVmO2RtKyDenlJyxfMNeDiYHxoIfkQ0WFoF0edV4MadVO6hFBOuFiM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.759s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:05:13 579766200  1613750713 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:14 038153300  1613750714 移动签到卡西欧晶晶专卖店
+
+real	0m1.802s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:22 640737300 1613750722
+
+real	0m3.320s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m2.676s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:33 499995900  1613750733
+use wskey
+
+real	0m1.973s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:05:35 749332700  1613750735 token: AAFgL-HPADDU0u5YHYvtQGa24JEU1DF4EoARtl5vUu8kalkWl-eStwXireZrpSMJSCOYKyq4zmQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.852s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:05:39 380247700  1613750739 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:05:40 141686000  1613750740 移动签到卡西欧晶晶专卖店
+
+real	0m1.220s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:05:48 245118500 1613750748
+
+real	0m2.790s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m2.753s
+user	0m0.000s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:05:55 451656500  1613750755
+use wskey
+
+real	0m2.376s
+user	0m0.125s
+sys	0m0.063s
+02/20/21 00:05:58 310275100  1613750758 token: AAFgL-HlADA6UYj5b0giJOHv9WzsJvJT3uQ5uGaxoDn7d0QOLiiQJcscxgbAFngk3hmEhjJTy_Y
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.280s
+user	0m0.172s
+sys	0m0.031s
+02/20/21 00:06:02 100690300  1613750762 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:02 514767500  1613750762 移动签到卡西欧晶晶专卖店
+
+real	0m1.601s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:11 578710200 1613750771
+
+real	0m2.878s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.544s
+user	0m0.063s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:19 863818300  1613750779
+use wskey
+
+real	0m2.134s
+user	0m0.078s
+sys	0m0.109s
+02/20/21 00:06:22 469033200  1613750782 token: AAFgL-H-ADAMMqR2P0-Tfs3HS06D7wgrjy_eGLxIScdgXgcagw3iLZai47ZV6k5jF7Q2CFpa07A
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.911s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:06:25 698871500  1613750785 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:26 239721900  1613750786 移动签到卡西欧晶晶专卖店
+
+real	0m1.589s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:06:34 999548000 1613750794
+
+real	0m3.377s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.407s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/20/21 00:06:43 452932700  1613750803
+use wskey
+
+real	0m1.491s
+user	0m0.109s
+sys	0m0.031s
+02/20/21 00:06:45 383596600  1613750805 token: AAFgL-IUADA8qXHavuaimZvjte-_Uqp-rmyS_lYD928jCrkRFjvX11C6jbDE_L-bMk-qdZbgC70
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m3.523s
+user	0m0.094s
+sys	0m0.109s
+02/20/21 00:06:49 573381400  1613750809 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:06:50 117686200  1613750810 移动签到卡西欧晶晶专卖店
+
+real	0m2.048s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:02 123457800 1613750822
+
+real	0m3.483s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.770s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:09 032005700  1613750829
+use wskey
+
+real	0m2.689s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:07:12 226712900  1613750832 token: AAFgL-IvADAmyVmcnj7jLhQ1hbvucDrwJY0Ff-TeO_hKRTBd177qJpSutbwjgc4ssH0UOqQ1pTw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.877s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:07:15 726703800  1613750835 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:16 270421200  1613750836 移动签到卡西欧晶晶专卖店
+
+real	0m1.869s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:28 336668700 1613750848
+
+real	0m4.163s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.381s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/20/21 00:07:38 141221800  1613750858
+use wskey
+
+real	0m1.683s
+user	0m0.063s
+sys	0m0.109s
+02/20/21 00:07:40 329235000  1613750860 token: AAFgL-JLADBgOjiYPcyWxXHz7yWT8GkKDklR7wChcpjNw6lvx7oyZvLHd5Dt_JTxjAALlkxkvYM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.929s
+user	0m0.141s
+sys	0m0.063s
+02/20/21 00:07:42 625598200  1613750862 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:07:43 026785100  1613750863 移动签到卡西欧晶晶专卖店
+
+real	0m1.310s
+user	0m0.063s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:07:53 123347400 1613750873
+
+real	0m4.518s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.648s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:00 030641100  1613750880
+use wskey
+
+real	0m1.336s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:08:01 820980200  1613750881 token: AAFgL-JhADDxV7ZDQ6BehxKbQju3NPPzdM4pvXG10Bzb3iu8XJBbqt-2KPPq9KAskv0kEgU0Qx0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.629s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:08:03 835578900  1613750883 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:04 231911500  1613750884 移动签到卡西欧晶晶专卖店
+
+real	0m0.871s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:12 014113500 1613750892
+
+real	0m4.024s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m3.314s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:20 527883200  1613750900
+use wskey
+
+real	0m2.986s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:08:23 982163900  1613750903 token: AAFgL-J3ADDN8d3jT2ItyvBc1bgjElER53O5zOfwUPBCu5XPyklIWmoQrn38lR9c_c69u-nDJmI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.409s
+user	0m0.078s
+sys	0m0.094s
+02/20/21 00:08:27 001069500  1613750907 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:27 818290500  1613750907 移动签到卡西欧晶晶专卖店
+
+real	0m0.748s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:34 648299600 1613750914
+
+real	0m4.136s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.989s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:08:43 485698300  1613750923
+use wskey
+
+real	0m1.822s
+user	0m0.156s
+sys	0m0.031s
+02/20/21 00:08:45 734103700  1613750925 token: AAFgL-KNADDiINTVBXVQS3h-CxT4DEWMxC9iMKfo3VOuftYKeNO16Fup8CvxF2PoxGkKyxjn7C0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.309s
+user	0m0.109s
+sys	0m0.047s
+02/20/21 00:08:48 568251200  1613750928 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:08:49 044417100  1613750929 移动签到卡西欧晶晶专卖店
+
+real	0m1.445s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:08:58 119295400 1613750938
+
+real	0m4.010s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.610s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:04 591193000  1613750944
+use wskey
+
+real	0m1.446s
+user	0m0.078s
+sys	0m0.094s
+02/20/21 00:09:06 442021000  1613750946 token: AAFgL-KhADCyJZT6UZQHLhbDvGYnWnyU8Q-ngVHLDcuWt6EieFDLNgvkumwD97z5u7-VG357pag
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.019s
+user	0m0.109s
+sys	0m0.109s
+02/20/21 00:09:08 998135800  1613750948 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:09 507215700  1613750949 移动签到卡西欧晶晶专卖店
+
+real	0m1.041s
+user	0m0.000s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:14 370303300 1613750954
+
+real	0m4.367s
+user	0m0.016s
+sys	0m0.063s
+
+real	0m2.279s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:24 452942100  1613750964
+use wskey
+
+real	0m1.918s
+user	0m0.109s
+sys	0m0.063s
+02/20/21 00:09:26 682833800  1613750966 token: AAFgL-K2ADDKicIGEvhLdaLFUIcy47-NiEAKLjAlvVoAKvN4HosalC8Wy5wdNEJvMttypwu7SmA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.789s
+user	0m0.078s
+sys	0m0.078s
+02/20/21 00:09:29 975695400  1613750969 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:30 529874100  1613750970 移动签到卡西欧晶晶专卖店
+
+real	0m2.043s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:09:39 790278200 1613750979
+
+real	0m5.175s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.498s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:09:48 397450400  1613750988
+use wskey
+
+real	0m2.345s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:09:51 250828200  1613750991 token: AAFgL-LOADCvP-X8pmNi-srPCMbaFmvkBLND5eSJ7QK_h_oURpKWtHlHE506KoZebpXdLuYcipU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.761s
+user	0m0.109s
+sys	0m0.141s
+02/20/21 00:09:54 896913300  1613750994 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:09:55 712198800  1613750995 移动签到卡西欧晶晶专卖店
+
+real	0m2.083s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:07 705401800 1613751007
+
+real	0m5.119s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.011s
+user	0m0.047s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+02/20/21 00:10:16 678839000  1613751016
+use wskey
+
+real	0m1.368s
+user	0m0.125s
+sys	0m0.125s
+02/20/21 00:10:18 564838100  1613751018 token: AAFgL-LpADDqB10hMCF_TQ9DdJ2JRZlsKV4XMvdeVflZL5KyfkfxfXh2EJDBvpCtS3yMecMhmTQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.135s
+user	0m0.109s
+sys	0m0.094s
+02/20/21 00:10:21 314459000  1613751021 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:10:21 798512200  1613751021 移动签到卡西欧晶晶专卖店
+
+real	0m1.442s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:33 396993600 1613751033
+
+real	0m5.372s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.140s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/20/21 00:10:44 709486500  1613751044
+use wskey
+
+real	0m1.744s
+user	0m0.109s
+sys	0m0.156s
+02/20/21 00:10:46 769130700  1613751046 token: AAFgL-MGADDjUrOUAndF5JPth6hNuvJ75ZUhFs44TQ9pIWCOwra5vt3aJm78Qp-Wv4Lc-Aet1wo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.989s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:10:49 304409400  1613751049 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:10:49 865913200  1613751049 移动签到卡西欧晶晶专卖店
+
+real	0m1.594s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:10:56 322303700 1613751056
+
+real	0m5.036s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.620s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:04 533225100  1613751064
+use wskey
+
+real	0m1.628s
+user	0m0.172s
+sys	0m0.125s
+02/20/21 00:11:06 501146100  1613751066 token: AAFgL-MaADCxiEH1gEJsO4dXirnouOH8SPyJbuETo6i5s63ALOQj8Yj46JvW3nxdm32wGxX1pkM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.312s
+user	0m0.125s
+sys	0m0.094s
+02/20/21 00:11:08 031748400  1613751068 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:08 552070200  1613751068 移动签到卡西欧晶晶专卖店
+
+real	0m0.907s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:12 685482900 1613751072
+
+real	0m4.716s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.641s
+user	0m0.047s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:18 700860100  1613751078
+use wskey
+
+real	0m0.699s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:11:19 514696900  1613751079 token: AAFgL-MnADDPz0Wfvz3_4dtfv994DQ1gIg0AHv2F-bKMbv02UtEiLcpZGmiq_e43rJGc_huNaBQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.841s
+user	0m0.188s
+sys	0m0.109s
+02/20/21 00:11:20 506516600  1613751080 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:20 737875400  1613751080 移动签到卡西欧晶晶专卖店
+
+real	0m0.474s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:22 359484400 1613751082
+
+real	0m4.587s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.142s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:27 142662500  1613751087
+use wskey
+
+real	0m0.157s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:11:27 320511800  1613751087 token: AAFgL-MvADA_BQia8yjWhmnKCEUj0CobBVNQBnYqzM4w69-w18ureY_MAHoTEx7PevlxmphU4Yo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.228s
+user	0m0.125s
+sys	0m0.078s
+02/20/21 00:11:27 574871300  1613751087 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:27 593199000  1613751087 移动签到卡西欧晶晶专卖店
+
+real	0m0.207s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:29 082447900 1613751089
+
+real	0m4.708s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.136s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:33 971125200  1613751093
+use wskey
+
+real	0m0.150s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:11:34 138127000  1613751094 token: AAFgL-M2ADBKFj-AajHUODx0QTz5x6of6BOudVYfJv6qyI0gT4GFGAxaN5ch-JRcy9yuNQZnKD0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.152s
+user	0m0.078s
+sys	0m0.094s
+02/20/21 00:11:34 313971600  1613751094 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:34 329439900  1613751094 移动签到卡西欧晶晶专卖店
+
+real	0m0.114s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:34 850967900 1613751094
+
+real	0m4.840s
+user	0m0.000s
+sys	0m0.031s
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+real	0m0.065s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:39 792191200  1613751099
+use wskey
+
+real	0m0.167s
+user	0m0.094s
+sys	0m0.078s
+02/20/21 00:11:39 982316100  1613751099 token: AAFgL-M7ADDRpZYQK8cpYVsra3TeZNVgf9k8TOJ0TbbyY-kIvBzFT_4VJNXHimB1vBLNodblw-M
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.158s
+user	0m0.109s
+sys	0m0.078s
+02/20/21 00:11:40 156693000  1613751100 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:40 172627900  1613751100 移动签到卡西欧晶晶专卖店
+
+real	0m0.129s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:40 710146100 1613751100
+
+real	0m5.038s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.123s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/20/21 00:11:45 908753600  1613751105
+use wskey
+
+real	0m0.150s
+user	0m0.078s
+sys	0m0.078s
+02/20/21 00:11:46 073526600  1613751106 token: AAFgL-NCADCt5f41tWTSw6aaIn2g84tfgw-JxSewXrg7mqRo2Mx9Q8lv0Z-R1gM-fdyfjN3OpCs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.163s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:11:46 254733600  1613751106 secretPin: 
+[WARN] get secretPin error
+
+02/20/21 00:11:46 276453300  1613751106 移动签到卡西欧晶晶专卖店
+
+real	0m0.168s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/20/21 00:11:47 004970200 1613751107
+
+real	0m5.242s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.169s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613751712	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613751712	LZ_TOKEN_KEY	lztokenpage745d6ffb2b3548b1bac3e3423a5e1347
+02/20/21 00:11:52 449531600  1613751112
+use wskey
+
+real	0m0.176s
+user	0m0.094s
+sys	0m0.094s
+02/20/21 00:11:52 638247800  1613751112 token: AAFgL-NIADAX3fkw5CkndySukgdzXsfxjn25NXfNeiIJ7JhgI6stVG-MhYWg3YKtwe7dfOU4kT8
+
+real	0m0.265s
+user	0m0.125s
+sys	0m0.047s
+02/20/21 00:11:52 915038400  1613751112 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/20/21 00:11:52 926489400  1613751112 移动签到卡西欧晶晶专卖店
+
+real	0m0.152s
+user	0m0.016s
+sys	0m0.031s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del --> /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del
+mv: '/home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del' and '/home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del' are the same file
+02/20/21 00:12:23 403634500  1613751143
+
+移动签到卡西欧晶晶专卖店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"4a8536c9908a41659fe0f6f64ae83630","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"a52a295dc094417098099d264a75eef8","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"7fe117a310c94ef18b3c0b3f6ad59301","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"fa548e2f371c437cbfee4299008efec7","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"2222f2b4dc2543ce89e5e173844bbe8a","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"906d50a67a44483b8a3942ccdc0eaac2","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"1000京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1143799","activityType":null},"imgUrl":"","giftInfoId":"d1edb34ff8b14e73af93e99a9b77dddb","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-10 00:00 - 2021-02-25 00:00；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送100京豆；
+6、第2天签到，有机会赠送100京豆；
+7、第3天签到，有机会赠送100京豆；
+8、第4天签到，有机会赠送100京豆；
+9、第5天签到，有机会赠送100京豆；
+10、第6天签到，有机会赠送100京豆；
+11、第7天签到，有机会赠送1000京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#活动规则
+rule=""
+
+#店铺名称
+vendername="卡西欧晶晶专卖店"
+#店铺激活码
+actId="49f82fc8fe22491db69f61fd67c5680c"
+##店铺id
+venderId="203224"
+
+now_=true
+loop_num=40
+
+#赵 122294312-396444 sign_res
+sign_num=""
+sign_res_info="7天签到 第  天"
+giftRes="ok"
+giftDate="20210218"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+sign_res_info="7天签到 第 6 天"
+giftRes="ok"
+giftDate="20210218"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+sign_res_info="7天签到 第 1 天"
+giftRes="ok"
+giftDate="20210218"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="2"
+sign_res_info="7天签到 第 2 天"
+giftRes="ok"
+giftDate="20210218"
+#移动 jd_OeTNobRVGiNZ sign_res_end
