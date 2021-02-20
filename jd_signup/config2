@@ -4,5 +4,10 @@ pin1_name="肥鹅"
 pt_key1="AAJgFqFLADCwFogSdbdKzNYGJHVdU5f4_A768OyPxw3XajCHM9CFNB1CkzX_kCTmsBT5ZV2Rj0A"
 pt_pin1="jd_4d651d9e48204"
 
+pin2_name="移动"
+#90天过期，3-17重新获取
+pt_key2="AAJgFqGiADCpeF_tgs9nVD6wK1kVQ7jvHHyt5Mj5sYFKgRsiSyreiWPUO_j1MSk7eflzCR0nbkM"
+pt_pin2="jd_OeTNobRVGiNZ"
+
 loop_num=20
 RANDOM_num=6

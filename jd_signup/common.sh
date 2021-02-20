@@ -118,7 +118,7 @@ write_sign_res() {
 		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
 		echo "重复签到. 载入之前签到的giftName: $giftName"
 	else
-		local giftName=$(echo -e "$4" | jq -r '.data[]|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
+		local giftName=$(echo -e "$4" | jq -r '.data[]?|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
 		echo "签到失败. 写入失败的giftName: $giftName"
 	fi
 	
