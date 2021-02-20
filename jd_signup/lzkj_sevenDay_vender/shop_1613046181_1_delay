@@ -30,15 +30,17 @@ sign_res_info="7天签到 第 0 天"
 giftRes="ok"
 giftDate="20210220"
 #赵 122294312-396444 sign_res_end
-#王 1309893722-164885 sign_res
-sign_num="0"
-sign_res_info="7天签到 第 0 天"
-giftRes="ok"
-giftDate="20210220"
-#王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_num="0"
 sign_res_info="7天签到 第 0 天"
 giftRes="ok"
 giftDate="20210220"
 #肥鹅 jd_4d651d9e48204 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName="50元优惠券"
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [50元优惠券]"
+#王 1309893722-164885 sign_res_end

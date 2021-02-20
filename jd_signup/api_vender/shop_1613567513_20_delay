@@ -1,3 +1,4 @@
+
 # 短链接
 suo_url=""
 venderId=10055303
@@ -116,6 +117,7 @@ signTime=1614096000;signed=1;currentDay=3
 signTime=1614182400;signed=1;currentDay=3
 signTime=1614268800;signed=1;currentDay=3"
 sign_num="3"
+giftName="奖励 3, type=4; 奖励 1, type=4; "
 giftRes="ok"
 giftDate="20210220"
 sign_res_info="
@@ -184,6 +186,7 @@ signTime=1614096000;signed=1;currentDay=3
 signTime=1614182400;signed=1;currentDay=3
 signTime=1614268800;signed=1;currentDay=3"
 sign_num="3"
+giftName="奖励 3, type=4; 奖励 1, type=4; "
 giftRes="ok"
 giftDate="20210220"
 sign_res_info="
@@ -252,6 +255,7 @@ signTime=1614096000;signed=1;currentDay=3
 signTime=1614182400;signed=1;currentDay=3
 signTime=1614268800;signed=1;currentDay=3"
 sign_num="3"
+giftName="奖励 3, type=4; 奖励 1, type=4; "
 giftRes="ok"
 giftDate="20210220"
 sign_res_info="

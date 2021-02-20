@@ -104,15 +104,38 @@ check_if_have_fail_lzkj() {
 check_del_vender() {
 	local dd=$(grep -r '活动已结束' log/now log/delay log/jifen | sed -r -e 's,.*活动已结束.,,' | sort | uniq)
 	if [ -z "$dd" ]; then
-		log_s "\n检查是否有删除的活动"
+		log_s "\n检查是否有删除的活动\n"
 	else
-		log_s "\n检查是否有删除的活动\n$dd"
+		log_s "\n检查是否有删除的活动\n$dd\n"
 	fi
 }
 
 check_if_have_fail() {
 	check_if_have_fail_h5
 	check_if_have_fail_lzkj "$1"
+}
+
+check_gift() {
+	log_s "\n检查今天签到获得的奖励"
+	for i in $(grep -r 'giftName=' api_vender/ lzkj_sevenDay_vender/ vender | egrep -v 'giftName="null"$|giftName=""$' | cut -d ':' -f 1 | sort | uniq); do
+    unset vendername; unset url
+    source "$i"
+    if [ -z "$url" ] ; then
+			log_s "签到 [$vendername] 店铺获得奖励 $i 活动链接"
+		else
+			log_s "签到 [$vendername] 店铺获得奖励 $i 活动链接\n$url"
+		fi
+    local ss=$(awk 'BEGIN {b=0} {
+      if($0~/#.* sign_res$/) {a=1;b++;c=$0;sub(" sign_res", "", c)} else if($0~/#.* sign_res_end$/) {a=0}; if(a==1)
+      {
+        if ($0~/^giftName=/ && $0!~/^giftName=""$/ && $0!~/^giftName="null"$/) {
+          s=$0;sub("giftName=", "", s)
+          print c" 获得奖励: "s
+        }
+      }
+		}' "$i")
+  	log_s "$ss\n"
+	done
 }
 
 check_res() {
@@ -130,6 +153,7 @@ check_res() {
 	log_s ""
 	check_if_have_fail
 	check_del_vender
+	check_gift
 	
 	log_s "\nh5签到总数 $(find api_vender/ -type f | egrep -v '_del$|_fq$' | wc -l)"	
 }
@@ -137,7 +161,9 @@ check_res() {
 cd /home/myid/jd/jd_signup/
 source common.sh
 log_s "\n\n* * * * * * * * * * * * * * * * * *\n记录时刻 $(date +"%Y%m%d_%H%M%S_%N")\n"
-if [ "$1" = "checkfail" ]; then
+if [ "$1" = "checkgift" ]; then
+	check_gift
+elif [ "$1" = "checkfail" ]; then
 	check_if_have_fail "$2"
 elif [ "$1" = "-q" ]; then
 	check_res

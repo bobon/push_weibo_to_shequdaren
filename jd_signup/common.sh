@@ -200,17 +200,32 @@ write_sign_res_lzkj_7() {
 	fi
 	
 	local pin_key="${5} ${1}"
-	sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+	local old_sign_i=$(sed -r -n '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/p' $2)
+	sed -i -r '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/d' $2
 	
 	local sign_days_7=$(echo "$3" | jq -r '.contiSignDays')
 	local sign_res_info="7天签到 第 $sign_days_7 天"
-	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只允许签到一次|只能签到一次")) ) then "ok" else empty end')
+
+	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk) then "ok" elif(.msg|test("只允许签到一次|只能签到一次")) then "ok_s" else .msg end')
+	if [ "$giftRes" = "ok" ]; then
+		local giftName=$(echo -e "$4" | jq '.signResult.gift.giftName')
+		echo "首次签到成功. 写入giftName: $giftName"
+	elif [ "$giftRes" = "ok_s" ]; then
+		local giftRes="ok"
+		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
+		echo "重复签到. 载入之前签到的giftName: $giftName"
+	else
+		local giftName=$(echo -e "$4" | jq '.signResult.gift.giftName')
+		echo "签到失败. 写入失败的giftName: $giftName"
+	fi
+	local sign_res_info="$sign_res_info\n"$(echo -e "当天签到奖励 [$giftName]")
 	
 	echo "#${pin_key} sign_res" >> $2
 	echo -e "sign_num=\"$sign_days_7\"" >> $2
-	echo -e "sign_res_info=\"$sign_res_info\"" >> $2
+	echo -e "giftName=\"$giftName\"" >> $2
 	echo -e "giftRes=\"$giftRes\"" >> $2
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
+	echo -e "sign_res_info=\"$sign_res_info\"" >> $2
 	echo "#${pin_key} sign_res_end" >> $2
 	
 	echo
