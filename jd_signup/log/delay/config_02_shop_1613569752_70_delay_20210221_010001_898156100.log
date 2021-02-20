@@ -1,0 +1,209 @@
+02/21/21 01:19:01 439261100  1613841541
+RANDOM_num: 25
+removed '/tmp/tmp.SJqLGChfdG'
+02/21/21 01:19:01 523367400  1613841541 检查王签到
+
+real	0m0.217s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842141	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842141	LZ_TOKEN_KEY	lztokenpaged6bbd7671ddc4e338a50383d99a7309a
+02/21/21 01:19:01 836105500  1613841541
+use pt_key
+
+real	0m0.270s
+user	0m0.109s
+sys	0m0.047s
+02/21/21 01:19:02 126600900  1613841542 token: AAFgMUSGADBgLeKFAr0wqh2uVRIfNiN9Qi_ZhXG6pcU332jiSzdNqCSZCTzasn-9K5Hw362ICD8
+
+real	0m0.279s
+user	0m0.109s
+sys	0m0.094s
+02/21/21 01:19:02 420779200  1613841542 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/21/21 01:19:02 437722000  1613841542 王签到iQunix京东自营旗舰店
+
+real	0m0.412s
+user	0m0.047s
+sys	0m0.063s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "100000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "563cbe647bfa46d28f94ff648e8d971b",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "CmdsyT"
+}
+true
+02/21/21 01:19:03 296804800 1613841543
+02/21/21 01:19:03 309707100 1613841543 签到iQunix京东自营旗舰店完成
+02/21/21 01:19:28 298082100  1613841568
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4
+***********************************************
+
+王签到iQunix京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210220":"y","20210221":"y","20210218":"y","20210219":"y"},"isOk":true,"signDetail":{"20210220":"y","20210221":"y","20210218":"y","20210219":"y"},"followDays":22,"signRecord":{"nicknameShow":null,"id":"cf389118e4f448c3920d4fe33773b198","venderId":1000091866,"actId":"3c01293b278443d1bda532575fa810d1","actName":"2月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210221,"contiSignNum":4,"totalSignNum":4,"createTime":1613582190000,"updateTime":1613841542000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210220": "y",
+    "20210221": "y",
+    "20210218": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 4,
+  "totalSignNum": 4
+}
+
+iQunix京东自营旗舰店活动规则
+{"msg":"","act":{"id":"3c01293b278443d1bda532575fa810d1","jdActivityId":null,"venderId":1000091866,"actName":"2月签到活动","startTime":1612108800000,"endTime":1614527999000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3c01293b278443d1bda532575fa810d1&venderId=1000091866","shortUrl":"3.cn/100T0m-Im","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/171061/2/4277/3618/600e75b8Edaaf0414/c60b54c4497a9e79.png","actRule":"1、活动时间：2021-02-01 00:00 - 2021-02-28 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[10积分]；
+4、连续签到26天，有机会赠送[L-Stand笔记本支架]；
+5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+6、关注店铺后方可参与活动；
+7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1611560376000,"updateTime":1611560376000,"activityType":null,"actTimeStr":"2021-02-01 00:00 至 2021-02-28 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"563cbe647bfa46d28f94ff648e8d971b\",\"giftName\":\"10积分\",\"giftNum\":\"10\",\"giftTotal\":\"100000000\",\"giftType\":\"9\",\"id\":\"10\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"26\",\"gift\":{\"giftInfoId\":\"aa6f7ff13ef14ccd8fe9778db17b6d50\",\"giftName\":\"L-Stand笔记本支架\",\"giftNum\":\"59\",\"giftTotal\":\"5\",\"giftType\":\"7\",\"id\":\"a3134e75a86e42d4972502ed2c57ef10\",\"priceInfo\":\"59.00\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"100000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"563cbe647bfa46d28f94ff648e8d971b","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"26","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"a3134e75a86e42d4972502ed2c57ef10","giftType":"7","giftName":"L-Stand笔记本支架","giftNum":"59","giftTotal":"5","giftResidue":null,"priceInfo":"59.00","shortLink":"","orginLink":null,"giftInfoId":"aa6f7ff13ef14ccd8fe9778db17b6d50","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"100012242042,100012242034,100012242036,100009178590,100009178582,100015031104,100015311946,100015311934,100009302063,100016372258,100016372276,100016945000,100016945010,100009682525","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3c01293b278443d1bda532575fa810d1&venderId=1000091866",
+  "shortUrl": "3.cn/100T0m-Im",
+  "actRule": "1、活动时间：2021-02-01 00:00 - 2021-02-28 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[10积分]；\n4、连续签到26天，有机会赠送[L-Stand笔记本支架]；\n5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n6、关注店铺后方可参与活动；\n7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=3c01293b278443d1bda532575fa810d1
+venderId=1000091866
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100T0m-Im"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="iQunix京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3c01293b278443d1bda532575fa810d1&venderId=1000091866&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到26天：赠送L-Stand笔记本支架
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 4 天
+签到总天数 4"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#王 1309893722-164885 sign_res_end

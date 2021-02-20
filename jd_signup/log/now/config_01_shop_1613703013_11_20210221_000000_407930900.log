@@ -1,0 +1,110 @@
+02/21/21 00:00:07 075805100  1613836807
+RANDOM_num: 5
+force to sign
+
+real	0m1.799s
+user	0m0.031s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613837410	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613837410	LZ_TOKEN_KEY	lztokenpaged754501ae42b4b038d8757527a593c79
+02/21/21 00:00:13 069824500  1613836813
+use pt_key
+
+real	0m2.133s
+user	0m0.156s
+sys	0m0.078s
+02/21/21 00:00:15 522086100  1613836815 token: AAFgMTIOADCEvvoWSoYxdkw8h25BzeqzqBDOPi9tPnSdul90EQPHJFPN7lfhN67SM3m5QwiwLbE
+
+real	0m1.554s
+user	0m0.094s
+sys	0m0.109s
+02/21/21 00:00:17 525491000  1613836817 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/21/21 00:00:18 090253400  1613836818 赵签到科赋京东自营旗舰店
+
+real	0m2.097s
+user	0m0.000s
+sys	0m0.063s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1134896",
+    "giftType": "6",
+    "giftName": "2京豆",
+    "giftNum": "2",
+    "giftTotal": "8000",
+    "giftResidue": null,
+    "priceInfo": "0.02",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "303a80a89f174898beb2c4bac618418b",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "LaoVSv"
+}
+true
+02/21/21 00:00:28 264919000 1613836828
+02/21/21 00:00:28 730366700 1613836828 签到科赋京东自营旗舰店完成
+02/21/21 00:00:46 396858100  1613836846
+true
+首次签到成功. 写入giftName: "2京豆"
+
+***********************************************
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["2京豆"]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+赵签到科赋京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210221":"y"},"isOk":true,"signDetail":{"20210220":"y","20210221":"y","20210219":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"923987fff95d452dbae0e504596f6fb3","venderId":1000102982,"actId":"19902886114648d699f96cc0a6d1e02d","actName":"科赋2月签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210221,"contiSignNum":3,"totalSignNum":3,"createTime":1613712874000,"updateTime":1613836819000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210220": "y",
+    "20210221": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 3,
+  "totalSignNum": 3
+}
+
+科赋京东自营旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {285:<--} ERROR CODE: 4[0m [0;31;3m[20210221 00:00:47] [ERROR] [0m
+

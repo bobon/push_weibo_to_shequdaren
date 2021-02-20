@@ -18,64 +18,72 @@ actRule="
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1613692800;signed=2
-signTime=1613779200;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName=""
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10元优惠券""
 giftRes="ok"
-giftDate="20210220"
+giftDate="20210221"
 sign_res_info="
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
-当天签到奖励 "10元优惠券"
-连续签到 2 天
-签到总天数 2"
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10元优惠券"]
+连续签到 3 天
+签到总天数 3"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1613692800;signed=2
-signTime=1613779200;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName=""
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10元优惠券""
 giftRes="ok"
-giftDate="20210220"
+giftDate="20210221"
 sign_res_info="
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
-当天签到奖励 "10元优惠券"
-连续签到 2 天
-签到总天数 2"
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10元优惠券"]
+连续签到 3 天
+签到总天数 3"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 signTime=1613692800;signed=2
-signTime=1613779200;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName="10元优惠券"
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10元优惠券""
 giftRes="ok"
-giftDate="20210220"
+giftDate="20210221"
 sign_res_info="
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
-当天签到奖励 [10元优惠券]
-连续签到 2 天
-签到总天数 2"
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10元优惠券"]
+连续签到 3 天
+签到总天数 3"
 #移动 jd_OeTNobRVGiNZ sign_res_end
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1613692800;signed=2
-signTime=1613779200;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName=""
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10元优惠券""
 giftRes="ok"
-giftDate="20210220"
+giftDate="20210221"
 sign_res_info="
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
-当天签到奖励 []
-连续签到 2 天
-签到总天数 2"
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10元优惠券"]
+连续签到 3 天
+签到总天数 3"
 #赵 122294312-396444 sign_res_end

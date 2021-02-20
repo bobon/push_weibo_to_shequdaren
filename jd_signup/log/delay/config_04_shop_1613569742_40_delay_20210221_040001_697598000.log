@@ -1,0 +1,118 @@
+02/21/21 04:02:22 731146100  1613851342
+RANDOM_num: 15
+removed '/tmp/tmp.KpByq1n11o'
+02/21/21 04:02:22 803609400  1613851342
+移动 今天已经签到过. 签到结果: ok  giftDate: 20210221
+***********************************************
+
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5
+***********************************************
+
+actId=271685eb45df483385cc52f935fcec8d
+venderId=714450
+startTime=1612145400000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/-100W9Ehb"
+actTimeStr="2021-02-01 10:10 至 2021-02-28 23:59"
+#店铺名称
+vendername="三草两木Saselomo旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=271685eb45df483385cc52f935fcec8d&venderId=714450&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 10:10:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：50积分 50积分
+连续签到14天：100积分 100积分
+连续签到21天：200积分 200积分
+连续签到28天：赠送植萃护手霜礼盒
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end

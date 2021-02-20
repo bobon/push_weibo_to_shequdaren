@@ -1,0 +1,195 @@
+02/21/21 01:18:34 648132500  1613841514
+RANDOM_num: 5
+removed '/tmp/tmp.WqxmpCdk3i'
+02/21/21 01:18:34 747902800  1613841514 检查赵签到
+
+real	0m0.237s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842115	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842115	LZ_TOKEN_KEY	lztokenpage0866bec7bf364f73ad92c6c2758af13e
+02/21/21 01:18:35 120073100  1613841515
+use pt_key
+
+real	0m0.151s
+user	0m0.078s
+sys	0m0.063s
+02/21/21 01:18:35 286350900  1613841515 token: AAFgMURrADCDqTWu0Mo9SHvFknfPJC5BRRM1VnqkhzUkES7sdL11wI8fkXCQuA1K25jiV8z8q48
+
+real	0m0.255s
+user	0m0.094s
+sys	0m0.063s
+02/21/21 01:18:35 555076600  1613841515 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/21/21 01:18:35 568322100  1613841515 赵签到果倍爽京东自营旗舰店
+
+real	0m0.429s
+user	0m0.063s
+sys	0m0.031s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "5",
+    "giftType": "9",
+    "giftName": "5积分",
+    "giftNum": "5",
+    "giftTotal": "100000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "af0346cfb3064007a8ccfde9c8d637b1",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "ypgllw"
+}
+true
+02/21/21 01:18:36 485220800 1613841516
+02/21/21 01:18:36 502462400 1613841516 签到果倍爽京东自营旗舰店完成
+02/21/21 01:18:41 613404200  1613841521
+true
+首次签到成功. 写入giftName: "5积分"
+
+***********************************************
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 4 天
+签到总天数 4
+***********************************************
+
+赵签到果倍爽京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210220":"y","20210221":"y","20210218":"y","20210219":"y"},"isOk":true,"signDetail":{"20210220":"y","20210221":"y","20210218":"y","20210219":"y"},"followDays":26,"signRecord":{"nicknameShow":null,"id":"bb89f75b7f9f47f5b6473c319c3eb458","venderId":1000101935,"actId":"0dd5dff2523344ba8b3a1683ec2973df","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210221,"contiSignNum":4,"totalSignNum":4,"createTime":1613582155000,"updateTime":1613841515000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210220": "y",
+    "20210221": "y",
+    "20210218": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 4,
+  "totalSignNum": 4
+}
+
+果倍爽京东自营旗舰店活动规则
+{"msg":"","act":{"id":"0dd5dff2523344ba8b3a1683ec2973df","jdActivityId":null,"venderId":1000101935,"actName":"签到活动","startTime":1611823860000,"endTime":1617206399000,"tplId":"0003","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0dd5dff2523344ba8b3a1683ec2973df&venderId=1000101935","shortUrl":"3.cn/100U-vLQh","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/162053/15/4673/3608/60127c78E945ccb2f/e1cb2fc0053a462e.png","actRule":"1、活动时间：2021-01-28 16:51 - 2021-03-31 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[5积分]；
+4、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+5、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+6、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1611824248000,"updateTime":1611824248000,"activityType":null,"actTimeStr":"2021-01-28 16:51 至 2021-03-31 23:59","actRange":"all","isFocusShop":"n","giftJson":"{\"gift\":{\"giftInfoId\":\"af0346cfb3064007a8ccfde9c8d637b1\",\"giftName\":\"5积分\",\"giftNum\":\"5\",\"giftTotal\":\"100000\",\"giftType\":\"9\",\"id\":\"5\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"30\",\"gift\":{\"giftInfoId\":\"be10aaabc51849668efca745c80be4d3\",\"giftName\":\"5积分\",\"giftNum\":\"5\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"5\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"af0346cfb3064007a8ccfde9c8d637b1","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"30","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"be10aaabc51849668efca745c80be4d3","commonAddAwardVO":null}}]},"isShowItems":"n","showItemIds":"","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0dd5dff2523344ba8b3a1683ec2973df&venderId=1000101935",
+  "shortUrl": "3.cn/100U-vLQh",
+  "actRule": "1、活动时间：2021-01-28 16:51 - 2021-03-31 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[5积分]；\n4、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n5、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n6、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=0dd5dff2523344ba8b3a1683ec2973df
+venderId=1000101935
+startTime=1611823860000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/100U-vLQh"
+actTimeStr="2021-01-28 16:51 至 2021-03-31 23:59"
+#店铺名称
+vendername="果倍爽京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0dd5dff2523344ba8b3a1683ec2973df&venderId=1000101935&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.01.28 16:51:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到30天：5积分 5积分
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "5积分"
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "5积分"
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "5积分"
+连续签到 4 天
+签到总天数 4"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end

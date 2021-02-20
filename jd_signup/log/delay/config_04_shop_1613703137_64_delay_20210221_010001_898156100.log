@@ -1,0 +1,60 @@
+02/21/21 01:20:02 694809200  1613841602
+RANDOM_num: 40
+removed '/tmp/tmp.PKgalSg7Jw'
+02/21/21 01:20:02 973083800  1613841602 检查移动签到
+
+real	0m0.277s
+user	0m0.047s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842203	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842203	LZ_TOKEN_KEY	lztokenpage71ede5b95be1441b80ea29ce1750817b
+02/21/21 01:20:03 551922100  1613841603
+use wskey
+
+real	0m0.311s
+user	0m0.109s
+sys	0m0.156s
+02/21/21 01:20:03 893848300  1613841603 token: AAFgMUTDADA3PRyXr3z1DFCoZEkafFYxGQgNoq0gbgP0H4BvCxG9Y0zdONZQRP5icXWPq6b10as
+
+real	0m0.493s
+user	0m0.125s
+sys	0m0.094s
+02/21/21 01:20:04 442772800  1613841604 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/21/21 01:20:04 472183700  1613841604 移动签到华硕京东自营官方旗舰店
+
+real	0m0.460s
+user	0m0.031s
+sys	0m0.078s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1148380",
+    "giftType": "6",
+    "giftName": "1京豆",
+    "giftNum": "1",
+    "giftTotal": "10000",
+    "giftResidue": null,
+    "priceInfo": "0.01",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "4ed06160ec3340eabde0288d2983a12e",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "gWnzUj"
+}
+true
+02/21/21 01:20:05 521160900 1613841605
+02/21/21 01:20:05 549074200 1613841605 签到华硕京东自营官方旗舰店完成
+02/21/21 01:20:45 654137500  1613841645
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {255:<--} ERROR CODE: 6[0m [0;31;3m[20210221 01:20:45] [ERROR] [0m
+

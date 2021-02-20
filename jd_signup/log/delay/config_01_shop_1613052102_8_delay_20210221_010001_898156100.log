@@ -1,0 +1,270 @@
+02/21/21 01:18:18 332863400  1613841498
+RANDOM_num: 10
+removed '/tmp/tmp.501UF0Z69s'
+02/21/21 01:18:18 478783700  1613841498 检查赵签到
+
+real	0m0.175s
+user	0m0.047s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842098	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1613842098	LZ_TOKEN_KEY	lztokenpagebeadb6f81dba4ae0b787e692553fa875
+02/21/21 01:18:18 792683900  1613841498
+use pt_key
+
+real	0m0.323s
+user	0m0.125s
+sys	0m0.094s
+02/21/21 01:18:19 135655400  1613841499 token: AAFgMURbADCcSjwWeDl1ED2HNk6oKXh2uOt7IKotvK2A0g_t2XPwN51o2LOsV83TF_5j7GQYYYo
+
+real	0m0.361s
+user	0m0.109s
+sys	0m0.063s
+02/21/21 01:18:19 518913700  1613841499 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/21/21 01:18:19 536920500  1613841499 赵签到ZEESEA旗舰店
+
+real	0m0.439s
+user	0m0.047s
+sys	0m0.031s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "5000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "a9a167631b7845e7846d67108efafafd",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "kGfpJb"
+}
+true
+02/21/21 01:18:20 319285700 1613841500
+02/21/21 01:18:20 352694900 1613841500 签到ZEESEA旗舰店完成
+02/21/21 01:18:30 477947600  1613841510
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 1 天
+签到总天数 10
+***********************************************
+
+赵签到ZEESEA旗舰店查看结果
+{"msg":"","giftLog":{"20210212":"y","20210213":"y","20210215":"y","20210221":"y","20210216":"y","20210218":"y","20210219":"y"},"isOk":true,"signDetail":{"20210212":"y","20210213":"y","20210214":"y","20210215":"y","20210220":"y","20210221":"y","20210216":"y","20210217":"y","20210218":"y","20210219":"y"},"followDays":2,"signRecord":{"nicknameShow":null,"id":"75185e4c9e724978aa0228d0a91c3d36","venderId":220174,"actId":"5c7786775c86478f87e13e067736560f","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210221,"contiSignNum":1,"totalSignNum":10,"createTime":1613062936000,"updateTime":1613841499000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210212": "y",
+    "20210213": "y",
+    "20210214": "y",
+    "20210215": "y",
+    "20210220": "y",
+    "20210221": "y",
+    "20210216": "y",
+    "20210217": "y",
+    "20210218": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 1,
+  "totalSignNum": 10
+}
+
+ZEESEA旗舰店活动规则
+{"msg":"","act":{"id":"5c7786775c86478f87e13e067736560f","jdActivityId":null,"venderId":220174,"actName":"签到活动","startTime":1611547860000,"endTime":1614485339000,"tplId":"0002","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=5c7786775c86478f87e13e067736560f&venderId=220174","shortUrl":"3.cn/100JY-Atr","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/156141/21/3997/3631/5ff19159E57d5d529/846e468a5a60b561.png","actRule":"1、活动时间：2021-01-25 12:11 - 2021-02-28 12:08；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[10积分]；
+4、连续签到3天，有机会赠送以优惠价购买[连签3天专享]的资格；
+5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+6、关注店铺后方可参与活动；
+7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1609666905000,"updateTime":1612513566000,"activityType":null,"actTimeStr":"2021-01-25 12:11 至 2021-02-28 12:08","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"a9a167631b7845e7846d67108efafafd\",\"giftName\":\"10积分\",\"giftNum\":\"10\",\"giftTotal\":\"5000000\",\"giftType\":\"9\",\"id\":\"10\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"3\",\"gift\":{\"giftInfoId\":\"72b3d15b5e7747b991cc1c1cd33dd09f\",\"giftName\":\"连签3天专享\",\"giftNum\":\"1\",\"giftTotal\":\"0\",\"giftType\":\"8\",\"id\":\"37316\",\"priceInfo\":\"1.00\",\"shortLink\":\"https://item.jd.com/68032983805.html\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"5000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"a9a167631b7845e7846d67108efafafd","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"3","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"37316","giftType":"8","giftName":"连签3天专享","giftNum":"1","giftTotal":"0","giftResidue":null,"priceInfo":"1.00","shortLink":"https://item.jd.com/68032983805.html","orginLink":null,"giftInfoId":"72b3d15b5e7747b991cc1c1cd33dd09f","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"10025737681312,10025359833104,10020056837465,67966024814,69982405117,29409434213,66971251880,14938498866,10024625224179,69778742591,10021362425945,65738344489,10023416647872,48305606939,10021362425943","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=5c7786775c86478f87e13e067736560f&venderId=220174",
+  "shortUrl": "3.cn/100JY-Atr",
+  "actRule": "1、活动时间：2021-01-25 12:11 - 2021-02-28 12:08；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[10积分]；\n4、连续签到3天，有机会赠送以优惠价购买[连签3天专享]的资格；\n5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n6、关注店铺后方可参与活动；\n7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=5c7786775c86478f87e13e067736560f
+venderId=220174
+startTime=1611547860000
+endTime=1614485339000
+# 短链接
+suo_url="https://3.cn/100JY-Atr"
+actTimeStr="2021-01-25 12:11 至 2021-02-28 12:08"
+#店铺名称
+vendername="ZEESEA旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=5c7786775c86478f87e13e067736560f&venderId=220174&adsource=tg_discovery
+# 活动时间：2021.01.25 12:11:00 - 2021.02.28 12:08:59
+# 奖励说明：
+actRule="
+连续签到3天：连签3天专享
+"
+giftDate="20210214"
+sign_res_info="
+2021/02/14_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="1"
+sign_total_num="7"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 1 天
+签到总天数 7"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="0"
+sign_total_num="9"
+giftName="null"
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 null
+连续签到 0 天
+签到总天数 9"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2"
+sign_num="1"
+sign_total_num="10"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210220"
+sign_res_info="
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+当天签到奖励 "10积分"
+连续签到 1 天
+签到总天数 10"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="1"
+sign_total_num="10"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 1 天
+签到总天数 10"
+#赵 122294312-396444 sign_res_end

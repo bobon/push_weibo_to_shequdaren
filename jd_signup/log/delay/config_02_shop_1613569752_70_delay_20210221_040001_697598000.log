@@ -1,0 +1,114 @@
+02/21/21 04:02:26 772812900  1613851346
+RANDOM_num: 25
+removed '/tmp/tmp.118R0MsFWc'
+02/21/21 04:02:26 847920800  1613851346
+王 今天已经签到过. 签到结果: ok  giftDate: 20210221
+***********************************************
+
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 [10积分]
+连续签到 4 天
+签到总天数 4
+***********************************************
+
+actId=3c01293b278443d1bda532575fa810d1
+venderId=1000091866
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/100T0m-Im"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="iQunix京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3c01293b278443d1bda532575fa810d1&venderId=1000091866&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到26天：赠送L-Stand笔记本支架
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 5 天
+签到总天数 5"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,65 @@
+02/21/21 04:04:04 137585900  1613851444
+RANDOM_num: 35
+removed '/tmp/tmp.91MEJ8InYX'
+02/21/21 04:04:04 217479800  1613851444
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210221
+***********************************************
+7天签到 第 4 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="维他奶官方旗舰店"
+#店铺激活码
+actId="35d14c0f97194095934fbde1271ff651"
+#店铺id
+venderId="10353060"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao"
+
+startTime=1612251960
+endTime=1614527940
+# 活动时间：2021-02-02 15:46 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：20店铺积分
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：100店铺积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210221"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
