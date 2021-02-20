@@ -161,6 +161,7 @@ filer_venderId_from_shop() {
 #check_sign venderId.tmp
 #| sed -r -e '/shop_logo/s,\,,,' -e '/"shop_name"/d' -e '/"shop_brief"/d' | jq -c '.shops[]|{shop_id, vender_type, vender_id}'
 
+cd $sign_base_dir
 mkdir -vp /home/myid/all_shop_info
 if [ -f "$1" ]; then
 	echo "search $1 sign"

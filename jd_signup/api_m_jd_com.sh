@@ -192,8 +192,7 @@ if [ ! -z "$t1" ]; then
 	  --compressed | sed -r -e 's,^jsonp[_]*[^(]+[(],,' -e 's,[)][;]*$,,' )
 	if [ -z "$isover" ]; then
 		if [ "$3" != "check" ]; then
-			sed -i -r '/#.* '${pt_pin1}' sign_res$/,/#.* '${pt_pin1}' sign_res_end$/d' $2
-			write_sign_res "$pin1_name ${pt_pin1}" ${2} "$s1" "$t1"
+			write_sign_res "${pt_pin1}" ${2} "$s1" "$t1" "$pin1_name"
 		fi
 	fi
 fi
@@ -215,8 +214,7 @@ if [ ! -z "$t2" ]; then
 		  --compressed | sed -r -e 's,^jsonp[_]*[^(]+[(],,' -e 's,[)][;]*$,,' )
 		if [ -z "$isover" ]; then
 			if [ "$3" != "check" ]; then
-				sed -i -r '/#.* '${pt_pin2}' sign_res$/,/#.* '${pt_pin2}' sign_res_end$/d' $2
-				write_sign_res "$pin2_name ${pt_pin2}" ${2} "$s2" "$t2"
+				write_sign_res "${pt_pin2}" ${2} "$s2" "$t2" "$pin2_name"
 			fi
 		fi
 	fi

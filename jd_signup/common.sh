@@ -46,6 +46,44 @@ log_d() {
 	fi
 }
 
+delay_run() {
+  delay_num=10
+  isok=false
+  for i in $(seq ${delay_num}); do
+      echo [INFO] run $i time: $1
+      $(eval echo $1) && res=0 || res=$?
+      if [ $res -eq 0 ]; then
+          isok=true
+          break
+      fi
+      sleep 5
+  done
+  if [ "${isok}" = "false" ]; then
+     error "run error: $1"
+  fi
+}
+
+delay_run_return() {
+  local delay_num=10
+  local isok=false
+  local bl=$(mktemp)
+  echo $1 > $bl
+  for i in $(seq ${delay_num}); do
+      echo [INFO] run $i time: $1>&2
+      local res=0
+      bash $bl && local res=0 || local res=$?
+      if [ $res -eq 0 ]; then
+          local isok=true
+          break
+      fi
+      sleep 5
+  done
+  rm -rf $bl
+  if [ "${isok}" = "false" ]; then
+     error "run error: $1"
+  fi
+}
+
 parse_sign_res_info() {
 	for i in $(echo -e "$1"); do
 		eval $(echo $i)
@@ -59,25 +97,46 @@ parse_sign_res_info() {
 }
 
 write_sign_res() {
+	echo -e "$4"| jq -r '.code' || local res=false
+	if [ "$res" = "false" ]; then
+		echo "签到是否成功解析失败. 不再写$2"
+		return 0
+	fi
+	
+	local pin_key="${5} ${1}"
+	local old_sign_i=$(sed -r -n '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/p' $2)
+	sed -i -r '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/d' $2
 	local sign_res_num=$(echo -e "$3" | jq -r '"sign_num=" + (.data.days|tostring)')
 	eval $(echo $sign_res_num)
 	
-	local giftRes=$(echo -e "$4"| jq -r 'if (.success or (.msg|test("只能签到一次|已经参加过该活动")) ) then "ok" else empty end')
+	local giftRes=$(echo -e "$4"| jq -r 'if (.success) then "ok" elif(.msg|test("只能签到一次|已经参加过该活动")) then "ok_s" else .msg end')
+	if [ "$giftRes" = "ok" ]; then
+		local giftName=$(echo -e "$4" | jq -r '.data[]|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
+		echo "首次签到成功. 写入giftName: $giftName"
+	elif [ "$giftRes" = "ok_s" ]; then
+		local giftRes="ok"
+		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
+		echo "重复签到. 载入之前签到的giftName: $giftName"
+	else
+		local giftName=$(echo -e "$4" | jq -r '.data[]|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
+		echo "签到失败. 写入失败的giftName: $giftName"
+	fi
 	
 	local sign_res=$(echo -e "$3" | jq -r '.data.signRecords[]|
 		"signTime=" + (.signTime|tostring) + ";signed=" + (.signed|tostring) + ";currentDay=" + (.currentDay|tostring)
 		' | sed -r -e 's,[0-9]{3}(;signed=),\1,')
 
 	local sign_res_info=$(parse_sign_res_info "$sign_res")
-	local sign_res_info="$sign_res_info\n"$(echo "已签到 $sign_num 天")
+	local sign_res_info="$sign_res_info\n"$(echo -e "当天签到奖励 [$giftName]\n已签到 $sign_num 天")
 	
-	echo "#$1 sign_res" >> $2
+	echo "#${pin_key} sign_res" >> $2
 	echo -e "sign_res=\"\n$sign_res\"" >> $2
 	echo -e "sign_num=\"$sign_num\"" >> $2
+	echo -e "giftName=\"$giftName\"" >> $2
 	echo -e "giftRes=\"$giftRes\"" >> $2
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
 	echo -e "sign_res_info=\"\n$sign_res_info\"" >> $2
-	echo "#$1 sign_res_end" >> $2
+	echo "#${pin_key} sign_res_end" >> $2
 	
 	echo
 	echo "***********************************************"
@@ -86,8 +145,28 @@ write_sign_res() {
 }
 
 write_sign_res_lzkj() {
-	local giftName=$(echo -e "$4" | jq '.gift.giftName')
-	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只允许签到一次|只能签到一次")) ) then "ok" else .msg end')
+	echo -e "$4"| jq -r '.isOk' || local res=false
+	if [ "$res" = "false" ]; then
+		echo "签到是否成功解析失败. 不再写$2"
+		return 0
+	fi
+	
+	local pin_key="${5} ${1}"
+	local old_sign_i=$(sed -r -n '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/p' $2)
+	sed -i -r '/#.* '${1}' sign_res$/,/#.* '${1}' sign_res_end$/d' $2	
+	
+	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk) then "ok" elif(.msg|test("只允许签到一次|只能签到一次")) then "ok_s" else .msg end')
+	if [ "$giftRes" = "ok" ]; then
+		local giftName=$(echo -e "$4" | jq '.gift.giftName')
+		echo "首次签到成功. 写入giftName: $giftName"
+	elif [ "$giftRes" = "ok_s" ]; then
+		local giftRes="ok"
+		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
+		echo "重复签到. 载入之前签到的giftName: $giftName"
+	else
+		local giftName=$(echo -e "$4" | jq '.gift.giftName')
+		echo "签到失败. 写入失败的giftName: $giftName"
+	fi
 	
 	local sign_res_num=$(echo -e "$3" | jq -r '"contiSignNum=" + (.signRecord.contiSignNum|tostring) + ";totalSignNum=" + (.signRecord.totalSignNum|tostring)')
 	eval $(echo $sign_res_num)
@@ -95,9 +174,9 @@ write_sign_res_lzkj() {
 		+ (.key|strptime("%Y%m%d")|mktime|tostring) 
 		+ ";signed=" + if(.value == "y") then "2" else "1" end')
 	local sign_res_info=$(parse_sign_res_info "$sign_res")
-	local sign_res_info="$sign_res_info\n"$(echo -e "当天签到奖励 $giftName\n连续签到 $contiSignNum 天\n签到总天数 $totalSignNum")
+	local sign_res_info="$sign_res_info\n"$(echo -e "当天签到奖励 [$giftName]\n连续签到 $contiSignNum 天\n签到总天数 $totalSignNum")
 	
-	echo "#$1 sign_res" >> $2
+	echo "#${pin_key} sign_res" >> $2
 	echo -e "sign_res=\"\n$sign_res\"" >> $2
 	echo -e "sign_num=\"$contiSignNum\"" >> $2
 	echo -e "sign_total_num=\"$totalSignNum\"" >> $2
@@ -105,7 +184,7 @@ write_sign_res_lzkj() {
 	echo -e "giftRes=\"$giftRes\"" >> $2
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
 	echo -e "sign_res_info=\"\n$sign_res_info\"" >> $2
-	echo "#$1 sign_res_end" >> $2
+	echo "#${pin_key} sign_res_end" >> $2
 	
 	echo
 	echo "***********************************************"
@@ -114,16 +193,25 @@ write_sign_res_lzkj() {
 }
 
 write_sign_res_lzkj_7() {
+	echo -e "$4"| jq -r '.isOk' || local res=false
+	if [ "$res" = "false" ]; then
+		echo "签到是否成功解析失败. 不再写$2"
+		return 0
+	fi
+	
+	local pin_key="${5} ${1}"
+	sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
+	
 	local sign_days_7=$(echo "$3" | jq -r '.contiSignDays')
 	local sign_res_info="7天签到 第 $sign_days_7 天"
 	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk or (.msg|test("只允许签到一次|只能签到一次")) ) then "ok" else empty end')
 	
-	echo "#$1 sign_res" >> $2
+	echo "#${pin_key} sign_res" >> $2
 	echo -e "sign_num=\"$sign_days_7\"" >> $2
 	echo -e "sign_res_info=\"$sign_res_info\"" >> $2
 	echo -e "giftRes=\"$giftRes\"" >> $2
 	echo -e "giftDate=\"$(date +"%Y%m%d")\"" >> $2
-	echo "#$1 sign_res_end" >> $2
+	echo "#${pin_key} sign_res_end" >> $2
 	
 	echo
 	echo "***********************************************"
@@ -221,7 +309,10 @@ if_chang_delay() {
 			[ ! -z "$sign_num_" ] || error "sign_num_ is empty from shop/$key/prize/ and $ven_f"
 			[ ! -z "$sign_n" ] || error "sign_n is empty from shop/$key/prize/ and $ven_f"
 			local prize=$(ls -1 shop/$key/prize/$sign_num_ 2>/dev/null)
-			[ ! -z "$prize" ] || error "prize file is not exit: shop/$key/prize/$sign_num_"
+			if [ -z "$prize" ]; then
+				echo "[WARN] prize file is not exit: shop/$key/prize/$sign_num_"
+				return
+			fi
 
 			unset days; unset p_type; unset level; unset discount; unset quota; unset promoPrice; unset jdPrice
 			source "$prize"

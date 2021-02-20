@@ -139,6 +139,8 @@ source common.sh
 log_s "\n\n* * * * * * * * * * * * * * * * * *\n记录时刻 $(date +"%Y%m%d_%H%M%S_%N")\n"
 if [ "$1" = "checkfail" ]; then
 	check_if_have_fail "$2"
+elif [ "$1" = "-q" ]; then
+	check_res
 elif [ ! -z "$1" ]; then
 	if_chang_delay "$1"
 else

@@ -238,9 +238,6 @@ else
 	fi
 
 	source /home/myid/jd/jd_signup/common.sh
-	if [ -z "$isover" ]; then
-		sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
-	fi
 fi
 
 date +"%x %X %N  %s"
@@ -258,7 +255,7 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
 if [ -z "$isover" ]; then
 	if [ "$3" != "check" ]; then
-		write_sign_res_lzkj "$pin_name ${pt_pin}" ${2} "$s" "$t"
+		write_sign_res_lzkj "${pt_pin}" ${2} "$s" "$t" "$pin_name"
 	fi
 fi
 

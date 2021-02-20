@@ -183,11 +183,11 @@ done >> run_shell_jifen.sh
 
 #echo "bash $base_dir/other.sh $base_dir/config > $base_dir/log/other_\${log_f}.log 2>&1 &" >> run_shell.sh
 
-echo "
-sleep 0.3
-date +\"%x %X %N %s\"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del ${RANDOM_nums[$((index%RANDOM_len))]} > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_\${log_f}.log 2>&1 &
-" >> run_shell.sh
+#echo "
+#sleep 0.3
+#date +\"%x %X %N %s\"
+#bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del ${RANDOM_nums[$((index%RANDOM_len))]} > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_\${log_f}.log 2>&1 &
+# >> run_shell.sh
 
 echo "
 sleep 4

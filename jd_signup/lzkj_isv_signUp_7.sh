@@ -277,9 +277,6 @@ else
 	fi
 	
 	source /home/myid/jd/jd_signup/common.sh
-	if [ -z "$isover" ]; then
-		sed -i -r '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/d' $2
-	fi
 fi
 
 
@@ -299,7 +296,7 @@ s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/sevenDa
 
 if [ -z "$isover" ]; then
 	if [ "$3" != "check" ]; then
-		write_sign_res_lzkj_7 "$pin_name ${pt_pin}" ${2} "$s" "$t"
+		write_sign_res_lzkj_7 "${pt_pin}" ${2} "$s" "$t" "$pin_name"
 	fi
 fi
 
