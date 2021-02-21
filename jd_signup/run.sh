@@ -8,8 +8,8 @@ mkdir -vp $base_dir/log/jifen
 
 [ -d "log" ] || mkdir -vp log
 log_f=$(date +"%Y%m%d_%H%M%S_%N")
-cat run_header.sh > run_shell.sh
-echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' >> run_shell.sh
+cat run_header.sh > run_shell2.sh
+echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' >> run_shell2.sh
 echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_delay.sh
 echo 'log_f=$(date +"%Y%m%d_%H%M%S_%N")' > run_shell_jifen.sh
 
@@ -25,21 +25,21 @@ for i in $(ls -1 api_vender | grep -v '_del$' | grep -v '_fq$' | egrep -v '_dela
 	echo date +\"%x %X %N  %s\"
 	echo "bash $base_dir/api_m_jd_com.sh $base_dir/config2 $base_dir/api_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/config2_${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
-done >> run_shell.sh
+done >> run_shell2.sh
 
 for i in $(ls -1 vender_jinggeng | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 	echo date +\"%x %X %N  %s\"
 	echo "bash $base_dir/jinggeng_isv_signUp.sh $base_dir/config $base_dir/vender_jinggeng/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
-done >> run_shell.sh
+done >> run_shell2.sh
 
 for i in $(ls -1 sevenDay_vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 	echo date +\"%x %X %N  %s\"
 	echo "bash $base_dir/cjhy_isv_signUp_7.sh $base_dir/config $base_dir/sevenDay_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${vender_name}_\${log_f}.log 2>&1 &"
 	let index++
-done >> run_shell.sh
+done >> run_shell2.sh
 
 for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
@@ -50,9 +50,9 @@ for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | egrep -v '_delay$|_jif
 			echo "bash $base_dir/lzkj_isv_signUp_7.sh $base_dir/config_/$conf $base_dir/lzkj_sevenDay_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 			let index++
 		done
-done >> run_shell.sh
+done >> run_shell2.sh
 
-#echo "sleep 1" >> run_shell.sh
+#echo "sleep 1" >> run_shell2.sh
 for i in $(ls -1 vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_ | sed '$d'); do		
@@ -62,9 +62,9 @@ for i in $(ls -1 vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 			echo "bash $base_dir/lzkj_isv_signUp.sh $base_dir/config_/$conf $base_dir/vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 			let index++
 		done
-done >> run_shell.sh
+done >> run_shell2.sh
 
-echo "echo delay start">> run_shell.sh
+echo "echo delay start">> run_shell2.sh
 for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_ | sed -n '$p'); do		
@@ -74,9 +74,9 @@ for i in $(ls -1 lzkj_sevenDay_vender | grep -v '_del$' | egrep -v '_delay$|_jif
 			echo "bash $base_dir/lzkj_isv_signUp_7.sh $base_dir/config_/$conf $base_dir/lzkj_sevenDay_vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 			let index++
 		done
-done >> run_shell.sh
+done >> run_shell2.sh
 
-#echo "sleep 1" >> run_shell.sh
+#echo "sleep 1" >> run_shell2.sh
 for i in $(ls -1 vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 	vender_name=$i
 		for j in $(ls -1 config_ | sed -n '$p'); do		
@@ -86,7 +86,7 @@ for i in $(ls -1 vender | grep -v '_del$' | egrep -v '_delay$|_jifen$') ; do
 			echo "bash $base_dir/lzkj_isv_signUp.sh $base_dir/config_/$conf $base_dir/vender/$vender_name ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > $base_dir/log/now/${conf}_${vender_name}_\${log_f}.log 2>&1 &"
 			let index++
 		done
-done >> run_shell.sh
+done >> run_shell2.sh
 
 
 
@@ -181,13 +181,13 @@ for i in $(ls -1 vender | grep -v '_del$' | grep '_jifen$') ; do
 		done
 done >> run_shell_jifen.sh
 
-#echo "bash $base_dir/other.sh $base_dir/config > $base_dir/log/other_\${log_f}.log 2>&1 &" >> run_shell.sh
+#echo "bash $base_dir/other.sh $base_dir/config > $base_dir/log/other_\${log_f}.log 2>&1 &" >> run_shell2.sh
 
 #echo "
 #sleep 0.3
 #date +\"%x %X %N %s\"
 #bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/kaxioujingjing_del ${RANDOM_nums[$((index%RANDOM_len))]} > /home/myid/jd/jd_signup/log/now/config_04_kaxioujingjing_\${log_f}.log 2>&1 &
-# >> run_shell.sh
+# >> run_shell2.sh
 
 echo "
 sleep 4
@@ -199,3 +199,6 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp_dingzhi.sh /home/myid/jd/jd_signup/
 sleep 2
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp_dingzhi.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/dingzhi_vender/mengniu_delay ${RANDOM_nums[$((3%RANDOM_len))]} > /home/myid/jd/jd_signup/log/delay/config_04_mengniu_\${log_f}.log 2>&1 &
 " >> run_shell_delay.sh
+
+
+./sign_res_check.sh makenow

@@ -10,7 +10,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -42,7 +42,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 18 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -74,7 +74,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 16 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -106,7 +106,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 3 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -138,10 +138,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-19;#赵 122294312-396444 sign_res
-17;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+19;#赵 122294312-396444: sign_res
+17;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/9F32AF8D7A055BD6760EF22E08FB6470/prize/: 7 14
 明天签到 埃可米官方旗舰店, 不会获取奖品, 保持文件名 api_vender/aikemi_delay 不变.
 
@@ -158,7 +158,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/05_00:00:00  2    未签到
 2021/02/06_00:00:00  2    未签到
@@ -187,7 +187,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 2, type=4; ]
 已签到 15 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/05_00:00:00  2    未签到
 2021/02/06_00:00:00  2    未签到
@@ -216,7 +216,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 2, type=4; ]
 已签到 15 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/05_00:00:00  2    未签到
 2021/02/06_18:57:05  2    [已~签~到]
@@ -245,7 +245,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 2, type=4; ]
 已签到 8 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/05_00:00:00  2    未签到
 2021/02/06_00:00:00  2    未签到
@@ -274,10 +274,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 2, type=4; ]
 已签到 1 天
 
-16;#赵 122294312-396444 sign_res
-16;#王 1309893722-164885 sign_res
-9;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+16;#赵 122294312-396444: sign_res
+16;#王 1309893722-164885: sign_res
+9;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/1EEAA3666DC9E22BABE44B1ABCC27325/prize/: 0 3 5 7
 明天签到 COMOTEK鞋靴旗舰店, 不会获取奖品, 保持文件名 api_vender/COMOTEK_delay 不变.
 
@@ -292,7 +292,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/20_14:47:22  2    [已~签~到]
 2021/02/21_01:03:18  1    [已~签~到]
@@ -325,7 +325,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/20_00:23:24  2    [已~签~到]
 2021/02/21_01:03:18  1    [已~签~到]
@@ -358,7 +358,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/20_20:43:36  2    [已~签~到]
 2021/02/21_01:04:07  1    [已~签~到]
@@ -391,7 +391,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:04:08  1    [已~签~到]
@@ -424,16 +424,16 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-3;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-3;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+3;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+3;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 ls: cannot access 'shop/9EAE21AA94BC979D0C7D56F428526393/prize/': No such file or directory
 [WARN] not find shop/9EAE21AA94BC979D0C7D56F428526393/prize
 
 
 * * * * * * * *
-chekc if chang delay api_vender/miyuan_delay
+chekc if chang delay api_vender/miyuan
 沁园京东自营旗舰店
 # 活动时间：2021.01.27 00:00:00 - 2021.02.25 23:59:59
 
@@ -445,7 +445,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/27_00:00:00  2    未签到
 2021/01/28_00:00:00  2    未签到
@@ -480,7 +480,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/27_00:00:00  2    未签到
 2021/01/28_00:00:00  2    未签到
@@ -515,7 +515,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/27_00:00:00  2    未签到
 2021/01/28_00:00:00  2    未签到
@@ -550,7 +550,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/27_00:00:00  2    未签到
 2021/01/28_00:00:00  2    未签到
@@ -585,21 +585,21 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-2;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/D71848E997002DC4F23CA79DB33BF16B/prize/: 0 3
 
-api_vender/miyuan_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D71848E997002DC4F23CA79DB33BF16B
+api_vender/miyuan  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D71848E997002DC4F23CA79DB33BF16B
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [沁园京东自营旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
 
-[RUN] 明天立即执行. api_vender/miyuan_delay --> api_vender/miyuan
-renamed 'api_vender/miyuan_delay' -> 'api_vender/miyuan'
+明天立即执行. 不改名字 api_vender/miyuan
+[SHELL]|移动 jd_OeTNobRVGiNZ|api_vender/miyuan
 
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613567513_20_delay
+chekc if chang delay api_vender/shop_1613567513_20
 AHASTYLE旗舰店
 # 活动时间：2021.01.28 00:00:00 - 2021.02.26 23:59:59
 
@@ -611,7 +611,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -646,7 +646,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 4 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -681,7 +681,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 4 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -716,7 +716,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 4 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -751,17 +751,17 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/FD47D3D062F2A8401FAD6808B1BF1484/prize/: 0 3
 
-api_vender/shop_1613567513_20_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FD47D3D062F2A8401FAD6808B1BF1484
+api_vender/shop_1613567513_20  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FD47D3D062F2A8401FAD6808B1BF1484
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [AHASTYLE旗舰店] 的第 3 天，将要获取到奖品[ 3 京豆]
 
-[RUN] 明天立即执行. api_vender/shop_1613567513_20_delay --> api_vender/shop_1613567513_20
-renamed 'api_vender/shop_1613567513_20_delay' -> 'api_vender/shop_1613567513_20'
+明天立即执行. 不改名字 api_vender/shop_1613567513_20
+[SHELL]|移动 jd_OeTNobRVGiNZ|api_vender/shop_1613567513_20
 
 
 * * * * * * * *
@@ -777,7 +777,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/01_00:00:00  2    未签到
 2021/02/02_00:00:00  2    未签到
@@ -810,7 +810,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 5 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/01_00:00:00  2    未签到
 2021/02/02_00:00:00  2    未签到
@@ -843,7 +843,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 4 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/01_00:00:00  2    未签到
 2021/02/02_00:00:00  2    未签到
@@ -876,7 +876,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 5 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/01_00:00:00  2    未签到
 2021/02/02_00:00:00  2    未签到
@@ -909,10 +909,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-6;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-6;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+6;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+6;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/0B61C7659EFF3FAFA47FAFD6F550B94A/prize/: 0 3
 明天签到 CHUMS运动户外旗舰店, 不会获取奖品, 保持文件名 api_vender/shop_1613569733_13_delay 不变.
 
@@ -931,7 +931,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -966,7 +966,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 5 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1001,7 +1001,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 8, type=4; ]
 已签到 4 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1036,7 +1036,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 5 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1071,16 +1071,17 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 2, type=4; ]
 已签到 2 天
 
-6;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-6;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+6;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+6;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/2D55B608A393EE079A92746DBAD6BFBC/prize/: 1 2 3 4
 
 api_vender/shop_1613569746_51  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=2D55B608A393EE079A92746DBAD6BFBC
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [阳光飞歌旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
 
 明天立即执行. 不改名字 api_vender/shop_1613569746_51
+[SHELL]|移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569746_51
 
 
 * * * * * * * *
@@ -1096,7 +1097,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1127,7 +1128,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1158,7 +1159,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1189,7 +1190,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1220,15 +1221,15 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-3;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-3;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+3;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+3;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/5FA66556A145870F8143AA46053F6ADE/prize/: 0 7
 明天签到 绿志食品专营店, 不会获取奖品, 保持文件名 api_vender/shop_1613569767_116_delay 不变.
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613569771_127_delay
+chekc if chang delay api_vender/shop_1613569771_127
 克雷格旗舰店
 # 活动时间：2021.02.03 00:00:00 - 2021.02.28 23:59:59
 
@@ -1243,7 +1244,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1274,7 +1275,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1305,7 +1306,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 5, type=1; ]
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1336,7 +1337,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 6, type=4; ]
 已签到 3 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/03_00:00:00  2    未签到
 2021/02/04_00:00:00  2    未签到
@@ -1367,19 +1368,19 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 5, type=1; ]
 已签到 2 天
 
-2;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/67B726B7BB649E99843EEA260BBC1552/prize/: 0 1 2 3 4
 
-api_vender/shop_1613569771_127_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=67B726B7BB649E99843EEA260BBC1552
+api_vender/shop_1613569771_127  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=67B726B7BB649E99843EEA260BBC1552
 发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [克雷格旗舰店] 的第 4 天，将要获取到奖品[ 满88-10店铺券]
-发现明天是 [王 1309893722-164885 移动 jd_OeTNobRVGiNZ] 签到 [克雷格旗舰店] 的第 3 天，将要获取到奖品[ 6 京豆]
+发现明天是 [王 1309893722-164885; 移动 jd_OeTNobRVGiNZ] 签到 [克雷格旗舰店] 的第 3 天，将要获取到奖品[ 6 京豆]
 发现明天是 [赵 122294312-396444] 签到 [克雷格旗舰店] 的第 2 天，将要获取到奖品[ 满38-5店铺券]
 
-[RUN] 明天立即执行. api_vender/shop_1613569771_127_delay --> api_vender/shop_1613569771_127
-renamed 'api_vender/shop_1613569771_127_delay' -> 'api_vender/shop_1613569771_127'
+明天立即执行. 不改名字 api_vender/shop_1613569771_127
+[SHELL]|赵 122294312-396444|api_vender/shop_1613569771_127
 
 
 * * * * * * * *
@@ -1395,7 +1396,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -1426,7 +1427,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -1457,7 +1458,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 10, type=4; ]
 已签到 5 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -1488,7 +1489,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -1519,20 +1520,21 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-5;#赵 122294312-396444 sign_res
-6;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+6;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/73E495F79889862EDBADCF57FE4F6378/prize/: 0 5
 
 api_vender/shop_1613569773_134  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=73E495F79889862EDBADCF57FE4F6378
-发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [比乐京东自营旗舰店] 的第 5 天，将要获取到奖品[ 10 京豆]
+发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204] 签到 [比乐京东自营旗舰店] 的第 5 天，将要获取到奖品[ 10 京豆]
 
 明天立即执行. 不改名字 api_vender/shop_1613569773_134
+[SHELL]|赵 122294312-396444; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569773_134
 
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613569789_154_delay
+chekc if chang delay api_vender/shop_1613569789_154
 人本京东自营旗舰店
 # 活动时间：2021.01.26 00:00:00 - 2021.02.24 23:59:59
 
@@ -1545,7 +1547,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1580,7 +1582,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1615,7 +1617,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1650,7 +1652,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/26_00:00:00  2    未签到
 2021/01/27_00:00:00  2    未签到
@@ -1685,23 +1687,23 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 3, type=4; ]
 已签到 2 天
 
-2;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/8682F0CA97CA2FABE55226D27A68027D/prize/: 1 2 3
 
-api_vender/shop_1613569789_154_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8682F0CA97CA2FABE55226D27A68027D
+api_vender/shop_1613569789_154  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8682F0CA97CA2FABE55226D27A68027D
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [人本京东自营旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [人本京东自营旗舰店] 的第 2 天，将要获取到奖品[ 3 京豆]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [人本京东自营旗舰店] 的第 2 天，将要获取到奖品[ 3 京豆]
 
-[RUN] 明天立即执行. api_vender/shop_1613569789_154_delay --> api_vender/shop_1613569789_154
-renamed 'api_vender/shop_1613569789_154_delay' -> 'api_vender/shop_1613569789_154'
+明天立即执行. 不改名字 api_vender/shop_1613569789_154
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569789_154
 
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613569799_167_delay
-shop_1613569799_167_delay
+chekc if chang delay api_vender/shop_1613569799_167
+shop_1613569799_167
 # 活动时间：2021.02.09 00:00:00 - 2021.03.09 23:59:59
 
 连续签到5天：5京豆
@@ -1711,7 +1713,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/09_00:00:00  2    未签到
 2021/02/10_00:00:00  2    未签到
@@ -1745,7 +1747,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/09_00:00:00  2    未签到
 2021/02/10_00:00:00  2    未签到
@@ -1779,7 +1781,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/09_00:00:00  2    未签到
 2021/02/10_00:00:00  2    未签到
@@ -1813,7 +1815,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/09_00:00:00  2    未签到
 2021/02/10_00:00:00  2    未签到
@@ -1847,17 +1849,17 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/9427FEC37B8799EEC044AB62828FAA36/prize/: 5
 
-api_vender/shop_1613569799_167_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [shop_1613569799_167_delay] 的第 5 天，将要获取到奖品[ 5 京豆]
+api_vender/shop_1613569799_167  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [shop_1613569799_167] 的第 5 天，将要获取到奖品[ 5 京豆]
 
-[RUN] 明天立即执行. api_vender/shop_1613569799_167_delay --> api_vender/shop_1613569799_167
-renamed 'api_vender/shop_1613569799_167_delay' -> 'api_vender/shop_1613569799_167'
+明天立即执行. 不改名字 api_vender/shop_1613569799_167
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569799_167
 
 
 * * * * * * * *
@@ -1875,7 +1877,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -1907,7 +1909,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 10, type=4; ]
 已签到 5 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -1939,7 +1941,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 4 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -1971,7 +1973,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 10, type=4; ]
 已签到 5 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/02_00:00:00  2    未签到
 2021/02/03_00:00:00  2    未签到
@@ -2003,10 +2005,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-6;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-6;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+6;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+6;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/A91A92BF40CF8B22B9F862A34AE58D9B/prize/: 1 3 5 7
 
 api_vender/shop_1613569811_180  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
@@ -2014,6 +2016,7 @@ api_vender/shop_1613569811_180  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61q
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [猫人京东自营旗舰店] 的第 3 天，将要获取到奖品[ 5 京豆]
 
 明天立即执行. 不改名字 api_vender/shop_1613569811_180
+[SHELL]|移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
 
 
 * * * * * * * *
@@ -2029,7 +2032,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/17_00:00:00  2    未签到
 2021/02/18_00:00:00  2    未签到
@@ -2045,7 +2048,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/17_00:00:00  2    未签到
 2021/02/18_00:00:00  2    未签到
@@ -2061,7 +2064,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/17_00:00:00  2    未签到
 2021/02/18_00:00:00  2    未签到
@@ -2077,7 +2080,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_00:00:00  2    未签到
 2021/02/18_00:00:00  2    未签到
@@ -2093,15 +2096,15 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 3 天
 
-2;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/0EFFD39F2139300F099E1DB9F160D9B8/prize/: 3 7
 明天签到 gaston gerin盛星专卖店, 不会获取奖品, 保持文件名 api_vender/shop_1613703000_5_delay 不变.
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613703056_30_delay
+chekc if chang delay api_vender/shop_1613703056_30
 迪锐克斯dxracer旗舰店
 # 活动时间：2021.02.19 00:00:00 - 2021.02.28 23:59:59
 
@@ -2114,7 +2117,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_01:08:52  2    [已~签~到]
@@ -2129,7 +2132,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_10:06:17  2    [已~签~到]
@@ -2144,7 +2147,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_01:09:35  2    [已~签~到]
@@ -2159,7 +2162,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_21:04:28  2    [已~签~到]
@@ -2174,21 +2177,21 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-3;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-3;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+3;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+3;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/3F96010F203DE14B657797EC4793D141/prize/: 1 3 5
 
-api_vender/shop_1613703056_30_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=3F96010F203DE14B657797EC4793D141
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [迪锐克斯dxracer旗舰店] 的第 3 天，将要获取到奖品[ 15 京豆]
+api_vender/shop_1613703056_30  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=3F96010F203DE14B657797EC4793D141
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [迪锐克斯dxracer旗舰店] 的第 3 天，将要获取到奖品[ 15 京豆]
 
-[RUN] 明天立即执行. api_vender/shop_1613703056_30_delay --> api_vender/shop_1613703056_30
-renamed 'api_vender/shop_1613703056_30_delay' -> 'api_vender/shop_1613703056_30'
+明天立即执行. 不改名字 api_vender/shop_1613703056_30
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703056_30
 
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1613703193_86_delay
+chekc if chang delay api_vender/shop_1613703193_86
 巴黎贝甜旗舰店
 # 活动时间：2021.02.19 00:00:00 - 2021.03.17 23:59:59
 
@@ -2199,7 +2202,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_01:10:22  2    [已~签~到]
@@ -2231,7 +2234,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_10:06:19  2    [已~签~到]
@@ -2263,7 +2266,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_01:10:31  2    [已~签~到]
@@ -2295,7 +2298,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_00:00:00  2    未签到
 2021/02/20_22:10:27  2    [已~签~到]
@@ -2327,17 +2330,17 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-3;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-3;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+3;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+3;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/D8A6E287489F93ED4B17A81C6EDCD650/prize/: 3
 
-api_vender/shop_1613703193_86_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D8A6E287489F93ED4B17A81C6EDCD650
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [巴黎贝甜旗舰店] 的第 3 天，将要获取到奖品[ 10 京豆]
+api_vender/shop_1613703193_86  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D8A6E287489F93ED4B17A81C6EDCD650
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [巴黎贝甜旗舰店] 的第 3 天，将要获取到奖品[ 10 京豆]
 
-[RUN] 明天立即执行. api_vender/shop_1613703193_86_delay --> api_vender/shop_1613703193_86
-renamed 'api_vender/shop_1613703193_86_delay' -> 'api_vender/shop_1613703193_86'
+明天立即执行. 不改名字 api_vender/shop_1613703193_86
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703193_86
 
 
 * * * * * * * *
@@ -2353,7 +2356,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -2388,7 +2391,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -2423,7 +2426,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -2458,7 +2461,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/01/28_00:00:00  2    未签到
 2021/01/29_00:00:00  2    未签到
@@ -2493,10 +2496,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-3;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-3;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+3;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+3;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/154FB5E00A34A44BD14A3EF2BD16FF71/prize/: 0 7
 明天签到 老板集成烹饪系统京东自营店, 不会获取奖品, 保持文件名 api_vender/shop_1613711018_1_delay 不变.
 
@@ -2513,7 +2516,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:14:34  1    [已~签~到]
@@ -2527,7 +2530,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:14:34  1    [已~签~到]
@@ -2541,7 +2544,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:15:08  1    [已~签~到]
@@ -2555,7 +2558,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 1 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/20_21:57:25  2    [已~签~到]
 2021/02/21_01:15:08  1    [已~签~到]
@@ -2569,10 +2572,10 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 [奖励 1, type=4; ]
 已签到 2 天
 
-2;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/32DEC15741D404DBA4EB19ECCF1B2C6E/prize/: 0 7
 明天签到 泰福高（TAFUCO）京东自营旗舰店, 不会获取奖品, 保持文件名 api_vender/taifugao_delay 不变.
 
@@ -2590,7 +2593,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:15:47  1    [已~签~到]
@@ -2605,7 +2608,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:15:47  1    [已~签~到]
@@ -2620,7 +2623,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/20_00:00:00  2    未签到
 2021/02/21_01:16:30  1    [已~签~到]
@@ -2635,7 +2638,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 1 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/20_22:18:09  2    [已~签~到]
 2021/02/21_01:16:30  1    [已~签~到]
@@ -2650,15 +2653,15 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-2;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/AFC577CD1825D16CB45679BFA2D2947A/prize/: 0 5 10
 明天签到 新贵京东自营旗舰店, 不会获取奖品, 保持文件名 api_vender/xingui_delay 不变.
 
 * * * * * * * *
-chekc if chang delay api_vender/ZJUZ_delay
+chekc if chang delay api_vender/ZJUZ
 ZJUZ珠宝旗舰店
 活动时间：2021.02.10 00:00:00 - 2021.02.28 23:59:59
 奖励说明：
@@ -2671,7 +2674,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/10_18:56:29  2    [已~签~到]
 2021/02/11_01:00:06  2    [已~签~到]
@@ -2695,7 +2698,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 12 天
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/10_11:19:55  2    [已~签~到]
 2021/02/11_01:00:06  2    [已~签~到]
@@ -2719,7 +2722,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 12 天
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/10_00:00:00  2    未签到
 2021/02/11_00:00:00  2    未签到
@@ -2743,7 +2746,7 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 8 天
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/10_00:00:00  2    未签到
 2021/02/11_18:25:37  2    [已~签~到]
@@ -2767,17 +2770,17 @@ removed 'log/if_chang_delay_4'
 当天签到奖励 []
 已签到 2 天
 
-13;#赵 122294312-396444 sign_res
-13;#王 1309893722-164885 sign_res
-9;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+13;#赵 122294312-396444: sign_res
+13;#王 1309893722-164885: sign_res
+9;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/938178698B30D33A73C3A059ECC5A838/prize/: 3 5 10 18
 
-api_vender/ZJUZ_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
+api_vender/ZJUZ  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=938178698B30D33A73C3A059ECC5A838
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [ZJUZ珠宝旗舰店] 的第 3 天，将要获取到奖品[ 20 京豆]
 
-[RUN] 明天立即执行. api_vender/ZJUZ_delay --> api_vender/ZJUZ
-renamed 'api_vender/ZJUZ_delay' -> 'api_vender/ZJUZ'
+明天立即执行. 不改名字 api_vender/ZJUZ
+[SHELL]|移动 jd_OeTNobRVGiNZ|api_vender/ZJUZ
 
 
 * * * * * * * *
@@ -2792,7 +2795,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -2816,7 +2819,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 18
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -2830,7 +2833,7 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -2854,7 +2857,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 18
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -2878,10 +2881,10 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 18
 
-5;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-5;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+5;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/eb0ef5535d6e462096ab4e2135ba6c45/prize/: 7
 明天签到 澳优乳业官方旗舰店, 不会获取奖品, 保持文件名 vender/aoyouruye_delay 不变.
 
@@ -2902,7 +2905,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -2929,7 +2932,7 @@ removed 'log/if_chang_delay_4'
 连续签到 22 天
 签到总天数 22
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -2943,7 +2946,7 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -2970,7 +2973,7 @@ removed 'log/if_chang_delay_4'
 连续签到 21 天
 签到总天数 21
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -2984,10 +2987,10 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 8
 
-23;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
-22;#肥鹅 jd_4d651d9e48204 sign_res
-9;#移动 jd_OeTNobRVGiNZ sign_res
+23;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
+22;#肥鹅 jd_4d651d9e48204: sign_res
+9;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/2c2262856c394ade8d4a65e9a77aa624/prize/: 3 5 15 20 30
 明天签到 贝亲辅食尿裤京东自营旗舰店, 不会获取奖品, 保持文件名 vender/beiqinfushi_delay 不变.
 
@@ -3017,7 +3020,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3033,7 +3036,7 @@ removed 'log/if_chang_delay_4'
 连续签到 10 天
 签到总天数 10
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/11_08:00:00  [已~签~到]      
 2021/02/12_08:00:00  [已~签~到]      
@@ -3050,7 +3053,7 @@ removed 'log/if_chang_delay_4'
 连续签到 11 天
 签到总天数 11
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3066,7 +3069,7 @@ removed 'log/if_chang_delay_4'
 连续签到 10 天
 签到总天数 35
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -3080,15 +3083,15 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 33
 
-11;#肥鹅 jd_4d651d9e48204 sign_res
-12;#移动 jd_OeTNobRVGiNZ sign_res
-11;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
+11;#肥鹅 jd_4d651d9e48204: sign_res
+12;#移动 jd_OeTNobRVGiNZ: sign_res
+11;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
 show shop/4a669aaf044540ae859b472c07e472e5/prize/: 3 7 25
 明天签到 美赞臣京东自营官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613046198_4_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1613048969_0_delay
+chekc if chang delay vender/shop_1613048969_0
 每日鲜语京东自营旗舰店
 # 活动时间：2021.01.25 15:50:00 - 2021.02.24 15:50:59
 
@@ -3099,7 +3102,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3115,7 +3118,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 10
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -3129,7 +3132,7 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3144,7 +3147,7 @@ removed 'log/if_chang_delay_4'
 连续签到 6 天
 签到总天数 9
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/11_08:00:00  [已~签~到]      
 2021/02/12_08:00:00  [已~签~到]      
@@ -3161,17 +3164,17 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 11
 
-4;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-7;#肥鹅 jd_4d651d9e48204 sign_res
-5;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+7;#肥鹅 jd_4d651d9e48204: sign_res
+5;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/58b23c01ebb94a429aa107f0004a3dda/prize/: 7
 
-vender/shop_1613048969_0_delay  
+vender/shop_1613048969_0  
 发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [每日鲜语京东自营旗舰店] 的第 7 天，将要获取到奖品[ 2京豆 2京豆]
 
-[RUN] 明天立即执行. vender/shop_1613048969_0_delay --> vender/shop_1613048969_0
-renamed 'vender/shop_1613048969_0_delay' -> 'vender/shop_1613048969_0'
+明天立即执行. 不改名字 vender/shop_1613048969_0
+[SHELL]|肥鹅 jd_4d651d9e48204|vender/shop_1613048969_0
 
 
 * * * * * * * *
@@ -3188,7 +3191,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/11_08:00:00  [已~签~到]      
 2021/02/12_08:00:00  [已~签~到]      
@@ -3205,7 +3208,7 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 11
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3221,7 +3224,7 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 10
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -3235,7 +3238,7 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3251,10 +3254,10 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 10
 
-2;#移动 jd_OeTNobRVGiNZ sign_res
-1;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
-1;#肥鹅 jd_4d651d9e48204 sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
+1;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/58f043de9dd740b885a4265972e7ff00/prize/: 5 7 10
 明天签到 完美日记官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613052094_7_delay 不变.
 
@@ -3270,7 +3273,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3286,7 +3289,7 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 10
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -3300,7 +3303,7 @@ removed 'log/if_chang_delay_4'
 连续签到 2 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3316,7 +3319,7 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 10
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/11_08:00:00  [已~签~到]      
 2021/02/12_08:00:00  [已~签~到]      
@@ -3333,15 +3336,16 @@ removed 'log/if_chang_delay_4'
 连续签到 2 天
 签到总天数 11
 
-2;#赵 122294312-396444 sign_res
-3;#王 1309893722-164885 sign_res
-2;#肥鹅 jd_4d651d9e48204 sign_res
-3;#移动 jd_OeTNobRVGiNZ sign_res
+2;#赵 122294312-396444: sign_res
+3;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+3;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/5c7786775c86478f87e13e067736560f/prize/: 3
 
 vender/shop_1613052102_8_delay  
-发现明天是 [王 1309893722-164885 移动 jd_OeTNobRVGiNZ] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
+发现明天是 [王 1309893722-164885; 移动 jd_OeTNobRVGiNZ] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
 
+明天签到 ZEESEA旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 vender/shop_1613052102_8_delay 不变.
 
 
 * * * * * * * *
@@ -3356,7 +3360,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3372,7 +3376,7 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 10
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/14_08:00:00  [已~签~到]      
 2021/02/15_08:00:00  [已~签~到]      
@@ -3386,7 +3390,7 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 8
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/12_08:00:00  [已~签~到]      
 2021/02/13_08:00:00  [已~签~到]      
@@ -3402,7 +3406,7 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 10
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/11_08:00:00  [已~签~到]      
 2021/02/12_08:00:00  [已~签~到]      
@@ -3419,10 +3423,10 @@ removed 'log/if_chang_delay_4'
 连续签到 1 天
 签到总天数 11
 
-1;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
-1;#肥鹅 jd_4d651d9e48204 sign_res
-2;#移动 jd_OeTNobRVGiNZ sign_res
+1;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
+2;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/a29651e2037d44008a18c99c8d2241ac/prize/: 10
 明天签到 尤妮佳舒蔻京东自营官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613052185_19_delay 不变.
 
@@ -3438,7 +3442,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3448,7 +3452,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3458,7 +3462,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3468,7 +3472,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3479,10 +3483,10 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/0dd5dff2523344ba8b3a1683ec2973df/prize/: 30
 明天签到 果倍爽京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569734_15_delay 不变.
 
@@ -3498,7 +3502,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3508,7 +3512,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3518,7 +3522,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3528,7 +3532,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3539,10 +3543,10 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/1611635c76a84d969234b8b7c6871c65/prize/: 7
 明天签到 Domol京东自营专卖店, 不会获取奖品, 保持文件名 vender/shop_1613569737_25_delay 不变.
 
@@ -3561,7 +3565,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3571,7 +3575,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3581,7 +3585,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3592,7 +3596,7 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3602,10 +3606,10 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
-5;#赵 122294312-396444 sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
+5;#赵 122294312-396444: sign_res
 show shop/271685eb45df483385cc52f935fcec8d/prize/: 7 14 21 28
 明天签到 三草两木Saselomo旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569742_40_delay 不变.
 
@@ -3621,7 +3625,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3631,7 +3635,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3641,7 +3645,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3651,7 +3655,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3662,10 +3666,10 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/3c01293b278443d1bda532575fa810d1/prize/: 26
 明天签到 iQunix京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569752_70_delay 不变.
 
@@ -3683,7 +3687,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3693,7 +3697,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3704,7 +3708,7 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3714,7 +3718,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3724,10 +3728,10 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
 show shop/590fbd3f258f40cf974966a386efb147/prize/: 3 7 21
 明天签到 WOWO官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569763_104_delay 不变.
 
@@ -3743,7 +3747,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3753,7 +3757,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3763,7 +3767,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3773,7 +3777,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3784,10 +3788,10 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/9e6c312a63dd467881e9f0ebc9715fbe/prize/: 20
 明天签到 后浪出版京东自营店, 不会获取奖品, 保持文件名 vender/shop_1613569804_175_delay 不变.
 
@@ -3804,7 +3808,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -3815,7 +3819,7 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3825,7 +3829,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3835,7 +3839,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3845,10 +3849,10 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-6;#移动 jd_OeTNobRVGiNZ sign_res
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/b270fef38a7846acb90f9f96437ebd1c/prize/: 3 7
 明天签到 金利来男装旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569820_195_delay 不变.
 
@@ -3867,7 +3871,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -3890,7 +3894,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 44
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3900,7 +3904,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 27
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -3923,7 +3927,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 18
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -3947,10 +3951,10 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 19
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/ce895ed405234bf794275f998e28b6b6/prize/: 1 10 20 40
 明天签到 红星京东自营官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569840_217_delay 不变.
 
@@ -3966,7 +3970,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3976,7 +3980,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3986,7 +3990,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/18_08:00:00  [已~签~到]      
 2021/02/19_08:00:00  [已~签~到]      
@@ -3996,7 +4000,7 @@ removed 'log/if_chang_delay_4'
 连续签到 4 天
 签到总天数 4
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/17_08:00:00  [已~签~到]      
 2021/02/18_08:00:00  [已~签~到]      
@@ -4007,15 +4011,15 @@ removed 'log/if_chang_delay_4'
 连续签到 5 天
 签到总天数 5
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/d31e2fdc64bc453cb458bd2818deb581/prize/: 28
 明天签到 膳魔师（THERMOS）京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613569843_224_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1613703013_11
+chekc if chang delay vender/shop_1613703013_11_delay
 科赋京东自营旗舰店
 # 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
 
@@ -4028,7 +4032,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4037,7 +4041,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4046,7 +4050,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4055,7 +4059,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4064,14 +4068,12 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/19902886114648d699f96cc0a6d1e02d/prize/: 3 7 15
-[RUN] 明天签到 科赋京东自营旗舰店, 不会获取奖品. vender/shop_1613703013_11 --> vender/shop_1613703013_11_delay
-renamed 'vender/shop_1613703013_11' -> 'vender/shop_1613703013_11_delay'
-
+明天签到 科赋京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613703013_11_delay 不变.
 
 * * * * * * * *
 chekc if chang delay vender/shop_1613703054_29_delay
@@ -4085,7 +4087,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4094,7 +4096,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4103,7 +4105,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4112,7 +4114,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4121,10 +4123,10 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/3310acbda3e544b0ac7a4685b139696d/prize/: 15
 明天签到 戴尔官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613703054_29_delay 不变.
 
@@ -4140,7 +4142,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4149,7 +4151,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4158,7 +4160,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4167,7 +4169,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4176,10 +4178,10 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/93c474ed16454fedaabf88dbd06c83e5/prize/: 5
 明天签到 华硕京东自营官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613703137_64_delay 不变.
 
@@ -4196,7 +4198,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4205,7 +4207,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4214,7 +4216,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4223,7 +4225,7 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/19_08:00:00  [已~签~到]      
 2021/02/20_08:00:00  [已~签~到]      
@@ -4232,10 +4234,10 @@ removed 'log/if_chang_delay_4'
 连续签到 3 天
 签到总天数 3
 
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
-4;#赵 122294312-396444 sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
+4;#赵 122294312-396444: sign_res
 show shop/e437aef3d0664f77a3270a83e3e4c7cd/prize/: 5 10
 明天签到 6IXTY8IGHT旗舰店, 不会获取奖品, 保持文件名 vender/shop_1613711069_21_delay 不变.
 
@@ -4253,7 +4255,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -4280,7 +4282,7 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 21
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/14_08:00:00  [已~签~到]      
@@ -4295,7 +4297,7 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 9
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -4322,7 +4324,7 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 21
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/01_08:00:00  [已~签~到]      
 2021/02/02_08:00:00  [已~签~到]      
@@ -4349,10 +4351,10 @@ removed 'log/if_chang_delay_4'
 连续签到 0 天
 签到总天数 21
 
-1;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
-1;#肥鹅 jd_4d651d9e48204 sign_res
-1;#移动 jd_OeTNobRVGiNZ sign_res
+1;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/6365de679b174d909e5474ce869c32fe/prize/: 7 16 21
 明天签到 易开得官方京东自营旗舰店, 不会获取奖品, 保持文件名 vender/yikaide_delay 不变.
 
@@ -4372,7 +4374,7 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -4396,7 +4398,7 @@ removed 'log/if_chang_delay_4'
 连续签到 18 天
 签到总天数 18
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -4420,7 +4422,7 @@ removed 'log/if_chang_delay_4'
 连续签到 18 天
 签到总天数 18
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/05_08:00:00  [已~签~到]      
@@ -4444,7 +4446,7 @@ removed 'log/if_chang_delay_4'
 连续签到 18 天
 签到总天数 18
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 
 2021/02/04_08:00:00  [已~签~到]      
 2021/02/14_08:00:00  [已~签~到]      
@@ -4459,10 +4461,10 @@ removed 'log/if_chang_delay_4'
 连续签到 8 天
 签到总天数 9
 
-19;#肥鹅 jd_4d651d9e48204 sign_res
-19;#移动 jd_OeTNobRVGiNZ sign_res
-19;#赵 122294312-396444 sign_res
-9;#王 1309893722-164885 sign_res
+19;#肥鹅 jd_4d651d9e48204: sign_res
+19;#移动 jd_OeTNobRVGiNZ: sign_res
+19;#赵 122294312-396444: sign_res
+9;#王 1309893722-164885: sign_res
 show shop/b1d87d7302234f1b937d56bce7b1ba42/prize/: 1 5 10 15 28
 明天签到 伊利牛奶官方旗舰店, 不会获取奖品, 保持文件名 vender/yili2_delay 不变.
 
@@ -4485,34 +4487,35 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 0 天
 当天签到奖励 [null]
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 6 天
 当天签到奖励 [20元优惠券]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 1 天
 当天签到奖励 [null]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 6 天
 当天签到奖励 [20元优惠券]
 
-1;#移动 jd_OeTNobRVGiNZ sign_res
-7;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-7;#肥鹅 jd_4d651d9e48204 sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+7;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+7;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/3f064b1a32ec4b2ab6e044aa1cacad06/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/mengniu  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
-发现明天是 [赵 122294312-396444 肥鹅 jd_4d651d9e48204] 签到 [蒙牛官方旗舰店] 的第 7 天，将要获取到奖品[ 15京豆京豆 15京豆]
+发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204] 签到 [蒙牛官方旗舰店] 的第 7 天，将要获取到奖品[ 15京豆京豆 15京豆]
 发现明天是 [王 1309893722-164885] 签到 [蒙牛官方旗舰店] 的第 2 天，将要获取到奖品[ 30元优惠券]
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [蒙牛官方旗舰店] 的第 1 天，将要获取到奖品[ 15京豆京豆 15京豆]
 
 明天立即执行. 不改名字 lzkj_sevenDay_vender/mengniu
+[SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/mengniu
 
 
 * * * * * * * *
@@ -4533,31 +4536,32 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 0 天
 当天签到奖励 []
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 0 天
 当天签到奖励 [50元优惠券]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 0 天
 当天签到奖励 []
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 0 天
 当天签到奖励 []
 
-1;#赵 122294312-396444 sign_res
-1;#王 1309893722-164885 sign_res
-1;#肥鹅 jd_4d651d9e48204 sign_res
-1;#移动 jd_OeTNobRVGiNZ sign_res
+1;#赵 122294312-396444: sign_res
+1;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/3f6c151718844239b7be3ecca403cd70/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613046181_1_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
 
+明天签到 佳贝艾特京东自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613046181_1_delay 不变.
 
 
 * * * * * * * *
@@ -4579,33 +4583,34 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 5 天
 当天签到奖励 [20元优惠券]
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/13126645fcb2477fa1090a94cb7f3ca2/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613569736_23  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_xuanFuTuBiao
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [滴露旗舰店] 的第 6 天，将要获取到奖品[ 1京豆京豆 1京豆]
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [滴露旗舰店] 的第 5 天，将要获取到奖品[ 20元优惠券]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [滴露旗舰店] 的第 5 天，将要获取到奖品[ 20元优惠券]
 
 明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569736_23
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569736_23
 
 
 * * * * * * * *
@@ -4627,33 +4632,34 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 4 天
 当天签到奖励 [1京豆]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 5 天
 当天签到奖励 [2京豆]
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/1e5cac4ad760485d931141412c9fab0c/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613569740_34  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [泉林本色京东自营旗舰店] 的第 6 天，将要获取到奖品[ 3京豆京豆 3京豆]
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [泉林本色京东自营旗舰店] 的第 5 天，将要获取到奖品[ 2京豆京豆 2京豆]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [泉林本色京东自营旗舰店] 的第 5 天，将要获取到奖品[ 2京豆京豆 2京豆]
 
 明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569740_34
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569740_34
 
 
 * * * * * * * *
@@ -4675,30 +4681,31 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 5 天
 当天签到奖励 [null]
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 4 天
 当天签到奖励 [null]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 4 天
 当天签到奖励 [null]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 4 天
 当天签到奖励 [null]
 
-6;#移动 jd_OeTNobRVGiNZ sign_res
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/35d14c0f97194095934fbde1271ff651/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613569750_65_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao
 
+明天签到 维他奶官方旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613569750_65_delay 不变.
 
 
 * * * * * * * *
@@ -4720,33 +4727,34 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 4 天
 当天签到奖励 [8京豆]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 5 天
 当天签到奖励 [9京豆]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 4 天
 当天签到奖励 [8京豆]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 4 天
 当天签到奖励 [8京豆]
 
-5;#赵 122294312-396444 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
+5;#赵 122294312-396444: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
 show shop/5ff5ff7000d444a0893a41c1f678e4bf/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613569768_117  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [英氏YeeHoO奥特莱斯店] 的第 6 天，将要获取到奖品[ 10京豆京豆 10京豆]
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [英氏YeeHoO奥特莱斯店] 的第 5 天，将要获取到奖品[ 9京豆京豆 9京豆]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [英氏YeeHoO奥特莱斯店] 的第 5 天，将要获取到奖品[ 9京豆京豆 9京豆]
 
 明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569768_117
+[SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569768_117
 
 
 * * * * * * * *
@@ -4768,32 +4776,34 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 4 天
 当天签到奖励 [2京豆]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 4 天
 当天签到奖励 [2京豆]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 4 天
 当天签到奖励 [2京豆]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 5 天
 当天签到奖励 [30店铺积分]
 
-5;#赵 122294312-396444 sign_res
-5;#王 1309893722-164885 sign_res
-5;#肥鹅 jd_4d651d9e48204 sign_res
-6;#移动 jd_OeTNobRVGiNZ sign_res
+5;#赵 122294312-396444: sign_res
+5;#王 1309893722-164885: sign_res
+5;#肥鹅 jd_4d651d9e48204: sign_res
+6;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/b422cf6ec97e4d54a7001684c53ccad1/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613569823_197  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=b422cf6ec97e4d54a7001684c53ccad1&venderId=10524448&adsource=tg_xuanFuTuBiao
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [LIFAair京东自营官方旗舰店] 的第 6 天，将要获取到奖品[ 40店铺积分积分 40店铺积分]
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204] 签到 [LIFAair京东自营官方旗舰店] 的第 5 天，将要获取到奖品[ 30店铺积分积分 30店铺积分]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [LIFAair京东自营官方旗舰店] 的第 5 天，将要获取到奖品[ 30店铺积分积分 30店铺积分]
 
+[RUN] 明天签到 LIFAair京东自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. lzkj_sevenDay_vender/shop_1613569823_197 --> lzkj_sevenDay_vender/shop_1613569823_197_delay
+renamed 'lzkj_sevenDay_vender/shop_1613569823_197' -> 'lzkj_sevenDay_vender/shop_1613569823_197_delay'
 
 
 * * * * * * * *
@@ -4815,31 +4825,33 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 3 天
 当天签到奖励 [1京豆]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 3 天
 当天签到奖励 [1京豆]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 3 天
 当天签到奖励 [1京豆]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 3 天
 当天签到奖励 [1京豆]
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/14f003bcc03e444299ad216d4166702d/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613703008_9  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [海豚传媒自营官方旗舰店] 的第 4 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [海豚传媒自营官方旗舰店] 的第 4 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
 
+[RUN] 明天签到 海豚传媒自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. lzkj_sevenDay_vender/shop_1613703008_9 --> lzkj_sevenDay_vender/shop_1613703008_9_delay
+renamed 'lzkj_sevenDay_vender/shop_1613703008_9' -> 'lzkj_sevenDay_vender/shop_1613703008_9_delay'
 
 
 * * * * * * * *
@@ -4861,31 +4873,32 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 3 天
 当天签到奖励 [10店铺积分]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 3 天
 当天签到奖励 [10店铺积分]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 3 天
 当天签到奖励 [10店铺积分]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 3 天
 当天签到奖励 [10店铺积分]
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/264fae79e2c542a680f6cd6fce002c1e/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613703030_19_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=264fae79e2c542a680f6cd6fce002c1e&venderId=646666&adsource=tg_xuanFuTuBiao
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [全友家居生活美学旗舰店] 的第 4 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [全友家居生活美学旗舰店] 的第 4 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
 
+明天签到 全友家居生活美学旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613703030_19_delay 不变.
 
 
 * * * * * * * *
@@ -4907,31 +4920,32 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 3 天
 当天签到奖励 [50店铺积分]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 3 天
 当天签到奖励 [50店铺积分]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 3 天
 当天签到奖励 [50店铺积分]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 3 天
 当天签到奖励 [50店铺积分]
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/cd7a717f17914fda93377be959493730/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613703186_83_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao
-发现明天是 [赵 122294312-396444 王 1309893722-164885 肥鹅 jd_4d651d9e48204 移动 jd_OeTNobRVGiNZ] 签到 [Kendall康度京东自营专区] 的第 4 天，将要获取到奖品[ 50店铺积分积分 50店铺积分]
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [Kendall康度京东自营专区] 的第 4 天，将要获取到奖品[ 50店铺积分积分 50店铺积分]
 
+明天签到 Kendall康度京东自营专区, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613703186_83_delay 不变.
 
 
 * * * * * * * *
@@ -4953,30 +4967,31 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 3 天
 当天签到奖励 [50元优惠券]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 3 天
 当天签到奖励 [50元优惠券]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 3 天
 当天签到奖励 [50元优惠券]
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 3 天
 当天签到奖励 [50元优惠券]
 
-4;#赵 122294312-396444 sign_res
-4;#王 1309893722-164885 sign_res
-4;#肥鹅 jd_4d651d9e48204 sign_res
-4;#移动 jd_OeTNobRVGiNZ sign_res
+4;#赵 122294312-396444: sign_res
+4;#王 1309893722-164885: sign_res
+4;#肥鹅 jd_4d651d9e48204: sign_res
+4;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/e78aa0728f904f849441aa277f269af3/prize/: 1 2 3 4 5 6 7
 
 lzkj_sevenDay_vender/shop_1613703218_97_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=e78aa0728f904f849441aa277f269af3&venderId=149630&adsource=tg_xuanFuTuBiao
 
+明天签到 象印旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613703218_97_delay 不变.
 
 
 * * * * * * * *
@@ -4996,26 +5011,26 @@ removed 'log/if_chang_delay_2'
 removed 'log/if_chang_delay_3'
 removed 'log/if_chang_delay_4'
 
-#移动 jd_OeTNobRVGiNZ sign_res
+#移动 jd_OeTNobRVGiNZ: sign_res
 7天签到 第 0 天
 当天签到奖励 []
 
-#赵 122294312-396444 sign_res
+#赵 122294312-396444: sign_res
 7天签到 第 0 天
 当天签到奖励 [null]
 
-#王 1309893722-164885 sign_res
+#王 1309893722-164885: sign_res
 7天签到 第 1 天
 当天签到奖励 [10店铺积分]
 
-#肥鹅 jd_4d651d9e48204 sign_res
+#肥鹅 jd_4d651d9e48204: sign_res
 7天签到 第 0 天
 当天签到奖励 []
 
-1;#移动 jd_OeTNobRVGiNZ sign_res
-1;#赵 122294312-396444 sign_res
-2;#王 1309893722-164885 sign_res
-1;#肥鹅 jd_4d651d9e48204 sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+1;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
 ls: cannot access 'shop/8a60a89469dd449eb9f931ce1fc01cde/prize/': No such file or directory
 [WARN] not find shop/8a60a89469dd449eb9f931ce1fc01cde/prize
 
@@ -5139,14 +5154,14 @@ https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d
 #王 1309893722-164885 获得奖励: ""8京豆""
 #肥鹅 jd_4d651d9e48204 获得奖励: ""8京豆""
 
-签到 [LIFAair京东自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613569823_197 活动链接
+签到 [LIFAair京东自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613569823_197_delay 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=b422cf6ec97e4d54a7001684c53ccad1&venderId=10524448&adsource=tg_xuanFuTuBiao
 #赵 122294312-396444 获得奖励: ""2京豆""
 #王 1309893722-164885 获得奖励: ""2京豆""
 #肥鹅 jd_4d651d9e48204 获得奖励: ""2京豆""
 #移动 jd_OeTNobRVGiNZ 获得奖励: ""30店铺积分""
 
-签到 [海豚传媒自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613703008_9 活动链接
+签到 [海豚传媒自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613703008_9_delay 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao
 #赵 122294312-396444 获得奖励: ""1京豆""
 #王 1309893722-164885 获得奖励: ""1京豆""
@@ -5313,3 +5328,92 @@ https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e437aef3d0664f77a32
 
 
 h5签到总数 20
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/miyuan
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613567513_20
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569746_51
+赵 122294312-396444|api_vender/shop_1613569771_127
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569773_134
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569789_154
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703056_30
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703193_86
+移动 jd_OeTNobRVGiNZ|api_vender/ZJUZ
+肥鹅 jd_4d651d9e48204|vender/shop_1613048969_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/mengniu
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569736_23
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569740_34
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569768_117
+
+替换成pt_pin后的任务
+config04|api_vender/miyuan
+config04|api_vender/shop_1613567513_20
+config04|api_vender/shop_1613569746_51
+config01|api_vender/shop_1613569771_127
+config01|api_vender/shop_1613569773_134
+config03|api_vender/shop_1613569773_134
+config01|api_vender/shop_1613569789_154
+config02|api_vender/shop_1613569789_154
+config03|api_vender/shop_1613569789_154
+config01|api_vender/shop_1613569799_167
+config02|api_vender/shop_1613569799_167
+config03|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config01|api_vender/shop_1613703056_30
+config02|api_vender/shop_1613703056_30
+config03|api_vender/shop_1613703056_30
+config04|api_vender/shop_1613703056_30
+config01|api_vender/shop_1613703193_86
+config02|api_vender/shop_1613703193_86
+config03|api_vender/shop_1613703193_86
+config04|api_vender/shop_1613703193_86
+config04|api_vender/ZJUZ
+config03|vender/shop_1613048969_0
+config04|lzkj_sevenDay_vender/mengniu
+config01|lzkj_sevenDay_vender/shop_1613569736_23
+config02|lzkj_sevenDay_vender/shop_1613569736_23
+config03|lzkj_sevenDay_vender/shop_1613569736_23
+config01|lzkj_sevenDay_vender/shop_1613569740_34
+config02|lzkj_sevenDay_vender/shop_1613569740_34
+config03|lzkj_sevenDay_vender/shop_1613569740_34
+config01|lzkj_sevenDay_vender/shop_1613569768_117
+config02|lzkj_sevenDay_vender/shop_1613569768_117
+config03|lzkj_sevenDay_vender/shop_1613569768_117
+
+合并后的立即执行的任务
+config2|api_vender/ZJUZ
+config2|api_vender/miyuan
+config2|api_vender/shop_1613567513_20
+config2|api_vender/shop_1613569746_51
+config|api_vender/shop_1613569771_127
+config2|api_vender/shop_1613569773_134
+config|api_vender/shop_1613569773_134
+config2|api_vender/shop_1613569789_154
+config|api_vender/shop_1613569789_154
+config2|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/shop_1613703056_30
+config|api_vender/shop_1613703056_30
+config2|api_vender/shop_1613703193_86
+config|api_vender/shop_1613703193_86
+config2|lzkj_sevenDay_vender/mengniu
+config2|lzkj_sevenDay_vender/shop_1613569736_23
+config|lzkj_sevenDay_vender/shop_1613569736_23
+config2|lzkj_sevenDay_vender/shop_1613569740_34
+config|lzkj_sevenDay_vender/shop_1613569740_34
+config2|lzkj_sevenDay_vender/shop_1613569768_117
+config|lzkj_sevenDay_vender/shop_1613569768_117
+config2|vender/shop_1613048969_0
+
+延迟执行的任务
+config|api_vender/ZJUZ
+config|api_vender/miyuan
+config|api_vender/shop_1613567513_20
+config|api_vender/shop_1613569746_51
+config2|api_vender/shop_1613569771_127
+config|api_vender/shop_1613569811_180
+config|lzkj_sevenDay_vender/mengniu
+config|vender/shop_1613048969_0

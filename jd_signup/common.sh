@@ -248,8 +248,9 @@ find_all_sign_res() {
 		} 
 	}' "$1"
 	for i in $(find log -type f -name 'if_chang_delay_*'); do
-		unset sign_num; unset f; unset sign_res_info
+		unset sign_num; unset f; unset sign_res_info; unset f
 		source $i
+		local f=$(echo $f | sed -r -e 's,( sign_res),:\1,')
 		log_d "\n$f"
 		log_d "$sign_res_info"
 		let sign_num++
@@ -383,6 +384,7 @@ if_chang_delay() {
 			else
 				error "not support type: $type"
 			fi
+			local sign_n=$(echo $sign_n | sed -r -e 's,:,;,g' -e 's,;$,,')
 			log_s "发现明天是 [$sign_n] 签到 [$vendername] 的第 $sign_num_ 天，将要获取到奖品[$remind]"
 		done
 		echo
@@ -390,14 +392,28 @@ if_chang_delay() {
 		if [ "$is_now" = "true" ]; then
 			if [ "$ven_f" = "${f}" ]; then
 				log_s "明天立即执行. 不改名字 $ven_f"
+				echo "[SHELL]|$sign_n|$ven_f"
 			else
 				log_s "[RUN] 明天立即执行. $ven_f --> ${f}"
 				if [ "$2" = "test" ]; then
 					echo mv -vf "$ven_f" "${f}"
 				else
 					mv -vf "$ven_f" "${f}"					
+					echo "[SHELL]|$sign_n|$f"
 				fi
 				local ven_f="${f}"
+			fi
+		else
+			if [ "${ven_f:0-6:6}" = "_delay" ]; then
+				echo "明天签到 $vendername, 虽然会获取奖品，但任务不用立即执行. 保持文件名 $ven_f 不变."
+			else
+				log_s "[RUN] 明天签到 $vendername, 虽然会获取奖品，但任务不用立即执行. $ven_f --> ${ven_f}_delay"
+				if [ "$2" = "test" ]; then
+					echo mv -vf "$ven_f" "${ven_f}_delay"
+				else
+					mv -vf "$ven_f" "${ven_f}_delay"
+				fi
+				local ven_f="${ven_f}_delay"
 			fi
 		fi
 		

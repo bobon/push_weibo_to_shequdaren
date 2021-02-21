@@ -1,0 +1,8 @@
+#用户信息
+pin1_name="肥鹅"
+#90天过期，3-17重新获取
+pt_key1="AAJgFqFLADCwFogSdbdKzNYGJHVdU5f4_A768OyPxw3XajCHM9CFNB1CkzX_kCTmsBT5ZV2Rj0A"
+pt_pin1="jd_4d651d9e48204"
+
+loop_num=20
+RANDOM_num=6

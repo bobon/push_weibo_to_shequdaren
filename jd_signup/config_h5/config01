@@ -1,0 +1,8 @@
+#用户信息
+pin1_name="赵"
+#90天过期，3-17重新获取
+pt_key1="AAJgGoIGADCPC618UPaTDCAkk5oAI1HGbEyQ8K8bGxhGjrOV33a6PdhbatJ7FWLOiHBIkubiNus"
+pt_pin1="122294312-396444"
+
+loop_num=20
+RANDOM_num=3

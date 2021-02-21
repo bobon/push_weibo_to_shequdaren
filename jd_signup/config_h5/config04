@@ -1,0 +1,8 @@
+#用户信息
+pin1_name="移动"
+#90天过期，3-17重新获取
+pt_key1="AAJgFqGiADCpeF_tgs9nVD6wK1kVQ7jvHHyt5Mj5sYFKgRsiSyreiWPUO_j1MSk7eflzCR0nbkM"
+pt_pin1="jd_OeTNobRVGiNZ"
+
+loop_num=20
+RANDOM_num=6
