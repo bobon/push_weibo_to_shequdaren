@@ -21,30 +21,6 @@ actRule="
 连续签到6天：1京豆
 连续签到7天：50元优惠券
 "
-#赵 122294312-396444 sign_res
-sign_num="4"
-giftName=""1京豆""
-giftRes="ok"
-giftDate="20210221"
-sign_res_info="7天签到 第 4 天
-当天签到奖励 ["1京豆"]"
-#赵 122294312-396444 sign_res_end
-#王 1309893722-164885 sign_res
-sign_num="4"
-giftName=""1京豆""
-giftRes="ok"
-giftDate="20210221"
-sign_res_info="7天签到 第 4 天
-当天签到奖励 ["1京豆"]"
-#王 1309893722-164885 sign_res_end
-#肥鹅 jd_4d651d9e48204 sign_res
-sign_num="4"
-giftName=""1京豆""
-giftRes="ok"
-giftDate="20210221"
-sign_res_info="7天签到 第 4 天
-当天签到奖励 ["1京豆"]"
-#肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_num="5"
 giftName=""20元优惠券""
@@ -53,3 +29,27 @@ giftDate="20210221"
 sign_res_info="7天签到 第 5 天
 当天签到奖励 ["20元优惠券"]"
 #移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210222"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210222"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210222"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#赵 122294312-396444 sign_res_end

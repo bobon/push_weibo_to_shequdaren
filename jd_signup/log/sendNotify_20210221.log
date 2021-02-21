@@ -2466,3 +2466,107 @@ config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
 config_/config_01|vender/shop_1613048969_0
 config_/config_02|vender/shop_1613048969_0
 config_/config_04|vender/shop_1613048969_0
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210221_234006_910175200
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/miyuan
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613567513_20
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569746_51
+赵 122294312-396444|api_vender/shop_1613569771_127
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569773_134
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569789_154
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703056_30
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613703193_86
+移动 jd_OeTNobRVGiNZ|api_vender/ZJUZ
+肥鹅 jd_4d651d9e48204|vender/shop_1613048969_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/mengniu
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569736_23
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569740_34
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1613569768_117
+
+替换成pt_pin后的任务
+config04|api_vender/miyuan
+config04|api_vender/shop_1613567513_20
+config04|api_vender/shop_1613569746_51
+config01|api_vender/shop_1613569771_127
+config01|api_vender/shop_1613569773_134
+config03|api_vender/shop_1613569773_134
+config01|api_vender/shop_1613569789_154
+config02|api_vender/shop_1613569789_154
+config03|api_vender/shop_1613569789_154
+config01|api_vender/shop_1613569799_167
+config02|api_vender/shop_1613569799_167
+config03|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config01|api_vender/shop_1613703056_30
+config02|api_vender/shop_1613703056_30
+config03|api_vender/shop_1613703056_30
+config04|api_vender/shop_1613703056_30
+config01|api_vender/shop_1613703193_86
+config02|api_vender/shop_1613703193_86
+config03|api_vender/shop_1613703193_86
+config04|api_vender/shop_1613703193_86
+config04|api_vender/ZJUZ
+config03|vender/shop_1613048969_0
+config04|lzkj_sevenDay_vender/mengniu
+config01|lzkj_sevenDay_vender/shop_1613569736_23
+config02|lzkj_sevenDay_vender/shop_1613569736_23
+config03|lzkj_sevenDay_vender/shop_1613569736_23
+config01|lzkj_sevenDay_vender/shop_1613569740_34
+config02|lzkj_sevenDay_vender/shop_1613569740_34
+config03|lzkj_sevenDay_vender/shop_1613569740_34
+config01|lzkj_sevenDay_vender/shop_1613569768_117
+config02|lzkj_sevenDay_vender/shop_1613569768_117
+config03|lzkj_sevenDay_vender/shop_1613569768_117
+
+合并后的立即执行的任务
+config2|api_vender/ZJUZ
+config2|api_vender/miyuan
+config2|api_vender/shop_1613567513_20
+config2|api_vender/shop_1613569746_51
+config|api_vender/shop_1613569771_127
+config2|api_vender/shop_1613569773_134
+config|api_vender/shop_1613569773_134
+config2|api_vender/shop_1613569789_154
+config|api_vender/shop_1613569789_154
+config2|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/shop_1613703056_30
+config|api_vender/shop_1613703056_30
+config2|api_vender/shop_1613703193_86
+config|api_vender/shop_1613703193_86
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|vender/shop_1613048969_0
+
+延迟执行的任务
+config|api_vender/ZJUZ
+config|api_vender/miyuan
+config|api_vender/shop_1613567513_20
+config|api_vender/shop_1613569746_51
+config2|api_vender/shop_1613569771_127
+config|api_vender/shop_1613569811_180
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|vender/shop_1613048969_0
+config_/config_02|vender/shop_1613048969_0
+config_/config_04|vender/shop_1613048969_0
