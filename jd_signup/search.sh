@@ -171,15 +171,15 @@ if [ -f "$1" ]; then
 	get_sign "$venderId"
 elif [ "$1" = "flush" ]; then
 	flush=true
-	echo "重新从log/all_shop.tmp中查找所有活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
+	echo "重新从/home/myid/all_shop.tmp中查找所有活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
 	if [ -f "log/sign.tmp" ]; then
 		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
 	fi
 	rm -rvf log/sign.tmp
-	check_sign log/all_shop.tmp
+	check_sign /home/myid/all_shop.tmp
 	cat log/sign.tmp | sort | uniq > log/shop2.tmp
 	mv -vf log/shop2.tmp log/sign.tmp
-	echo "从 $(cat log/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
+	echo "从 $(cat /home/myid/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
 else
 	unset shop_count; unset page_c
 	key="$1"
@@ -191,18 +191,18 @@ else
 		search_shop "$key" 300 $index | egrep 'vender_id' | cut -d '"' -f 4
 	done | sort | uniq > log/shop.tmp
 	
-	if [ -f "log/all_shop.tmp" ]; then
-		(cat log/all_shop.tmp log/shop.tmp | sort | uniq -u; cat log/shop.tmp) | sort | uniq -d > log/shop2.tmp
+	if [ -f "/home/myid/all_shop.tmp" ]; then
+		(cat /home/myid/all_shop.tmp log/shop.tmp | sort | uniq -u; cat log/shop.tmp) | sort | uniq -d > log/shop2.tmp
 		mv -vf log/shop2.tmp log/shop.tmp
 	else
-		cp -rvf log/shop.tmp log/all_shop.tmp
+		cp -rvf log/shop.tmp /home/myid/all_shop.tmp
 	fi
-	cat log/all_shop.tmp log/shop.tmp | sort | uniq > log/shop2.tmp
-	mv -vf log/shop2.tmp log/all_shop.tmp
+	cat /home/myid/all_shop.tmp log/shop.tmp | sort | uniq > log/shop2.tmp
+	mv -vf log/shop2.tmp /home/myid/all_shop.tmp
 	check_sign log/shop.tmp
 	
 	cat log/sign.tmp | sort | uniq > log/shop2.tmp
 	mv -vf log/shop2.tmp log/sign.tmp
-	echo "从 $(cat log/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
+	echo "从 $(cat /home/myid/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
 fi
 exit 
