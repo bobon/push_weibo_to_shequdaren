@@ -16,21 +16,21 @@ if [ "$2" = "precise" ]; then
 fi
 log_f=$(date +"%Y%m%d_%H%M%S_%N")
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/ZJUZ 5 $1 > /home/myid/jd/jd_signup/log/now/config2_ZJUZ_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/miyuan 5 $1 > /home/myid/jd/jd_signup/log/now/config2_miyuan_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/miyuan 10 $1 > /home/myid/jd/jd_signup/log/now/config2_miyuan_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/miyuan 10 $1 > /home/myid/jd/jd_signup/log/now/config_miyuan_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569733_13 15 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569733_13_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569746_51 20 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569746_51_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569771_127 25 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569771_127_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613569771_127 25 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1613569771_127_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613569771_127 30 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1613569771_127_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569789_154 30 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569789_154_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569789_154 35 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569789_154_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613569789_154 35 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1613569789_154_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613569789_154 40 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1613569789_154_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1613569811_180 40 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1613569811_180_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
 bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1613569811_180 45 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1613569811_180_${log_f}.log 2>&1 &
 date +"%x %X %N %s"

@@ -26,7 +26,8 @@ check_if_have_fail_h5() {
 			rm -rf $bb
 			
 			if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
-				local err_="$err_$pin1_name ${pt_pin1} 签到失败: $giftRes\n"
+				echo "1giftRes: a$giftRes"b"$giftDate"--"$dd"
+				local err_="$err_$pin1_name ${pt_pin1} 签到失败: $giftDate -- > $giftRes\n"
 			fi
 			if [ "$sign_num" = "" ]; then
 				local err_="$err_$pin1_name ${pt_pin1} 获取签到结果失败\n"
@@ -39,7 +40,8 @@ check_if_have_fail_h5() {
 				source $bb
 				rm -rf $bb
 				if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
-					local err_="$err_$pin2_name ${pt_pin2} 签到失败: $giftRes\n"
+					echo "2giftRes: c$giftRes"d"$giftDate"--"$dd"
+					local err_="$err_$pin2_name ${pt_pin2} 签到失败: $giftDate -- > $giftRes\n"
 				fi
 				if [ "$sign_num" = "" ]; then
 					local err_="$err_$pin2_name ${pt_pin2} 获取签到结果失败\n"
@@ -78,7 +80,7 @@ check_if_have_fail_lzkj() {
 			rm -rf $bb
 			
 			if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
-				local err_="$err_$pin_name ${pt_pin} 签到失败: $giftRes\n"
+				local err_="$err_$pin_name ${pt_pin} 签到失败: $giftDate -- > $giftRes\n"
 				if [ "$1" = "batch" ]; then
 					echo "[sign fail] $tt"
 				fi
@@ -112,7 +114,7 @@ check_del_vender() {
 
 check_if_have_fail() {
 	check_if_have_fail_h5
-	check_if_have_fail_lzkj "$1"
+	#check_if_have_fail_lzkj "$1"
 }
 
 check_gift() {
@@ -246,17 +248,17 @@ makenow() {
 		local vv_v=$(echo $vv | cut -d '/' -f 2)
 		if [ "${vv:0:10}" = "api_vender" ]; then
 			echo "sleep 1"
-			echo "bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/now/${cf}_${vv_v}_\${log_f}.log 2>&1 &"
+			echo "bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/delay/${cf}_${vv_v}_\${log_f}.log 2>&1 &"
 			let index++ || true
 		elif [ "${vv:0:6}" = "vender" ]; then
 			local cf_f=$(echo $cf | cut -d '/' -f 2)
 			echo "sleep 1"
-			echo "bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/now/${cf_f}_${vv_v}_\${log_f}.log 2>&1 &"
+			echo "bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/delay/${cf_f}_${vv_v}_\${log_f}.log 2>&1 &"
 			let index++ || true
 		elif [ "${vv:0:20}" = "lzkj_sevenDay_vender" ]; then
 			local cf_f=$(echo $cf | cut -d '/' -f 2)
 			echo "sleep 1"
-			echo "bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/now/${cf_f}_${vv_v}_\${log_f}.log 2>&1 &"
+			echo "bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/$cf /home/myid/jd/jd_signup/$vv ${RANDOM_nums[$((index%RANDOM_len))]} \$1 > /home/myid/jd/jd_signup/log/delay/${cf_f}_${vv_v}_\${log_f}.log 2>&1 &"
 			let index++ || true
 		fi
 	done >> $run_shell_delay
