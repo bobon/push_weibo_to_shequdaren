@@ -1,0 +1,121 @@
+02/23/21 04:02:56 875198300  1614024176
+RANDOM_num: 45
+removed '/tmp/tmp.jgaeDY6k1g'
+02/23/21 04:02:57 054327700  1614024177
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210223
+***********************************************
+
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5
+***********************************************
+
+actId=3310acbda3e544b0ac7a4685b139696d
+venderId=143080
+startTime=1612540800000
+endTime=1614514739000
+# 短链接
+suo_url="https://3.cn/100YkXR-Q"
+actTimeStr="2021-02-06 00:00 至 2021-02-28 20:18"
+#店铺名称
+vendername="戴尔官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3310acbda3e544b0ac7a4685b139696d&venderId=143080&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.06 00:00:00 - 2021.02.28 20:18:59
+# 奖励说明：
+actRule="
+连续签到15天：20京豆 20京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210223"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210223"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210223"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210223"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#肥鹅 jd_4d651d9e48204 sign_res_end
