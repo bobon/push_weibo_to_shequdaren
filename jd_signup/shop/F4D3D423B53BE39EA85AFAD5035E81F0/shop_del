@@ -1,0 +1,30 @@
+# 短链接
+suo_url=""
+venderId=10144106
+startTime=1611590400000
+endTime=1613836799000
+activityId=10257141
+token=F4D3D423B53BE39EA85AFAD5035E81F0
+#店铺名称
+vendername="天合倾牧旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=F4D3D423B53BE39EA85AFAD5035E81F0
+# 活动时间：2021.01.26 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满50-35店铺券
+连续签到3天：满60-40店铺券
+连续签到7天：满400-50店铺券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="null"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210224"
+sign_res_info="
+
+当天签到奖励 []
+已签到 null 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

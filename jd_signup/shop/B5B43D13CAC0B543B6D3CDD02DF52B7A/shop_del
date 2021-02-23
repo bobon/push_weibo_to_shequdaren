@@ -1,0 +1,28 @@
+# 短链接
+suo_url=""
+venderId=671713
+startTime=1611244800000
+endTime=1613836799000
+activityId=10253725
+token=B5B43D13CAC0B543B6D3CDD02DF52B7A
+#店铺名称
+vendername="法蝶莎旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B5B43D13CAC0B543B6D3CDD02DF52B7A
+# 活动时间：2021.01.22 00:00:00 - 2021.02.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：满500-10店铺券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="null"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210224"
+sign_res_info="
+
+当天签到奖励 []
+已签到 null 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
