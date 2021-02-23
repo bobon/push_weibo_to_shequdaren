@@ -202,3 +202,12 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp_dingzhi.sh /home/myid/jd/jd_signup/
 
 
 ./sign_res_check.sh makenow
+
+if [ "$1" = "clean" ]; then
+	log_d=$(date +"%Y%m%d")
+	cd log;find ./ -type f -name '*_'$log_d'_*' | xargs -i zip -m -r "log_$log_d".zip {}
+	ls -lah jifen
+	ls -lah delay
+	ls -lah now
+fi
+

@@ -1,38 +1,35 @@
 
 
 * * * * * * * * * * * * * * * * * *
-记录时刻 20210223_045501_666675600
+记录时刻 20210223_211828_724959200
 
-[RUN] 明天签到 沁园京东自营旗舰店, 不会获取奖品. api_vender/miyuan --> api_vender/miyuan_delay
+[RUN] 明天签到 攀升京东自营官方旗舰店, 不会获取奖品. api_vender/pansheng_03 --> api_vender/pansheng_03_delay
 
-[RUN] 明天签到 CHUMS运动户外旗舰店, 不会获取奖品. api_vender/shop_1613569733_13 --> api_vender/shop_1613569733_13_delay
-
-[RUN] 明天签到 阳光飞歌旗舰店, 不会获取奖品. api_vender/shop_1613569746_51 --> api_vender/shop_1613569746_51_delay
-
-api_vender/shop_1613569771_127  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=67B726B7BB649E99843EEA260BBC1552
+api_vender/shop_1613569771_127_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=67B726B7BB649E99843EEA260BBC1552
 发现明天是 [赵 122294312-396444] 签到 [克雷格旗舰店] 的第 4 天，将要获取到奖品[ 满88-10店铺券]
-[RUN] 明天签到 克雷格旗舰店, 虽然会获取奖品，但任务不用立即执行. api_vender/shop_1613569771_127 --> api_vender/shop_1613569771_127_delay
 
-[RUN] 明天签到 人本京东自营旗舰店, 不会获取奖品. api_vender/shop_1613569789_154 --> api_vender/shop_1613569789_154_delay
-
-api_vender/shop_1613569799_167_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
-发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [shop_1613569799_167_delay] 的第 5 天，将要获取到奖品[ 5 京豆]
-[RUN] 明天立即执行. api_vender/shop_1613569799_167_delay --> api_vender/shop_1613569799_167
+api_vender/shop_1613569799_167  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [shop_1613569799_167] 的第 5 天，将要获取到奖品[ 5 京豆]
+明天立即执行. 不改名字 api_vender/shop_1613569799_167
 
 api_vender/shop_1613569811_180  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A91A92BF40CF8B22B9F862A34AE58D9B
 发现明天是 [王 1309893722-164885] 签到 [猫人京东自营旗舰店] 的第 7 天，将要获取到奖品[ 15 京豆]
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [猫人京东自营旗舰店] 的第 5 天，将要获取到奖品[ 10 京豆]
 明天立即执行. 不改名字 api_vender/shop_1613569811_180
 
-[RUN] 明天签到 gaston gerin盛星专卖店, 不会获取奖品. api_vender/shop_1613703000_5 --> api_vender/shop_1613703000_5_delay
+api_vender/sony_01  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=CAA4ABA5536E93A3CE96615710DF55C4
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [SONY京东自营官方旗舰店] 的第 2 天，将要获取到奖品[ 10 店铺积分]
+[RUN] 明天签到 SONY京东自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. api_vender/sony_01 --> api_vender/sony_01_delay
 
-api_vender/xingui_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=AFC577CD1825D16CB45679BFA2D2947A
+[RUN] 明天签到 天润旗舰店, 不会获取奖品. api_vender/tianrun_02 --> api_vender/tianrun_02_delay
+
+api_vender/xingui  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=AFC577CD1825D16CB45679BFA2D2947A
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [新贵京东自营旗舰店] 的第 5 天，将要获取到奖品[ 3 京豆]
-[RUN] 明天立即执行. api_vender/xingui_delay --> api_vender/xingui
+明天立即执行. 不改名字 api_vender/xingui
 
-vender/aoyouruye_delay  
+vender/aoyouruye  
 发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [澳优乳业官方旗舰店] 的第 7 天，将要获取到奖品[ 10京豆 10京豆]
-[RUN] 明天立即执行. vender/aoyouruye_delay --> vender/aoyouruye
+明天立即执行. 不改名字 vender/aoyouruye
 
 vender/shop_1613569737_25_delay  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [Domol京东自营专卖店] 的第 7 天，将要获取到奖品[ 10积分 10积分]
@@ -45,8 +42,6 @@ vender/shop_1613569763_104_delay
 
 vender/shop_1613569820_195_delay  
 发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [金利来男装旗舰店] 的第 7 天，将要获取到奖品[ 100积分 100积分]
-
-[RUN] 明天签到 华硕京东自营官方旗舰店, 不会获取奖品. vender/shop_1613703137_64 --> vender/shop_1613703137_64_delay
 
 lzkj_sevenDay_vender/mengniu  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
 发现明天是 [王 1309893722-164885] 签到 [蒙牛官方旗舰店] 的第 4 天，将要获取到奖品[ 8京豆京豆 8京豆]
@@ -81,16 +76,15 @@ lzkj_sevenDay_vender/shop_1613569823_197  https://lzkj-isv.isvjcloud.com/sign/se
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [LIFAair京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 10店铺积分积分 10店铺积分]
 明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569823_197
 
-lzkj_sevenDay_vender/shop_1613703008_9  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao
+lzkj_sevenDay_vender/shop_1613703008_9_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [海豚传媒自营官方旗舰店] 的第 6 天，将要获取到奖品[ 30店铺积分积分 30店铺积分]
-[RUN] 明天签到 海豚传媒自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. lzkj_sevenDay_vender/shop_1613703008_9 --> lzkj_sevenDay_vender/shop_1613703008_9_delay
 
 lzkj_sevenDay_vender/shop_1613703030_19_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=264fae79e2c542a680f6cd6fce002c1e&venderId=646666&adsource=tg_xuanFuTuBiao
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [全友家居生活美学旗舰店] 的第 6 天，将要获取到奖品[ 50店铺积分积分 50店铺积分]
 
-lzkj_sevenDay_vender/shop_1613703186_83_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao
+lzkj_sevenDay_vender/shop_1613703186_83  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao
 发现明天是 [肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885] 签到 [Kendall康度京东自营专区] 的第 6 天，将要获取到奖品[ 2京豆京豆 2京豆]
-[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1613703186_83_delay --> lzkj_sevenDay_vender/shop_1613703186_83
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613703186_83
 
 lzkj_sevenDay_vender/shop_1613703218_97_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=e78aa0728f904f849441aa277f269af3&venderId=149630&adsource=tg_xuanFuTuBiao
 
@@ -103,7 +97,7 @@ lzkj_sevenDay_vender/shop_1613703218_97_delay  https://lzkj-isv.isvjcloud.com/si
 
 
 检查今天签到获得的奖励
-签到 [COMOTEK鞋靴旗舰店] 店铺获得奖励 api_vender/COMOTEK_delay 活动链接
+签到 [COMOTEK鞋靴旗舰店] 店铺获得奖励 api_vender/COMOTEK_del 活动链接
 #赵 122294312-396444 获得奖励: "奖励 2, type=4; "
 #王 1309893722-164885 获得奖励: "奖励 2, type=4; "
 #肥鹅 jd_4d651d9e48204 获得奖励: "奖励 2, type=4; "
@@ -173,12 +167,23 @@ https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=
 #肥鹅 jd_4d651d9e48204 获得奖励: "奖励 1, type=4; "
 #移动 jd_OeTNobRVGiNZ 获得奖励: "奖励 1, type=4; "
 
+签到 [SONY京东自营官方旗舰店] 店铺获得奖励 api_vender/sony_01_delay 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=CAA4ABA5536E93A3CE96615710DF55C4
+#赵 122294312-396444 获得奖励: "奖励 5, type=6; "
+#王 1309893722-164885 获得奖励: "奖励 5, type=6; "
+
 签到 [泰福高（TAFUCO）京东自营旗舰店] 店铺获得奖励 api_vender/taifugao_delay 活动链接
 https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=32DEC15741D404DBA4EB19ECCF1B2C6E
 #赵 122294312-396444 获得奖励: "奖励 1, type=4; "
 #王 1309893722-164885 获得奖励: "奖励 1, type=4; "
 #肥鹅 jd_4d651d9e48204 获得奖励: "奖励 1, type=4; "
 #移动 jd_OeTNobRVGiNZ 获得奖励: "奖励 1, type=4; "
+
+签到 [天润旗舰店] 店铺获得奖励 api_vender/tianrun_02_delay 活动链接
+#肥鹅 jd_4d651d9e48204 获得奖励: "奖励 2, type=4; "
+#移动 jd_OeTNobRVGiNZ 获得奖励: "奖励 2, type=4; "
+#赵 122294312-396444 获得奖励: "奖励 2, type=4; "
+#王 1309893722-164885 获得奖励: "奖励 2, type=4; "
 
 签到 [蒙牛官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/mengniu 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32ec4b2ab6e044aa1cacad06&venderId=182542
@@ -376,7 +381,445 @@ https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e437aef3d0664f77a32
 #王 1309893722-164885 获得奖励: ""30元优惠券""
 
 
-h5签到总数 16
+h5签到总数 20
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_212007_778098200
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_213420_502046900
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_213431_285003900
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_213716_922593200
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_213802_552986400
+
+
+显示立即执行的任务
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167
+移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569811_180
+移动 jd_OeTNobRVGiNZ|api_vender/xingui
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/aoyouruye
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/mengniu
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569736_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569768_117
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569823_197
+肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885|lzkj_sevenDay_vender/shop_1613703186_83
+
+替换成pt_pin后的任务
+config04|api_vender/shop_1613569799_167
+config04|api_vender/shop_1613569811_180
+config04|api_vender/xingui
+config01|vender/aoyouruye
+config03|vender/aoyouruye
+config04|vender/aoyouruye
+config01|lzkj_sevenDay_vender/mengniu
+config03|lzkj_sevenDay_vender/mengniu
+config04|lzkj_sevenDay_vender/shop_1613569736_23
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1613569768_117
+config04|lzkj_sevenDay_vender/shop_1613569823_197
+config03|lzkj_sevenDay_vender/shop_1613703186_83
+config04|lzkj_sevenDay_vender/shop_1613703186_83
+config01|lzkj_sevenDay_vender/shop_1613703186_83
+config02|lzkj_sevenDay_vender/shop_1613703186_83
+
+合并后的立即执行的任务
+config2|api_vender/shop_1613569799_167
+config2|api_vender/shop_1613569811_180
+config2|api_vender/xingui
+config_/config_01|lzkj_sevenDay_vender/mengniu
+config_/config_03|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_04|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+
+延迟执行的任务
+config|api_vender/shop_1613569799_167
+config|api_vender/shop_1613569811_180
+config|api_vender/xingui
+config_/config_02|lzkj_sevenDay_vender/mengniu
+config_/config_04|lzkj_sevenDay_vender/mengniu
+config_/config_01|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_02|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_03|lzkj_sevenDay_vender/shop_1613569736_23
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_02|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_03|lzkj_sevenDay_vender/shop_1613569768_117
+config_/config_01|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_03|lzkj_sevenDay_vender/shop_1613569823_197
+config_/config_02|vender/aoyouruye
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210223_213909_526268600
+
 
 显示立即执行的任务
 移动 jd_OeTNobRVGiNZ|api_vender/shop_1613569799_167

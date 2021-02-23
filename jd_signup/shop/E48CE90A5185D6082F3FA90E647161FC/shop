@@ -1,0 +1,16 @@
+# 短链接
+suo_url="https://u.jd.com/iTaiMey"
+venderId=1000095343
+startTime=1613923200000
+endTime=1615651199000
+activityId=10273832
+token=E48CE90A5185D6082F3FA90E647161FC
+#店铺名称
+vendername="攀升京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E48CE90A5185D6082F3FA90E647161FC&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001707023_&utm_term=be463f14441e480295423f73935394d3
+# 活动时间：2021.02.22 00:00:00 - 2021.03.13 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：30京豆
+"
