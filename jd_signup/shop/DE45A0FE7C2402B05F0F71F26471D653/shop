@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=10505037
+startTime=1613923200000
+endTime=1616515199000
+activityId=10273968
+token=DE45A0FE7C2402B05F0F71F26471D653
+#店铺名称
+vendername="陆鑫个护专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=DE45A0FE7C2402B05F0F71F26471D653
+# 活动时间：2021.02.22 00:00:00 - 2021.03.23 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满4-3店铺券
+连续签到7天：满5-4店铺券
+连续签到15天：满8-5店铺券
+连续签到30天：满10-7店铺券
+"

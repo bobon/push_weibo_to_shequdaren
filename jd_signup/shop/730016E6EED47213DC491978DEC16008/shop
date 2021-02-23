@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10356657
+startTime=1613836800000
+endTime=1616255999000
+activityId=10272687
+token=730016E6EED47213DC491978DEC16008
+#店铺名称
+vendername="得力迅购专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=730016E6EED47213DC491978DEC16008
+# 活动时间：2021.02.21 00:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：1京豆
+连续签到3天：满99-5店铺券
+"

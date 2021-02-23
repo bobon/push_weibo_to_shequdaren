@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10156838
+startTime=1613700000000
+endTime=1616255999000
+activityId=10271711
+token=96C8143234CAC21E88B314D92A66BB8E
+#店铺名称
+vendername="俞兆林卡蒂奴专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=96C8143234CAC21E88B314D92A66BB8E
+# 活动时间：2021.02.19 10:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满10-5店铺券
+"

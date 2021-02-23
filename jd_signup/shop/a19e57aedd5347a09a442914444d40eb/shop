@@ -1,0 +1,19 @@
+actId=a19e57aedd5347a09a442914444d40eb
+venderId=1000000175
+startTime=1613785080000
+endTime=1616377139000
+# 短链接
+suo_url="https://3.cn/1013-yncb"
+actTimeStr="2021-02-20 09:38 至 2021-03-22 09:38"
+#店铺名称
+vendername="海尔电脑京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a19e57aedd5347a09a442914444d40eb&venderId=1000000175&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.20 09:38:00 - 2021.03.22 09:38:59
+# 奖励说明：
+actRule="
+连续签到2天：200积分 200积分
+连续签到5天：600积分 600积分
+连续签到8天：赠送海尔电脑周边礼品
+连续签到12天：赠送海尔电脑鼠标
+"

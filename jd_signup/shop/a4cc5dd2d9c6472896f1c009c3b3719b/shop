@@ -1,0 +1,16 @@
+actId=a4cc5dd2d9c6472896f1c009c3b3719b
+venderId=1000000155
+startTime=1613700900000
+endTime=1614182399000
+# 短链接
+suo_url="https://3.cn/101-3d9l9"
+actTimeStr="2021-02-19 10:15 至 2021-02-24 23:59"
+#店铺名称
+vendername="惠普京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a4cc5dd2d9c6472896f1c009c3b3719b&venderId=1000000155&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.19 10:15:00 - 2021.02.24 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：40积分 40积分
+"

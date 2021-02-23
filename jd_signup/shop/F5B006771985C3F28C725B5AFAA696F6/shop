@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=189733
+startTime=1612144800000
+endTime=1614527999000
+activityId=10262451
+token=F5B006771985C3F28C725B5AFAA696F6
+#店铺名称
+vendername="七匹狼轩凡专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=F5B006771985C3F28C725B5AFAA696F6
+# 活动时间：2021.02.01 10:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满69-5店铺券
+连续签到7天：满99-30店铺券
+连续签到15天：满199-50店铺券
+"

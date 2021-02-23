@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10653221
+startTime=1613750400000
+endTime=1614527999000
+activityId=10272190
+token=ADE5D5A157FE4982C3658073FFEA6871
+#店铺名称
+vendername="null"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=ADE5D5A157FE4982C3658073FFEA6871
+# 活动时间：2021.02.20 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：满59-15店铺券
+"

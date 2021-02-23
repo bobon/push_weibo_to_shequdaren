@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10407030
+startTime=1612195200000
+endTime=1614614399000
+activityId=10263400
+token=63FB4D2942246AE6BEBF85AABC5F9E1A
+#店铺名称
+vendername="全城堂数码专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=63FB4D2942246AE6BEBF85AABC5F9E1A
+# 活动时间：2021.02.02 00:00:00 - 2021.03.01 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到5天：50店铺积分
+"

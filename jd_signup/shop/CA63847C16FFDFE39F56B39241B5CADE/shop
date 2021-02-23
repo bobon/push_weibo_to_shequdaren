@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10242823
+startTime=1612108800000
+endTime=1614614399000
+activityId=10261800
+token=CA63847C16FFDFE39F56B39241B5CADE
+#店铺名称
+vendername="mivsn旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=CA63847C16FFDFE39F56B39241B5CADE
+# 活动时间：2021.02.01 00:00:00 - 2021.03.01 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满100-10店铺券
+"

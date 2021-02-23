@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10048060
+startTime=1613664000000
+endTime=1614527999000
+activityId=10271057
+token=64DADD8732F4ED1D33D5EF712D8DBEF7
+#店铺名称
+vendername="SKY CITY海外旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=64DADD8732F4ED1D33D5EF712D8DBEF7
+# 活动时间：2021.02.19 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到2天：20店铺积分
+"

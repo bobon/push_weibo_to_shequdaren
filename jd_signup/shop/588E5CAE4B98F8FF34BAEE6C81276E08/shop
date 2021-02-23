@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10076980
+startTime=1612454400000
+endTime=1614527999000
+activityId=10267756
+token=588E5CAE4B98F8FF34BAEE6C81276E08
+#店铺名称
+vendername="星笙活旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=588E5CAE4B98F8FF34BAEE6C81276E08
+# 活动时间：2021.02.05 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到3天：满100-15店铺券
+"

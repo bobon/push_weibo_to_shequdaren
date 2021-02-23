@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=832024
+startTime=1612281600000
+endTime=1614527999000
+activityId=10265805
+token=6DADED5AD2652FB32217ABF10B4F0A55
+#店铺名称
+vendername="欧卡顿官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=6DADED5AD2652FB32217ABF10B4F0A55
+# 活动时间：2021.02.03 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到3天：满300-30店铺券
+"

@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=10038226
+startTime=1612195200000
+endTime=1614527999000
+activityId=10263815
+token=CFF33D2FD3B3CF23CCFBB6E09D9F0718
+#店铺名称
+vendername="荣帆乐器专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=CFF33D2FD3B3CF23CCFBB6E09D9F0718
+# 活动时间：2021.02.02 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：满99-25店铺券
+连续签到7天：满199-50店铺券
+连续签到15天：满499-150店铺券
+连续签到25天：满699-200店铺券
+"

@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10273869
+startTime=1613836800000
+endTime=1616255999000
+activityId=10273176
+token=9D4C11E38AC23B5C0A48A3E8A3BA9662
+#店铺名称
+vendername="PHUTAWAN京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9D4C11E38AC23B5C0A48A3E8A3BA9662
+# 活动时间：2021.02.21 00:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：5京豆
+"

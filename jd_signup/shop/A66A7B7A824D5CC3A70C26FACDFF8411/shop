@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=10393009
+startTime=1613836800000
+endTime=1616428799000
+activityId=10273244
+token=A66A7B7A824D5CC3A70C26FACDFF8411
+#店铺名称
+vendername="雅舍图书专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A66A7B7A824D5CC3A70C26FACDFF8411
+# 活动时间：2021.02.21 00:00:00 - 2021.03.22 23:59:59
+# 奖励说明：
+actRule="
+每日签到：5店铺积分
+连续签到1天：专享价商品（39.80元购买原价49.00元的商品）
+连续签到3天：50店铺积分
+连续签到1天：10店铺积分
+"

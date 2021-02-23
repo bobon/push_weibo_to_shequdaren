@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=1000002423
+startTime=1613836800000
+endTime=1615823999000
+activityId=10273424
+token=556BA095CC32BAA17664C9EABD252085
+#店铺名称
+vendername="博世电动工具京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=556BA095CC32BAA17664C9EABD252085
+# 活动时间：2021.02.21 00:00:00 - 2021.03.15 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到7天：66京豆
+连续签到15天：88京豆
+"

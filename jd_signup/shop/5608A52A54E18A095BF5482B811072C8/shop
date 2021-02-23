@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000104185
+startTime=1613750400000
+endTime=1616255999000
+activityId=10271721
+token=5608A52A54E18A095BF5482B811072C8
+#店铺名称
+vendername="同仁堂美妆个护京东自营专区"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=5608A52A54E18A095BF5482B811072C8
+# 活动时间：2021.02.20 00:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+每日签到：50店铺积分
+连续签到7天：100店铺积分
+"

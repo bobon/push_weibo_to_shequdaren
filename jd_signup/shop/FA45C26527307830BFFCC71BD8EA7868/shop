@@ -1,0 +1,18 @@
+# 短链接
+suo_url=""
+venderId=59800
+startTime=1613836800000
+endTime=1615219199000
+activityId=10273446
+token=FA45C26527307830BFFCC71BD8EA7868
+#店铺名称
+vendername="巢趣家居旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FA45C26527307830BFFCC71BD8EA7868
+# 活动时间：2021.02.21 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满100-20店铺券
+连续签到3天：满199-50店铺券
+连续签到5天：满199-100店铺券
+"

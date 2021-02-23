@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=10112380
+startTime=1612195200000
+endTime=1614700799000
+activityId=10263831
+token=E2E009B484E34B42853E43C597091506
+#店铺名称
+vendername="荣航乐器专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E2E009B484E34B42853E43C597091506
+# 活动时间：2021.02.02 00:00:00 - 2021.03.02 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：满99-25店铺券
+连续签到7天：满199-50店铺券
+连续签到15天：满499-150店铺券
+连续签到25天：满699-200店铺券
+"

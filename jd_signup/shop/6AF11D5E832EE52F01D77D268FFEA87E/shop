@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000159282
+startTime=1613836800000
+endTime=1614527999000
+activityId=10272834
+token=6AF11D5E832EE52F01D77D268FFEA87E
+#店铺名称
+vendername="小西牛（XIAOXINIU）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=6AF11D5E832EE52F01D77D268FFEA87E
+# 活动时间：2021.02.21 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2店铺积分
+连续签到7天：5店铺积分
+"

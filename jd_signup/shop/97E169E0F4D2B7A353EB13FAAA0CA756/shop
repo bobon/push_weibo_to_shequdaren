@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10411125
+startTime=1613318400000
+endTime=1615564799000
+activityId=10270526
+token=97E169E0F4D2B7A353EB13FAAA0CA756
+#店铺名称
+vendername="海康威视三六三九专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=97E169E0F4D2B7A353EB13FAAA0CA756
+# 活动时间：2021.02.15 00:00:00 - 2021.03.12 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：满899-50店铺券
+"

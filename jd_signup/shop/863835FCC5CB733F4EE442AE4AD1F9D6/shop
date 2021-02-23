@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10085653
+startTime=1613836800000
+endTime=1616342399000
+activityId=10273156
+token=863835FCC5CB733F4EE442AE4AD1F9D6
+#店铺名称
+vendername="百合营养保健旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=863835FCC5CB733F4EE442AE4AD1F9D6
+# 活动时间：2021.02.21 00:00:00 - 2021.03.21 23:59:59
+# 奖励说明：
+actRule="
+连续签到8天：满200-50店铺券
+"

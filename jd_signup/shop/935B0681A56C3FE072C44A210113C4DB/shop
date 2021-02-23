@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10557076
+startTime=1613750400000
+endTime=1616169599000
+activityId=10271927
+token=935B0681A56C3FE072C44A210113C4DB
+#店铺名称
+vendername="辉业家居日用旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=935B0681A56C3FE072C44A210113C4DB
+# 活动时间：2021.02.20 00:00:00 - 2021.03.19 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满10-5店铺券
+"

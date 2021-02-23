@@ -1,0 +1,20 @@
+# 短链接
+suo_url=""
+venderId=10498173
+startTime=1613750400000
+endTime=1616255999000
+activityId=10272402
+token=EF300BFF6F4363EF81B5394D5499F439
+#店铺名称
+vendername="悠采旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=EF300BFF6F4363EF81B5394D5499F439
+# 活动时间：2021.02.20 00:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：满69-5店铺券
+连续签到7天：满109-10店铺券
+连续签到14天：满199-20店铺券
+连续签到21天：满299-30店铺券
+连续签到28天：满399-40店铺券
+"

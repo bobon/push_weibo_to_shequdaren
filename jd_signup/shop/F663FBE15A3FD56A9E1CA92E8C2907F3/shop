@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000345341
+startTime=1613664000000
+endTime=1615823999000
+activityId=10271492
+token=F663FBE15A3FD56A9E1CA92E8C2907F3
+#店铺名称
+vendername="普尔莱克母婴京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=F663FBE15A3FD56A9E1CA92E8C2907F3
+# 活动时间：2021.02.19 00:00:00 - 2021.03.15 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到5天：5京豆
+"

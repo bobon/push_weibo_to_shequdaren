@@ -48,7 +48,7 @@ log_d() {
 
 cd $sign_base_dir
 
-if true; then
+if [ "$1" != "nosearch" ]; then
 ./search.sh 牛奶 || true
 ./search.sh 奶粉 || true
 ./search.sh 计生 || true
@@ -80,6 +80,7 @@ if true; then
 ./search.sh 配饰 || true
 ./search.sh 食品 || true
 ./search.sh 生鲜 || true
+fi
 
 cat log/sign.tmp | sed -r -e 's,^",,' -e 's,"$,,' >> locations/locations
 rm -rvf $sign_base_dir/log/batch_parse_find_new_vender.tmp
@@ -106,8 +107,6 @@ for kk in $(find api_vender_pre/ -type f); do
 	fi
 done
 unset kk
-
-fi
 
 for jt in $(./sign_res_check.sh checkfail batch | grep '[[]sign fail[]]' | sed -r -e 's,^\[sign fail\] ,,' | sort | uniq); do
 	echo $jt

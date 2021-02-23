@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10030858
+startTime=1613750400000
+endTime=1616255999000
+activityId=10272225
+token=9978C7F4D9BDCB75E103617911D41F41
+#店铺名称
+vendername="金镶玉茶具京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9978C7F4D9BDCB75E103617911D41F41
+# 活动时间：2021.02.20 00:00:00 - 2021.03.20 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到7天：10京豆
+"

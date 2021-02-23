@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10365609
+startTime=1613750400000
+endTime=1615996799000
+activityId=10271707
+token=8F0A279FA27D2599281D09F7E637300D
+#店铺名称
+vendername="优博剖蓓舒旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8F0A279FA27D2599281D09F7E637300D
+# 活动时间：2021.02.20 00:00:00 - 2021.03.17 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满100-10店铺券
+"

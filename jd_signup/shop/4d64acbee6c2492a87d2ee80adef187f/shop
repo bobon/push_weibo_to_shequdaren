@@ -1,0 +1,16 @@
+actId=4d64acbee6c2492a87d2ee80adef187f
+venderId=1000001393
+startTime=1610985600000
+endTime=1630425599000
+# 短链接
+suo_url="https://3.cn/1-00NXgCp"
+actTimeStr="2021-01-19 00:00 至 2021-08-31 23:59"
+#店铺名称
+vendername="康恩贝京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4d64acbee6c2492a87d2ee80adef187f&venderId=1000001393
+# 活动时间：2021.01.19 00:00:00 - 2021.08.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：25积分 25积分
+"

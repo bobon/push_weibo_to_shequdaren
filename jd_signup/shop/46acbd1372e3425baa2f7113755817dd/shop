@@ -14,3 +14,17 @@ url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=46acbd1372e3425
 actRule="
 连续签到1天：102元优惠券
 "
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614038400;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210223"
+sign_res_info="
+2021/02/23_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#移动 jd_OeTNobRVGiNZ sign_res_end
