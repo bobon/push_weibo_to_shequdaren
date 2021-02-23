@@ -1,0 +1,65 @@
+02/24/21 02:04:00 714432300  1614103440
+RANDOM_num: 45
+removed '/tmp/tmp.uTbQSO2r6a'
+02/24/21 02:04:00 798884200  1614103440
+王 今天已经签到过. 签到结果: ok  giftDate: 20210224
+***********************************************
+7天签到 第 6 天
+当天签到奖励 [50店铺积分]
+***********************************************
+
+#店铺名称
+vendername="全友家居生活美学旗舰店"
+#店铺激活码
+actId="264fae79e2c542a680f6cd6fce002c1e"
+#店铺id
+venderId="646666"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=264fae79e2c542a680f6cd6fce002c1e&venderId=646666&adsource=tg_xuanFuTuBiao"
+
+startTime=1611538320
+endTime=1614130320
+# 活动时间：2021-01-25 09:32 - 2021-02-24 09:32；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：5店铺积分
+连续签到3天：10店铺积分
+连续签到4天：20店铺积分
+连续签到5天：20店铺积分
+连续签到6天：50店铺积分
+连续签到7天：100店铺积分
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName=""50店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["50店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="6"
+giftName=""50店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["50店铺积分"]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName=""50店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["50店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName=""50店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["50店铺积分"]"
+#王 1309893722-164885 sign_res_end

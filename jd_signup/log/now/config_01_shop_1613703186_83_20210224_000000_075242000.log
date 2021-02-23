@@ -1,0 +1,63 @@
+02/24/21 00:00:00 695202000  1614096000
+RANDOM_num: 5
+force to sign
+
+real	0m0.782s
+user	0m0.016s
+sys	0m0.172s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614096602	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614096602	LZ_TOKEN_KEY	lztokenpaged3452d38ca094f24b8c954fedc3e1ffb
+02/24/21 00:00:02 826464000  1614096002
+use pt_key
+
+real	0m1.107s
+user	0m0.109s
+sys	0m0.156s
+02/24/21 00:00:04 194984700  1614096004 token: AAFgNSaDADATeAn8g4yDxSydiqUVg39I0ojBzSCTWJCtMTiNVBVcPU2Bmg85-zcLUoRSOUmWfBE
+
+real	0m1.251s
+user	0m0.172s
+sys	0m0.063s
+02/24/21 00:00:05 640750900  1614096005 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/24/21 00:00:05 809378500  1614096005 赵签到Kendall康度京东自营专区
+
+real	0m1.132s
+user	0m0.047s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "ojGOvz",
+    "giftLogId": "ad3b8c5dcd8b4fa6b928467eb106829e",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1069221",
+      "giftType": "6",
+      "giftName": "2京豆",
+      "giftNum": "2",
+      "giftTotal": "2000",
+      "giftResidue": null,
+      "priceInfo": "0.02",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+02/24/21 00:00:09 254823800 1614096009
+02/24/21 00:00:09 377983200 1614096009 签到Kendall康度京东自营专区完成
+02/24/21 00:00:24 846824400  1614096024
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {295:<--} ERROR CODE: 6[0m [0;31;3m[20210224 00:00:24] [ERROR] [0m
+

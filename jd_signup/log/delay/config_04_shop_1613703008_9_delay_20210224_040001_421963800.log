@@ -1,0 +1,65 @@
+02/24/21 04:03:55 537295700  1614110635
+RANDOM_num: 35
+removed '/tmp/tmp.wyS1Rwor44'
+02/24/21 04:03:55 611360600  1614110635
+移动 今天已经签到过. 签到结果: ok  giftDate: 20210224
+***********************************************
+7天签到 第 6 天
+当天签到奖励 [30店铺积分]
+***********************************************
+
+#店铺名称
+vendername="海豚传媒自营官方旗舰店"
+#店铺激活码
+actId="14f003bcc03e444299ad216d4166702d"
+#店铺id
+venderId="1000004641"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao"
+
+startTime=1612146180
+endTime=1614527940
+# 活动时间：2021-02-01 10:23 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：6元优惠券
+连续签到2天：10店铺积分
+连续签到3天：1京豆
+连续签到4天：20店铺积分
+连续签到5天：2京豆
+连续签到6天：30店铺积分
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName=""30店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["30店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName=""30店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["30店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName=""30店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["30店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="6"
+giftName=""30店铺积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["30店铺积分"]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

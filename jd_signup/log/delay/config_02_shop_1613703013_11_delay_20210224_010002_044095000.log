@@ -1,0 +1,216 @@
+02/24/21 01:18:16 789917400  1614100696
+RANDOM_num: 45
+removed '/tmp/tmp.WagTSVLG02'
+02/24/21 01:18:16 954742100  1614100696 检查王签到
+
+real	0m0.586s
+user	0m0.047s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614101297	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614101297	LZ_TOKEN_KEY	lztokenpage3316fa9d7542489aaeb98def6f5fb824
+02/24/21 01:18:17 657989100  1614100697
+use pt_key
+
+real	0m0.180s
+user	0m0.109s
+sys	0m0.094s
+02/24/21 01:18:17 864754300  1614100697 token: AAFgNTjZADC_9TIFLP6uNvb65QV-6YMP_VQTJ_33UKeIjIwybgNpT5AGHV40y-K-OOF8M_CYib8
+
+real	0m0.338s
+user	0m0.094s
+sys	0m0.094s
+02/24/21 01:18:18 228478500  1614100698 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/24/21 01:18:18 246372000  1614100698 王签到科赋京东自营旗舰店
+
+real	0m0.364s
+user	0m0.016s
+sys	0m0.063s
+{
+  "gift": null,
+  "msg": "",
+  "isOk": true,
+  "isSend": null,
+  "key": null
+}
+true
+02/24/21 01:18:18 926311100 1614100698
+02/24/21 01:18:18 947927200 1614100698 签到科赋京东自营旗舰店完成
+02/24/21 01:19:04 060922500  1614100744
+true
+首次签到成功. 写入giftName: null
+
+***********************************************
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 6 天
+签到总天数 6
+***********************************************
+
+王签到科赋京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210221":"y"},"isOk":true,"signDetail":{"20210224":"y","20210220":"y","20210221":"y","20210222":"y","20210223":"y","20210219":"y"},"followDays":1,"signRecord":{"nicknameShow":null,"id":"d493a4ce57ce4f6ebeae8154d7fb5812","venderId":1000102982,"actId":"19902886114648d699f96cc0a6d1e02d","actName":"科赋2月签到活动","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210224,"contiSignNum":6,"totalSignNum":6,"createTime":1613712877000,"updateTime":1614100698000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210224": "y",
+    "20210220": "y",
+    "20210221": "y",
+    "20210222": "y",
+    "20210223": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 6,
+  "totalSignNum": 6
+}
+
+科赋京东自营旗舰店活动规则
+{"msg":"","act":{"id":"19902886114648d699f96cc0a6d1e02d","jdActivityId":null,"venderId":1000102982,"actName":"科赋2月签到活动","startTime":1612108800000,"endTime":1614527999000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=19902886114648d699f96cc0a6d1e02d&venderId=1000102982","shortUrl":"3.cn/10-0UveTY","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/158480/31/4835/3601/60127893E3e8a302b/a1226d6c24c2447f.png","actRule":"1、活动时间：2021-02-01 00:00 - 2021-02-28 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、连续签到3天，有机会赠送[2京豆]；
+4、连续签到7天，有机会赠送[5京豆]；
+5、连续签到15天，有机会赠送[8京豆]；
+6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+7、关注店铺后方可参与活动；
+8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1611823251000,"updateTime":1611823251000,"activityType":null,"actTimeStr":"2021-02-01 00:00 至 2021-02-28 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"giftConditions\":[{\"dayNum\":\"3\",\"gift\":{\"giftInfoId\":\"303a80a89f174898beb2c4bac618418b\",\"giftName\":\"2京豆\",\"giftNum\":\"2\",\"giftTotal\":\"8000\",\"giftType\":\"6\",\"id\":\"1134896\",\"priceInfo\":\"0.02\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"7\",\"gift\":{\"giftInfoId\":\"15063938fa7743ceae7a86341ec71752\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"5000\",\"giftType\":\"6\",\"id\":\"1134896\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"15\",\"gift\":{\"giftInfoId\":\"5841d723e9c9439597cfa1828982c33c\",\"giftName\":\"8京豆\",\"giftNum\":\"8\",\"giftTotal\":\"2000\",\"giftType\":\"6\",\"id\":\"1134896\",\"priceInfo\":\"0.08\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"n\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"n","gift":null,"signType":"1","giftConditions":[{"dayNum":"3","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1134896","giftType":"6","giftName":"2京豆","giftNum":"2","giftTotal":"8000","giftResidue":null,"priceInfo":"0.02","shortLink":"","orginLink":null,"giftInfoId":"303a80a89f174898beb2c4bac618418b","commonAddAwardVO":null}},{"dayNum":"7","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1134896","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"5000","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"15063938fa7743ceae7a86341ec71752","commonAddAwardVO":null}},{"dayNum":"15","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1134896","giftType":"6","giftName":"8京豆","giftNum":"8","giftTotal":"2000","giftResidue":null,"priceInfo":"0.08","shortLink":"","orginLink":null,"giftInfoId":"5841d723e9c9439597cfa1828982c33c","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"100015588178,100016488968,100016489074,100009379993,100009679129","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=19902886114648d699f96cc0a6d1e02d&venderId=1000102982",
+  "shortUrl": "3.cn/10-0UveTY",
+  "actRule": "1、活动时间：2021-02-01 00:00 - 2021-02-28 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、连续签到3天，有机会赠送[2京豆]；\n4、连续签到7天，有机会赠送[5京豆]；\n5、连续签到15天，有机会赠送[8京豆]；\n6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n7、关注店铺后方可参与活动；\n8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=19902886114648d699f96cc0a6d1e02d
+venderId=1000102982
+startTime=1612108800000
+endTime=1614527999000
+# 短链接
+suo_url="https://3.cn/10-0UveTY"
+actTimeStr="2021-02-01 00:00 至 2021-02-28 23:59"
+#店铺名称
+vendername="科赋京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=19902886114648d699f96cc0a6d1e02d&venderId=1000102982&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.01 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：2京豆 2京豆
+连续签到7天：5京豆 5京豆
+连续签到15天：8京豆 8京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 6 天
+签到总天数 6"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 6 天
+签到总天数 6"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 6 天
+签到总天数 6"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 6 天
+签到总天数 6"
+#王 1309893722-164885 sign_res_end
