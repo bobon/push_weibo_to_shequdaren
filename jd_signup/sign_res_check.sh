@@ -120,8 +120,9 @@ check_if_have_fail() {
 check_gift() {
 	local dd=$(date +"%Y%m%d")
 	log_s "\n检查今天签到获得的奖励"
+	
 	for i in $((grep -r 'giftDate="'$dd'"' api_vender/ lzkj_sevenDay_vender/ vender | cut -d ':' -f 1 | sort | uniq
-		grep -r 'giftName=' api_vender/ lzkj_sevenDay_vender/ vender | egrep -v 'giftName="null"$|giftName=""$' | cut -d ':' -f 1 | sort | uniq) | sort | uniq -d); do
+	grep -r 'giftName=' api_vender/ lzkj_sevenDay_vender/ vender | egrep -v 'giftName="null"$|giftName=""$' | cut -d ':' -f 1 | sort | uniq) | sort | uniq -d); do
     unset vendername; unset url
     source "$i"
     if [ -z "$url" ] ; then
@@ -144,15 +145,15 @@ check_gift() {
 
 check_res() {
 	for p_f in $(find api_vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$p_f"
+		if_chang_delay "$sign_base_dir/$p_f"
 	done
 	
 	for p_f in $(find vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$p_f" #test
+		if_chang_delay "$sign_base_dir/$p_f" #test
 	done
 	
 	for p_f in $(find lzkj_sevenDay_vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$p_f" #test
+		if_chang_delay "$sign_base_dir/$p_f" #test
 	done
 	log_s ""
 	check_if_have_fail
@@ -281,7 +282,8 @@ makenow() {
 }
 
 
-cd /home/myid/jd/jd_signup/
+sign_base_dir=/home/myid/jd/jd_signup
+cd $sign_base_dir
 source common.sh
 log_s "\n\n* * * * * * * * * * * * * * * * * *\n记录时刻 $(date +"%Y%m%d_%H%M%S_%N")\n"
 if [ "$1" = "makenow" ]; then
