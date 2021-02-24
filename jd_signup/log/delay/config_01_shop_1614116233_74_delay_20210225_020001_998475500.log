@@ -1,0 +1,90 @@
+02/25/21 02:03:33 724759100  1614189813
+RANDOM_num: 45
+removed '/tmp/tmp.zk6D9XFUmN'
+02/25/21 02:03:33 870335000  1614189813
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210225
+***********************************************
+
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+***********************************************
+
+actId=a19e57aedd5347a09a442914444d40eb
+venderId=1000000175
+startTime=1613785080000
+endTime=1616377139000
+# 短链接
+suo_url="https://3.cn/1013-yncb"
+actTimeStr="2021-02-20 09:38 至 2021-03-22 09:38"
+#店铺名称
+vendername="海尔电脑京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a19e57aedd5347a09a442914444d40eb&venderId=1000000175&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.20 09:38:00 - 2021.03.22 09:38:59
+# 奖励说明：
+actRule="
+连续签到2天：200积分 200积分
+连续签到5天：600积分 600积分
+连续签到8天：赠送海尔电脑周边礼品
+连续签到12天：赠送海尔电脑鼠标
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""200积分""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 ["200积分"]
+连续签到 2 天
+签到总天数 2"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#赵 122294312-396444 sign_res_end

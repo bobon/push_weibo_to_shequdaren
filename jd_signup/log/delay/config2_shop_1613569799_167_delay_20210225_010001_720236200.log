@@ -1,0 +1,400 @@
+02/25/21 01:08:11 451531200  1614186491
+RANDOM_num: 30
+removed '/tmp/tmp.jcat02VMm1'
+02/25/21 01:08:11 550133000  1614186491 检查jd_4d651d9e48204签到
+removed '/tmp/tmp.lIBGgruSpX'
+02/25/21 01:08:11 627668900  1614186491 检查jd_OeTNobRVGiNZ签到
+
+02/25/21 01:08:11 676013100  1614186491 肥鹅签到如果京东自营旗舰店
+
+real	0m0.148s
+user	0m0.000s
+sys	0m0.109s
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+02/25/21 01:08:11 900227600  1614186491 移动签到如果京东自营旗舰店
+
+real	0m0.123s
+user	0m0.016s
+sys	0m0.063s
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+02/25/21 01:08:12 095386100 1614186492
+02/25/21 01:08:12 107921400 1614186492 签到如果京东自营旗舰店完成
+
+02/25/21 01:08:42 180788500  1614186522
+肥鹅签到如果京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 
+
+***********************************************
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_01:12:47  2    [已~签~到]
+2021/02/19_01:11:39  2    [已~签~到]
+2021/02/20_01:08:14  2    [已~签~到]
+2021/02/21_01:10:11  2    [已~签~到]
+2021/02/22_00:00:04  2    [已~签~到]
+2021/02/23_01:06:37  2    [已~签~到]
+2021/02/24_00:00:00  2    [已~签~到]
+2021/02/25_01:08:11  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 8 天
+***********************************************
+
+移动签到如果京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 
+
+***********************************************
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_22:09:39  2    [已~签~到]
+2021/02/21_01:10:11  2    [已~签~到]
+2021/02/22_00:00:07  2    [已~签~到]
+2021/02/23_01:06:38  2    [已~签~到]
+2021/02/24_00:00:01  2    [已~签~到]
+2021/02/25_01:08:12  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 6 天
+***********************************************
+
+
+
+肥鹅签到如果京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613059200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613232000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613491200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613581967448,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613668299760,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613754494320,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613841011448,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613923204096,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614013597981,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614096000664,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614186491835,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614268800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614441600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614528000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614614400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614700800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614787200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614873600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614960000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615046400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615132800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615219200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":8,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 8
+}
+移动签到如果京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1612800000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612886400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1612972800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613059200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613145600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613232000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613318400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613404800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613491200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613577600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613664000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613830179692,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613841011731,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613923207040,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614013598331,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614096001796,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614186492024,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614268800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614441600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614528000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614614400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614700800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614787200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614873600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614960000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615046400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615132800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615219200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":6,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 6
+}
+# 短链接
+suo_url=""
+venderId=1000362164
+startTime=1612800000000
+endTime=1615305599000
+activityId=10269910
+token=9427FEC37B8799EEC044AB62828FAA36
+#店铺名称
+vendername="如果京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9427FEC37B8799EEC044AB62828FAA36
+# 活动时间：2021.02.09 00:00:00 - 2021.03.09 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613232000;signed=1;currentDay=2
+signTime=1613318400;signed=1;currentDay=2
+signTime=1613404800;signed=1;currentDay=2
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613581934;signed=2;currentDay=2
+signTime=1613668286;signed=2;currentDay=2
+signTime=1613754460;signed=2;currentDay=2
+signTime=1613840981;signed=2;currentDay=2
+signTime=1613923205;signed=2;currentDay=2
+signTime=1614013586;signed=2;currentDay=2
+signTime=1614100804;signed=2;currentDay=2
+signTime=1614186462;signed=2;currentDay=1
+signTime=1614268800;signed=1;currentDay=3
+signTime=1614355200;signed=1;currentDay=3
+signTime=1614441600;signed=1;currentDay=3
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3"
+sign_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_01:12:14  2    [已~签~到]
+2021/02/19_01:11:26  2    [已~签~到]
+2021/02/20_01:07:40  2    [已~签~到]
+2021/02/21_01:09:41  2    [已~签~到]
+2021/02/22_00:00:05  2    [已~签~到]
+2021/02/23_01:06:26  2    [已~签~到]
+2021/02/24_01:20:04  2    [已~签~到]
+2021/02/25_01:07:42  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 8 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613232000;signed=1;currentDay=2
+signTime=1613318400;signed=1;currentDay=2
+signTime=1613404800;signed=1;currentDay=2
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613581934;signed=2;currentDay=2
+signTime=1613668286;signed=2;currentDay=2
+signTime=1613786772;signed=2;currentDay=2
+signTime=1613840982;signed=2;currentDay=2
+signTime=1613923208;signed=2;currentDay=2
+signTime=1614013586;signed=2;currentDay=2
+signTime=1614100804;signed=2;currentDay=2
+signTime=1614186463;signed=2;currentDay=1
+signTime=1614268800;signed=1;currentDay=3
+signTime=1614355200;signed=1;currentDay=3
+signTime=1614441600;signed=1;currentDay=3
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3"
+sign_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_01:12:14  2    [已~签~到]
+2021/02/19_01:11:26  2    [已~签~到]
+2021/02/20_10:06:12  2    [已~签~到]
+2021/02/21_01:09:42  2    [已~签~到]
+2021/02/22_00:00:08  2    [已~签~到]
+2021/02/23_01:06:26  2    [已~签~到]
+2021/02/24_01:20:04  2    [已~签~到]
+2021/02/25_01:07:43  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 8 天"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613232000;signed=1;currentDay=2
+signTime=1613318400;signed=1;currentDay=2
+signTime=1613404800;signed=1;currentDay=2
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613581967;signed=2;currentDay=2
+signTime=1613668299;signed=2;currentDay=2
+signTime=1613754494;signed=2;currentDay=2
+signTime=1613841011;signed=2;currentDay=2
+signTime=1613923204;signed=2;currentDay=2
+signTime=1614013597;signed=2;currentDay=2
+signTime=1614096000;signed=2;currentDay=2
+signTime=1614186491;signed=2;currentDay=1
+signTime=1614268800;signed=1;currentDay=3
+signTime=1614355200;signed=1;currentDay=3
+signTime=1614441600;signed=1;currentDay=3
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3"
+sign_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_01:12:47  2    [已~签~到]
+2021/02/19_01:11:39  2    [已~签~到]
+2021/02/20_01:08:14  2    [已~签~到]
+2021/02/21_01:10:11  2    [已~签~到]
+2021/02/22_00:00:04  2    [已~签~到]
+2021/02/23_01:06:37  2    [已~签~到]
+2021/02/24_00:00:00  2    [已~签~到]
+2021/02/25_01:08:11  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 8 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1612800000;signed=1;currentDay=2
+signTime=1612886400;signed=1;currentDay=2
+signTime=1612972800;signed=1;currentDay=2
+signTime=1613059200;signed=1;currentDay=2
+signTime=1613145600;signed=1;currentDay=2
+signTime=1613232000;signed=1;currentDay=2
+signTime=1613318400;signed=1;currentDay=2
+signTime=1613404800;signed=1;currentDay=2
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613664000;signed=1;currentDay=2
+signTime=1613830179;signed=2;currentDay=2
+signTime=1613841011;signed=2;currentDay=2
+signTime=1613923207;signed=2;currentDay=2
+signTime=1614013598;signed=2;currentDay=2
+signTime=1614096001;signed=2;currentDay=2
+signTime=1614186492;signed=2;currentDay=1
+signTime=1614268800;signed=1;currentDay=3
+signTime=1614355200;signed=1;currentDay=3
+signTime=1614441600;signed=1;currentDay=3
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3"
+sign_num="6"
+giftName=""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/09_00:00:00  2    未签到
+2021/02/10_00:00:00  2    未签到
+2021/02/11_00:00:00  2    未签到
+2021/02/12_00:00:00  2    未签到
+2021/02/13_00:00:00  2    未签到
+2021/02/14_00:00:00  2    未签到
+2021/02/15_00:00:00  2    未签到
+2021/02/16_00:00:00  2    未签到
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_22:09:39  2    [已~签~到]
+2021/02/21_01:10:11  2    [已~签~到]
+2021/02/22_00:00:07  2    [已~签~到]
+2021/02/23_01:06:38  2    [已~签~到]
+2021/02/24_00:00:01  2    [已~签~到]
+2021/02/25_01:08:12  1    [已~签~到]
+2021/02/26_00:00:00  3    未签到
+2021/02/27_00:00:00  3    未签到
+2021/02/28_00:00:00  3    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+当天签到奖励 []
+已签到 6 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

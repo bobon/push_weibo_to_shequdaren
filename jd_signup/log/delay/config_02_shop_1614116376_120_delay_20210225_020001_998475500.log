@@ -1,0 +1,87 @@
+02/25/21 02:04:08 263385100  1614189848
+RANDOM_num: 40
+removed '/tmp/tmp.4sFRoLRQRI'
+02/25/21 02:04:08 421085200  1614189848
+王 今天已经签到过. 签到结果: ok  giftDate: 20210225
+***********************************************
+
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 [5积分]
+连续签到 1 天
+签到总天数 1
+***********************************************
+
+actId=e640eb7a82c34fb097abf43695130039
+venderId=1000099544
+startTime=1610069580000
+endTime=1614476039000
+# 短链接
+suo_url="https://3.cn/100Ly-QmJ"
+actTimeStr="2021-01-08 09:33 至 2021-02-28 09:33"
+#店铺名称
+vendername="Mideer弥鹿京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e640eb7a82c34fb097abf43695130039&venderId=1000099544&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.01.08 09:33:00 - 2021.02.28 09:33:59
+# 奖励说明：
+actRule="
+连续签到7天：20积分 20积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 2 天
+签到总天数 2"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 1 天
+签到总天数 1"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614211200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210225"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end

@@ -1,0 +1,84 @@
+02/25/21 01:15:42 341043000  1614186942
+RANDOM_num: 40
+removed '/tmp/tmp.vx4q7DBVGV'
+02/25/21 01:15:42 451152600  1614186942 检查赵签到
+
+real	0m0.156s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614187542	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614187542	LZ_TOKEN_KEY	lztokenpaged3d38ac959d5418e8af7fe5bc438199a
+02/25/21 01:15:42 721425800  1614186942
+use pt_key
+
+real	0m0.159s
+user	0m0.109s
+sys	0m0.078s
+02/25/21 01:15:42 907180700  1614186942 token: AAFgNom-ADDWMFV05z4AF6LDyAllDVaBuFonxO9LKou3Be6gHisRz9wQmpl1I4sGUPbaWRAekrM
+
+real	0m0.326s
+user	0m0.078s
+sys	0m0.094s
+02/25/21 01:15:43 255604600  1614186943 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/25/21 01:15:43 275567400  1614186943 赵签到惠普京东自营官方旗舰店
+
+real	0m0.152s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1614116244_76_delay --> /home/myid/jd/jd_signup/vender/shop_1614116244_76_del
+renamed '/home/myid/jd/jd_signup/vender/shop_1614116244_76_delay' -> '/home/myid/jd/jd_signup/vender/shop_1614116244_76_del'
+02/25/21 01:16:23 704541900  1614186983
+
+赵签到惠普京东自营官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+惠普京东自营官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=a4cc5dd2d9c6472896f1c009c3b3719b
+venderId=1000000155
+startTime=1613700900000
+endTime=1614182399000
+# 短链接
+suo_url="https://3.cn/101-3d9l9"
+actTimeStr="2021-02-19 10:15 至 2021-02-24 23:59"
+#店铺名称
+vendername="惠普京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a4cc5dd2d9c6472896f1c009c3b3719b&venderId=1000000155&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.19 10:15:00 - 2021.02.24 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：40积分 40积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614124800;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210224"
+sign_res_info="
+2021/02/24_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 1 天
+签到总天数 1"
+#移动 jd_OeTNobRVGiNZ sign_res_end
