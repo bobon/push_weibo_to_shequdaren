@@ -118,8 +118,10 @@ check_if_have_fail() {
 }
 
 check_gift() {
+	local dd=$(date +"%Y%m%d")
 	log_s "\n检查今天签到获得的奖励"
-	for i in $(grep -r 'giftName=' api_vender/ lzkj_sevenDay_vender/ vender | egrep -v 'giftName="null"$|giftName=""$' | cut -d ':' -f 1 | sort | uniq); do
+	for i in $((grep -r 'giftDate="'$dd'"' api_vender/ lzkj_sevenDay_vender/ vender | cut -d ':' -f 1 | sort | uniq
+		grep -r 'giftName=' api_vender/ lzkj_sevenDay_vender/ vender | egrep -v 'giftName="null"$|giftName=""$' | cut -d ':' -f 1 | sort | uniq) | sort | uniq -d); do
     unset vendername; unset url
     source "$i"
     if [ -z "$url" ] ; then
