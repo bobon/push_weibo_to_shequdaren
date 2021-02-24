@@ -145,15 +145,15 @@ check_gift() {
 
 check_res() {
 	for p_f in $(find api_vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$sign_base_dir/$p_f"
+		if_chang_delay "$p_f"
 	done
 	
 	for p_f in $(find vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$sign_base_dir/$p_f" #test
+		if_chang_delay "$p_f" #test
 	done
 	
 	for p_f in $(find lzkj_sevenDay_vender/ -type f | egrep -v '_del$|_fq$'); do
-		if_chang_delay "$sign_base_dir/$p_f" #test
+		if_chang_delay "$p_f" #test
 	done
 	log_s ""
 	check_if_have_fail
@@ -267,10 +267,12 @@ makenow() {
 	done >> $run_shell_delay
 	unset ii
 	
+	echo
 	echo "show $run_shell" 
 	cat $run_shell
-	echo "show $run_shell_delay" 
-	cat $run_shell_delay
+	#echo
+	#echo "show $run_shell_delay" 
+	#cat $run_shell_delay
 	
 #	bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/ZJUZ 5 $1 > /home/myid/jd/jd_signup/log/now/config2_ZJUZ_${log_f}.log 2>&1 &
 #  bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/ZJUZ 5 $1 > /home/myid/jd/jd_signup/log/now/config2_ZJUZ_${log_f}.log 2>&1 &
