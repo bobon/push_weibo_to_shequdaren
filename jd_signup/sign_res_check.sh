@@ -113,8 +113,9 @@ check_del_vender() {
 }
 
 check_if_have_fail() {
+	log_s "检查是否有签到失败的活动"
 	check_if_have_fail_h5
-	#check_if_have_fail_lzkj "$1"
+	check_if_have_fail_lzkj "$1"
 }
 
 check_gift() {

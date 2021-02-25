@@ -26,6 +26,16 @@ sed -i -r -e '/https:\/\/gitee.com\/shylocks\/updateTeam/s,http,htttp,' /home/my
 
 grep jd_joy_reward /home/myid/jd/config/crontab.list || (
 	sed -i -r -e '$a0 0,8,12,16 * * * bash /home/myid/jd/jd.sh jd_joy_reward now'  /home/myid/jd/config/crontab.list
+	crontab /home/myid/jd/config/crontab.list
 )
+
+sed -i -r -e "/[']([^@]+@){1,}[^@]+/d" /home/myid/jd/scripts/jd_bookshop.js
+sed -i -r -e "/^  [\`]([^@]+@){1,}[^@]+/d" /home/myid/jd/scripts/jd_cash.js
+sed -i -r -e "/^  [']([^@]+@){1,}[^@]+/d" /home/myid/jd/scripts/jd_crazy_joy.js
+sed -i -r -e "/^  ['\"][^@]+/d" /home/myid/jd/scripts/jd_dreamFactory.js 
+sed -i -r -e "/^  [']([^@]+@){1,}[^@]+/d" /home/myid/jd/scripts/jd_fruit.js
+sed -i -r -e "/^  [\`]([^@]+@){1,}[^@]+/d" /home/myid/jd/scripts/jd_jdzz.js
+sed -i -r -e "/^let cookiesArr = \[\],/a invite_pins = ['122294312-396444,1309893722-164885,jd_4d651d9e48204,jd_OeTNobRVGiNZ'];\nfriendsArr = [];" /home/myid/jd/scripts/jd_joy_run.js
+sed -i -r -e '/https:\/\/gitee.com\/lxk0301\/updateTeam\//s,https,htttps,' /home/myid/jd/scripts/jd_joy_run.js
 
 echo run dit ok
