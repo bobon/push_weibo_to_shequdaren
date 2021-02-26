@@ -48,6 +48,22 @@ log_d() {
 
 cd $sign_base_dir
 
+if [ "$1" = "check_pre" ]; then
+	for kk in $(find api_vender_pre/ -type f | egrep -v '_del$'); do
+		unset actRule
+		source $kk
+		if [ $(echo -e "$actRule" | grep '京豆' >/dev/null;echo $?) -eq 0 ]; then
+			echo -e "$kk\n$actRule\n"
+		#else
+			#rm -rvf $kk
+			#echo "没京豆的店 $kk"
+		fi
+	done
+	unset kk
+	exit
+fi
+
+
 if [ "$1" != "nosearch" ]; then
 ./search.sh 牛奶 || true
 ./search.sh 奶粉 || true
