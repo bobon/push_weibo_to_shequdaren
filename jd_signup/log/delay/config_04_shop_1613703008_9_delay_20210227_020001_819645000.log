@@ -1,0 +1,151 @@
+02/27/21 02:04:25 915427600  1614362665
+RANDOM_num: 25
+removed '/tmp/tmp.eypch0j6vI'
+02/27/21 02:04:26 051279400  1614362666 检查移动签到
+
+real	0m0.169s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614363266	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614363266	LZ_TOKEN_KEY	lztokenpage38069274e96f475a9bd91f77e8351a33
+02/27/21 02:04:26 331535200  1614362666
+use wskey
+
+real	0m0.149s
+user	0m0.094s
+sys	0m0.094s
+02/27/21 02:04:26 510035600  1614362666 token: AAFgOTgqADD79e2PMQEpVBvG-X8F7386EVbMEOvIsAOZOsxDz-EDhhrl3zIcNy6JnfZ-9nlX9Hg
+
+real	0m0.374s
+user	0m0.078s
+sys	0m0.156s
+02/27/21 02:04:26 901370300  1614362666 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/27/21 02:04:26 917538600  1614362666 移动签到海豚传媒自营官方旗舰店
+
+real	0m0.417s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "yUQTmX",
+    "giftLogId": "c1273e935c2f42029358c9fb8803afa2",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "10",
+      "giftType": "9",
+      "giftName": "10店铺积分",
+      "giftNum": "10",
+      "giftTotal": "5000",
+      "giftResidue": null,
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+02/27/21 02:04:27 641805900 1614362667
+02/27/21 02:04:27 658537200 1614362667 签到海豚传媒自营官方旗舰店完成
+02/27/21 02:04:52 786138700  1614362692
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "10店铺积分"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["10店铺积分"]
+***********************************************
+
+移动签到海豚传媒自营官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="海豚传媒自营官方旗舰店"
+#店铺激活码
+actId="14f003bcc03e444299ad216d4166702d"
+#店铺id
+venderId="1000004641"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao"
+
+startTime=1612146180
+endTime=1614527940
+# 活动时间：2021-02-01 10:23 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：6元优惠券
+连续签到2天：10店铺积分
+连续签到3天：1京豆
+连续签到4天：20店铺积分
+连续签到5天：2京豆
+连续签到6天：30店铺积分
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName=""10店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["10店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName=""10店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["10店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName=""10店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["10店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""10店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["10店铺积分"]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

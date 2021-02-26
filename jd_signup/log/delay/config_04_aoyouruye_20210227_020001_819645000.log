@@ -1,0 +1,922 @@
+02/27/21 02:05:12 018218700  1614362712
+RANDOM_num: 30
+removed '/tmp/tmp.DtcSiWVcyd'
+02/27/21 02:05:12 794222600  1614362712 检查移动签到
+
+real	0m0.507s
+user	0m0.016s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:14 264315400  1614362714
+use wskey
+
+real	0m0.618s
+user	0m0.109s
+sys	0m0.078s
+02/27/21 02:05:14 997510300  1614362714 token: AAFgOThaADAXMaJ1lfBz1zB_hQ27r2kB1zvV8dmpi0kYMf2OEzT40m-yQDvuMfAa9QQC0FBxc6U
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.405s
+user	0m0.125s
+sys	0m0.109s
+02/27/21 02:05:15 504337300  1614362715 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:15 625796500  1614362715 移动签到澳优乳业官方旗舰店
+
+real	0m0.354s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:17 496024300 1614362717
+
+real	0m0.580s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.646s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:19 208302200  1614362719
+use wskey
+
+real	0m0.717s
+user	0m0.109s
+sys	0m0.109s
+02/27/21 02:05:20 035635300  1614362720 token: AAFgOThfADD2A0RNLdqXsdnkxnUY10aomr5SFd_KVnqFXfzIFYfRzAIT9UMg-5hhCNQ8oq6GID4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.523s
+user	0m0.125s
+sys	0m0.078s
+02/27/21 02:05:20 655250500  1614362720 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:20 736989200  1614362720 移动签到澳优乳业官方旗舰店
+
+real	0m0.344s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:23 039957100 1614362723
+
+real	0m2.026s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.737s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:26 105447200  1614362726
+use wskey
+
+real	0m0.861s
+user	0m0.125s
+sys	0m0.094s
+02/27/21 02:05:27 099594300  1614362727 token: AAFgOThmADDZ4iJBV_0ynyW22omyRhnteS08QHrRLUHmplTOscamMWIQZv0bZwxXOpwXaMtrMEM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.734s
+user	0m0.078s
+sys	0m0.094s
+02/27/21 02:05:27 986996800  1614362727 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:28 110539100  1614362728 移动签到澳优乳业官方旗舰店
+
+real	0m0.606s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:30 121276500 1614362730
+
+real	0m0.929s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.429s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:31 820397900  1614362731
+use wskey
+
+real	0m0.848s
+user	0m0.078s
+sys	0m0.141s
+02/27/21 02:05:32 848727600  1614362732 token: AAFgOThsADAdJTqiyMfAyPm_COcEU7f06j3ssxS45bSsQLYniPZJSHeCiXNJcwm074xthsNXI2g
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.802s
+user	0m0.094s
+sys	0m0.125s
+02/27/21 02:05:33 818554200  1614362733 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:33 917463400  1614362733 移动签到澳优乳业官方旗舰店
+
+real	0m0.518s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:35 934103000 1614362735
+
+real	0m1.217s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.469s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:37 907932700  1614362737
+use wskey
+
+real	0m0.605s
+user	0m0.125s
+sys	0m0.156s
+02/27/21 02:05:38 632148700  1614362738 token: AAFgOThyADBV-oCS6OH9Io0zELdCdrbh-DswN7x3LTcFVCd8yYvDQjQNMuKAtv2ezyHA8jzROm8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.510s
+user	0m0.141s
+sys	0m0.063s
+02/27/21 02:05:39 265303300  1614362739 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:39 431957900  1614362739 移动签到澳优乳业官方旗舰店
+
+real	0m0.593s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:41 390886600 1614362741
+
+real	0m1.397s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.694s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:43 802403300  1614362743
+use wskey
+
+real	0m0.517s
+user	0m0.078s
+sys	0m0.094s
+02/27/21 02:05:44 443495200  1614362744 token: AAFgOTh4ADDeVoZAkl7TmPWownYf3yNxLbZ4w-3_PaVMiTTFRYm_MKEJ6viYRirHBqxkhnwcbas
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.547s
+user	0m0.078s
+sys	0m0.109s
+02/27/21 02:05:45 130468700  1614362745 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:45 194814600  1614362745 移动签到澳优乳业官方旗舰店
+
+real	0m0.573s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:47 179001700 1614362747
+
+real	0m1.449s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.650s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:49 702898100  1614362749
+use wskey
+
+real	0m0.559s
+user	0m0.078s
+sys	0m0.078s
+02/27/21 02:05:50 378977600  1614362750 token: AAFgOTh-ADDGQ-lCs-Izb2mxGx9ZedrzUrOgO1w1hcIt8uEFw_phMYnll2T_dw6JNQ--Ij1uhkc
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.633s
+user	0m0.078s
+sys	0m0.094s
+02/27/21 02:05:51 099365800  1614362751 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:51 220071100  1614362751 移动签到澳优乳业官方旗舰店
+
+real	0m0.343s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:05:52 929894200 1614362752
+
+real	0m2.555s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.692s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:05:56 519894200  1614362756
+use wskey
+
+real	0m0.798s
+user	0m0.141s
+sys	0m0.109s
+02/27/21 02:05:57 434107500  1614362757 token: AAFgOTiFADBZYLk2lKG_3YZv6Y-KVZbxRy4TRV1b6SYxzhwaMFqwplj9lQStI0UC5_iXBfQMTdo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.604s
+user	0m0.109s
+sys	0m0.125s
+02/27/21 02:05:58 150123300  1614362758 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:05:58 256822900  1614362758 移动签到澳优乳业官方旗舰店
+
+real	0m0.504s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:00 390028100 1614362760
+
+real	0m1.868s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.327s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:02 773141300  1614362762
+use wskey
+
+real	0m0.551s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 02:06:03 434601400  1614362763 token: AAFgOTiLADCUyaeMXC8TLqNCAj62n5_g9mh4KrYg-UGKK-Fb307avxIOGfRl6Ya9EYGbePdsziQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.364s
+user	0m0.109s
+sys	0m0.125s
+02/27/21 02:06:03 920829000  1614362763 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:04 005189900  1614362764 移动签到澳优乳业官方旗舰店
+
+real	0m0.354s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:05 666201000 1614362765
+
+real	0m2.211s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.463s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:08 529379700  1614362768
+use wskey
+
+real	0m0.352s
+user	0m0.078s
+sys	0m0.109s
+02/27/21 02:06:08 942082900  1614362768 token: AAFgOTiQADBkgyQMBMlN_oaD-IqqjAFgkjOSRxJLie_5vPHbbLCRQfZUjCXmnDGsUWmhAi-oOEE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.337s
+user	0m0.094s
+sys	0m0.141s
+02/27/21 02:06:09 328431000  1614362769 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:09 367900200  1614362769 移动签到澳优乳业官方旗舰店
+
+real	0m0.219s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:10 353758500 1614362770
+
+real	0m2.206s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.624s
+user	0m0.078s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:13 452767300  1614362773
+use wskey
+
+real	0m0.585s
+user	0m0.156s
+sys	0m0.156s
+02/27/21 02:06:14 197056600  1614362774 token: AAFgOTiWADBERGSFKzgkw_IQIlGyx4yeF3xTd7OIU5J3KXJ6Pyk8tFLGTls0YA-wGh3J70Kifhg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.577s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 02:06:14 944796100  1614362774 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:15 082829500  1614362775 移动签到澳优乳业官方旗舰店
+
+real	0m0.426s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:16 968368800 1614362776
+
+real	0m2.730s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.450s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:20 429891200  1614362780
+use wskey
+
+real	0m0.325s
+user	0m0.078s
+sys	0m0.109s
+02/27/21 02:06:20 841830000  1614362780 token: AAFgOTicADDJXVbL4i4nHov_1p0mJ07r6bVEqjb5LwkEr9HtLNx2-Rw7qzi2ShXcD3yFN4wIYbI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.282s
+user	0m0.109s
+sys	0m0.094s
+02/27/21 02:06:21 167554800  1614362781 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:21 225562900  1614362781 移动签到澳优乳业官方旗舰店
+
+real	0m0.357s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:22 836939500 1614362782
+
+real	0m2.684s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.709s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:26 727963400  1614362786
+use wskey
+
+real	0m0.590s
+user	0m0.109s
+sys	0m0.109s
+02/27/21 02:06:27 408297200  1614362787 token: AAFgOTijADB90oX3_HPvHtdDeqmSlosNwr8cwLa66-PmMFbWuBGh288D-rJHHrHskX186VQgOSI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.575s
+user	0m0.063s
+sys	0m0.219s
+02/27/21 02:06:28 169746900  1614362788 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:28 289989300  1614362788 移动签到澳优乳业官方旗舰店
+
+real	0m0.375s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:29 430894300 1614362789
+
+real	0m2.739s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m0.383s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:32 777209300  1614362792
+use wskey
+
+real	0m0.407s
+user	0m0.094s
+sys	0m0.094s
+02/27/21 02:06:33 258286700  1614362793 token: AAFgOTipADBxVUU4L4RMG-SA-yBGgXOdhxUdD0f5oI4JfOdP8G4-BwZzxAwzSZ22ZAknse5C3jA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.469s
+user	0m0.109s
+sys	0m0.141s
+02/27/21 02:06:33 813281600  1614362793 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:33 893772300  1614362793 移动签到澳优乳业官方旗舰店
+
+real	0m0.419s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:35 310167000 1614362795
+
+real	0m2.911s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.245s
+user	0m0.000s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:38 670734000  1614362798
+use wskey
+
+real	0m0.372s
+user	0m0.125s
+sys	0m0.141s
+02/27/21 02:06:39 109328100  1614362799 token: AAFgOTivADAj4cGXKuLqNMP7JZ5uBwO32zialwMiq2dHXYnhgrOXchZfJ0fhPC3TTjmrhkPcouY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.312s
+user	0m0.094s
+sys	0m0.141s
+02/27/21 02:06:39 461799500  1614362799 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:39 492827900  1614362799 移动签到澳优乳业官方旗舰店
+
+real	0m0.204s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:40 440774400 1614362800
+
+real	0m3.233s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.320s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:44 179262300  1614362804
+use wskey
+
+real	0m0.342s
+user	0m0.094s
+sys	0m0.172s
+02/27/21 02:06:44 620280400  1614362804 token: AAFgOTi0ADD-D3m0epsAR9M8SPHGScMKrE2fTCV-qq6WPeTQtRqhh75dXR7FMW0rRXPg0khlqPk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.224s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 02:06:44 917983500  1614362804 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:45 043266000  1614362805 移动签到澳优乳业官方旗舰店
+
+real	0m0.240s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:46 181900700 1614362806
+
+real	0m3.351s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.224s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:49 858370600  1614362809
+use wskey
+
+real	0m0.252s
+user	0m0.109s
+sys	0m0.172s
+02/27/21 02:06:50 153211800  1614362810 token: AAFgOTi6ADCbPH3Evxzf1NDetxQ_VSHTbwtq1q5YFPCKKnv9EWdiMd_fh-C4KPN3U3L27zt-CEU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.255s
+user	0m0.094s
+sys	0m0.063s
+02/27/21 02:06:50 444827900  1614362810 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:50 503437700  1614362810 移动签到澳优乳业官方旗舰店
+
+real	0m0.303s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:51 625730300 1614362811
+
+real	0m3.538s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.421s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:06:55 714636500  1614362815
+use wskey
+
+real	0m0.452s
+user	0m0.109s
+sys	0m0.109s
+02/27/21 02:06:56 272999800  1614362816 token: AAFgOTjAADBC5-imAbQW2bkP76zbWNEiQsgH9XqQISEstys5bRh18POnYa0Z7AwojedqSluXTH8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.451s
+user	0m0.141s
+sys	0m0.063s
+02/27/21 02:06:56 793533000  1614362816 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:06:56 876649500  1614362816 移动签到澳优乳业官方旗舰店
+
+real	0m0.262s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:06:58 176734400 1614362818
+
+real	0m3.746s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.300s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/27/21 02:07:02 393129400  1614362822
+use wskey
+
+real	0m0.410s
+user	0m0.141s
+sys	0m0.109s
+02/27/21 02:07:02 896063800  1614362822 token: AAFgOTjGADDmD57sqhh55OlYVjcPJ0gGUp8TEuAX7VuUvbN4zTLp-4qjXH6cWlu1eLWdrpc-jWA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.353s
+user	0m0.141s
+sys	0m0.141s
+02/27/21 02:07:03 306398700  1614362823 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:07:03 347154400  1614362823 移动签到澳优乳业官方旗舰店
+
+real	0m0.362s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:07:04 465567700 1614362824
+
+real	0m3.925s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.212s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 02:07:08 684192400  1614362828
+use wskey
+
+real	0m0.259s
+user	0m0.063s
+sys	0m0.156s
+02/27/21 02:07:08 966661600  1614362828 token: AAFgOTjMADAU_PsHUMlxtl7EMfV19uBBUh-OrBqvIol9SPSqr4wLdO4OLyzTj1iKqRX-uD3JHi8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.199s
+user	0m0.125s
+sys	0m0.078s
+02/27/21 02:07:09 190114800  1614362829 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 02:07:09 212628500  1614362829 移动签到澳优乳业官方旗舰店
+
+real	0m0.379s
+user	0m0.094s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 02:07:10 090864000 1614362830
+
+real	0m4.070s
+user	0m0.000s
+sys	0m0.063s
+02/27/21 02:08:44 243511200  1614362924
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/aoyouruye
+
+移动签到澳优乳业官方旗舰店查看结果
+
+
+
+澳优乳业官方旗舰店活动规则
+
+
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+#店铺激活码
+actId="eb0ef5535d6e462096ab4e2135ba6c45"
+##店铺id
+venderId="37166"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="2"
+sign_total_num="23"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 23"
+#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="2"
+sign_total_num="23"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 23"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="2"
+sign_total_num="23"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 23"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="0"
+sign_total_num="14"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 14"
+#王 1309893722-164885 sign_res_end

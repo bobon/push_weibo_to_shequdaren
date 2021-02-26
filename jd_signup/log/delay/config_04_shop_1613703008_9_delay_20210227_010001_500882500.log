@@ -1,0 +1,769 @@
+02/27/21 01:17:22 498643300  1614359842
+RANDOM_num: 25
+removed '/tmp/tmp.bRLUwkkWXZ'
+02/27/21 01:17:24 387802700  1614359844 检查移动签到
+
+real	0m0.706s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 01:17:26 109376200  1614359846
+use wskey
+
+real	0m0.767s
+user	0m0.078s
+sys	0m0.109s
+02/27/21 01:17:27 126945900  1614359847 token: AAFgOS0mADDTrimifUbA7q8DEwB4XDp3GwHxCFr0xC2ZkuS5Y8Vvf39RUrU9BbjWBbvruiOIIVI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.010s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 01:17:28 309527200  1614359848 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:17:28 486056700  1614359848 移动签到海豚传媒自营官方旗舰店
+
+real	0m0.664s
+user	0m0.063s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:17:30 964299200 1614359850
+
+real	0m0.919s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.782s
+user	0m0.078s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/27/21 01:17:33 054079600  1614359853
+use wskey
+
+real	0m0.606s
+user	0m0.078s
+sys	0m0.125s
+02/27/21 01:17:33 896442800  1614359853 token: AAFgOS0tADDiyZiD9J9-hrzVGz1Fe3YPA84h4o3NKO3_6N-cY-ce4mh30vb_TtrLbkICPYa-Y6w
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.918s
+user	0m0.109s
+sys	0m0.078s
+02/27/21 01:17:35 166694300  1614359855 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:17:35 409716700  1614359855 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.006s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:17:39 164799500 1614359859
+
+real	0m1.032s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.963s
+user	0m0.031s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/27/21 01:17:41 916082700  1614359861
+use wskey
+
+real	0m0.773s
+user	0m0.078s
+sys	0m0.172s
+02/27/21 01:17:43 163227000  1614359863 token: AAFgOS02ADDbqxFCbiJdDJwPtVnwQofPXJVbw3GkL5nHOXDLXoU5zu5SDtsUKd1pONPm3Euc6sY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.079s
+user	0m0.063s
+sys	0m0.094s
+02/27/21 01:17:44 738729000  1614359864 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:17:45 050529400  1614359865 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.228s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:17:49 510460900 1614359869
+
+real	0m1.423s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.006s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 01:17:52 364573500  1614359872
+use wskey
+
+real	0m0.955s
+user	0m0.109s
+sys	0m0.094s
+02/27/21 01:17:54 545007700  1614359874 token: AAFgOS1BADBJCaoAULpjHrUAcVlDp5XQhKXthvgJYCSdTsiL7CJbMJsxunNQSCztrHVU0dDYiTM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.560s
+user	0m0.078s
+sys	0m0.141s
+02/27/21 01:17:56 408352900  1614359876 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:17:56 720705000  1614359876 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.138s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:18:00 797408400 1614359880
+
+real	0m1.957s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.239s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 01:18:04 593837500  1614359884
+use wskey
+
+real	0m1.456s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 01:18:06 380815900  1614359886 token: AAFgOS1NADAgvQwHdo26Nby0B4SRkH5d2HEUc96CWgP-AD6cGFkIJUq7C2bWyXV5jv5vrDATNkY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.237s
+user	0m0.125s
+sys	0m0.125s
+02/27/21 01:18:08 089447600  1614359888 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:18:08 485268900  1614359888 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.153s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:18:13 340378100 1614359893
+
+real	0m2.337s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.742s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+02/27/21 01:18:18 401406900  1614359898
+use wskey
+
+real	0m2.004s
+user	0m0.109s
+sys	0m0.125s
+02/27/21 01:18:20 643157800  1614359900 token: AAFgOS1cADBT3wj6VxXrL1KgfXVkaD_bRhjI6ULJ-u3BAGqHNf0rBJ9K3lgWH7vl_y5MDb5GUUs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.508s
+user	0m0.094s
+sys	0m0.078s
+02/27/21 01:18:22 542694500  1614359902 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:18:22 926044600  1614359902 移动签到海豚传媒自营官方旗舰店
+
+real	0m0.705s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:18:28 952437200 1614359908
+
+real	0m2.357s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.010s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 01:18:34 565903400  1614359914
+use wskey
+
+real	0m2.337s
+user	0m0.125s
+sys	0m0.125s
+02/27/21 01:18:37 488483300  1614359917 token: AAFgOS1sADCn4va9_395q18rCHp_6C4Q24_s1bwZScxFCYSD_4ppKhrt0eEW-uiQujTMI8pehus
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.945s
+user	0m0.125s
+sys	0m0.141s
+02/27/21 01:18:39 780519000  1614359919 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:18:40 657765200  1614359920 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.481s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:18:47 256797900 1614359927
+
+real	0m2.925s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.617s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 01:18:53 147928500  1614359933
+use wskey
+
+real	0m3.234s
+user	0m0.109s
+sys	0m0.172s
+02/27/21 01:18:56 660705500  1614359936 token: AAFgOS2AADDGtBvbREB8F-Hynku8DIoRxFqzO7J1otCSmLkJKWmG-DMio7r3gUPZBlLmHylmFzU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.473s
+user	0m0.125s
+sys	0m0.125s
+02/27/21 01:18:59 579998700  1614359939 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:19:00 095326400  1614359940 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.502s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:19:06 186524000 1614359946
+
+real	0m2.802s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.231s
+user	0m0.063s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/27/21 01:19:12 276435000  1614359952
+use wskey
+
+real	0m1.939s
+user	0m0.078s
+sys	0m0.141s
+02/27/21 01:19:14 839371300  1614359954 token: AAFgOS2RADAWdQXjgQijUicfdCLC1BUblgVkxdcOm3AAa4LbuqiIv7sFuxMQxj29xllz0R9hzag
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.176s
+user	0m0.094s
+sys	0m0.078s
+02/27/21 01:19:17 535664600  1614359957 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:19:18 047424300  1614359958 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.310s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:19:25 737437000 1614359965
+
+real	0m3.155s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.932s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 01:19:31 828719400  1614359971
+use wskey
+
+real	0m1.704s
+user	0m0.063s
+sys	0m0.141s
+02/27/21 01:19:33 900822400  1614359973 token: AAFgOS2lADBbtyHZ1c-rfEtJEGS07V712hMlyzVJvuka6l6mPHm7FWyW7Iw1W7R8KsJWp9mtwkA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.383s
+user	0m0.094s
+sys	0m0.094s
+02/27/21 01:19:36 720443000  1614359976 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:19:37 250850800  1614359977 移动签到海豚传媒自营官方旗舰店
+
+real	0m2.131s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:19:43 833849800 1614359983
+
+real	0m3.591s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.619s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 01:19:51 541186400  1614359991
+use wskey
+
+real	0m1.926s
+user	0m0.094s
+sys	0m0.125s
+02/27/21 01:19:54 873871200  1614359994 token: AAFgOS25ADCN8Z0O1aSDd3LgDDFYMZUNjkthVwGIao37fjOkcZ-zn_m03vFVsuBiB38IjFEpU58
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.017s
+user	0m0.094s
+sys	0m0.109s
+02/27/21 01:19:57 753225900  1614359997 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:19:58 364448800  1614359998 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.186s
+user	0m0.016s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:20:03 779348600 1614360003
+
+real	0m3.530s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.780s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/27/21 01:20:10 459951800  1614360010
+use wskey
+
+real	0m2.504s
+user	0m0.078s
+sys	0m0.156s
+02/27/21 01:20:13 456190700  1614360013 token: AAFgOS3MADBNnOzyRvgipceT9jfnz0cGaz7mVQi2H7LFOtZjhbH4qX3rLjOd0f4pJbVvfb2VWlM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.085s
+user	0m0.094s
+sys	0m0.094s
+02/27/21 01:20:16 056196200  1614360016 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:20:16 647865600  1614360016 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.878s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:20:23 782110300 1614360023
+
+real	0m4.129s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.140s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 01:20:31 496262500  1614360031
+use wskey
+
+real	0m1.812s
+user	0m0.125s
+sys	0m0.094s
+02/27/21 01:20:33 681753900  1614360033 token: AAFgOS3hADB80WS81bG8E7Hrj8QRNFMKF2s-rPhqqG2rfOAaYCovP2pHqOuXFZXvXSSoDX14Wik
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.662s
+user	0m0.094s
+sys	0m0.125s
+02/27/21 01:20:35 761526700  1614360035 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:20:36 028148400  1614360036 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.318s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:20:41 873102100 1614360041
+
+real	0m3.633s
+user	0m0.016s
+sys	0m0.047s
+
+real	0m1.290s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 01:20:47 999708900  1614360047
+use wskey
+
+real	0m1.839s
+user	0m0.094s
+sys	0m0.141s
+02/27/21 01:20:50 263324100  1614360050 token: AAFgOS3xADCSbL14CR-274AygIe8tbsmizhDuUIys7oE_xkZRzKW_92zHdKdfIzGLQRKP8pCz5A
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.316s
+user	0m0.078s
+sys	0m0.156s
+02/27/21 01:20:51 828200100  1614360051 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:20:52 119894900  1614360052 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.266s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:20:58 274820100 1614360058
+
+real	0m3.978s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.350s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 01:21:05 746044500  1614360065
+use wskey
+
+real	0m1.383s
+user	0m0.078s
+sys	0m0.078s
+02/27/21 01:21:07 497354400  1614360067 token: AAFgOS4DADBJr3rCneKocPFfuec9rHskQAGV5EO2gmPmwHrahG1hwi1lllZymx2lOgHZEhRzjZU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.646s
+user	0m0.109s
+sys	0m0.094s
+02/27/21 01:21:09 410614300  1614360069 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:21:09 750680600  1614360069 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.184s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:21:15 078876800 1614360075
+
+real	0m3.832s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.122s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/27/21 01:21:20 910541800  1614360080
+use wskey
+
+real	0m1.075s
+user	0m0.078s
+sys	0m0.125s
+02/27/21 01:21:22 287846400  1614360082 token: AAFgOS4RADBFJmtnPxo7P47z_ucdC0Ng_BCuZOUDCgz-hJzbq4CjhTKhMDAv0B6R8ArIqUZh4-Q
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.162s
+user	0m0.094s
+sys	0m0.125s
+02/27/21 01:21:24 266807900  1614360084 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:21:24 690026000  1614360084 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.103s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:21:28 544091200 1614360088
+
+real	0m4.157s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.780s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/27/21 01:21:34 054819800  1614360094
+use wskey
+
+real	0m0.979s
+user	0m0.094s
+sys	0m0.141s
+02/27/21 01:21:35 264438800  1614360095 token: AAFgOS4fADADJhpVd3HHZyL7nswGdc9sOEC5lXJ564CJ-C8LLZJkxSA_PX929nQO3cHcsl0dZnU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.296s
+user	0m0.078s
+sys	0m0.109s
+02/27/21 01:21:36 969071600  1614360096 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:21:37 242374800  1614360097 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.458s
+user	0m0.078s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:21:41 239729400 1614360101
+
+real	0m4.453s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.118s
+user	0m0.000s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/27/21 01:21:47 549905000  1614360107
+use wskey
+
+real	0m1.104s
+user	0m0.063s
+sys	0m0.156s
+02/27/21 01:21:48 803507900  1614360108 token: AAFgOS4sADCwFd5y_XFZo2yKy-vyI9ff0I8_fXl4slmpJlO9otQLhcfh5LwKXIZJ--BdqXZwKOs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.068s
+user	0m0.125s
+sys	0m0.141s
+02/27/21 01:21:50 135781600  1614360110 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:21:50 409795500  1614360110 移动签到海豚传媒自营官方旗舰店
+
+real	0m1.011s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:21:55 596234600 1614360115
+
+real	0m4.247s
+user	0m0.016s
+sys	0m0.047s
+
+real	0m0.990s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/27/21 01:22:01 452372600  1614360121
+use wskey
+
+real	0m0.755s
+user	0m0.109s
+sys	0m0.125s
+02/27/21 01:22:02 316180400  1614360122 token: AAFgOS46ADDP1JInEqDVX0cveCfbCq63oqC9dIaXfQfLov6GtaDv73u5cH1c15aIhlSXWoOG8bs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.848s
+user	0m0.094s
+sys	0m0.156s
+02/27/21 01:22:03 422488400  1614360123 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:22:03 848772600  1614360123 移动签到海豚传媒自营官方旗舰店
+
+real	0m0.685s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:22:06 950782500 1614360126
+
+real	0m4.539s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.769s
+user	0m0.031s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/27/21 01:22:12 618611800  1614360132
+use wskey
+
+real	0m0.790s
+user	0m0.109s
+sys	0m0.109s
+02/27/21 01:22:13 575016400  1614360133 token: AAFgOS5FADB5cV5iTkuFudY513pkgvSoFZMqhojjLnN7GcpJ54a7z7Xtq6GTbug1ueaoxFYsrFk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.879s
+user	0m0.125s
+sys	0m0.141s
+02/27/21 01:22:14 637499000  1614360134 secretPin: 
+[WARN] get secretPin error
+
+02/27/21 01:22:14 868255000  1614360134 移动签到海豚传媒自营官方旗舰店
+
+real	0m0.868s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/27/21 01:22:17 667761800 1614360137
+
+real	0m4.752s
+user	0m0.000s
+sys	0m0.047s
+02/27/21 01:22:47 803364300  1614360167
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613703008_9_delay
+
+移动签到海豚传媒自营官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="海豚传媒自营官方旗舰店"
+#店铺激活码
+actId="14f003bcc03e444299ad216d4166702d"
+#店铺id
+venderId="1000004641"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=14f003bcc03e444299ad216d4166702d&venderId=1000004641&adsource=tg_xuanFuTuBiao"
+
+startTime=1612146180
+endTime=1614527940
+# 活动时间：2021-02-01 10:23 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：6元优惠券
+连续签到2天：10店铺积分
+连续签到3天：1京豆
+连续签到4天：20店铺积分
+连续签到5天：2京豆
+连续签到6天：30店铺积分
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

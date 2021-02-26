@@ -1,0 +1,156 @@
+02/27/21 01:16:50 658161200  1614359810
+RANDOM_num: 40
+removed '/tmp/tmp.qnJ4OsQ4in'
+02/27/21 01:16:50 771006500  1614359810 检查赵签到
+
+real	0m0.183s
+user	0m0.000s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360410	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360410	LZ_TOKEN_KEY	lztokenpage0e6611ab1d204c69abe70f2a9f2112ab
+02/27/21 01:16:51 093356200  1614359811
+use pt_key
+
+real	0m0.149s
+user	0m0.078s
+sys	0m0.094s
+02/27/21 01:16:51 263742800  1614359811 token: AAFgOS0DADAqkq2PlfM1shMAVWEcv1qYZRukjTbatTPnopwEUoOr0od4HH8xWGV4QoTPIEnKkTA
+
+real	0m0.289s
+user	0m0.094s
+sys	0m0.094s
+02/27/21 01:16:51 574680500  1614359811 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/27/21 01:16:51 603028800  1614359811 赵签到佳贝艾特京东自营官方旗舰店
+
+real	0m0.281s
+user	0m0.000s
+sys	0m0.125s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+02/27/21 01:16:52 285914300 1614359812
+
+real	0m0.246s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.890s
+user	0m0.047s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360413	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360413	LZ_TOKEN_KEY	lztokenpage2f4ef5bf1c3d4ad1a7438e064dbfc2b8
+02/27/21 01:16:53 483008200  1614359813
+use pt_key
+
+real	0m0.216s
+user	0m0.063s
+sys	0m0.156s
+02/27/21 01:16:53 723958100  1614359813 token: AAFgOS0FADCXAh0psQ61yLyAFFxUX8E2nKCecYfGcWRYcVxo3EiUymUIUnzuwnYrjYdRT6gciLc
+
+real	0m0.458s
+user	0m0.063s
+sys	0m0.078s
+02/27/21 01:16:54 199735300  1614359814 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/27/21 01:16:54 218552300  1614359814 赵签到佳贝艾特京东自营官方旗舰店
+
+real	0m0.226s
+user	0m0.063s
+sys	0m0.047s
+{
+  "msg": "当天只允许签到一次",
+  "isOk": false
+}
+"当天只允许签到一次"
+02/27/21 01:16:54 828037300 1614359814
+02/27/21 01:16:54 844871400 1614359814 签到佳贝艾特京东自营官方旗舰店完成
+02/27/21 01:17:35 240785700  1614359855
+false
+parse error: Invalid numeric literal at line 1, column 10
+重复签到. 载入之前签到的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+赵签到佳贝艾特京东自营官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="佳贝艾特京东自营官方旗舰店"
+#店铺激活码
+actId="3f6c151718844239b7be3ecca403cd70"
+#店铺id
+venderId="1000002710"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710"
+
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20元优惠券
+连续签到2天：80元优惠券
+连续签到3天：30店铺积分
+连续签到4天：50店铺积分
+连续签到5天：80店铺积分
+连续签到6天：2京豆
+连续签到7天：5元京东E卡
+"
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName="50元优惠券"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [50元优惠券]"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName=""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#赵 122294312-396444 sign_res_end

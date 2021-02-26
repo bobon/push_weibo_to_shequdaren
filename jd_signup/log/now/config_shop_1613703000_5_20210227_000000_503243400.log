@@ -1,0 +1,218 @@
+02/27/21 00:00:00 671825200  1614355200
+RANDOM_num: 15
+force to sign
+
+02/27/21 00:00:01 022326900  1614355201 赵签到gaston gerin盛星专卖店
+
+real	0m0.942s
+user	0m0.031s
+sys	0m0.141s
+{"code":200,"data":[{"level":7,"prizeList":[{"discount":5.00,"type":4,"number":600,"budgetNum":3000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+02/27/21 00:00:02 712657600  1614355202 王签到gaston gerin盛星专卖店
+
+real	0m1.023s
+user	0m0.016s
+sys	0m0.156s
+{"code":200,"data":[{"level":7,"prizeList":[{"discount":5.00,"type":4,"number":600,"budgetNum":3000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+02/27/21 00:00:04 940968200 1614355204
+02/27/21 00:00:05 335317900 1614355205 签到gaston gerin盛星专卖店完成
+
+02/27/21 00:00:51 827197500  1614355251
+赵签到gaston gerin盛星专卖店查看结果
+200
+首次签到成功. 写入giftName: 奖励 5, type=4; 
+
+***********************************************
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:10:45  2    [已~签~到]
+2021/02/22_01:06:03  2    [已~签~到]
+2021/02/23_00:00:03  2    [已~签~到]
+2021/02/24_01:10:43  2    [已~签~到]
+2021/02/25_01:17:43  2    [已~签~到]
+2021/02/26_01:07:54  2    [已~签~到]
+2021/02/27_00:00:01  1    [已~签~到]
+当天签到奖励 [奖励 5, type=4; ]
+已签到 7 天
+***********************************************
+
+王签到gaston gerin盛星专卖店查看结果
+200
+首次签到成功. 写入giftName: 奖励 5, type=4; 
+
+***********************************************
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:10:45  2    [已~签~到]
+2021/02/22_01:06:03  2    [已~签~到]
+2021/02/23_00:00:06  2    [已~签~到]
+2021/02/24_01:10:43  2    [已~签~到]
+2021/02/25_01:17:44  2    [已~签~到]
+2021/02/26_01:07:54  2    [已~签~到]
+2021/02/27_00:00:03  1    [已~签~到]
+当天签到奖励 [奖励 5, type=4; ]
+已签到 7 天
+***********************************************
+
+
+
+赵签到gaston gerin盛星专卖店日志
+{"code":200,"data":{"signRecords":[{"signTime":1613491200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613577600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613664000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613750400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613841045380,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613927163029,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614009603626,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614100243067,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614187063804,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614272874504,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355201739,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 7
+}
+王签到gaston gerin盛星专卖店日志
+{"code":200,"data":{"signRecords":[{"signTime":1613491200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613577600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613664000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613750400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613841045663,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613927163763,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614009606249,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614100243281,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614187064165,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614272874719,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355203580,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 7
+}
+# 短链接
+suo_url=""
+venderId=10294688
+startTime=1613548800000
+endTime=1614441599000
+activityId=10270849
+token=0EFFD39F2139300F099E1DB9F160D9B8
+#店铺名称
+vendername="gaston gerin盛星专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=0EFFD39F2139300F099E1DB9F160D9B8
+# 活动时间：2021.02.17 16:00:00 - 2021.02.27 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆
+连续签到7天：5京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613664000;signed=1;currentDay=2
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841083;signed=2;currentDay=2
+signTime=1613927200;signed=2;currentDay=2
+signTime=1614009603;signed=2;currentDay=2
+signTime=1614100261;signed=2;currentDay=2
+signTime=1614182401;signed=2;currentDay=2
+signTime=1614272882;signed=2;currentDay=2
+signTime=1614355201;signed=2;currentDay=1"
+sign_num="7"
+giftName="奖励 5, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:11:23  2    [已~签~到]
+2021/02/22_01:06:40  2    [已~签~到]
+2021/02/23_00:00:03  2    [已~签~到]
+2021/02/24_01:11:01  2    [已~签~到]
+2021/02/25_00:00:01  2    [已~签~到]
+2021/02/26_01:08:02  2    [已~签~到]
+2021/02/27_00:00:01  1    [已~签~到]
+当天签到奖励 [奖励 5, type=4; ]
+已签到 7 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613702999;signed=2;currentDay=2
+signTime=1613831029;signed=2;currentDay=2
+signTime=1613841084;signed=2;currentDay=2
+signTime=1613927201;signed=2;currentDay=2
+signTime=1614009606;signed=2;currentDay=2
+signTime=1614100261;signed=2;currentDay=2
+signTime=1614182403;signed=2;currentDay=2
+signTime=1614272883;signed=2;currentDay=2
+signTime=1614355203;signed=2;currentDay=1"
+sign_num="9"
+giftName=""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_10:49:59  2    [已~签~到]
+2021/02/20_22:23:49  2    [已~签~到]
+2021/02/21_01:11:24  2    [已~签~到]
+2021/02/22_01:06:41  2    [已~签~到]
+2021/02/23_00:00:06  2    [已~签~到]
+2021/02/24_01:11:01  2    [已~签~到]
+2021/02/25_00:00:03  2    [已~签~到]
+2021/02/26_01:08:03  2    [已~签~到]
+2021/02/27_00:00:03  1    [已~签~到]
+当天签到奖励 []
+已签到 9 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613664000;signed=1;currentDay=2
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841045;signed=2;currentDay=2
+signTime=1613927163;signed=2;currentDay=2
+signTime=1614009603;signed=2;currentDay=2
+signTime=1614100243;signed=2;currentDay=2
+signTime=1614187063;signed=2;currentDay=2
+signTime=1614272874;signed=2;currentDay=2
+signTime=1614355201;signed=2;currentDay=1"
+sign_num="7"
+giftName="奖励 5, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:10:45  2    [已~签~到]
+2021/02/22_01:06:03  2    [已~签~到]
+2021/02/23_00:00:03  2    [已~签~到]
+2021/02/24_01:10:43  2    [已~签~到]
+2021/02/25_01:17:43  2    [已~签~到]
+2021/02/26_01:07:54  2    [已~签~到]
+2021/02/27_00:00:01  1    [已~签~到]
+当天签到奖励 [奖励 5, type=4; ]
+已签到 7 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613491200;signed=1;currentDay=2
+signTime=1613577600;signed=1;currentDay=2
+signTime=1613664000;signed=1;currentDay=2
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841045;signed=2;currentDay=2
+signTime=1613927163;signed=2;currentDay=2
+signTime=1614009606;signed=2;currentDay=2
+signTime=1614100243;signed=2;currentDay=2
+signTime=1614187064;signed=2;currentDay=2
+signTime=1614272874;signed=2;currentDay=2
+signTime=1614355203;signed=2;currentDay=1"
+sign_num="7"
+giftName="奖励 5, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/17_00:00:00  2    未签到
+2021/02/18_00:00:00  2    未签到
+2021/02/19_00:00:00  2    未签到
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:10:45  2    [已~签~到]
+2021/02/22_01:06:03  2    [已~签~到]
+2021/02/23_00:00:06  2    [已~签~到]
+2021/02/24_01:10:43  2    [已~签~到]
+2021/02/25_01:17:44  2    [已~签~到]
+2021/02/26_01:07:54  2    [已~签~到]
+2021/02/27_00:00:03  1    [已~签~到]
+当天签到奖励 [奖励 5, type=4; ]
+已签到 7 天"
+#王 1309893722-164885 sign_res_end

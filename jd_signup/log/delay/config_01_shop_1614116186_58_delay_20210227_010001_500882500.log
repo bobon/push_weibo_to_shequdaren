@@ -1,0 +1,182 @@
+02/27/21 01:15:59 729312400  1614359759
+RANDOM_num: 10
+removed '/tmp/tmp.7s0MxDcq3w'
+02/27/21 01:15:59 871092100  1614359759 检查赵签到
+
+real	0m0.198s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360360	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360360	LZ_TOKEN_KEY	lztokenpage082495ad761e470c9c28e01d10d20196
+02/27/21 01:16:00 192545400  1614359760
+use pt_key
+
+real	0m0.158s
+user	0m0.109s
+sys	0m0.063s
+02/27/21 01:16:00 374352300  1614359760 token: AAFgOSzQADC7wPy8d7ZB9wtTNvCFlIxCWetrY-uq9mk_43DJhV594Yx2RlIJzuWD6fTxyUaxMjA
+
+real	0m0.346s
+user	0m0.125s
+sys	0m0.094s
+02/27/21 01:16:00 738568600  1614359760 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/27/21 01:16:00 759069200  1614359760 赵签到拉比官方旗舰店
+
+real	0m0.393s
+user	0m0.016s
+sys	0m0.047s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "10000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "f481c2a9672a4cc4bf343d2c7369f395",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "QMlnoi"
+}
+true
+02/27/21 01:16:01 517406600 1614359761
+02/27/21 01:16:01 564895300 1614359761 签到拉比官方旗舰店完成
+02/27/21 01:16:11 687231000  1614359771
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+赵签到拉比官方旗舰店查看结果
+{"msg":"","giftLog":{"20210225":"y","20210226":"y","20210227":"y"},"isOk":true,"signDetail":{"20210225":"y","20210226":"y","20210227":"y"},"followDays":2,"signRecord":{"nicknameShow":null,"id":"e579694719dd4d43993d4fc922418246","venderId":36049,"actId":"93755d5bd24c4cb39ed67cec431e208f","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210227,"contiSignNum":3,"totalSignNum":3,"createTime":1614186920000,"updateTime":1614359761000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210225": "y",
+    "20210226": "y",
+    "20210227": "y"
+  },
+  "contiSignNum": 3,
+  "totalSignNum": 3
+}
+
+拉比官方旗舰店活动规则
+{"msg":"","act":{"id":"93755d5bd24c4cb39ed67cec431e208f","jdActivityId":null,"venderId":36049,"actName":"签到活动","startTime":1609084800000,"endTime":1640966399000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=93755d5bd24c4cb39ed67cec431e208f&venderId=36049","shortUrl":"3.cn/1-00HZBUW","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/152025/40/12152/3635/5fe979cfEbff221e1/0aed127d4f4a070c.png","actRule":"1、活动时间：2020-12-28 00:00 - 2021-12-31 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[10积分]；
+4、连续签到5天，有机会赠送[50积分]；
+5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+6、关注店铺后方可参与活动；
+7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+9、积分可用于参与店铺不定期推出的兑换优惠券，实物奖品等活动；","createTime":1609136591000,"updateTime":1609917503000,"activityType":null,"actTimeStr":"2020-12-28 00:00 至 2021-12-31 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"f481c2a9672a4cc4bf343d2c7369f395\",\"giftName\":\"10积分\",\"giftNum\":\"10\",\"giftTotal\":\"10000000\",\"giftType\":\"9\",\"id\":\"10\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"5\",\"gift\":{\"giftInfoId\":\"cc3d046c69614222a0cbc5dc23b688b9\",\"giftName\":\"50积分\",\"giftNum\":\"50\",\"giftTotal\":\"1000000\",\"giftType\":\"9\",\"id\":\"50\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"10000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"f481c2a9672a4cc4bf343d2c7369f395","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"5","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"50","giftType":"9","giftName":"50积分","giftNum":"50","giftTotal":"1000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"cc3d046c69614222a0cbc5dc23b688b9","commonAddAwardVO":null}}]},"isShowItems":"n","showItemIds":"","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=93755d5bd24c4cb39ed67cec431e208f&venderId=36049",
+  "shortUrl": "3.cn/1-00HZBUW",
+  "actRule": "1、活动时间：2020-12-28 00:00 - 2021-12-31 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[10积分]；\n4、连续签到5天，有机会赠送[50积分]；\n5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n6、关注店铺后方可参与活动；\n7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n9、积分可用于参与店铺不定期推出的兑换优惠券，实物奖品等活动；"
+}
+actId=93755d5bd24c4cb39ed67cec431e208f
+venderId=36049
+startTime=1609084800000
+endTime=1640966399000
+# 短链接
+suo_url="https://3.cn/1-00HZBUW"
+actTimeStr="2020-12-28 00:00 至 2021-12-31 23:59"
+#店铺名称
+vendername="拉比官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=93755d5bd24c4cb39ed67cec431e208f&venderId=36049&adsource=tg_xuanFuTuBiao
+# 活动时间：2020.12.28 00:00:00 - 2021.12.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：50积分 50积分
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end

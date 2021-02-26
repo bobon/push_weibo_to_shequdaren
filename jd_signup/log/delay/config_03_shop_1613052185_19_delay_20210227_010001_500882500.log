@@ -1,0 +1,137 @@
+02/27/21 01:14:17 854704500  1614359657
+RANDOM_num: 30
+removed '/tmp/tmp.RPQ22yIxD9'
+02/27/21 01:14:18 002456200  1614359658 检查肥鹅签到
+
+real	0m0.267s
+user	0m0.047s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360258	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360258	LZ_TOKEN_KEY	lztokenpage906d80d394c542f58989d9bced608b84
+02/27/21 01:14:18 408537800  1614359658
+use pt_key
+
+real	0m0.216s
+user	0m0.094s
+sys	0m0.125s
+02/27/21 01:14:18 650399300  1614359658 token: AAFgOSxqADAEYHKP-JOW36ALuosqgWPm-WxZ4Dh_MXDQK88vW7HvrgPZux7OVQDQNofnKP_v8TI
+
+real	0m0.300s
+user	0m0.125s
+sys	0m0.109s
+02/27/21 01:14:18 970455700  1614359658 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/27/21 01:14:18 989041400  1614359658 肥鹅签到尤妮佳舒蔻京东自营官方旗舰店
+
+real	0m0.346s
+user	0m0.031s
+sys	0m0.078s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1",
+    "giftType": "9",
+    "giftName": "1积分",
+    "giftNum": "1",
+    "giftTotal": "10000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "ba4a8c6222174e6296323388ea17ff71",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "EJwqgj"
+}
+true
+02/27/21 01:14:19 649729400 1614359659
+02/27/21 01:14:19 664715600 1614359659 签到尤妮佳舒蔻京东自营官方旗舰店完成
+02/27/21 01:14:49 748239800  1614359689
+true
+首次签到成功. 写入giftName: "1积分"
+
+***********************************************
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["1积分"]
+连续签到 6 天
+签到总天数 16
+***********************************************
+
+肥鹅签到尤妮佳舒蔻京东自营官方旗舰店查看结果
+{"msg":"","giftLog":{"20210224":"y","20210225":"y","20210226":"y","20210227":"y","20210212":"y","20210213":"y","20210214":"y","20210215":"y","20210220":"y","20210221":"y","20210222":"y","20210223":"y","20210216":"y","20210217":"y","20210218":"y","20210219":"y"},"isOk":true,"signDetail":{"20210224":"y","20210225":"y","20210226":"y","20210227":"y","20210212":"y","20210213":"y","20210214":"y","20210215":"y","20210220":"y","20210221":"y","20210222":"y","20210223":"y","20210216":"y","20210217":"y","20210218":"y","20210219":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"ce3ffa4217e64b43ae5015f7f77f804a","venderId":1000106868,"actId":"a29651e2037d44008a18c99c8d2241ac","actName":"签到活动","nick":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210227,"contiSignNum":6,"totalSignNum":16,"createTime":1613062943000,"updateTime":1614359659000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210224": "y",
+    "20210225": "y",
+    "20210226": "y",
+    "20210227": "y",
+    "20210212": "y",
+    "20210213": "y",
+    "20210214": "y",
+    "20210215": "y",
+    "20210220": "y",
+    "20210221": "y",
+    "20210222": "y",
+    "20210223": "y",
+    "20210216": "y",
+    "20210217": "y",
+    "20210218": "y",
+    "20210219": "y"
+  },
+  "contiSignNum": 6,
+  "totalSignNum": 16
+}
+
+尤妮佳舒蔻京东自营官方旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {285:<--} ERROR CODE: 4[0m [0;31;3m[20210227 01:14:51] [ERROR] [0m
+

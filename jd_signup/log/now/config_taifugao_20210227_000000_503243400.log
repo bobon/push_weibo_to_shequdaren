@@ -1,0 +1,198 @@
+02/27/21 00:00:00 881421000  1614355200
+RANDOM_num: 25
+force to sign
+
+02/27/21 00:00:01 500889000  1614355201 赵签到泰福高（TAFUCO）京东自营旗舰店
+
+real	0m0.926s
+user	0m0.031s
+sys	0m0.156s
+{"code":200,"data":[{"level":7,"prizeList":[{"discount":5.00,"type":4,"number":5000,"budgetNum":25000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2},{"level":0,"prizeList":[{"discount":1.00,"type":4,"number":300000,"budgetNum":300000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+02/27/21 00:00:03 504609900  1614355203 王签到泰福高（TAFUCO）京东自营旗舰店
+
+real	0m1.387s
+user	0m0.047s
+sys	0m0.109s
+{"code":200,"data":[{"level":7,"prizeList":[{"discount":5.00,"type":4,"number":5000,"budgetNum":25000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2},{"level":0,"prizeList":[{"discount":1.00,"type":4,"number":300000,"budgetNum":300000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+02/27/21 00:00:06 167309600 1614355206
+02/27/21 00:00:06 800129000 1614355206 签到泰福高（TAFUCO）京东自营旗舰店完成
+
+02/27/21 00:01:22 577148000  1614355282
+赵签到泰福高（TAFUCO）京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励 5, type=4; 奖励 1, type=4; 
+
+***********************************************
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:14:34  2    [已~签~到]
+2021/02/22_01:09:06  2    [已~签~到]
+2021/02/23_01:08:22  2    [已~签~到]
+2021/02/24_01:13:51  2    [已~签~到]
+2021/02/25_01:11:07  2    [已~签~到]
+2021/02/26_01:16:59  2    [已~签~到]
+2021/02/27_00:00:02  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 [奖励 5, type=4; 奖励 1, type=4; ]
+已签到 7 天
+***********************************************
+
+王签到泰福高（TAFUCO）京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励 5, type=4; 奖励 1, type=4; 
+
+***********************************************
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:14:34  2    [已~签~到]
+2021/02/22_01:09:07  2    [已~签~到]
+2021/02/23_01:08:22  2    [已~签~到]
+2021/02/24_01:13:52  2    [已~签~到]
+2021/02/25_01:11:07  2    [已~签~到]
+2021/02/26_01:16:59  2    [已~签~到]
+2021/02/27_00:00:04  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 [奖励 5, type=4; 奖励 1, type=4; ]
+已签到 7 天
+***********************************************
+
+
+
+赵签到泰福高（TAFUCO）京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1613750400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613841274189,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1613927346837,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614013702254,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614100431866,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614186667401,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614273419189,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355202158,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614441600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 7
+}
+王签到泰福高（TAFUCO）京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1613750400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1613841274480,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1613927347536,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614013702657,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614100432164,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614186667668,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614273419638,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1614355204591,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614441600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 7
+}
+# 短链接
+suo_url=""
+venderId=1000001710
+startTime=1613750400000
+endTime=1614527999000
+activityId=10272013
+token=32DEC15741D404DBA4EB19ECCF1B2C6E
+#店铺名称
+vendername="泰福高（TAFUCO）京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=32DEC15741D404DBA4EB19ECCF1B2C6E
+# 活动时间：2021.02.20 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到7天：5京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841308;signed=2;currentDay=2
+signTime=1613927359;signed=2;currentDay=2
+signTime=1614013742;signed=2;currentDay=2
+signTime=1614100480;signed=2;currentDay=2
+signTime=1614186680;signed=2;currentDay=2
+signTime=1614268801;signed=2;currentDay=2
+signTime=1614355201;signed=2;currentDay=1
+signTime=1614441600;signed=1;currentDay=3"
+sign_num="7"
+giftName="奖励 5, type=4; 奖励 1, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:15:08  2    [已~签~到]
+2021/02/22_01:09:19  2    [已~签~到]
+2021/02/23_01:09:02  2    [已~签~到]
+2021/02/24_01:14:40  2    [已~签~到]
+2021/02/25_01:11:20  2    [已~签~到]
+2021/02/26_00:00:01  2    [已~签~到]
+2021/02/27_00:00:01  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 [奖励 5, type=4; 奖励 1, type=4; ]
+已签到 7 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613829445;signed=2;currentDay=2
+signTime=1613841308;signed=2;currentDay=2
+signTime=1613927359;signed=2;currentDay=2
+signTime=1614013743;signed=2;currentDay=2
+signTime=1614100480;signed=2;currentDay=2
+signTime=1614186681;signed=2;currentDay=2
+signTime=1614268803;signed=2;currentDay=2
+signTime=1614355203;signed=2;currentDay=1
+signTime=1614441600;signed=1;currentDay=3"
+sign_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/20_21:57:25  2    [已~签~到]
+2021/02/21_01:15:08  2    [已~签~到]
+2021/02/22_01:09:19  2    [已~签~到]
+2021/02/23_01:09:03  2    [已~签~到]
+2021/02/24_01:14:40  2    [已~签~到]
+2021/02/25_01:11:21  2    [已~签~到]
+2021/02/26_00:00:03  2    [已~签~到]
+2021/02/27_00:00:03  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 []
+已签到 8 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841274;signed=2;currentDay=2
+signTime=1613927346;signed=2;currentDay=2
+signTime=1614013702;signed=2;currentDay=2
+signTime=1614100431;signed=2;currentDay=2
+signTime=1614186667;signed=2;currentDay=2
+signTime=1614273419;signed=2;currentDay=2
+signTime=1614355202;signed=2;currentDay=1
+signTime=1614441600;signed=1;currentDay=3"
+sign_num="7"
+giftName="奖励 5, type=4; 奖励 1, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:14:34  2    [已~签~到]
+2021/02/22_01:09:06  2    [已~签~到]
+2021/02/23_01:08:22  2    [已~签~到]
+2021/02/24_01:13:51  2    [已~签~到]
+2021/02/25_01:11:07  2    [已~签~到]
+2021/02/26_01:16:59  2    [已~签~到]
+2021/02/27_00:00:02  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 [奖励 5, type=4; 奖励 1, type=4; ]
+已签到 7 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613750400;signed=1;currentDay=2
+signTime=1613841274;signed=2;currentDay=2
+signTime=1613927347;signed=2;currentDay=2
+signTime=1614013702;signed=2;currentDay=2
+signTime=1614100432;signed=2;currentDay=2
+signTime=1614186667;signed=2;currentDay=2
+signTime=1614273419;signed=2;currentDay=2
+signTime=1614355204;signed=2;currentDay=1
+signTime=1614441600;signed=1;currentDay=3"
+sign_num="7"
+giftName="奖励 5, type=4; 奖励 1, type=4; "
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/20_00:00:00  2    未签到
+2021/02/21_01:14:34  2    [已~签~到]
+2021/02/22_01:09:07  2    [已~签~到]
+2021/02/23_01:08:22  2    [已~签~到]
+2021/02/24_01:13:52  2    [已~签~到]
+2021/02/25_01:11:07  2    [已~签~到]
+2021/02/26_01:16:59  2    [已~签~到]
+2021/02/27_00:00:04  1    [已~签~到]
+2021/02/28_00:00:00  3    未签到
+当天签到奖励 [奖励 5, type=4; 奖励 1, type=4; ]
+已签到 7 天"
+#王 1309893722-164885 sign_res_end

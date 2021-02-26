@@ -1,0 +1,80 @@
+02/27/21 01:16:46 605058900  1614359806
+RANDOM_num: 35
+removed '/tmp/tmp.rZo3cElo0s'
+02/27/21 01:16:46 791780200  1614359806 检查移动签到
+
+real	0m0.186s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360407	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614360407	LZ_TOKEN_KEY	lztokenpagedd9542910a3e4aa1a0ea82fbc77a4955
+02/27/21 01:16:47 094843500  1614359807
+use wskey
+
+real	0m0.155s
+user	0m0.078s
+sys	0m0.094s
+02/27/21 01:16:47 271446600  1614359807 token: AAFgOSz_ADBJd1iN33EYag6u6FxDs8UMdNSbX9jNXhOFmgiubmhQkDLq_8B0rT-gh0dUmUC0DlA
+
+real	0m0.299s
+user	0m0.094s
+sys	0m0.078s
+02/27/21 01:16:47 594579400  1614359807 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/27/21 01:16:47 619441800  1614359807 移动签到伊利牛奶官方旗舰店
+
+real	0m0.363s
+user	0m0.000s
+sys	0m0.109s
+{
+  "gift": null,
+  "msg": "",
+  "isOk": true,
+  "isSend": null,
+  "key": null
+}
+true
+02/27/21 01:16:48 307257000 1614359808
+02/27/21 01:16:48 326887100 1614359808 签到伊利牛奶官方旗舰店完成
+02/27/21 01:17:24 196378400  1614359844
+true
+首次签到成功. 写入giftName: null
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 [null]
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到伊利牛奶官方旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210227 01:17:29] [ERROR] [0m
+

@@ -1,0 +1,134 @@
+02/27/21 04:04:16 342059000  1614369856
+RANDOM_num: 45
+removed '/tmp/tmp.ahheBrJLkw'
+02/27/21 04:04:16 423233200  1614369856
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210227
+***********************************************
+7天签到 第  天
+当天签到奖励 [20店铺积分]
+***********************************************
+
+肥鹅 签到结果获取失败.
+02/27/21 04:04:16 443930700  1614369856 检查肥鹅签到
+
+real	0m0.170s
+user	0m0.031s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614370456	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614370456	LZ_TOKEN_KEY	lztokenpagea5969a654044436eb87a89bffca35d5e
+02/27/21 04:04:16 719902400  1614369856
+use pt_key
+
+real	0m0.113s
+user	0m0.047s
+sys	0m0.063s
+02/27/21 04:04:16 846764600  1614369856 token: AAFgOVRAADBMg7awm_KQ8OZhKWDmvbzrr4yIACt3whGYWINBmQbt663lv7CYB1xHKxrMWMADO80
+
+real	0m0.257s
+user	0m0.078s
+sys	0m0.047s
+02/27/21 04:04:17 129311900  1614369857 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/27/21 04:04:17 141715000  1614369857 肥鹅签到维他奶官方旗舰店
+
+real	0m0.185s
+user	0m0.016s
+sys	0m0.063s
+{
+  "msg": "当天只允许签到一次",
+  "isOk": false
+}
+"当天只允许签到一次"
+02/27/21 04:04:17 600865500 1614369857
+02/27/21 04:04:17 612897600 1614369857 签到维他奶官方旗舰店完成
+02/27/21 04:05:02 670661500  1614369902
+false
+重复签到. 载入之前签到的giftName: "20店铺积分"
+
+***********************************************
+7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]
+***********************************************
+
+肥鹅签到维他奶官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"10店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"10","activityType":null},"imgUrl":"","giftInfoId":"f224c8a2c0614ab49e0ae2f206f24ae2","dayNum":"1","showType":"0"},{"gift":null,"imgUrl":"","giftInfoId":"8e4c5bf0d1094694ac28a746f427a7cd","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"20店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20","activityType":null},"imgUrl":"","giftInfoId":"25724478d25c44c0ac8bf27959faa11e","dayNum":"3","showType":"0"},{"gift":null,"imgUrl":"","giftInfoId":"74a7c163d99049f1953945ac2964d868","dayNum":"4","showType":"0"},{"gift":null,"imgUrl":"","giftInfoId":"cc9753580bee4874b67f2b8755091a34","dayNum":"5","showType":"0"},{"gift":null,"imgUrl":"","giftInfoId":"55cabbbf242245149903eddf88c30dea","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"100店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"100","activityType":null},"imgUrl":"","giftInfoId":"51237e79018740cb9826b51ce35af1d1","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":3,"actRule":"1、活动时间：2021-02-02 15:46 - 2021-02-28 23:59；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送10店铺积分；
+6、第3天签到，有机会赠送20店铺积分；
+7、第7天签到，有机会赠送100店铺积分；
+8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":0,"isSign":"y"}
+
+#店铺名称
+vendername="维他奶官方旗舰店"
+#店铺激活码
+actId="35d14c0f97194095934fbde1271ff651"
+#店铺id
+venderId="10353060"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao"
+
+startTime=1612251960
+endTime=1614527940
+# 活动时间：2021-02-02 15:46 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：20店铺积分
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：100店铺积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

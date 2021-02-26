@@ -1,0 +1,151 @@
+02/27/21 02:04:13 733873200  1614362653
+RANDOM_num: 40
+removed '/tmp/tmp.f73Rtxho3G'
+02/27/21 02:04:13 860623300  1614362653 检查王签到
+
+real	0m0.187s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614363254	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614363254	LZ_TOKEN_KEY	lztokenpage0435d8318ae649eeb7849f88e516ee15
+02/27/21 02:04:14 202323100  1614362654
+use pt_key
+
+real	0m0.169s
+user	0m0.109s
+sys	0m0.078s
+02/27/21 02:04:14 403401000  1614362654 token: AAFgOTgeADBaglEjCHRZPjcddiC1yLr1te10suD1rFmWcWiVBcp2RIJfk6cWfzycv73ijhbhKso
+
+real	0m0.355s
+user	0m0.109s
+sys	0m0.063s
+02/27/21 02:04:14 780402200  1614362654 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/27/21 02:04:14 799781200  1614362654 王签到维他奶官方旗舰店
+
+real	0m0.395s
+user	0m0.000s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "RIHPLt",
+    "giftLogId": "8b7e0d5071154e1ab923b3736006f21f",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "20",
+      "giftType": "9",
+      "giftName": "20店铺积分",
+      "giftNum": "20",
+      "giftTotal": "1000",
+      "giftResidue": null,
+      "priceInfo": "0",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+02/27/21 02:04:15 652102000 1614362655
+02/27/21 02:04:15 686108700 1614362655 签到维他奶官方旗舰店完成
+02/27/21 02:04:55 827340100  1614362695
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "20店铺积分"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["20店铺积分"]
+***********************************************
+
+王签到维他奶官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="维他奶官方旗舰店"
+#店铺激活码
+actId="35d14c0f97194095934fbde1271ff651"
+#店铺id
+venderId="10353060"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao"
+
+startTime=1612251960
+endTime=1614527940
+# 活动时间：2021-02-02 15:46 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：20店铺积分
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：100店铺积分
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210226"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["20店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["20店铺积分"]"
+#王 1309893722-164885 sign_res_end

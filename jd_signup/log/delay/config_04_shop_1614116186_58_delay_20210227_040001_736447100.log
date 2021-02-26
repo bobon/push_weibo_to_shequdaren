@@ -1,0 +1,106 @@
+02/27/21 04:03:11 229334000  1614369791
+RANDOM_num: 25
+removed '/tmp/tmp.4beMfuMTJf'
+02/27/21 04:03:11 310713400  1614369791
+移动 今天已经签到过. 签到结果: ok  giftDate: 20210227
+***********************************************
+
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [10积分]
+连续签到 4 天
+签到总天数 4
+***********************************************
+
+actId=93755d5bd24c4cb39ed67cec431e208f
+venderId=36049
+startTime=1609084800000
+endTime=1640966399000
+# 短链接
+suo_url="https://3.cn/1-00HZBUW"
+actTimeStr="2020-12-28 00:00 至 2021-12-31 23:59"
+#店铺名称
+vendername="拉比官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=93755d5bd24c4cb39ed67cec431e208f&venderId=36049&adsource=tg_xuanFuTuBiao
+# 活动时间：2020.12.28 00:00:00 - 2021.12.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：50积分 50积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 4"
+#移动 jd_OeTNobRVGiNZ sign_res_end

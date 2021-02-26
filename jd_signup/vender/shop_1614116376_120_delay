@@ -14,69 +14,77 @@ url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e640eb7a82c34fb
 actRule="
 连续签到7天：20积分 20积分
 "
-#王 1309893722-164885 sign_res
+#赵 122294312-396444 sign_res
 sign_res="
 signTime=1614211200;signed=2
-signTime=1614297600;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""5积分""
 giftRes="ok"
-giftDate="20210226"
+giftDate="20210227"
 sign_res_info="
 2021/02/25_08:00:00  [已~签~到]      
 2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
 当天签到奖励 ["5积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 3 天
+签到总天数 3"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1614211200;signed=2
-signTime=1614297600;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""5积分""
 giftRes="ok"
-giftDate="20210226"
+giftDate="20210227"
 sign_res_info="
 2021/02/25_08:00:00  [已~签~到]      
 2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
 当天签到奖励 ["5积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 signTime=1614124800;signed=2
 signTime=1614211200;signed=2
-signTime=1614297600;signed=2"
-sign_num="3"
-sign_total_num="3"
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="4"
+sign_total_num="4"
 giftName=""5积分""
 giftRes="ok"
-giftDate="20210226"
+giftDate="20210227"
 sign_res_info="
 2021/02/24_08:00:00  [已~签~到]      
 2021/02/25_08:00:00  [已~签~到]      
 2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
 当天签到奖励 ["5积分"]
-连续签到 3 天
-签到总天数 3"
+连续签到 4 天
+签到总天数 4"
 #移动 jd_OeTNobRVGiNZ sign_res_end
-#赵 122294312-396444 sign_res
-sign_res="
-signTime=1614211200;signed=2
-signTime=1614297600;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName=""5积分""
-giftRes="ok"
-giftDate="20210226"
-sign_res_info="
-2021/02/25_08:00:00  [已~签~到]      
-2021/02/26_08:00:00  [已~签~到]      
-当天签到奖励 ["5积分"]
-连续签到 2 天
-签到总天数 2"
-#赵 122294312-396444 sign_res_end
