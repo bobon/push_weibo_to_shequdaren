@@ -1,0 +1,47 @@
+02/28/21 00:30:01 987091700  1614443401
+RANDOM_num: 40
+removed '/tmp/tmp.0hj5Gc55lO'
+02/28/21 00:30:02 682404800  1614443402
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210228
+***********************************************
+7天签到 第  天
+当天签到奖励 [1京豆]
+***********************************************
+
+肥鹅 签到结果获取失败.
+02/28/21 00:30:02 903968700  1614443402 检查肥鹅签到
+
+real	0m0.738s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614444004	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614444004	LZ_TOKEN_KEY	lztokenpage004cbec9050f4cc0b31c6e9ff25c0b18
+02/28/21 00:30:04 648930100  1614443404
+use pt_key
+
+real	0m1.309s
+user	0m0.078s
+sys	0m0.125s
+02/28/21 00:30:06 454131400  1614443406 token: AAFgOnONADAsCxAsoezRVKNLxs60-qqq0UwTG2XbMzhqfuVcQef6DAO5HEa0xdUPoL9yySvAkys
+
+real	0m1.710s
+user	0m0.078s
+sys	0m0.125s
+02/28/21 00:30:08 462396100  1614443408 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/28/21 00:30:08 881579500  1614443408 肥鹅签到滴露旗舰店
+
+real	0m1.061s
+user	0m0.063s
+sys	0m0.047s
+{
+  "msg": "当天只允许签到一次",
+  "isOk": false
+}
+"当天只允许签到一次"
+02/28/21 00:30:13 919396300 1614443413
+02/28/21 00:30:14 205155000 1614443414 签到滴露旗舰店完成
+02/28/21 00:32:15 006545600  1614443535
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {295:<--} ERROR CODE: 6[0m [0;31;3m[20210228 00:32:15] [ERROR] [0m
+

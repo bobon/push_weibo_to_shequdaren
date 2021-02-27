@@ -1,0 +1,88 @@
+02/28/21 02:01:35 268384800  1614448895
+RANDOM_num: 40
+removed '/tmp/tmp.wHMqJQpBqD'
+02/28/21 02:01:35 379459600  1614448895
+王 今天已经签到过. 签到结果: ok  giftDate: 20210228
+***********************************************
+
+
+当天签到奖励 [10积分]
+连续签到  天
+签到总天数 
+***********************************************
+
+王 签到结果获取失败.
+02/28/21 02:01:35 411581900  1614448895 检查王签到
+
+real	0m0.203s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614449495	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614449495	LZ_TOKEN_KEY	lztokenpage6f23fa09a2cc419d84fc00fd804dcb28
+02/28/21 02:01:35 751135700  1614448895
+use pt_key
+
+real	0m0.124s
+user	0m0.047s
+sys	0m0.078s
+02/28/21 02:01:35 891167500  1614448895 token: AAFgOoj_ADBLGEC5gFBlhd9tW6YHlA5NE_rb12J4ma2s3OzvJrUH3QEtZNoegcJ2I2f5DzKkscc
+
+real	0m0.248s
+user	0m0.047s
+sys	0m0.094s
+02/28/21 02:01:36 157119500  1614448896 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/28/21 02:01:36 177866500  1614448896 王签到iQunix京东自营旗舰店
+
+real	0m0.195s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "当天只能签到一次",
+  "isOk": false
+}
+"当天只能签到一次"
+02/28/21 02:01:36 705550200 1614448896
+02/28/21 02:01:36 720494600 1614448896 签到iQunix京东自营旗舰店完成
+02/28/21 02:02:16 861390200  1614448936
+false
+重复签到. 载入之前签到的giftName: "10积分"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["10积分"]
+连续签到  天
+签到总天数 
+***********************************************
+
+王签到iQunix京东自营旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 02:02:19] [ERROR] [0m
+

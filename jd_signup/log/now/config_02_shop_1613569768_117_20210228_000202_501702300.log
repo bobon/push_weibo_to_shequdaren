@@ -1,0 +1,746 @@
+02/28/21 00:02:08 621486200  1614441728
+RANDOM_num: 20
+removed '/tmp/tmp.9SHurXjJjc'
+02/28/21 00:02:10 709323500  1614441730 检查王签到
+
+real	0m1.789s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:02:15 343660800  1614441735
+use pt_key
+
+real	0m2.101s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:02:18 717404600  1614441738 token: AAFgOm0JADAxdGgmsP_vkIkk0rkFsVwCyuuKLqVihdr3hGBecvbOdqMinCFt2ErKgRQioZ-fTOQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.929s
+user	0m0.063s
+sys	0m0.141s
+02/28/21 00:02:21 405419100  1614441741 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:02:22 050205100  1614441742 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.604s
+user	0m0.000s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:02:29 406460700 1614441749
+
+real	0m1.392s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.737s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:02:35 184995200  1614441755
+use pt_key
+
+real	0m2.033s
+user	0m0.109s
+sys	0m0.094s
+02/28/21 00:02:37 604539800  1614441757 token: AAFgOm0cADDVl9HL3mV_EM7wMu4WdXnDiCXDUtk-bzm7QE0Jy3VEkbnVrm-qWW3iRqw5_StmY3w
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.255s
+user	0m0.109s
+sys	0m0.125s
+02/28/21 00:02:40 495088100  1614441760 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:02:41 009003400  1614441761 王签到英氏YeeHoO奥特莱斯店
+
+real	0m2.363s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:02:48 820599800 1614441768
+
+real	0m1.717s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.547s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:02:53 637236000  1614441773
+use pt_key
+
+real	0m1.899s
+user	0m0.141s
+sys	0m0.031s
+02/28/21 00:02:56 192114500  1614441776 token: AAFgOm0vADBvAcGm_1qvBeqa2Ow9QFdzwx8GWogdl7uEzVXLPcmx-yctuuyqSH4RKLnlWu8xjSE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.864s
+user	0m0.109s
+sys	0m0.078s
+02/28/21 00:02:58 671551300  1614441778 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:02:59 093752500  1614441779 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.737s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:03:05 656038700 1614441785
+
+real	0m1.559s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.738s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:03:09 876416700  1614441789
+use pt_key
+
+real	0m1.271s
+user	0m0.094s
+sys	0m0.125s
+02/28/21 00:03:11 839387800  1614441791 token: AAFgOm0-ADCzw9pyFMoVR7nHzg02j0Yce5CjXNikIsDnS9M8Aqoj7wmLsGcQUTUGHpRTDd3LTlw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.660s
+user	0m0.078s
+sys	0m0.125s
+02/28/21 00:03:13 873037500  1614441793 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:03:14 188145200  1614441794 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.312s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:03:19 636554700 1614441799
+
+real	0m1.738s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.516s
+user	0m0.016s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+02/28/21 00:03:24 663897600  1614441804
+use pt_key
+
+real	0m1.126s
+user	0m0.109s
+sys	0m0.125s
+02/28/21 00:03:27 458193900  1614441807 token: AAFgOm1NADApM-KyQ8NGWzdAPvSkl_iuej0a6O9IQ4XE0n2IbIUIHYYNU5pquDlXDUBE4rrKm14
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.855s
+user	0m0.125s
+sys	0m0.063s
+02/28/21 00:03:30 933615700  1614441810 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:03:31 379988700  1614441811 王签到英氏YeeHoO奥特莱斯店
+
+real	0m2.101s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:03:39 869559600 1614441819
+
+real	0m2.507s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.461s
+user	0m0.000s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:03:46 852456100  1614441826
+use pt_key
+
+real	0m2.409s
+user	0m0.047s
+sys	0m0.156s
+02/28/21 00:03:49 835524100  1614441829 token: AAFgOm1kADCnZqRsUIogOvPe6aCa6_plAEK9r0yCdKTDSDA5Zm6iujuCURBym2LNM6fLM4i8__g
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.125s
+user	0m0.109s
+sys	0m0.125s
+02/28/21 00:03:52 494239200  1614441832 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:03:52 963550700  1614441832 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.640s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:03:59 511900200 1614441839
+
+real	0m3.016s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m3.302s
+user	0m0.063s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 00:04:08 259566000  1614441848
+use pt_key
+
+real	0m1.390s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:04:10 131160300  1614441850 token: AAFgOm15ADC9xKIBGKsCMp6P7HHPUBWQkRazUKl_t7I8qMLXPVYp46gUagWcmshiHvILweOdHVA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.157s
+user	0m0.078s
+sys	0m0.109s
+02/28/21 00:04:12 979487100  1614441852 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:04:13 296336700  1614441853 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.511s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:04:20 594290900 1614441860
+
+real	0m2.892s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.401s
+user	0m0.031s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+02/28/21 00:04:26 331994700  1614441866
+use pt_key
+
+real	0m1.499s
+user	0m0.094s
+sys	0m0.094s
+02/28/21 00:04:28 408192700  1614441868 token: AAFgOm2LADASdUaYO2p5D64a-3D638NPU5e0rrvX6QyXfKvSVcKed5lYf1NIHtjHfDNDiJAy0GY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.298s
+user	0m0.094s
+sys	0m0.078s
+02/28/21 00:04:31 089977800  1614441871 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:04:31 770593300  1614441871 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.354s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:04:40 616494100 1614441880
+
+real	0m2.539s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.298s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:04:45 096663000  1614441885
+use pt_key
+
+real	0m1.129s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 00:04:46 618019200  1614441886 token: AAFgOm2eADBkgGCNQpVlaGaNHt5A6oucuSFz7FAcdqjPs4z8QQjIxRofuHbHzlBYoz1ad-EB310
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.573s
+user	0m0.156s
+sys	0m0.109s
+02/28/21 00:04:48 522117900  1614441888 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:04:48 934851700  1614441888 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.217s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:04:53 695552800 1614441893
+
+real	0m2.565s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.015s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:04:58 074759600  1614441898
+use pt_key
+
+real	0m1.166s
+user	0m0.078s
+sys	0m0.141s
+02/28/21 00:04:59 734421700  1614441899 token: AAFgOm2rADCbbJ_wrUuHGLNwqfm_MQekrcaJJoSA-kCadXRNwOiiXmRagEy44gwit0wKyZR_ecs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.657s
+user	0m0.109s
+sys	0m0.047s
+02/28/21 00:05:01 677183100  1614441901 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:05:01 956527900  1614441901 王签到英氏YeeHoO奥特莱斯店
+
+real	0m0.936s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:05:08 076389000 1614441908
+
+real	0m2.595s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m0.957s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:05:12 434183700  1614441912
+use pt_key
+
+real	0m1.379s
+user	0m0.094s
+sys	0m0.141s
+02/28/21 00:05:14 211859700  1614441914 token: AAFgOm25ADAQGIImvixUqhnUgBhGPpzsIOq6mbB3Kp_Xu2pJJWowWTslMu3mAoSl_TV_Q60yG3Q
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.153s
+user	0m0.094s
+sys	0m0.125s
+02/28/21 00:05:15 577633800  1614441915 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:05:15 866080700  1614441915 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.201s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:05:21 077702400 1614441921
+
+real	0m2.730s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.745s
+user	0m0.000s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:05:25 076301800  1614441925
+use pt_key
+
+real	0m0.879s
+user	0m0.125s
+sys	0m0.125s
+02/28/21 00:05:26 219516300  1614441926 token: AAFgOm3FADCUB00MPHzZNMwQhQo52NTte-3cxdTj87Ys8lqljCqlFlbyhKJ8WNMzM0Xf2y8yv5s
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.431s
+user	0m0.063s
+sys	0m0.156s
+02/28/21 00:05:27 951376200  1614441927 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:05:28 379548000  1614441928 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.210s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:05:32 747778200 1614441932
+
+real	0m4.057s
+user	0m0.016s
+sys	0m0.047s
+
+real	0m0.915s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:05:38 308368900  1614441938
+use pt_key
+
+real	0m1.167s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:05:39 631094800  1614441939 token: AAFgOm3TADANj2YTQ_2DhC4ZVXty3vz4dnBxR0O8GN3538J47Hhxn4g_ZqxrUAFBa-Ah6WcW3YE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.154s
+user	0m0.156s
+sys	0m0.047s
+02/28/21 00:05:41 219865900  1614441941 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:05:41 596309300  1614441941 王签到英氏YeeHoO奥特莱斯店
+
+real	0m0.845s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:05:45 662093400 1614441945
+
+real	0m3.305s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m0.667s
+user	0m0.063s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:05:50 278166500  1614441950
+use pt_key
+
+real	0m1.064s
+user	0m0.109s
+sys	0m0.125s
+02/28/21 00:05:51 552771800  1614441951 token: AAFgOm3fADBXGVJrNDgXcwXC7PQzhtrh8ywShFx0b2WwHR68roEEoedW7P9Dvji3T1yQ55vxObU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.272s
+user	0m0.141s
+sys	0m0.094s
+02/28/21 00:05:53 149032000  1614441953 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:05:53 587162600  1614441953 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.002s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:05:56 682271400 1614441956
+
+real	0m3.517s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.735s
+user	0m0.063s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:06:01 368748000  1614441961
+use pt_key
+
+real	0m1.001s
+user	0m0.078s
+sys	0m0.141s
+02/28/21 00:06:02 623414000  1614441962 token: AAFgOm3qADDOFQePy41oaA-fM8iJ6gqpG8aH-s9uG7CLe-mdYx41tugLt5PEooULqmIm6W4fD5o
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.401s
+user	0m0.125s
+sys	0m0.109s
+02/28/21 00:06:05 350689200  1614441965 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:06:05 701011200  1614441965 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.148s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:06:09 491854200 1614441969
+
+real	0m3.805s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.786s
+user	0m0.063s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:06:14 599927400  1614441974
+use pt_key
+
+real	0m0.848s
+user	0m0.109s
+sys	0m0.094s
+02/28/21 00:06:15 675847800  1614441975 token: AAFgOm33ADDk8da_iLlcUrvvlpezT16QSlsQZCXlxs8J8jXwk_Yh5gAN--NySReWRxkWLPoQgbI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.175s
+user	0m0.094s
+sys	0m0.125s
+02/28/21 00:06:17 400003600  1614441977 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:06:17 744416500  1614441977 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.036s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:06:21 110717300 1614441981
+
+real	0m3.779s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.806s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:06:26 035313300  1614441986
+use pt_key
+
+real	0m0.744s
+user	0m0.078s
+sys	0m0.109s
+02/28/21 00:06:26 929819200  1614441986 token: AAFgOm4CADACyNwvsVnvIy_-GoOYYjmy1z0bUQKAiPOd5WnQSq9Y_He-FdCTO6Iu19WGmFGnXws
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.948s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:06:28 131295500  1614441988 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:06:28 311325600  1614441988 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.256s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:06:32 035395300 1614441992
+
+real	0m4.054s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m0.921s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:06:37 713974500  1614441997
+use pt_key
+
+real	0m0.799s
+user	0m0.125s
+sys	0m0.094s
+02/28/21 00:06:38 689544100  1614441998 token: AAFgOm4OADB9e3bLoGBAJfqaowpB_86WQPbtiwfR0-zUvN_HHN3ryOTJP3AHohiuq7a1neXcdfM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m1.009s
+user	0m0.094s
+sys	0m0.141s
+02/28/21 00:06:39 875668800  1614441999 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:06:40 098060000  1614442000 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.001s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:06:43 687530800 1614442003
+
+real	0m4.329s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.825s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:06:49 618054200  1614442009
+use pt_key
+
+real	0m0.827s
+user	0m0.141s
+sys	0m0.141s
+02/28/21 00:06:50 681893700  1614442010 token: AAFgOm4aADDZETEX1LySTRu1_Job_S0Y2fvGIW2a_mh6NwtQMTlOb0BMh6chAfIvMgHQQ2MpnZA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.786s
+user	0m0.125s
+sys	0m0.141s
+02/28/21 00:06:51 667757800  1614442011 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:06:51 794537400  1614442011 王签到英氏YeeHoO奥特莱斯店
+
+real	0m0.754s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:06:54 518291800 1614442014
+
+real	0m4.437s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.042s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:07:00 586624300  1614442020
+use pt_key
+
+real	0m1.037s
+user	0m0.125s
+sys	0m0.078s
+02/28/21 00:07:01 789411300  1614442021 token: AAFgOm4lADCLEEFWyBAS_535lTJ-MWeMm1MFQrxoSdC4URBjxAyDUwtuK6qvkBIFY6LDJp1mtLo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.857s
+user	0m0.094s
+sys	0m0.125s
+02/28/21 00:07:02 756134900  1614442022 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:07:03 640713900  1614442023 王签到英氏YeeHoO奥特莱斯店
+
+real	0m0.872s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:07:06 442184100 1614442026
+
+real	0m4.227s
+user	0m0.000s
+sys	0m0.047s
+02/28/21 00:08:10 798576400  1614442090
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569768_117
+
+王签到英氏YeeHoO奥特莱斯店查看结果, 活动规则
+
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="5ff5ff7000d444a0893a41c1f678e4bf"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1612157940
+endTime=1614749940
+# 活动时间：2021-02-01 13:39 - 2021-03-03 13:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="5"
+giftName=""9京豆""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["9京豆"]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

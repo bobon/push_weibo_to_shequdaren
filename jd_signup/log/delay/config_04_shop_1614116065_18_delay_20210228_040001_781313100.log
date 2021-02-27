@@ -1,0 +1,98 @@
+02/28/21 04:02:38 624862900  1614456158
+RANDOM_num: 10
+removed '/tmp/tmp.GiiBxg2LlX'
+02/28/21 04:02:38 799042800  1614456158 检查移动签到
+
+real	0m1.276s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456760	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456760	LZ_TOKEN_KEY	lztokenpage8b28109e0f3d4b63ab7ccb7598f69249
+02/28/21 04:02:40 306050800  1614456160
+use wskey
+
+real	0m0.250s
+user	0m0.125s
+sys	0m0.109s
+02/28/21 04:02:40 609938900  1614456160 token: AAFgOqVgADD188F3byHXZ19LU2Uo8v2zDKZreqQDFMfHRNtl6SF7dnFQfg8Y6NOQt86Yr3omG3c
+
+real	0m0.362s
+user	0m0.094s
+sys	0m0.078s
+02/28/21 04:02:41 003927000  1614456161 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 04:02:41 030112900  1614456161 移动签到歌德老酒行精品旗舰店
+
+real	0m0.413s
+user	0m0.047s
+sys	0m0.078s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "347883947",
+    "giftType": "1",
+    "giftName": "10元优惠券",
+    "giftNum": "10",
+    "giftTotal": "100000",
+    "giftResidue": null,
+    "priceInfo": "10.00",
+    "shortLink": "3.cn/10-14maYT",
+    "orginLink": "http://coupon.m.jd.com/coupons/show.action?key=5a89d8b7412c419db455ee1c2762b3a3&roleId=46631884&to=googut.jd.com",
+    "giftInfoId": "60c531c7942d4a41beef18cc7303e801",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "3.cn/10-14maYT"
+}
+true
+02/28/21 04:02:42 195617100 1614456162
+02/28/21 04:02:42 219278800 1614456162 签到歌德老酒行精品旗舰店完成
+02/28/21 04:02:52 400201500  1614456172
+true
+首次签到成功. 写入giftName: "10元优惠券"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["10元优惠券"]
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到歌德老酒行精品旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 04:02:55] [ERROR] [0m
+

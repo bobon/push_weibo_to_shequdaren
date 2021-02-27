@@ -1,0 +1,693 @@
+02/28/21 00:30:02 903225900  1614443402
+RANDOM_num: 30
+removed '/tmp/tmp.8zZtPTgGuG'
+02/28/21 00:30:03 691062300  1614443403
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210228
+***********************************************
+7天签到 第  天
+当天签到奖励 [null]
+***********************************************
+
+赵 签到结果获取失败.
+02/28/21 00:30:03 898668400  1614443403 检查赵签到
+
+real	0m1.209s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:06 634962100  1614443406
+use pt_key
+
+real	0m1.346s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:08 346362900  1614443408 token: AAFgOnOPADA5ww01BSURfie8DZMpDgBMsTdvuaHOu1ap8PSqbtZuAAyH6uEndNnwDF6cnCzWCL0
+
+real	0m1.126s
+user	0m0.094s
+sys	0m0.094s
+02/28/21 00:30:09 642365900  1614443409 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:10 148622300  1614443410 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.962s
+user	0m0.047s
+sys	0m0.078s
+02/28/21 00:30:13 895822100 1614443413
+
+real	0m0.953s
+user	0m0.000s
+sys	0m0.047s
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+real	0m0.535s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:15 692263400  1614443415
+use pt_key
+
+real	0m0.420s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:16 229362100  1614443416 token: AAFgOnOYADCuii-hIsye0mEZD8_CDtp6bceqSPHs4S_Ys8FRuaCjP14nTR1XQm8lBl3b_sZ1uwA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.423s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:16 701219400  1614443416 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:16 749471500  1614443416 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.171s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:17 547615100 1614443417
+
+real	0m0.512s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.231s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:18 394050900  1614443418
+use pt_key
+
+real	0m0.242s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:18 683843500  1614443418 token: AAFgOnOaADDdPhqJmdFi5aB0eq7FtbCOIIq9eJKrxBjGG-QPJJIqGucw3s8uzH7zOuTS9xqeMNk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.226s
+user	0m0.109s
+sys	0m0.094s
+02/28/21 00:30:18 940960700  1614443418 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:18 975211200  1614443418 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.239s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:19 874266300 1614443419
+
+real	0m0.699s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.202s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:20 860486100  1614443420
+use pt_key
+
+real	0m0.220s
+user	0m0.141s
+sys	0m0.109s
+02/28/21 00:30:21 159385700  1614443421 token: AAFgOnOdADBzALoqzjdy4IbckMmhjT7trA0IpMoF4vH-2HK9IjiSEvrVqlfmcmQZgz_SHMKZZ-U
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.228s
+user	0m0.125s
+sys	0m0.063s
+02/28/21 00:30:21 413058100  1614443421 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:21 452436700  1614443421 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.195s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:22 264661200 1614443422
+
+real	0m0.894s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.227s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:23 490705000  1614443423
+use pt_key
+
+real	0m0.252s
+user	0m0.109s
+sys	0m0.141s
+02/28/21 00:30:23 800991200  1614443423 token: AAFgOnOfADAoSfGWPhRvKVC-COQ0KHeZkLYZqGxVITEOuq47jPpjrpfNjuYGs1orEogle0VrjHw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.240s
+user	0m0.219s
+sys	0m0.078s
+02/28/21 00:30:24 141636800  1614443424 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:24 179171800  1614443424 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.195s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:24 948234100 1614443424
+
+real	0m1.095s
+user	0m0.000s
+sys	0m0.047s
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+real	0m0.146s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:26 288512400  1614443426
+use pt_key
+
+real	0m0.239s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:30:26 585510200  1614443426 token: AAFgOnOiADCbPBkJAOeLoMFctCQ_Be7v95haOt6_eKDWVQh8JgMCTgbyH8i6YwFehMDnQeR7jR8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.246s
+user	0m0.125s
+sys	0m0.125s
+02/28/21 00:30:26 865529500  1614443426 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:26 910866000  1614443426 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.249s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:27 648073000 1614443427
+
+real	0m1.364s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.179s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:29 265073400  1614443429
+use pt_key
+
+real	0m0.214s
+user	0m0.125s
+sys	0m0.109s
+02/28/21 00:30:29 506291600  1614443429 token: AAFgOnOlADBaFdMW2USj9ff868EnefbfJ6sKyyB0zXyqCl-JZjvj6ro2-vNh_L_J4t2jI42vJBM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.198s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:29 741938700  1614443429 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:29 765742800  1614443429 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.149s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:30 475681900 1614443430
+
+real	0m1.502s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.179s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:32 214238200  1614443432
+use pt_key
+
+real	0m0.164s
+user	0m0.125s
+sys	0m0.078s
+02/28/21 00:30:32 399784500  1614443432 token: AAFgOnOoADDKyyJbo36eRg83tTtmCkcriON95IjyWQAIKxzbCCHL1ItZ3x793rPl9X4FsGFxxcU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.219s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:30:32 643583200  1614443432 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:32 665002100  1614443432 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.147s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:33 849975800 1614443433
+
+real	0m1.752s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.166s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:35 855235900  1614443435
+use pt_key
+
+real	0m0.160s
+user	0m0.094s
+sys	0m0.094s
+02/28/21 00:30:36 036912700  1614443436 token: AAFgOnOsADDRexHZFC1TFCdSH9UiTZzIY4sfcywQZUQTzAlvuE-QtnCTGI6fjV2jcYbT8wEaWBU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.190s
+user	0m0.094s
+sys	0m0.109s
+02/28/21 00:30:36 248359500  1614443436 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:36 272589700  1614443436 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.151s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:36 905039400 1614443436
+
+real	0m1.956s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.132s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:39 065362400  1614443439
+use pt_key
+
+real	0m0.211s
+user	0m0.094s
+sys	0m0.094s
+02/28/21 00:30:39 293028400  1614443439 token: AAFgOnOvADAuUotj2En64FBaBmdjSiJVFQOSgpc2MpxkJIJj0KTDJd83N2A8AUNOkmcfcNxvCk8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.128s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 00:30:39 452716800  1614443439 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:39 481123400  1614443439 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.136s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:40 129241000 1614443440
+
+real	0m2.117s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.149s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:42 474666300  1614443442
+use pt_key
+
+real	0m0.162s
+user	0m0.094s
+sys	0m0.078s
+02/28/21 00:30:42 664265500  1614443442 token: AAFgOnOyADAEJ2IYRM2YSDKwwT8Wwswvu37NELgJ7MAQ2PzJomjrQut8HfMo6J3b3k9O72N1ET8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.131s
+user	0m0.078s
+sys	0m0.094s
+02/28/21 00:30:42 817942200  1614443442 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:42 836487600  1614443442 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.127s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:43 376250500 1614443443
+
+real	0m2.250s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.227s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:45 908757500  1614443445
+use pt_key
+
+real	0m0.162s
+user	0m0.094s
+sys	0m0.094s
+02/28/21 00:30:46 090493700  1614443446 token: AAFgOnO2ADD_WcN_MLuzJy11afW0V-d63AdE4QYuL3oIuSHUe6OScxmuEV4473RWCPPmar3PqsY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.172s
+user	0m0.078s
+sys	0m0.109s
+02/28/21 00:30:46 279185200  1614443446 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:46 294288300  1614443446 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.108s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:46 750345900 1614443446
+
+real	0m2.474s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.123s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:49 392170900  1614443449
+use pt_key
+
+real	0m0.138s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 00:30:49 555558200  1614443449 token: AAFgOnO5ADCuKfl4ekQFJPXpNNkvXVq1vG7fjr1vONC7piSeRQfeYS2gq0ToB48gy9_pnEff9m8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.127s
+user	0m0.078s
+sys	0m0.078s
+02/28/21 00:30:49 699243700  1614443449 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:49 714530000  1614443449 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.106s
+user	0m0.047s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:50 217967000 1614443450
+
+real	0m2.655s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.137s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:53 073851900  1614443453
+use pt_key
+
+real	0m0.158s
+user	0m0.078s
+sys	0m0.094s
+02/28/21 00:30:53 254255400  1614443453 token: AAFgOnO9ADBshphJUlKzX4_ybhk3i1a8ciI84Efoe7gSOgYpd88Z800-BUp60EsFGufnG6RkApU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.119s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 00:30:53 390416400  1614443453 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:53 408436500  1614443453 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.137s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:53 840779300 1614443453
+
+real	0m2.840s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.133s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:30:56 856467100  1614443456
+use pt_key
+
+real	0m0.134s
+user	0m0.078s
+sys	0m0.031s
+02/28/21 00:30:57 007092400  1614443457 token: AAFgOnPBADCNyotSQLvhpwWcenVKoo8_td3mGXg2sULpue_ThbuPDT0DHOczRgcjXQOucbZyQ_k
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.160s
+user	0m0.094s
+sys	0m0.078s
+02/28/21 00:30:57 183792000  1614443457 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:30:57 198040300  1614443457 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.108s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:30:57 629774200 1614443457
+
+real	0m3.044s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.112s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 00:31:00 835087900  1614443460
+use pt_key
+
+real	0m0.159s
+user	0m0.078s
+sys	0m0.094s
+02/28/21 00:31:01 016489600  1614443461 token: AAFgOnPFADA0e-ak_pHGm4FFXB74TLN7hV4P14BuePMIhjZIMX4KvalvgxzJ63nKXdlgglEvhKE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.203s
+user	0m0.109s
+sys	0m0.094s
+02/28/21 00:31:01 247493400  1614443461 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:31:01 301366900  1614443461 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.186s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:31:01 918802200 1614443461
+
+real	0m3.260s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.132s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 00:31:05 360448000  1614443465
+use pt_key
+
+real	0m0.133s
+user	0m0.063s
+sys	0m0.094s
+02/28/21 00:31:05 510456100  1614443465 token: AAFgOnPJADB-mYLgk8G4SjTAw9yxEzEfy0Cj7HGaSXVq6uKLnEf4HNpajwp7H4pypmFwI8tVqaQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.148s
+user	0m0.094s
+sys	0m0.078s
+02/28/21 00:31:05 682319500  1614443465 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:31:05 699665000  1614443465 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.178s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:31:06 196302000 1614443466
+
+real	0m3.434s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.120s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:31:09 792427500  1614443469
+use pt_key
+
+real	0m0.140s
+user	0m0.078s
+sys	0m0.078s
+02/28/21 00:31:09 949141900  1614443469 token: AAFgOnPNADBEk8ST6Fqh9UuUuOong-HL25yko54_cRBYezHus1yMFEPS5B1f9pEYBLa9PKY9Gw0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.183s
+user	0m0.141s
+sys	0m0.047s
+02/28/21 00:31:10 167382700  1614443470 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:31:10 199159700  1614443470 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.121s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:31:10 604346900 1614443470
+
+real	0m3.669s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.134s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+02/28/21 00:31:14 458632800  1614443474
+use pt_key
+
+real	0m0.200s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:31:14 674339200  1614443474 token: AAFgOnPSADDPjwZpVBOcS9enE4h9UJFqm1lREH1uV2jUJdyi2MhRfL6SXKW7qy0Zp2SSVa95sCo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.123s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 00:31:14 817646200  1614443474 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:31:14 837871200  1614443474 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.124s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:31:15 341118000 1614443475
+
+real	0m3.838s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.120s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 00:31:19 346581400  1614443479
+use pt_key
+
+real	0m0.141s
+user	0m0.078s
+sys	0m0.078s
+02/28/21 00:31:19 504569300  1614443479 token: AAFgOnPXADBuE6QtkcFBPBImvcWnyWmaJcZTbeES0n36SJPaxLV4oVDi3Jpx8R_uYZKe4i5aBBg
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.128s
+user	0m0.078s
+sys	0m0.047s
+02/28/21 00:31:19 658194800  1614443479 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 00:31:19 674078400  1614443479 赵签到海豚传媒自营官方旗舰店
+
+real	0m0.109s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 00:31:20 136893500 1614443480
+
+real	0m4.033s
+user	0m0.000s
+sys	0m0.016s
+02/28/21 00:32:54 218974700  1614443574
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {295:<--} ERROR CODE: 6[0m [0;31;3m[20210228 00:32:54] [ERROR] [0m
+

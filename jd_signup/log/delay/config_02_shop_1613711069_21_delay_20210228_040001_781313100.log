@@ -1,0 +1,98 @@
+02/28/21 04:02:26 210975700  1614456146
+RANDOM_num: 25
+removed '/tmp/tmp.I7LdRYVUih'
+02/28/21 04:02:26 335263500  1614456146 检查王签到
+
+real	0m0.269s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456746	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456746	LZ_TOKEN_KEY	lztokenpage6a1b12f7f3e0403c967d34b5c318d2e4
+02/28/21 04:02:26 771499300  1614456146
+use pt_key
+
+real	0m0.264s
+user	0m0.141s
+sys	0m0.094s
+02/28/21 04:02:27 075002900  1614456147 token: AAFgOqVTADBPmeXlGjnxAsBkAAcdG0ym63pNyuMj0lrXeoOTDk4XLz0DdtkV8orP7vXLXObKumc
+
+real	0m0.376s
+user	0m0.109s
+sys	0m0.156s
+02/28/21 04:02:27 483068800  1614456147 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/28/21 04:02:27 517067600  1614456147 王签到6IXTY8IGHT旗舰店
+
+real	0m0.452s
+user	0m0.063s
+sys	0m0.047s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "346820879",
+    "giftType": "1",
+    "giftName": "80元优惠券",
+    "giftNum": "80",
+    "giftTotal": "1000",
+    "giftResidue": null,
+    "priceInfo": "80.00",
+    "shortLink": "3.cn/1-00VNw32",
+    "orginLink": "http://coupon.m.jd.com/coupons/show.action?key=b048b979613745bd9b5c17d2d9917a07&roleId=45982849&to=mall.jd.com/index-10145872.html",
+    "giftInfoId": "6015aa77f61e430d8f882d8993aaa0c8",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "3.cn/1-00VNw32"
+}
+true
+02/28/21 04:02:28 598065100 1614456148
+02/28/21 04:02:28 668087200 1614456148 签到6IXTY8IGHT旗舰店完成
+02/28/21 04:02:53 919193200  1614456173
+true
+首次签到成功. 写入giftName: "80元优惠券"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["80元优惠券"]
+连续签到  天
+签到总天数 
+***********************************************
+
+王签到6IXTY8IGHT旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 04:02:57] [ERROR] [0m
+

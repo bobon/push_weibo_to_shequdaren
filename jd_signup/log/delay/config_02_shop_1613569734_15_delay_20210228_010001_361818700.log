@@ -1,0 +1,98 @@
+02/28/21 01:11:40 969854200  1614445900
+RANDOM_num: 45
+removed '/tmp/tmp.4aneHofb6d'
+02/28/21 01:11:41 127439100  1614445901 检查王签到
+
+real	0m0.221s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614446501	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614446501	LZ_TOKEN_KEY	lztokenpage2b22d21ef55e478a8691bbfae684779f
+02/28/21 01:11:41 480382700  1614445901
+use pt_key
+
+real	0m0.151s
+user	0m0.063s
+sys	0m0.125s
+02/28/21 01:11:41 649868400  1614445901 token: AAFgOn1NADDC3_SVJm3b7eyuhI_asB9pVLGVxsT0_CDJytlcPX3DrEzJ2LW-UEQMz0lpphpmtcg
+
+real	0m0.365s
+user	0m0.156s
+sys	0m0.125s
+02/28/21 01:11:42 043767000  1614445902 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+02/28/21 01:11:42 070803700  1614445902 王签到果倍爽京东自营旗舰店
+
+real	0m0.368s
+user	0m0.016s
+sys	0m0.078s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "5",
+    "giftType": "9",
+    "giftName": "5积分",
+    "giftNum": "5",
+    "giftTotal": "100000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "af0346cfb3064007a8ccfde9c8d637b1",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "WWudUg"
+}
+true
+02/28/21 01:11:42 882136000 1614445902
+02/28/21 01:11:42 913295000 1614445902 签到果倍爽京东自营旗舰店完成
+02/28/21 01:12:28 344622300  1614445948
+true
+首次签到成功. 写入giftName: "5积分"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["5积分"]
+连续签到  天
+签到总天数 
+***********************************************
+
+王签到果倍爽京东自营旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 01:12:35] [ERROR] [0m
+

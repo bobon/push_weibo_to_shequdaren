@@ -1,0 +1,88 @@
+02/28/21 04:01:57 195573700  1614456117
+RANDOM_num: 45
+removed '/tmp/tmp.mWQMWQE5cS'
+02/28/21 04:01:57 305470100  1614456117
+移动 今天已经签到过. 签到结果: ok  giftDate: 20210228
+***********************************************
+
+
+当天签到奖励 [null]
+连续签到  天
+签到总天数 
+***********************************************
+
+移动 签到结果获取失败.
+02/28/21 04:01:57 324758500  1614456117 检查移动签到
+
+real	0m0.212s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456717	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614456717	LZ_TOKEN_KEY	lztokenpage2111ded250db443a8a5f88f9af18b407
+02/28/21 04:01:57 656440800  1614456117
+use wskey
+
+real	0m0.348s
+user	0m0.141s
+sys	0m0.094s
+02/28/21 04:01:58 052994800  1614456118 token: AAFgOqU1ADB9Hmuawjp-7kv3MRRCWBFBXiomOf8IaPpISSaT1HafDFNvZpr5Ncxp-Ngy-vSKZ1A
+
+real	0m5.353s
+user	0m0.094s
+sys	0m0.125s
+02/28/21 04:02:03 425802300  1614456123 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 04:02:03 445768200  1614456123 移动签到红星京东自营官方旗舰店
+
+real	0m0.289s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "当天只能签到一次",
+  "isOk": false
+}
+"当天只能签到一次"
+02/28/21 04:02:04 171604100 1614456124
+02/28/21 04:02:04 197728900 1614456124 签到红星京东自营官方旗舰店完成
+02/28/21 04:02:49 289807000  1614456169
+false
+重复签到. 载入之前签到的giftName: null
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 [null]
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到红星京东自营官方旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 04:02:51] [ERROR] [0m
+

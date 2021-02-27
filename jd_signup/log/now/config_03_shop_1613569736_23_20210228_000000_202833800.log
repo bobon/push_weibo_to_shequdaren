@@ -1,0 +1,150 @@
+02/28/21 00:00:00 794245500  1614441600
+RANDOM_num: 40
+force to sign
+
+real	0m0.653s
+user	0m0.047s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614442201	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614442201	LZ_TOKEN_KEY	lztokenpagecbd519c3916743b3ae50841249b08a20
+02/28/21 00:00:02 371915800  1614441602
+use pt_key
+
+real	0m0.944s
+user	0m0.109s
+sys	0m0.109s
+02/28/21 00:00:03 505994000  1614441603 token: AAFgOmyDADC29VwYVuUrXr6_Gqa0-dcWIwcRQTcHuTgjALSyDh-d-y4_TDcjShfVF7B8r5bnlZ0
+
+real	0m2.059s
+user	0m0.109s
+sys	0m0.141s
+02/28/21 00:00:05 940143500  1614441605 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/28/21 00:00:06 456735800  1614441606 肥鹅签到滴露旗舰店
+
+real	0m1.432s
+user	0m0.031s
+sys	0m0.125s
+{
+  "msg": "",
+  "signResult": {
+    "key": "FSIVhJ",
+    "giftLogId": "0d3de350fe4f4ebead2bb6081a8339d8",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1146004",
+      "giftType": "6",
+      "giftName": "1京豆",
+      "giftNum": "1",
+      "giftTotal": "5000",
+      "giftResidue": null,
+      "priceInfo": "0.01",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+02/28/21 00:00:15 019295400 1614441615
+02/28/21 00:00:15 430201500 1614441615 签到滴露旗舰店完成
+02/28/21 00:02:17 248752300  1614441737
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "1京豆"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["1京豆"]
+***********************************************
+
+肥鹅签到滴露旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="滴露旗舰店"
+#店铺激活码
+actId="13126645fcb2477fa1090a94cb7f3ca2"
+#店铺id
+venderId="206265"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_xuanFuTuBiao"
+
+startTime=1612407600
+endTime=1614787140
+# 活动时间：2021-02-04 11:00 - 2021-03-03 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：1京豆
+连续签到3天：10元优惠券
+连续签到4天：1京豆
+连续签到5天：20元优惠券
+连续签到6天：1京豆
+连续签到7天：50元优惠券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
