@@ -1,0 +1,45 @@
+# 短链接
+suo_url=""
+venderId=752187
+startTime=1614441600000
+endTime=1615219199000
+activityId=10280470
+token=D3B4EA6B86A268F02BE16188AB4094E9
+#店铺名称
+vendername="得宝中伦专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D3B4EA6B86A268F02BE16188AB4094E9
+# 活动时间：2021.02.28 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到3天：88京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614441600;signed=1;currentDay=1
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3"
+sign_num="0"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210228"
+sign_res_info="
+2021/02/28_00:00:00  1    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+当天签到奖励 []
+已签到 0 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,31 @@
+#店铺名称
+vendername="森永官方旗舰店"
+#店铺激活码
+actId="fe5579637e814f7cbcfb6a06308aa26c"
+#店铺id
+venderId="117307"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=fe5579637e814f7cbcfb6a06308aa26c&venderId=117307&adsource=tg_xuanFuTuBiao"
+
+startTime=1614528000
+endTime=1615219140
+# 活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：10店铺积分
+连续签到3天：10店铺积分
+连续签到4天：15店铺积分
+连续签到5天：15店铺积分
+连续签到6天：20店铺积分
+连续签到7天：30店铺积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName="null"
+giftRes="该活动尚未开始"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

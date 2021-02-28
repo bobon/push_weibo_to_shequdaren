@@ -180,6 +180,20 @@ elif [ "$1" = "flush" ]; then
 	cat log/sign.tmp | sort | uniq > log/shop2.tmp
 	mv -vf log/shop2.tmp log/sign.tmp
 	echo "从 $(cat /home/myid/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
+elif [ "$1" = "flush_from_old" ]; then
+	flush=true
+	echo "重新从 已签到的店铺中 查找新活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
+	if [ -f "log/sign.tmp" ]; then
+		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
+	fi
+	rm -rvf log/sign.tmp
+	
+	grep -r '^venderId=' api_vender vender lzkj_sevenDay_vender/ api_vender_pre/ fq_vender/ | cut -d ':' -f 2 | cut -d '=' -f 2 | sort | uniq > log/all_shop_signed.tmp
+	
+	check_sign log/all_shop_signed.tmp
+	cat log/sign.tmp | sort | uniq > log/shop2.tmp
+	mv -vf log/shop2.tmp log/sign.tmp
+	echo "从 $(cat log/all_shop_signed.tmp | wc -l) 个已签到的店铺中，已发现 $(cat log/sign.tmp | wc -l) 个新活动"
 else
 	unset shop_count; unset page_c
 	key="$1"
@@ -206,3 +220,10 @@ else
 	echo "从 $(cat /home/myid/all_shop.tmp | wc -l) 个店铺中，已发现 $(cat log/sign.tmp | wc -l) 个活动"
 fi
 exit 
+
+
+
+## 
+./search.sh flush_from_old
+./sign_search.sh nosearch
+./sign_search.sh check_pre check_pre | tee log/check_pre.log

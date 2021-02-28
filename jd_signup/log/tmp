@@ -1,140 +1,340 @@
-02/24/21 05:40:38 215406600  1614116438
+02/28/21 20:42:04 477209200  1614516124
 RANDOM_num: now
-removed '/tmp/tmp.SKA5W0S3kN'
-02/24/21 05:40:38 304550000  1614116438 检查jd_OeTNobRVGiNZ签到
-02/24/21 05:40:38 320405700  1614116438 检查签到
+removed '/tmp/tmp.hSadOr5sbl'
+02/28/21 20:42:04 548457100  1614516124 检查移动签到
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516724	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516724	LZ_TOKEN_KEY	lztokenpage3e58fede0b6e43bbbf1bbf3c66c5eec5
+02/28/21 20:42:04 771902900  1614516124
+use wskey
+02/28/21 20:42:04 980975500  1614516124 token: AAFgO4-cADDZbvociHaVe72Aw-HmvQSj4MkRrZY9Hj4Km52NgnXgk3YLnBE5t89QxIJw8kTpbcQ
+02/28/21 20:42:05 255740200  1614516125 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
 
-02/24/21 05:40:38 375320300  1614116438 移动签到supretee男装旗舰店
-{"msg":"用户达到签到上限","code":404130026,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
-02/24/21 05:40:38 737179100 1614116438
-02/24/21 05:40:38 751460500 1614116438 签到supretee男装旗舰店完成
-
-02/24/21 05:40:39 295089400  1614116439
-移动签到supretee男装旗舰店查看结果
-404130026
-签到失败. 写入失败的giftName: 
-
-***********************************************
-2021/02/22_00:00:00  2    未签到
-2021/02/23_00:00:00  2    未签到
-2021/02/24_00:00:00  1    未签到
-2021/02/25_00:00:00  3    未签到
-2021/02/26_00:00:00  3    未签到
-2021/02/27_00:00:00  3    未签到
-2021/02/28_00:00:00  3    未签到
-2021/03/01_00:00:00  3    未签到
-2021/03/02_00:00:00  3    未签到
-2021/03/03_00:00:00  3    未签到
-2021/03/04_00:00:00  3    未签到
-2021/03/05_00:00:00  3    未签到
-2021/03/06_00:00:00  3    未签到
-2021/03/07_00:00:00  3    未签到
-2021/03/08_00:00:00  3    未签到
-2021/03/09_00:00:00  3    未签到
-2021/03/10_00:00:00  3    未签到
-2021/03/11_00:00:00  3    未签到
-2021/03/12_00:00:00  3    未签到
-2021/03/13_00:00:00  3    未签到
-2021/03/14_00:00:00  3    未签到
-2021/03/15_00:00:00  3    未签到
-2021/03/16_00:00:00  3    未签到
-2021/03/17_00:00:00  3    未签到
-2021/03/18_00:00:00  3    未签到
-2021/03/19_00:00:00  3    未签到
-2021/03/20_00:00:00  3    未签到
-2021/03/21_00:00:00  3    未签到
-当天签到奖励 []
-已签到 0 天
-***********************************************
-
-
-
-移动签到supretee男装旗舰店日志
-{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1613923200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614009600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1614096000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614182400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614268800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614355200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614441600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614528000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614614400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614700800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614787200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614873600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614960000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615046400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615132800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615219200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615305600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615392000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615478400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615564800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615651200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615737600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615824000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615910400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615996800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1616083200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1616169600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1616256000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+02/28/21 20:42:05 286666900  1614516125 移动签到森永官方旗舰店
 {
-  "contiSignNum": 0
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
 }
-签到supretee男装旗舰店日志
+02/28/21 20:42:05 712691700 1614516125
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516726	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516726	LZ_TOKEN_KEY	lztokenpage6b9d01ecfd54430996e1e3da994223cf
+02/28/21 20:42:06 128022500  1614516126
+use wskey
+02/28/21 20:42:06 220012700  1614516126 token: AAFgO4-eADDHgpfS_AIczqpa1LitX_7p5crS1-9umIsK9QNZfYj3q-CDNos_lP3xXITdZ9LVL1M
+02/28/21 20:42:06 751860700  1614516126 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
 
-# 短链接
-suo_url=""
-venderId=684347
-startTime=1613923200000
-endTime=1616342399000
-activityId=10273895
-token=FF41E39D80B279E715C51BFEDA0EF628
+02/28/21 20:42:06 778168000  1614516126 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:07 233676300 1614516127
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516727	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516727	LZ_TOKEN_KEY	lztokenpage8df17c8b392d4f7eafc95a1077bcc8f8
+02/28/21 20:42:07 929453100  1614516127
+use wskey
+02/28/21 20:42:08 028333300  1614516128 token: AAFgO4-gADApqBc8RtH5ZnyKYDRDeSwe1lX1tpRanwR-aPh4VmEN5IImev2yfZnliL8hA0uH_Ls
+02/28/21 20:42:08 270451000  1614516128 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:08 280752200  1614516128 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:08 655559600 1614516128
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516729	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516729	LZ_TOKEN_KEY	lztokenpage5cc1b04d3dbb4468a245131d98b9e433
+02/28/21 20:42:09 506631200  1614516129
+use wskey
+02/28/21 20:42:09 655372200  1614516129 token: AAFgO4-hADA8ZOtS_rKXRdq_yMfDHHPik98BvWeNegD85LklaqzpxxMJsP1fvIxFDHyut-CW62I
+02/28/21 20:42:09 940676100  1614516129 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:09 960293000  1614516129 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:10 395077600 1614516130
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516731	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516731	LZ_TOKEN_KEY	lztokenpagec373a9a5a2194f42a2b8d30c41f06c7d
+02/28/21 20:42:11 780241400  1614516131
+use wskey
+02/28/21 20:42:11 942235600  1614516131 token: AAFgO4-jADCNekBAg1em19AfDwIWg1EUOGvCqoqQuhIBGfV-tsNCP0VU-WkJbRpE98I_fkOgviw
+02/28/21 20:42:12 738862000  1614516132 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:12 766666900  1614516132 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:13 134159200 1614516133
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516734	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516734	LZ_TOKEN_KEY	lztokenpageac20e24b5f2c444b85e066457256ba77
+02/28/21 20:42:14 360444800  1614516134
+use wskey
+02/28/21 20:42:14 457928400  1614516134 token: AAFgO4-mADDLz8POjUAcGVFSCcNEnpGQak5w27yYVMZKK7fxJduoMbm9G8CEf8MF_1n-48TuTw4
+02/28/21 20:42:14 748150000  1614516134 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:14 776239600  1614516134 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:15 217996800 1614516135
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516736	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516736	LZ_TOKEN_KEY	lztokenpage176efa0155114403bee82dd4e229b1fa
+02/28/21 20:42:16 909522400  1614516136
+use wskey
+02/28/21 20:42:17 004548100  1614516137 token: AAFgO4-pADCEr6sHy7vPG-MnhJRaDugO6cM87cC3IckaGza2RIEONCfKZHc5MH8DJWo_hbZWx6Q
+02/28/21 20:42:17 559275800  1614516137 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:17 574073200  1614516137 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:18 015750100 1614516138
+[WARN] get LZ_TOKEN error
+02/28/21 20:42:19 554638000  1614516139
+use wskey
+02/28/21 20:42:19 654335500  1614516139 token: AAFgO4-rADA0CpGCQIcxiNFYIs9S8lIJdHotZB4KolhFbjHLgYz7wpMk-Fyt2FZaa4__lYFY_Pg
+02/28/21 20:42:19 770327400  1614516139 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 20:42:19 780941900  1614516139 移动签到森永官方旗舰店
+02/28/21 20:42:20 146385100 1614516140
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516741	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516741	LZ_TOKEN_KEY	lztokenpage3137ae0fbf21475c929543676d2b8f00
+02/28/21 20:42:22 047700500  1614516142
+use wskey
+02/28/21 20:42:22 170008800  1614516142 token: AAFgO4-uADBW5wrhLGw7PBLJqI5XoOP0dX39dZKv6XO39LAzu10ULAaTlLiumuCASv1wohJ68Ik
+02/28/21 20:42:22 467165000  1614516142 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:22 485223300  1614516142 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:22 918460100 1614516142
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516744	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516744	LZ_TOKEN_KEY	lztokenpagec9dd9aba626b4edd9f3aa805964128f3
+02/28/21 20:42:24 955579900  1614516144
+use wskey
+02/28/21 20:42:25 047865800  1614516145 token: AAFgO4-xADCb-EcL4ckdQUK28oe1UWDq_OClbEuV0jDQP0cpp50erohml826ue8csOH7Ki_hKbM
+02/28/21 20:42:25 329993500  1614516145 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:25 352577600  1614516145 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:25 763028000 1614516145
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516747	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516747	LZ_TOKEN_KEY	lztokenpage356325535b184911b38ef40d63ad639f
+02/28/21 20:42:27 982841700  1614516147
+use wskey
+02/28/21 20:42:28 084033700  1614516148 token: AAFgO4-0ADB5tPIsWali86g3pQ3vVQ7U1nDxP2f-tNtUIvovWBbbH_FiU99eadpj76BSkt50BiE
+02/28/21 20:42:28 649647800  1614516148 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:28 669488900  1614516148 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:29 583982000 1614516149
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516751	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516751	LZ_TOKEN_KEY	lztokenpagee819723de7594c28b509508f1f9cf019
+02/28/21 20:42:32 061521500  1614516152
+use wskey
+02/28/21 20:42:32 174832000  1614516152 token: AAFgO4-4ADBh31yQajTSGnsiqnopTFsyL1FfeQnLfC2AIRjnqElf9VZRRtan5GXuVC6OfNX_aSs
+02/28/21 20:42:32 430496000  1614516152 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:32 446844200  1614516152 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:33 276917200 1614516153
+[WARN] get LZ_TOKEN error
+02/28/21 20:42:35 771355800  1614516155
+use wskey
+02/28/21 20:42:35 872427100  1614516155 token: AAFgO4-7ADCCtKcbFhiI5vohL8cvRnHPYKeX9WwhtGutfrk73C03HZNoBAMvpjRhgoD7Owv-p_U
+02/28/21 20:42:35 991373500  1614516155 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 20:42:36 001769100  1614516156 移动签到森永官方旗舰店
+02/28/21 20:42:36 334213200 1614516156
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516759	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516759	LZ_TOKEN_KEY	lztokenpagea939c6b570894a85848e43bcdd2ba744
+02/28/21 20:42:39 219915700  1614516159
+use wskey
+02/28/21 20:42:39 319636400  1614516159 token: AAFgO4-_ADC9s760ECQHqGeP_ukTenZXJzeuEswkUDpN4asgWk-Vyywbka_qza-Y66wCqD5u0Qw
+02/28/21 20:42:39 577386200  1614516159 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:39 592503000  1614516159 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:39 985344800 1614516159
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516762	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516762	LZ_TOKEN_KEY	lztokenpage49ded752e2de431c85a901b851343348
+02/28/21 20:42:43 011596800  1614516163
+use wskey
+02/28/21 20:42:43 113810400  1614516163 token: AAFgO4_DADCuz6oCxDdan1Zjv8PDtf-T31Jy8N568e2fb4afSYKoeWgS_z5TcNYvb781rTCAlVw
+02/28/21 20:42:43 393619700  1614516163 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:43 423264700  1614516163 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:43 882170800 1614516163
+[WARN] get LZ_TOKEN error
+02/28/21 20:42:47 020670000  1614516167
+use wskey
+02/28/21 20:42:47 117508300  1614516167 token: AAFgO4_HADCHGYVRgpelMHfEdg7yuGHEJrN1LPM43yM-ILYLzb0yYxNNBFDAjBCzJC51aMF6Cvs
+02/28/21 20:42:47 238388800  1614516167 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 20:42:47 248591500  1614516167 移动签到森永官方旗舰店
+02/28/21 20:42:47 609832100 1614516167
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516771	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516771	LZ_TOKEN_KEY	lztokenpage04b943a74dd94e8f9e8294b59406369e
+02/28/21 20:42:52 004235600  1614516172
+use wskey
+02/28/21 20:42:52 115768000  1614516172 token: AAFgO4_MADCxqoz6IyaJHvIYiPw1KBSIbI9K1aZdpODIXV-7-JbHHZ10cOBR3dAfAugMYEy3BNQ
+02/28/21 20:42:52 992254600  1614516172 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:53 045574700  1614516173 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:53 433227400 1614516173
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516777	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516777	LZ_TOKEN_KEY	lztokenpage9e7212a67c3c4baebb02a5c4ce5e54cd
+02/28/21 20:42:57 105508700  1614516177
+use wskey
+02/28/21 20:42:57 208427500  1614516177 token: AAFgO4_RADBk1CEbiqsl0Fj9B4gNSmTJfPXQ1aAvXGEuweNN5P8qewvnYzCF8r3NyaPjqBbay5M
+02/28/21 20:42:57 504278100  1614516177 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:42:57 526109200  1614516177 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:42:57 959999700 1614516177
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516781	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516781	LZ_TOKEN_KEY	lztokenpage6f587ff893e5481faabb9b2b81c64e07
+02/28/21 20:43:01 863520500  1614516181
+use wskey
+02/28/21 20:43:01 957116800  1614516181 token: AAFgO4_VADDRDNlt6iPKMCt533ZJ8J87dNvT6o6HyDX9vaRxJNnlo6HyYPDPLxov15NLfdnm9gQ
+02/28/21 20:43:02 196081900  1614516182 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:43:02 221652400  1614516182 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:43:02 589456900 1614516182
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516786	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614516786	LZ_TOKEN_KEY	lztokenpage133ab9ad15ca4ca8b1f3f884d63e9d3c
+02/28/21 20:43:06 676904000  1614516186
+use wskey
+02/28/21 20:43:06 781174500  1614516186 token: AAFgO4_aADDH68rEL_V3fd_ur7MHUKe_ujoCbOhjsF4l-4_oyVDQUNjWrgddyXgXxgzDo8Ewxsc
+02/28/21 20:43:06 998278500  1614516186 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 20:43:07 009804300  1614516187 移动签到森永官方旗舰店
+{
+  "msg": "该活动尚未开始",
+  "code": "0",
+  "isOk": false
+}
+02/28/21 20:43:07 463673400 1614516187
+02/28/21 20:43:12 054248000  1614516192
+false
+签到失败. 写入失败的giftName: null
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+移动签到森永官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"5","activityType":null},"imgUrl":"","giftInfoId":"e01e03bce25f4b4a827c08fd7288b8a9","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"10","activityType":null},"imgUrl":"","giftInfoId":"aedd737460a6464db17d8699c89be93f","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"10","activityType":null},"imgUrl":"","giftInfoId":"02f487351f5e479c902480ad3d9da0b1","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"15店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"15","activityType":null},"imgUrl":"","giftInfoId":"85b739fb9da84d92904af1f4663634e4","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"15店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"15","activityType":null},"imgUrl":"","giftInfoId":"820d389bc3384ebd946df810076443af","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"20店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20","activityType":null},"imgUrl":"","giftInfoId":"ecfe9344da5340d492ab5829d27a7262","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"30店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"30","activityType":null},"imgUrl":"","giftInfoId":"20dc9a66ced84048894456c9807ba1da","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、签到7天后不能再参加；
+5、第1天签到，有机会赠送5店铺积分；
+6、第2天签到，有机会赠送10店铺积分；
+7、第3天签到，有机会赠送10店铺积分；
+8、第4天签到，有机会赠送15店铺积分；
+9、第5天签到，有机会赠送15店铺积分；
+10、第6天签到，有机会赠送20店铺积分；
+11、第7天签到，有机会赠送30店铺积分；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
 #店铺名称
-vendername="supretee男装旗舰店"
-# 长链接
-url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=FF41E39D80B279E715C51BFEDA0EF628
-# 活动时间：2021.02.22 00:00:00 - 2021.03.21 23:59:59
+vendername="森永官方旗舰店"
+#店铺激活码
+actId="fe5579637e814f7cbcfb6a06308aa26c"
+#店铺id
+venderId="117307"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=fe5579637e814f7cbcfb6a06308aa26c&venderId=117307&adsource=tg_xuanFuTuBiao"
+
+startTime=1614528000
+endTime=1615219140
+# 活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
 # 奖励说明：
 actRule="
-连续签到3天：满99-10店铺券
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：10店铺积分
+连续签到3天：10店铺积分
+连续签到4天：15店铺积分
+连续签到5天：15店铺积分
+连续签到6天：20店铺积分
+连续签到7天：30店铺积分
 "
 #移动 jd_OeTNobRVGiNZ sign_res
-sign_res="
-signTime=1613923200;signed=1;currentDay=2
-signTime=1614009600;signed=1;currentDay=2
-signTime=1614096000;signed=1;currentDay=1
-signTime=1614182400;signed=1;currentDay=3
-signTime=1614268800;signed=1;currentDay=3
-signTime=1614355200;signed=1;currentDay=3
-signTime=1614441600;signed=1;currentDay=3
-signTime=1614528000;signed=1;currentDay=3
-signTime=1614614400;signed=1;currentDay=3
-signTime=1614700800;signed=1;currentDay=3
-signTime=1614787200;signed=1;currentDay=3
-signTime=1614873600;signed=1;currentDay=3
-signTime=1614960000;signed=1;currentDay=3
-signTime=1615046400;signed=1;currentDay=3
-signTime=1615132800;signed=1;currentDay=3
-signTime=1615219200;signed=1;currentDay=3
-signTime=1615305600;signed=1;currentDay=3
-signTime=1615392000;signed=1;currentDay=3
-signTime=1615478400;signed=1;currentDay=3
-signTime=1615564800;signed=1;currentDay=3
-signTime=1615651200;signed=1;currentDay=3
-signTime=1615737600;signed=1;currentDay=3
-signTime=1615824000;signed=1;currentDay=3
-signTime=1615910400;signed=1;currentDay=3
-signTime=1615996800;signed=1;currentDay=3
-signTime=1616083200;signed=1;currentDay=3
-signTime=1616169600;signed=1;currentDay=3
-signTime=1616256000;signed=1;currentDay=3"
 sign_num="0"
-giftName=""
-giftRes="用户达到签到上限"
-giftDate="20210224"
-sign_res_info="
-2021/02/22_00:00:00  2    未签到
-2021/02/23_00:00:00  2    未签到
-2021/02/24_00:00:00  1    未签到
-2021/02/25_00:00:00  3    未签到
-2021/02/26_00:00:00  3    未签到
-2021/02/27_00:00:00  3    未签到
-2021/02/28_00:00:00  3    未签到
-2021/03/01_00:00:00  3    未签到
-2021/03/02_00:00:00  3    未签到
-2021/03/03_00:00:00  3    未签到
-2021/03/04_00:00:00  3    未签到
-2021/03/05_00:00:00  3    未签到
-2021/03/06_00:00:00  3    未签到
-2021/03/07_00:00:00  3    未签到
-2021/03/08_00:00:00  3    未签到
-2021/03/09_00:00:00  3    未签到
-2021/03/10_00:00:00  3    未签到
-2021/03/11_00:00:00  3    未签到
-2021/03/12_00:00:00  3    未签到
-2021/03/13_00:00:00  3    未签到
-2021/03/14_00:00:00  3    未签到
-2021/03/15_00:00:00  3    未签到
-2021/03/16_00:00:00  3    未签到
-2021/03/17_00:00:00  3    未签到
-2021/03/18_00:00:00  3    未签到
-2021/03/19_00:00:00  3    未签到
-2021/03/20_00:00:00  3    未签到
-2021/03/21_00:00:00  3    未签到
-当天签到奖励 []
-已签到 0 天"
+giftName="null"
+giftRes="该活动尚未开始"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
 #移动 jd_OeTNobRVGiNZ sign_res_end

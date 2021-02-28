@@ -1,0 +1,40 @@
+# 短链接
+suo_url=""
+venderId=10315339
+startTime=1614009600000
+endTime=1614614399000
+activityId=10274409
+token=699BF392545BCB47586DD0BB6627D02D
+#店铺名称
+vendername="暖男厨房生鲜专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=699BF392545BCB47586DD0BB6627D02D
+# 活动时间：2021.02.23 00:00:00 - 2021.03.01 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：满99-50店铺券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614009600;signed=1;currentDay=2
+signTime=1614096000;signed=1;currentDay=2
+signTime=1614182400;signed=1;currentDay=2
+signTime=1614268800;signed=1;currentDay=2
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=1
+signTime=1614528000;signed=1;currentDay=3"
+sign_num="0"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210228"
+sign_res_info="
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  1    未签到
+2021/03/01_00:00:00  3    未签到
+当天签到奖励 []
+已签到 0 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
