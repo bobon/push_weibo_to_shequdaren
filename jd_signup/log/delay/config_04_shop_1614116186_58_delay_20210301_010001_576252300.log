@@ -1,0 +1,107 @@
+03/01/21 01:15:37 189590600  1614532537
+RANDOM_num: 10
+removed '/tmp/tmp.NAf8LsLqtf'
+03/01/21 01:15:37 280627600  1614532537 检查移动签到
+
+real	0m0.157s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533137	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533137	LZ_TOKEN_KEY	lztokenpage34930d5be00f4b81b1ee2e4bb6492b2d
+03/01/21 01:15:37 542879200  1614532537
+use wskey
+
+real	0m0.133s
+user	0m0.078s
+sys	0m0.063s
+03/01/21 01:15:37 692056700  1614532537 token: AAFgO8-5ADCGU0tSzuSDoGzGM4AC5jb_gaXK_Me7ZqB94lLhBdEVmrz216iWHA-RFbR7CCdjGKA
+
+real	0m0.292s
+user	0m0.094s
+sys	0m0.094s
+03/01/21 01:15:38 012339700  1614532538 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+03/01/21 01:15:38 029313000  1614532538 移动签到拉比官方旗舰店
+
+real	0m0.325s
+user	0m0.031s
+sys	0m0.047s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "10000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "f481c2a9672a4cc4bf343d2c7369f395",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "FSTnmL"
+}
+true
+03/01/21 01:15:38 595331300 1614532538
+03/01/21 01:15:38 607128900 1614532538 签到拉比官方旗舰店完成
+03/01/21 01:15:48 660459800  1614532548
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 1 天
+签到总天数 6
+***********************************************
+
+移动签到拉比官方旗舰店查看结果
+{"msg":"","giftLog":{"20210301":"y"},"isOk":true,"signDetail":{"20210301":"y"},"followDays":4,"signRecord":{"nicknameShow":null,"id":"a6643c745b4c4a3c8491bee833629b7b","venderId":36049,"actId":"93755d5bd24c4cb39ed67cec431e208f","actName":"签到活动","nick":"8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw","phone":"","midUrl":null,"pin":"8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw","lastSignDate":20210301,"contiSignNum":1,"totalSignNum":6,"createTime":1614116184000,"updateTime":1614532537000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210301": "y"
+  },
+  "contiSignNum": 1,
+  "totalSignNum": 6
+}
+
+拉比官方旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {285:<--} ERROR CODE: 4[0m [0;31;3m[20210301 01:15:49] [ERROR] [0m
+

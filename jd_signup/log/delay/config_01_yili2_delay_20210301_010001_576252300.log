@@ -1,0 +1,301 @@
+03/01/21 01:16:19 921802000  1614532579
+RANDOM_num: 25
+removed '/tmp/tmp.U0rtH08mSa'
+03/01/21 01:16:20 012968900  1614532580 检查赵签到
+
+real	0m0.164s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533180	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533180	LZ_TOKEN_KEY	lztokenpage3ee0131d11674ecd8aefa29f7f60bcea
+03/01/21 01:16:20 269625000  1614532580
+use pt_key
+
+real	0m0.118s
+user	0m0.078s
+sys	0m0.078s
+03/01/21 01:16:20 403714800  1614532580 token: AAFgO8_jADCV8jUiqBkJwrIl-SPtm2elvX4bIFnZLEGsZcP2L2D3iXFxP1hRke0laAb-rvHjrag
+
+real	0m0.288s
+user	0m0.094s
+sys	0m0.031s
+03/01/21 01:16:20 712174400  1614532580 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/01/21 01:16:20 725650000  1614532580 赵签到伊利牛奶官方旗舰店
+
+real	0m0.162s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/yili2_delay --> /home/myid/jd/jd_signup/vender/yili2_del
+renamed '/home/myid/jd/jd_signup/vender/yili2_delay' -> '/home/myid/jd/jd_signup/vender/yili2_del'
+03/01/21 01:16:46 166681700  1614532606
+
+赵签到伊利牛奶官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+伊利牛奶官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+# 活动时间：2021.02.01 00:29:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10元优惠券
+连续签到5天：15元优惠券
+连续签到10天：30元优惠券
+连续签到15天：优酸乳原味半价购
+连续签到28天：赠送赠送谷粒多红养颗颗
+"
+
+#店铺名称
+vendername="伊利牛奶官方旗舰店"
+#店铺激活码
+actId="b1d87d7302234f1b937d56bce7b1ba42"
+##店铺id
+venderId="115090"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2
+signTime=1614470400;signed=2"
+sign_num="25"
+sign_total_num="25"
+giftName="null"
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+2021/02/28_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 25 天
+签到总天数 25"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2
+signTime=1614470400;signed=2"
+sign_num="15"
+sign_total_num="16"
+giftName="null"
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+2021/02/28_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 15 天
+签到总天数 16"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2
+signTime=1614470400;signed=2"
+sign_num="25"
+sign_total_num="25"
+giftName="null"
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+2021/02/28_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 25 天
+签到总天数 25"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2
+signTime=1614470400;signed=2"
+sign_num="25"
+sign_total_num="25"
+giftName="null"
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+2021/02/28_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 25 天
+签到总天数 25"
+#移动 jd_OeTNobRVGiNZ sign_res_end

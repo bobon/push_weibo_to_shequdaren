@@ -1,0 +1,60 @@
+03/01/21 01:14:34 073809800  1614532474
+RANDOM_num: 35
+removed '/tmp/tmp.dXfgBlrX5x'
+03/01/21 01:14:34 173354600  1614532474 检查赵签到
+
+real	0m0.217s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533074	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614533074	LZ_TOKEN_KEY	lztokenpage9f0db89da49040faa739b7eab9d89448
+03/01/21 01:14:34 486130900  1614532474
+use pt_key
+
+real	0m0.123s
+user	0m0.063s
+sys	0m0.094s
+03/01/21 01:14:34 626350000  1614532474 token: AAFgO896ADDUe3QvkjlFbLr7_vL24VJp2RErFIHDksSK695EG0E421F_hTPQfjb3hlwEtZ4lXGI
+
+real	0m0.274s
+user	0m0.063s
+sys	0m0.078s
+03/01/21 01:14:34 930076900  1614532474 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/01/21 01:14:34 951901800  1614532474 赵签到WOWO官方旗舰店
+
+real	0m0.382s
+user	0m0.000s
+sys	0m0.063s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "100000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "c154b30efe0241569f092aa8699fe26c",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "gTbVaa"
+}
+true
+03/01/21 01:14:35 566925100 1614532475
+03/01/21 01:14:35 578523400 1614532475 签到WOWO官方旗舰店完成
+03/01/21 01:15:10 644803300  1614532510
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {255:<--} ERROR CODE: 6[0m [0;31;3m[20210301 01:15:10] [ERROR] [0m
+

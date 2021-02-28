@@ -1,0 +1,90 @@
+03/01/21 00:00:00 762075800  1614528000
+RANDOM_num: 40
+force to sign
+
+real	0m0.545s
+user	0m0.000s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614528601	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614528601	LZ_TOKEN_KEY	lztokenpage3fbb64ae11214568a75e51da42034ce3
+03/01/21 00:00:02 383076700  1614528002
+use pt_key
+
+real	0m1.082s
+user	0m0.094s
+sys	0m0.063s
+03/01/21 00:00:03 749963700  1614528003 token: AAFgO74DADDGf1SsBzC1_kDmlG2KsTBVNLB1nPpWok9yXEEZPEtrRzE2Tkit73rK_sTP5Ta5-WI
+
+real	0m0.963s
+user	0m0.078s
+sys	0m0.109s
+03/01/21 00:00:04 851283700  1614528004 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/01/21 00:00:05 189870400  1614528005 肥鹅签到英氏YeeHoO奥特莱斯店
+
+real	0m0.977s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569768_117 写入 over
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="5ff5ff7000d444a0893a41c1f678e4bf"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1612157940
+endTime=1614749940
+# 活动时间：2021-02-01 13:39 - 2021-03-03 13:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

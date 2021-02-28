@@ -1,0 +1,107 @@
+03/01/21 02:01:53 422046300  1614535313
+RANDOM_num: 40
+removed '/tmp/tmp.Nv3xbH5QY1'
+03/01/21 02:01:53 499140200  1614535313
+王 今天已经签到过. 签到结果: ok  giftDate: 20210301
+***********************************************
+
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [10积分]
+连续签到 12 天
+签到总天数 12
+***********************************************
+
+actId=590fbd3f258f40cf974966a386efb147
+venderId=10398914
+startTime=1607499240000
+endTime=1642404899000
+# 短链接
+suo_url="https://3.cn/10-0D9C5X"
+actTimeStr="2020-12-09 15:34 至 2022-01-17 15:34"
+#店铺名称
+vendername="WOWO官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=590fbd3f258f40cf974966a386efb147&venderId=10398914
+# 活动时间：2020.12.09 15:34:00 - 2022.01.17 15:34:59
+# 奖励说明：
+actRule="
+连续签到3天：50积分 50积分
+连续签到7天：200积分 200积分
+连续签到21天：1000积分 1000积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2
+signTime=1614470400;signed=2"
+sign_num="11"
+sign_total_num="11"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+2021/02/28_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 11 天
+签到总天数 11"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="13"
+sign_total_num="13"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 13 天
+签到总天数 13"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="12"
+sign_total_num="12"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 12 天
+签到总天数 12"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="12"
+sign_total_num="12"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 12 天
+签到总天数 12"
+#肥鹅 jd_4d651d9e48204 sign_res_end

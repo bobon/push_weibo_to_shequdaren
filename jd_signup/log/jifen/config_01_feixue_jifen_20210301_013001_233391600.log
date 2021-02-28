@@ -1,0 +1,60 @@
+03/01/21 01:30:15 498816500  1614533415
+RANDOM_num: 30
+removed '/tmp/tmp.Hay5d6T7Fx'
+03/01/21 01:30:15 587699100  1614533415 检查赵签到
+
+real	0m0.180s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614534015	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614534015	LZ_TOKEN_KEY	lztokenpage434e334332984b0099b32164c1198063
+03/01/21 01:30:15 865292900  1614533415
+use pt_key
+
+real	0m0.112s
+user	0m0.078s
+sys	0m0.047s
+03/01/21 01:30:15 990605200  1614533415 token: AAFgO9MnADCdc-TFvWYm8jr1_TNS3LHNRl0gw65QJnIHowubY9IsAHOgwI0oiToVky_kFwlINlo
+
+real	0m0.621s
+user	0m0.031s
+sys	0m0.063s
+03/01/21 01:30:16 641337100  1614533416 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/01/21 01:30:16 658868900  1614533416 赵签到费雪京东自营旗舰店
+
+real	0m0.411s
+user	0m0.063s
+sys	0m0.016s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "200",
+    "giftType": "9",
+    "giftName": "200积分",
+    "giftNum": "200",
+    "giftTotal": "100000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "cc984e7d1cab455c8f912bb643272785",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "BUsQdR"
+}
+true
+03/01/21 01:30:17 334486300 1614533417
+03/01/21 01:30:17 346234400 1614533417 签到费雪京东自营旗舰店完成
+03/01/21 01:31:47 417004300  1614533507
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {255:<--} ERROR CODE: 6[0m [0;31;3m[20210301 01:31:47] [ERROR] [0m
+

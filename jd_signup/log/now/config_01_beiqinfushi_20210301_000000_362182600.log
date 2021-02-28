@@ -1,0 +1,38 @@
+03/01/21 00:00:01 588696200  1614528001
+RANDOM_num: 30
+force to sign
+
+real	0m1.001s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614528603	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614528603	LZ_TOKEN_KEY	lztokenpage13afb1dedaf04c108ad3a92bfa9032e2
+03/01/21 00:00:04 312568400  1614528004
+use pt_key
+
+real	0m0.690s
+user	0m0.094s
+sys	0m0.063s
+03/01/21 00:00:05 165928200  1614528005 token: AAFgO74EADC6OtSmF4zeNH28ZoOa-CNLSuKdmzN_ubS7eaPCHrCkgeay9bO4ncFtuUoqhfARE3o
+
+real	0m0.871s
+user	0m0.094s
+sys	0m0.125s
+03/01/21 00:00:06 205402300  1614528006 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/01/21 00:00:06 396150200  1614528006 赵签到贝亲辅食尿裤京东自营旗舰店
+
+real	0m0.565s
+user	0m0.047s
+sys	0m0.078s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/beiqinfushi --> /home/myid/jd/jd_signup/vender/beiqinfushi_del
+renamed '/home/myid/jd/jd_signup/vender/beiqinfushi' -> '/home/myid/jd/jd_signup/vender/beiqinfushi_del'
+03/01/21 00:01:38 999309700  1614528098
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {255:<--} ERROR CODE: 6[0m [0;31;3m[20210301 00:01:39] [ERROR] [0m
+

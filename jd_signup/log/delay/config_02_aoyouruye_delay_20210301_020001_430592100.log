@@ -1,0 +1,82 @@
+03/01/21 02:00:48 142541500  1614535248
+RANDOM_num: 15
+removed '/tmp/tmp.j47r51TUH7'
+03/01/21 02:00:48 225087500  1614535248
+王 今天已经签到过. 签到结果: ok  giftDate: 20210301
+***********************************************
+
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 16
+***********************************************
+
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+#店铺激活码
+actId="eb0ef5535d6e462096ab4e2135ba6c45"
+##店铺id
+venderId="37166"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="5"
+sign_total_num="26"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 26"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="2"
+sign_total_num="16"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 16"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="5"
+sign_total_num="26"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 26"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="5"
+sign_total_num="26"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 26"
+#移动 jd_OeTNobRVGiNZ sign_res_end
