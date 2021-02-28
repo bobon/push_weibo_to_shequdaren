@@ -4028,52 +4028,6 @@ lzkj_sevenDay_vender/mengniu  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signA
 
 
 * * * * * * * *
-chekc if chang delay lzkj_sevenDay_vender/shop_1613046181_1_delay
-佳贝艾特京东自营官方旗舰店
-
-7天签到
-连续签到1天：20元优惠券
-连续签到2天：80元优惠券
-连续签到3天：30店铺积分
-连续签到4天：50店铺积分
-连续签到5天：80店铺积分
-连续签到6天：2京豆
-连续签到7天：5元京东E卡
-
-removed 'log/if_chang_delay_1'
-removed 'log/if_chang_delay_2'
-removed 'log/if_chang_delay_3'
-removed 'log/if_chang_delay_4'
-
-#移动 jd_OeTNobRVGiNZ: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-#王 1309893722-164885: sign_res
-7天签到 第 0 天
-当天签到奖励 [50元优惠券]
-
-#赵 122294312-396444: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-#肥鹅 jd_4d651d9e48204: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-1;#移动 jd_OeTNobRVGiNZ: sign_res
-1;#王 1309893722-164885: sign_res
-1;#赵 122294312-396444: sign_res
-1;#肥鹅 jd_4d651d9e48204: sign_res
-show shop/3f6c151718844239b7be3ecca403cd70/prize/: 1 2 3 4 5 6 7
-
-lzkj_sevenDay_vender/shop_1613046181_1_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
-发现明天是 [移动 jd_OeTNobRVGiNZ; 王 1309893722-164885; 赵 122294312-396444; 肥鹅 jd_4d651d9e48204] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
-
-明天签到 佳贝艾特京东自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613046181_1_delay 不变.
-
-
-* * * * * * * *
 chekc if chang delay lzkj_sevenDay_vender/shop_1613569736_23_delay
 滴露旗舰店
 # 活动时间：2021-02-04 11:00 - 2021-03-03 23:59；
@@ -4313,53 +4267,6 @@ lzkj_sevenDay_vender/shop_1613703008_9_delay  https://lzkj-isv.isvjcloud.com/sig
 
 
 * * * * * * * *
-chekc if chang delay lzkj_sevenDay_vender/shop_1613703186_83_delay
-Kendall康度京东自营专区
-# 活动时间：2021-02-03 16:32 - 2021-03-05 16:32；
-
-7天签到
-连续签到1天：20店铺积分
-连续签到2天：50店铺积分
-连续签到3天：50店铺积分
-连续签到4天：50店铺积分
-连续签到5天：50店铺积分
-连续签到6天：2京豆
-连续签到7天：5京豆
-
-removed 'log/if_chang_delay_1'
-removed 'log/if_chang_delay_2'
-removed 'log/if_chang_delay_3'
-removed 'log/if_chang_delay_4'
-
-#赵 122294312-396444: sign_res
-7天签到 第 0 天
-当天签到奖励 [null]
-
-#王 1309893722-164885: sign_res
-7天签到 第 0 天
-当天签到奖励 [null]
-
-#肥鹅 jd_4d651d9e48204: sign_res
-7天签到 第 0 天
-当天签到奖励 [null]
-
-#移动 jd_OeTNobRVGiNZ: sign_res
-7天签到 第 0 天
-当天签到奖励 [null]
-
-1;#赵 122294312-396444: sign_res
-1;#王 1309893722-164885: sign_res
-1;#肥鹅 jd_4d651d9e48204: sign_res
-1;#移动 jd_OeTNobRVGiNZ: sign_res
-show shop/cd7a717f17914fda93377be959493730/prize/: 1 2 3 4 5 6 7
-
-lzkj_sevenDay_vender/shop_1613703186_83_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao
-发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [Kendall康度京东自营专区] 的第 1 天，将要获取到奖品[ 20店铺积分积分 20店铺积分]
-
-明天签到 Kendall康度京东自营专区, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1613703186_83_delay 不变.
-
-
-* * * * * * * *
 chekc if chang delay lzkj_sevenDay_vender/shop_1613703218_97_delay
 象印旗舰店
 # 活动时间：2021-01-29 16:11 - 2021-02-28 23:59；
@@ -4545,28 +4452,6 @@ ls: cannot access 'shop/8a60a89469dd449eb9f931ce1fc01cde/prize/': No such file o
 
 
 检查是否有签到失败的活动
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_04|lzkj_sevenDay_vender/shop_1613046181_1_delay
-签到 [佳贝艾特京东自营官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1613046181_1_delay 活动链接
-https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
-赵 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-王 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-肥鹅 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-移动 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83_delay
-签到 [Kendall康度京东自营专区] 店铺有问题 lzkj_sevenDay_vender/shop_1613703186_83_delay 活动链接
-https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=cd7a717f17914fda93377be959493730&venderId=1000103167&adsource=tg_xuanFuTuBiao
-赵 签到 [Kendall康度京东自营专区] 已结束，不能继续签到
-王 签到 [Kendall康度京东自营专区] 已结束，不能继续签到
-肥鹅 签到 [Kendall康度京东自营专区] 已结束，不能继续签到
-移动 签到 [Kendall康度京东自营专区] 已结束，不能继续签到
-
 [sign fail] config_/config_02|vender/chume_jifen
 [sign fail] config_/config_04|vender/chume_jifen
 签到 [初么（chume）京东自营旗舰店] 店铺有问题 vender/chume_jifen 活动链接
@@ -4636,7 +4521,7 @@ https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32e
 #赵 122294312-396444 获得奖励: ""50元优惠券""
 #肥鹅 jd_4d651d9e48204 获得奖励: ""20元优惠券""
 
-签到 [佳贝艾特京东自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613046181_1_delay 活动链接
+签到 [佳贝艾特京东自营官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613046181_1_del 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710
 #王 1309893722-164885 获得奖励: "50元优惠券"
 
@@ -4778,22 +4663,7 @@ h5签到总数 13
 赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|lzkj_sevenDay_vender/shop_1614116411_129
 
 显示执行结束，不能再签到的任务
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_04|lzkj_sevenDay_vender/shop_1613046181_1_delay
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1613703186_83_delay
-[sign over] config_/config_04|lzkj_sevenDay_vender/shop_1613703186_83_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1613046181_1_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1613046181_1_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1613046181_1_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_04 --> lzkj_sevenDay_vender\/shop_1613046181_1_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1613703186_83_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1613703186_83_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1613703186_83_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_04 --> lzkj_sevenDay_vender\/shop_1613703186_83_delay
+
 
 替换成pt_pin后的任务
 config04|api_vender/xingui

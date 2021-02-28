@@ -113,6 +113,11 @@ check_if_have_fail_lzkj() {
 		unset kk
 		if [ ! -z "$err_" ]; then
 			log_s "$msg_$err_"
+			if [ "$(echo -e \"$msg_$err_\" | grep '已结束，不能继续签到' | wc -l)" == "4" ]; then
+				v_f=$(echo $tt | sed -r -e 's,_delay$|_fq$|_del$,,')
+				log_s "发现四人都已 不能继续签到. 删除 $tt --> ${v_f}_del\n"
+		  	mv -vf "$tt" "${v_f}_del"
+			fi
 		fi		
 	done
 	unset tt
