@@ -192,6 +192,10 @@ write_sign_res_lzkj() {
 	echo "***********************************************"
 }
 
+write_sign_over_lzkj_7() {
+	sed -i -r '/#.* '${1}' sign_res_end$/i giftOver="ok"' $2
+}
+
 write_sign_res_lzkj_7() {
 	echo -e "$4"| jq -r '.isOk' || local res=false
 	if [ "$res" = "false" ]; then

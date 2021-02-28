@@ -1,0 +1,746 @@
+02/28/21 10:37:30 624078300  1614479850
+RANDOM_num: 35
+removed '/tmp/tmp.MOdyrJSWRy'
+02/28/21 10:37:30 740002900  1614479850 检查移动签到
+
+real	0m0.115s
+user	0m0.047s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:30 995519600  1614479850
+use wskey
+
+real	0m0.132s
+user	0m0.078s
+sys	0m0.031s
+02/28/21 10:37:31 153350200  1614479851 token: AAFgOwHrADDI2x4JNBYUGVZ_BJ8-DN5BAiwK8_4U9PMFvE4b0HOJFSv-rJRJZUDyxEoexLCIn68
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.135s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:37:31 307739800  1614479851 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:31 325088500  1614479851 移动签到维他奶官方旗舰店
+
+real	0m0.109s
+user	0m0.047s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:31 670411600 1614479851
+
+real	0m0.264s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.141s
+user	0m0.000s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:32 134218500  1614479852
+use wskey
+
+real	0m0.150s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:37:32 303062100  1614479852 token: AAFgOwHsADCKcxu5iT-7cBHpX2tnc5M_BIlWA4Byt7rv6xZO_pJcjaKGbJr6Y8nGSGM_97rtXCs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.137s
+user	0m0.031s
+sys	0m0.078s
+02/28/21 10:37:32 465242600  1614479852 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:32 485911400  1614479852 移动签到维他奶官方旗舰店
+
+real	0m0.107s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:32 933564300 1614479852
+
+real	0m0.459s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.159s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:33 643035100  1614479853
+use wskey
+
+real	0m0.166s
+user	0m0.016s
+sys	0m0.078s
+02/28/21 10:37:33 845828300  1614479853 token: AAFgOwHtADAGvSDEerFv029n2n3RAmj15jzaVodPxQ3x9OWzc6viCryq_xWJDcTPkccuuaJ9EoY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.176s
+user	0m0.063s
+sys	0m0.094s
+02/28/21 10:37:34 111061700  1614479854 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:34 140244600  1614479854 移动签到维他奶官方旗舰店
+
+real	0m0.222s
+user	0m0.016s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:35 206258100 1614479855
+
+real	0m0.877s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.158s
+user	0m0.016s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:36 319147900  1614479856
+use wskey
+
+real	0m0.214s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:37:36 568962800  1614479856 token: AAFgOwHwADBeRkpOk6K7YBNjCkwOVseA-uRcWSeyqu9FHkJKaQNJVg6EVCjjq8aWITlpcq2CjWE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.156s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:36 770466300  1614479856 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:36 801808400  1614479856 移动签到维他奶官方旗舰店
+
+real	0m0.153s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:37 429182600 1614479857
+
+real	0m1.023s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.157s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:38 842232600  1614479858
+use wskey
+
+real	0m0.209s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 10:37:39 088420500  1614479859 token: AAFgOwHzADApeus5ydjUY0YUfNHNLp1lSwPB7wuvcB_noSEtFh3wh2BjSw5b84kGkG3KKAPFenc
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.429s
+user	0m0.063s
+sys	0m0.109s
+02/28/21 10:37:39 562160000  1614479859 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:39 614006100  1614479859 移动签到维他奶官方旗舰店
+
+real	0m0.265s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:40 885997200 1614479860
+
+real	0m1.157s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.161s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:42 277512100  1614479862
+use wskey
+
+real	0m0.166s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:42 479771700  1614479862 token: AAFgOwH2ADCaHBmeJbkl9MO8shzQC4_stT2imskEmoBM8X49_XA0p2B5T5us947q3CXviALPDCE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.214s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:37:42 729397100  1614479862 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:42 772393700  1614479862 移动签到维他奶官方旗舰店
+
+real	0m0.187s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:43 887184400 1614479863
+
+real	0m1.437s
+user	0m0.016s
+sys	0m0.063s
+
+real	0m0.216s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:45 752615600  1614479865
+use wskey
+
+real	0m0.354s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:37:46 181148100  1614479866 token: AAFgOwH6ADDyTy47EvEsJHTGt91SXgOpB5uXesHbhBgbHO9Uu8-dS4I7NtH4xFragHUBWb38G5E
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.279s
+user	0m0.063s
+sys	0m0.109s
+02/28/21 10:37:46 636267800  1614479866 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:46 761308400  1614479866 移动签到维他奶官方旗舰店
+
+real	0m0.134s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:47 769097500 1614479867
+
+real	0m1.602s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.221s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:49 897543700  1614479869
+use wskey
+
+real	0m0.283s
+user	0m0.078s
+sys	0m0.078s
+02/28/21 10:37:50 235797300  1614479870 token: AAFgOwH-ADChy9NxFf25C1RizRWYQEZm8XKTVy9LDblj7GxL344z__5AusySmO3BxioaiSddZa0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.250s
+user	0m0.047s
+sys	0m0.031s
+02/28/21 10:37:50 587020900  1614479870 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:50 713076700  1614479870 移动签到维他奶官方旗舰店
+
+real	0m0.231s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:51 987053000 1614479871
+
+real	0m1.935s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.213s
+user	0m0.016s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:54 448165700  1614479874
+use wskey
+
+real	0m0.288s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:37:54 872564800  1614479874 token: AAFgOwICADANENLK-9MRVzjZ6WfJOogKEmBX1WuyobAC4I01O27H7SHoqvhSBkBeFmQWXL7VvwY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.263s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:37:55 228534100  1614479875 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:55 295817500  1614479875 移动签到维他奶官方旗舰店
+
+real	0m0.197s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:56 481011500 1614479876
+
+real	0m2.174s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.154s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:58 988440400  1614479878
+use wskey
+
+real	0m0.254s
+user	0m0.031s
+sys	0m0.094s
+02/28/21 10:37:59 362615600  1614479879 token: AAFgOwIHADC-acSQceUrwnFdUbFcn_xnFud30hgGEmYpQT6GhqWvon7HmR_Lh7yL6HuerPm00Kw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.309s
+user	0m0.047s
+sys	0m0.125s
+02/28/21 10:37:59 865501900  1614479879 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:59 911608200  1614479879 移动签到维他奶官方旗舰店
+
+real	0m0.237s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:01 016479700 1614479881
+
+real	0m2.241s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m0.220s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:03 763696800  1614479883
+use wskey
+
+real	0m0.210s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:04 166559700  1614479884 token: AAFgOwILADCoA904hKs5embg7S1Vf_iOEXxjORSiL47uwV2gfE5PS_iWy-yLctiWBycn36qREYI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.260s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:04 508825500  1614479884 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:04 686146600  1614479884 移动签到维他奶官方旗舰店
+
+real	0m0.226s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:06 326987300 1614479886
+
+real	0m2.322s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.185s
+user	0m0.031s
+sys	0m0.016s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:08 973997000  1614479888
+use wskey
+
+real	0m0.256s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:38:09 286771300  1614479889 token: AAFgOwIRADCNUAceJHORrsGY-akC-oiTkp3ypUcEHCwKL_jmxyzK6lI20OgppJgi-QiBrppLgnE
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.326s
+user	0m0.078s
+sys	0m0.047s
+02/28/21 10:38:09 752426900  1614479889 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:09 821999400  1614479889 移动签到维他奶官方旗舰店
+
+real	0m0.322s
+user	0m0.000s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:11 129872700 1614479891
+
+real	0m2.512s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.616s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:14 379307300  1614479894
+use wskey
+
+real	0m0.234s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:14 695081800  1614479894 token: AAFgOwIWADDyvEa82_Xg5ipymQDmRoB0lb7fDll5MQ74vPO7U9ZkPZ7FFHH_vMEC9h4skMLcuHo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m2.501s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:38:17 258074700  1614479897 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:17 294893800  1614479897 移动签到维他奶官方旗舰店
+
+real	0m0.238s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:18 305759700 1614479898
+
+real	0m2.790s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.186s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:21 369208900  1614479901
+use wskey
+
+real	0m0.208s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:38:21 608048400  1614479901 token: AAFgOwIdADD5SpARipM_88gGROWB-KNeIG_Kg9cL90vsa2TF2lxQVPaEs51FAYPocGAeAqiDcL4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.222s
+user	0m0.078s
+sys	0m0.031s
+02/28/21 10:38:21 879530700  1614479901 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:21 910993400  1614479901 移动签到维他奶官方旗舰店
+
+real	0m0.169s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:22 621285200 1614479902
+
+real	0m2.937s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.172s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:25 809761800  1614479905
+use wskey
+
+real	0m0.183s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:38:26 031418200  1614479906 token: AAFgOwIhADCFAb3rU83REeAhWuMz57fPYWebXPkkZBz8jTeENm6wuuq8GLQUoA5zROF5pt1dc1Y
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.172s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 10:38:26 238237400  1614479906 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:26 266748800  1614479906 移动签到维他奶官方旗舰店
+
+real	0m0.141s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:26 870215400 1614479906
+
+real	0m3.101s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.208s
+user	0m0.000s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:30 277910500  1614479910
+use wskey
+
+real	0m0.189s
+user	0m0.063s
+sys	0m0.094s
+02/28/21 10:38:30 498234700  1614479910 token: AAFgOwImADBM6Sl4NVLXZB0jdF7HxlCCuxzbhafEtBe6hOejpbS1J3CoHNMMcG6HNZa1eKZLPvs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.187s
+user	0m0.078s
+sys	0m0.094s
+02/28/21 10:38:30 716468000  1614479910 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:30 737184100  1614479910 移动签到维他奶官方旗舰店
+
+real	0m0.202s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:31 287971400 1614479911
+
+real	0m3.279s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.355s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:34 979165200  1614479914
+use wskey
+
+real	0m0.181s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 10:38:35 185135500  1614479915 token: AAFgOwIrADAh6eKsuyivnNU5UnTur41D7ooLKvssu8_dlBQSCAUP4UpgiR27ZSXqlOD7IYV14iY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.181s
+user	0m0.047s
+sys	0m0.094s
+02/28/21 10:38:35 415303200  1614479915 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:35 449093000  1614479915 移动签到维他奶官方旗舰店
+
+real	0m0.151s
+user	0m0.016s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:36 177080300 1614479916
+
+real	0m3.549s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.311s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:40 081451000  1614479920
+use wskey
+
+real	0m0.115s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:38:40 209022800  1614479920 token: AAFgOwIwADBJuAW7bG-t8WkrgWcZ-HgcN2HnHWakzVEFO9VzI0ulVBJdhRGGOjl3nubohNgsPb8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.112s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:38:40 336166800  1614479920 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:40 346559000  1614479920 移动签到维他奶官方旗舰店
+
+real	0m0.097s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:40 806030200 1614479920
+
+real	0m3.666s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.099s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:44 607920800  1614479924
+use wskey
+
+real	0m0.106s
+user	0m0.063s
+sys	0m0.031s
+02/28/21 10:38:44 724768000  1614479924 token: AAFgOwI0ADB-ls84r7LJ4oLET9lQezx0yMru_SabiPiH6FIo23g3Kgr2n8wVQNJYA4sQgbUle0s
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.097s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:38:44 839774800  1614479924 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:44 855794400  1614479924 移动签到维他奶官方旗舰店
+
+real	0m0.089s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:45 228083100 1614479925
+
+real	0m3.861s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.073s
+user	0m0.000s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:49 193629700  1614479929
+use wskey
+
+real	0m0.094s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:49 298021700  1614479929 token: AAFgOwI5ADAw2hCRTKXknEDgfruon0gNkXpJTHeYIAvhsOtw6CFGfalIlObHFVaLp2sMRn1gDmI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.083s
+user	0m0.031s
+sys	0m0.047s
+02/28/21 10:38:49 391570700  1614479929 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:49 402199200  1614479929 移动签到维他奶官方旗舰店
+
+real	0m0.074s
+user	0m0.016s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:49 721630500 1614479929
+
+real	0m3.967s
+user	0m0.000s
+sys	0m0.031s
+02/28/21 10:39:28 805813500  1614479968
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569750_65_delay
+
+移动签到维他奶官方旗舰店查看结果, 活动规则
+
+
+#店铺名称
+vendername="维他奶官方旗舰店"
+#店铺激活码
+actId="35d14c0f97194095934fbde1271ff651"
+#店铺id
+venderId="10353060"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=35d14c0f97194095934fbde1271ff651&venderId=10353060&adsource=tg_xuanFuTuBiao"
+
+startTime=1612251960
+endTime=1614527940
+# 活动时间：2021-02-02 15:46 - 2021-02-28 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：10店铺积分
+连续签到2天：
+连续签到3天：20店铺积分
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：100店铺积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="3"
+giftName=""20店铺积分""
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 ["20店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

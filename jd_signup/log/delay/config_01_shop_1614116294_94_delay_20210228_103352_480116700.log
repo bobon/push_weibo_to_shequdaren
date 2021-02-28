@@ -1,0 +1,131 @@
+02/28/21 10:36:42 019555300  1614479802
+RANDOM_num: 10
+removed '/tmp/tmp.zZAkwrWv11'
+02/28/21 10:36:42 089532600  1614479802 检查赵签到
+
+real	0m0.128s
+user	0m0.016s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480402	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480402	LZ_TOKEN_KEY	lztokenpage96e328f060184c71a4e89225b2194b79
+02/28/21 10:36:42 300750300  1614479802
+use pt_key
+
+real	0m0.109s
+user	0m0.078s
+sys	0m0.047s
+02/28/21 10:36:42 424608100  1614479802 token: AAFgOwG6ADCrrwY1kMrTDl3XBw2FN3sjTT4-hQ3bYHD3OH4OF0ZXHWaT7xFr4CLscaR42fOL-N4
+
+real	0m0.218s
+user	0m0.094s
+sys	0m0.031s
+02/28/21 10:36:42 656564800  1614479802 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/28/21 10:36:42 668810700  1614479802 赵签到杨国福旗舰店
+
+real	0m0.078s
+user	0m0.016s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:36:42 947134100 1614479802
+
+real	0m0.233s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.149s
+user	0m0.000s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480403	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480403	LZ_TOKEN_KEY	lztokenpage32becd1eec984427a6e5e12de59b2719
+02/28/21 10:36:43 357880600  1614479803
+use pt_key
+
+real	0m0.089s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:36:43 456759000  1614479803 token: AAFgOwG7ADDQ4efHlsAxm7ptQlggyN-bIG07lnZFRHb6X0YC2JANiG0KiApAGkeku4VAqi-QvAk
+
+real	0m0.213s
+user	0m0.031s
+sys	0m0.047s
+02/28/21 10:36:43 681611300  1614479803 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+02/28/21 10:36:43 692745700  1614479803 赵签到杨国福旗舰店
+
+real	0m0.376s
+user	0m0.016s
+sys	0m0.031s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "20",
+    "giftType": "9",
+    "giftName": "20积分",
+    "giftNum": "20",
+    "giftTotal": "10000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "7f089da0bdff4f74a9d905c325bab70f",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "NxzLtQ"
+}
+true
+02/28/21 10:36:44 264731400 1614479804
+02/28/21 10:36:44 274431900 1614479804 签到杨国福旗舰店完成
+02/28/21 10:36:54 326417100  1614479814
+true
+首次签到成功. 写入giftName: "20积分"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["20积分"]
+连续签到  天
+签到总天数 
+***********************************************
+
+赵签到杨国福旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 10:36:54] [ERROR] [0m
+

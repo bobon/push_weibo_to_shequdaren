@@ -124,7 +124,7 @@ for kk in $(find api_vender_pre/ -type f); do
 done
 unset kk
 
-for jt in $(./sign_res_check.sh checkfail batch | grep '[[]sign fail[]]' | sed -r -e 's,^\[sign fail\] ,,' | sort | uniq); do
+for jt in $(./sign_res_check.sh checkfail batch | grep '[[]sign fail[]]' | sed -r -e 's,^\[sign fail\] ,,' | cut -d '|' -f 2 | sort | uniq); do
 	echo $jt
 	if [ "${jt:0:7}" = "vender/" ]; then
 		bash lzkj_isv_signUp.sh config_/config_01 "$sign_base_dir/$jt" now
@@ -136,6 +136,8 @@ for jt in $(./sign_res_check.sh checkfail batch | grep '[[]sign fail[]]' | sed -
 		bash lzkj_isv_signUp_7.sh config_/config_02 "$sign_base_dir/$jt" now
 		bash lzkj_isv_signUp_7.sh config_/config_03 "$sign_base_dir/$jt" now
 		bash lzkj_isv_signUp_7.sh config_/config_04 "$sign_base_dir/$jt" now
+	elif [ "${jt:0:11}" = "api_vender/" ]; then
+		echo "not sign $jt"
 	else
 		error "not support sign $jt"
 	fi

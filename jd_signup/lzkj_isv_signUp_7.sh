@@ -29,8 +29,21 @@ else
 	fi
 	echo "RANDOM_num: $RANDOM_num"
 	
+	sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' $2 | grep '^giftOver="ok"' && res_=true || res_=false
+	if [ "$res_" = "true" ]; then
+		date +"%x %X %N  %s"
+		echo "$pin_name 签满7天不能再参加了."
+		echo "***********************************************"
+		echo -e "$sign_res_info"
+		echo "***********************************************"
+		echo
+		cat "$2"
+		exit
+	fi
+	unset res_
+	
 	if [ "$4" == "force" ]; then
-		echo "force to sign"
+		echo "force to sign"		
 	else
 		if [ ! -z "$date_0_f" ]; then
 			d=$(date -d @$date_0_f +"%Y%m%d_%H:%M:%S %s")
@@ -45,12 +58,22 @@ else
 			done
 			date +"%x %X %N  %s"
 		else
-			unset giftDate; unset sign_num
+			unset giftDate; unset sign_num; unset giftOver
 			unset sign_res_info
 			b=$(mktemp)
 			sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$2" > $b
 			source $b
 			rm -rvf $b
+			if [ "$giftOver" = "ok" ]; then
+				date +"%x %X %N  %s"
+				echo "$pin_name 签满7天不能再参加了."
+				echo "***********************************************"
+				echo -e "$sign_res_info"
+				echo "***********************************************"
+				echo
+				cat "$2"
+				exit
+			fi			
 			if [ "$giftDate" = "$(date +"%Y%m%d")" ] && [ "$giftRes" = "ok" ]; then
 				date +"%x %X %N  %s"
 				echo "$pin_name 今天已经签到过. 签到结果: $giftRes  giftDate: $giftDate"
@@ -254,6 +277,16 @@ else
 		  	a=true
 		  	break
 		  fi
+		  
+		 	if [ $(echo "$t" | jq '.msg' | egrep '签满7天后不能再参加了'>/dev/null;echo $?) -eq 0 ]; then
+		  	echo "签满7天不能再参加了. $2 写入 over"
+		  	source /home/myid/jd/jd_signup/common.sh
+		  	write_sign_over_lzkj_7 "${pt_pin}" ${2} "$t" "$pin_name"
+		  	echo
+		  	cat "$2"
+		  	exit
+		  fi
+		  
 			echo "$t" | jq '.msg' | egrep '非法用户|您已完成当天签到|当天只能签到一次|当天只允许签到一次|会员才能参加活动|用户达到签到上限' && a=true
 		fi
 		date +"%x %X %N %s"

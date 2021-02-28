@@ -28,9 +28,11 @@ check_if_have_fail_h5() {
 			if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
 				echo "1giftRes: a$giftRes"b"$giftDate"--"$dd"
 				local err_="$err_$pin1_name ${pt_pin1} 签到失败: $giftDate -- > $giftRes\n"
+				echo "[sign fail] $kk|$tt"
 			fi
 			if [ "$sign_num" = "" ]; then
 				local err_="$err_$pin1_name ${pt_pin1} 获取签到结果失败\n"
+				echo "[sign fail] $kk|$tt"
 			fi
 			
 			if [ ! -z "$pt_pin2" ]; then
@@ -39,12 +41,15 @@ check_if_have_fail_h5() {
 				unset giftDate; unset giftRes
 				source $bb
 				rm -rf $bb
+				
 				if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
 					echo "2giftRes: c$giftRes"d"$giftDate"--"$dd"
 					local err_="$err_$pin2_name ${pt_pin2} 签到失败: $giftDate -- > $giftRes\n"
+					echo "[sign fail] $kk|$tt"
 				fi
 				if [ "$sign_num" = "" ]; then
 					local err_="$err_$pin2_name ${pt_pin2} 获取签到结果失败\n"
+					echo "[sign fail] $kk|$tt"
 				fi
 			fi
 		done
@@ -75,30 +80,40 @@ check_if_have_fail_lzkj() {
 			
 			local bb=$(mktemp)
 			sed -r -n '/#.* '${pt_pin}' sign_res$/,/#.* '${pt_pin}' sign_res_end$/p' "$tt" > $bb
-			unset giftDate; unset giftRes; unset sign_num; unset sign_total_num
+			unset giftDate; unset giftRes; unset sign_num; unset sign_total_num; unset giftOver
 			source $bb
 			rm -rf $bb
-			
+			if [ "$giftOver" = "ok" ]; then
+				local err_="$err_$pin_name 签到 [$vendername] 已结束，不能继续签到\n"
+				echo "[sign over] ${kk}|${tt}"
+				continue
+			fi
 			if [ "$giftDate" != "$dd" ] || [ "$giftRes" != "ok" ]; then
-				local err_="$err_$pin_name ${pt_pin} 签到失败: $giftDate -- > $giftRes\n"
-				if [ "$1" = "batch" ]; then
-					echo "[sign fail] $tt"
-				fi
+				local err_="$err_$pin_name ${pt_pin} 签到失败: $giftDate -- > $giftRes\n"				
+				#if [ "$1" = "batch" ]; then
+					echo "[sign fail] $kk|$tt"
+				#fi
 			fi
 			if [ "${tt:0:7}" = "vender/" ]; then
 				if [ "$sign_num" = "" ] || [ "$sign_total_num" = "" ]; then
 					local err_="$err_$pin_name ${pt_pin} 获取签到结果失败\n"
+					#if [ "$1" = "batch" ]; then
+						echo "[sign fail] $kk|$tt"
+					#fi
 				fi
 			else
 				if [ "$sign_num" = "" ]; then
 					local err_="$err_$pin_name ${pt_pin} 获取签到结果失败\n"
+					#if [ "$1" = "batch" ]; then
+						echo "[sign fail] $kk|$tt"
+					#fi
 				fi
 			fi
 		done
 		unset kk
 		if [ ! -z "$err_" ]; then
 			log_s "$msg_$err_"
-		fi
+		fi		
 	done
 	unset tt
 }
@@ -169,6 +184,17 @@ makenow() {
 	local ss=$(grep -r '^pt_pin1=' config_h5/ | sed -r -e 's,config_h5/(.*):pt_pin1=["](.*)["],\1|\2,')	
 	local now_=$(sed '/^显示立即执行的任务/,$d' log/common_$(date +"%Y%m%d").log | egrep '[[]SHELL[]]' | sed -r -e 's,^[[]SHELL[]]\|,,')
 	log_s "$now_"
+	
+	local over_=$(egrep '[[]sign over[]]' log/common_$(date +"%Y%m%d").log | sort | uniq | sort -t '|' -k 2,2)
+	log_s "\n显示执行结束，不能再签到的任务"
+	log_s "$over_"
+	for mt in $(echo -e "$over_" | sed -r -e 's,[[]sign over[]] ,,'); do
+		local cf_t=$(echo "$mt" | cut -d '|' -f 1 | sed -r -e 's,/,\\/,')
+		local vend_t=$(echo "$mt" | cut -d '|' -f 2 | sed -r -e 's,/,\\/,')
+		sed -i -r "/${cf_t} .*${vend_t}/d" $sign_base_dir/run_shell_delay.sh
+		log_s "不能再签到的任务，从run_shell_delay中移除. ${cf_t} --> ${vend_t}"
+	done
+	unset mt
 	
 	local now_ex=$(for kt in $(echo -e "$now_" | sed -r -e 's,^[[]SHELL[]]\|,,'); do
 		local sign_ven=$(echo "$kt" | cut -d '|' -f 2)
@@ -284,6 +310,24 @@ makenow() {
 #	config2|api_vender/ZJUZ
 }
 
+resign_fail() {
+	for jt1 in $(grep '[[]sign fail[]]' log/common_$(date +"%Y%m%d").log | sed -r -e 's,^\[sign fail\] ,,' | sort | uniq); do
+		local jt=$(echo $jt1 | cut -d '|' -f 2)
+		local jt_cf=$(echo $jt1 | cut -d '|' -f 1)
+		echo -e "\n发现签到失败，再次签到 $jt1"
+		if [ "${jt:0:7}" = "vender/" ]; then
+			bash lzkj_isv_signUp.sh $jt_cf "$sign_base_dir/$jt" 5
+		elif [ "${jt:0:21}" = "lzkj_sevenDay_vender/" ]; then
+			bash lzkj_isv_signUp_7.sh $jt_cf "$sign_base_dir/$jt" 5
+		elif [ "${jt:0:11}" = "api_vender/" ]; then
+			bash api_m_jd_com.sh $jt_cf "$sign_base_dir/$jt" 5
+		else
+			error "not support sign $jt"
+		fi
+	done
+	unset jt1
+}
+
 
 sign_base_dir=/home/myid/jd/jd_signup
 cd $sign_base_dir
@@ -297,6 +341,8 @@ elif [ "$1" = "checkfail" ]; then
 	check_if_have_fail "$2"
 elif [ "$1" = "-q" ]; then
 	check_res
+elif [ "$1" = "resign" ]; then
+	resign_fail | tee log/resign_$(date +"%Y%m%d_%H%M%S").log
 elif [ ! -z "$1" ]; then
 	if_chang_delay "$1"
 else

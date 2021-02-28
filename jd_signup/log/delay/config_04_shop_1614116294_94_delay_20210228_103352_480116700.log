@@ -1,0 +1,98 @@
+02/28/21 10:36:48 094154300  1614479808
+RANDOM_num: 25
+removed '/tmp/tmp.OgZmdX9793'
+02/28/21 10:36:48 166050700  1614479808 检查移动签到
+
+real	0m0.149s
+user	0m0.016s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480408	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614480408	LZ_TOKEN_KEY	lztokenpage077349844b2349e5b02137664409d380
+02/28/21 10:36:48 399344500  1614479808
+use wskey
+
+real	0m0.097s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:36:48 506978800  1614479808 token: AAFgOwHAADB8qlgEqYasry0hI3GkPEp5Mqv_gGXhAA3HU5v02it6mM6M56M9shlC1xc6731TWVc
+
+real	0m0.210s
+user	0m0.031s
+sys	0m0.047s
+02/28/21 10:36:48 727599900  1614479808 secretPin: 8tekGZ3q85Ims+F4/F7Z2vkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw
+
+02/28/21 10:36:48 738092100  1614479808 移动签到杨国福旗舰店
+
+real	0m0.342s
+user	0m0.000s
+sys	0m0.016s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "20",
+    "giftType": "9",
+    "giftName": "20积分",
+    "giftNum": "20",
+    "giftTotal": "10000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "7f089da0bdff4f74a9d905c325bab70f",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "TWFhmV"
+}
+true
+02/28/21 10:36:49 280557100 1614479809
+02/28/21 10:36:49 291021600 1614479809 签到杨国福旗舰店完成
+02/28/21 10:37:14 327868200  1614479834
+true
+首次签到成功. 写入giftName: "20积分"
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 ["20积分"]
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到杨国福旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {280:<--} ERROR CODE: 4[0m [0;31;3m[20210228 10:37:15] [ERROR] [0m
+

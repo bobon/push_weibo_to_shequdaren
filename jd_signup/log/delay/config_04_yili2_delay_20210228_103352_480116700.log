@@ -1,0 +1,935 @@
+02/28/21 10:37:12 328114800  1614479832
+RANDOM_num: 40
+removed '/tmp/tmp.MyoLpQYPDQ'
+02/28/21 10:37:12 428021400  1614479832 检查移动签到
+
+real	0m0.090s
+user	0m0.031s
+sys	0m0.016s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:12 633477300  1614479832
+use wskey
+
+real	0m0.106s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 10:37:12 754830300  1614479832 token: AAFgOwHYADAP-ZG1A13xXZIFx1DyfG8NK4joGwGxJBpaj8fkUV6FaM8AR3FkVFFJUwdY0BZsD7M
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.139s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:12 906196000  1614479832 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:12 916052500  1614479832 移动签到伊利牛奶官方旗舰店
+
+real	0m0.091s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:13 221501400 1614479833
+
+real	0m0.238s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.095s
+user	0m0.000s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:13 597851200  1614479833
+use wskey
+
+real	0m0.120s
+user	0m0.016s
+sys	0m0.063s
+02/28/21 10:37:13 736492800  1614479833 token: AAFgOwHZADBeN7VTVrwFKsz9RWbFg_GD9AXFzm5xxa1lJ4bre7BE4O3yV1PkhvINleeNRSWPM6U
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.123s
+user	0m0.031s
+sys	0m0.094s
+02/28/21 10:37:13 875396000  1614479833 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:13 909966700  1614479833 移动签到伊利牛奶官方旗舰店
+
+real	0m0.101s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:14 274791500 1614479834
+
+real	0m0.446s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.094s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:14 855740700  1614479834
+use wskey
+
+real	0m0.110s
+user	0m0.063s
+sys	0m0.031s
+02/28/21 10:37:14 976714700  1614479834 token: AAFgOwHaADDFtHdPfHEz5DrjIMx0cpV17ilMcoHHtGTs6Ul-7y_VBy6DjXyZXMLdNRLGWYNvPkY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.080s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:37:15 067106500  1614479835 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:15 076986000  1614479835 移动签到伊利牛奶官方旗舰店
+
+real	0m0.068s
+user	0m0.000s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:15 336524900 1614479835
+
+real	0m0.636s
+user	0m0.000s
+sys	0m0.031s
+curl: (7) Failed to connect to lzkj-isv.isvjcloud.com port 443: Connection refused
+
+real	0m21.298s
+user	0m0.000s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:37 354472200  1614479857
+use wskey
+
+real	0m0.202s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:37:37 595948800  1614479857 token: AAFgOwHxADCTY57mKK1pBgAmx89gD7Raj9wt3OPK0D5HjFpaUIuNB__OWLrjlARZv8ADBYPE3_Y
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.217s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:37:37 839265900  1614479857 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:37 868469100  1614479857 移动签到伊利牛奶官方旗舰店
+
+real	0m0.165s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:38 663757200 1614479858
+
+real	0m0.958s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.252s
+user	0m0.016s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:40 202789900  1614479860
+use wskey
+
+real	0m0.231s
+user	0m0.063s
+sys	0m0.078s
+02/28/21 10:37:40 519630700  1614479860 token: AAFgOwH0ADAmeJxvgLJUCWwt1Rn29RkzY_zSz9hdG1m8PMzu6aUqmDqGu4_9uzgAPhPS-QT8reM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.268s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:37:40 851390400  1614479860 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:40 908835000  1614479860 移动签到伊利牛奶官方旗舰店
+
+real	0m0.202s
+user	0m0.016s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:41 809497000 1614479861
+
+real	0m1.123s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.197s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:43 374392500  1614479863
+use wskey
+
+real	0m0.275s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:43 767631400  1614479863 token: AAFgOwH3ADBdRkGGLq3htWV7ZDm6EZOgcoOlgljFB2Jy-a4wYBhqimS-S3qHvG4nnsJggvhu72Y
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.284s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:44 139671000  1614479864 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:44 250383000  1614479864 移动签到伊利牛奶官方旗舰店
+
+real	0m0.201s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:45 629559600 1614479865
+
+real	0m1.604s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.196s
+user	0m0.031s
+sys	0m0.016s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:47 609108600  1614479867
+use wskey
+
+real	0m0.215s
+user	0m0.047s
+sys	0m0.078s
+02/28/21 10:37:47 921241300  1614479867 token: AAFgOwH7ADDYB-aiWFGK5Y0B2ui9W4rSRhBIuDO54LjiL_jLL4kKJlaXl3bNTJOjvZTu0RxexFc
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.256s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:37:48 301621900  1614479868 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:48 369552800  1614479868 移动签到伊利牛奶官方旗舰店
+
+real	0m0.196s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:49 351151100 1614479869
+
+real	0m1.584s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m0.169s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:51 351000400  1614479871
+use wskey
+
+real	0m0.255s
+user	0m0.047s
+sys	0m0.094s
+02/28/21 10:37:51 638884800  1614479871 token: AAFgOwH_ADDq3inbjY0EsbKN3HOrK6Opei9KUuogWJ6pQVIkV8H0sutQ1qzp31fRmijR39WreQo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.390s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:37:52 049965400  1614479872 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:52 115598100  1614479872 移动签到伊利牛奶官方旗舰店
+
+real	0m0.232s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:53 225694500 1614479873
+
+real	0m1.844s
+user	0m0.016s
+sys	0m0.094s
+
+real	0m0.241s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:55 567503300  1614479875
+use wskey
+
+real	0m0.295s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:37:55 923956400  1614479875 token: AAFgOwIDADDKwAFdkb2YAkhhD24i-8hYwX8kO72AGUKUOuu5brWgfElG0MPffY5lc-ewakongXQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.265s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:37:56 248428700  1614479876 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:37:56 381425200  1614479876 移动签到伊利牛奶官方旗舰店
+
+real	0m0.195s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:37:57 424923300 1614479877
+
+real	0m1.942s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.236s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:37:59 779867700  1614479879
+use wskey
+
+real	0m0.289s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:00 128273300  1614479880 token: AAFgOwIIADD0VSuRsUIV2MxwygbrKhVpNlp85Kuon7KeZDYssphv3K70CBoLfwzK0FyaElJGKJ8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.205s
+user	0m0.078s
+sys	0m0.016s
+02/28/21 10:38:00 403832700  1614479880 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:00 443525900  1614479880 移动签到伊利牛奶官方旗舰店
+
+real	0m0.211s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:01 537424600 1614479881
+
+real	0m2.141s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.208s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:04 042589500  1614479884
+use wskey
+
+real	0m0.210s
+user	0m0.094s
+sys	0m0.063s
+02/28/21 10:38:04 340274600  1614479884 token: AAFgOwIMADAVnRQ1i1Bq-nCXEtgqr6JllnrwaE7FfjzvMSY3AA_eH_-k4SCOFNoWnS83__DQrQY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.327s
+user	0m0.078s
+sys	0m0.063s
+02/28/21 10:38:04 725262600  1614479884 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:04 818699600  1614479884 移动签到伊利牛奶官方旗舰店
+
+real	0m0.357s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:06 182701300 1614479886
+
+real	0m2.488s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.234s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:09 051837900  1614479889
+use wskey
+
+real	0m0.249s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:38:09 337053400  1614479889 token: AAFgOwIRADDg2-5ybf0-nSpcD10B5P-jFjGgTDCKqC6PwFlvr2MG6aIU95DCeefEwDNANQze0q4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.317s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:38:09 696337600  1614479889 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:09 730374900  1614479889 移动签到伊利牛奶官方旗舰店
+
+real	0m0.238s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:11 037109700 1614479891
+
+real	0m2.609s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m0.326s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:14 026908300  1614479894
+use wskey
+
+real	0m0.125s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:38:14 169306600  1614479894 token: AAFgOwIWADCWJfgJNMeug57c1nWvCSwgmcC_w7VL13ddzgsjUGy5QmJvTPXwx2bjiXaQhpc5PxU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.448s
+user	0m0.063s
+sys	0m0.031s
+02/28/21 10:38:14 678895800  1614479894 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:14 750205200  1614479894 移动签到伊利牛奶官方旗舰店
+
+real	0m0.126s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:15 739808000 1614479895
+
+real	0m2.815s
+user	0m0.016s
+sys	0m0.078s
+
+real	0m1.008s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:19 767770600  1614479899
+use wskey
+
+real	0m0.402s
+user	0m0.063s
+sys	0m0.109s
+02/28/21 10:38:20 255031500  1614479900 token: AAFgOwIcADDVRVmrHxuKHZBfyg29yZE7U769-dEWq4rGaquS9FQr53o9BjKF5f30FsEZ8_SP3a0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.244s
+user	0m0.063s
+sys	0m0.063s
+02/28/21 10:38:20 554350900  1614479900 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:20 594400800  1614479900 移动签到伊利牛奶官方旗舰店
+
+real	0m0.218s
+user	0m0.000s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:21 432184700 1614479901
+
+real	0m2.927s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.130s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:24 573898600  1614479904
+use wskey
+
+real	0m0.223s
+user	0m0.047s
+sys	0m0.094s
+02/28/21 10:38:24 838767200  1614479904 token: AAFgOwIgADBQq_dor4T1pC0QISxoD2z8Xqdqmj0KYwOG_FrsrWR3x0amISbpLd0zGvCbFYluwQs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.215s
+user	0m0.078s
+sys	0m0.047s
+02/28/21 10:38:25 130400200  1614479905 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:25 180941900  1614479905 移动签到伊利牛奶官方旗舰店
+
+real	0m0.347s
+user	0m0.016s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:25 931536100 1614479905
+
+real	0m3.085s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.192s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:29 266493300  1614479909
+use wskey
+
+real	0m0.153s
+user	0m0.047s
+sys	0m0.078s
+02/28/21 10:38:29 448815000  1614479909 token: AAFgOwIlADBiGGpxVAcYs7bhMZ9jja4No_R5mZprEsegoVZkj00hG-C3l-XDoOVQr5IzNcuX55s
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.182s
+user	0m0.063s
+sys	0m0.047s
+02/28/21 10:38:29 672114900  1614479909 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:29 695748300  1614479909 移动签到伊利牛奶官方旗舰店
+
+real	0m0.124s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:30 183350500 1614479910
+
+real	0m3.300s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.120s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:33 648908600  1614479913
+use wskey
+
+real	0m0.140s
+user	0m0.078s
+sys	0m0.047s
+02/28/21 10:38:33 813825200  1614479913 token: AAFgOwIpADDg3aRGNtnZsuHCDPj1F4sOlzdUaz0qJ0i61WkyDde2cnQYodT_LUTvVjx-tasjDdw
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.136s
+user	0m0.047s
+sys	0m0.109s
+02/28/21 10:38:33 971222900  1614479913 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:33 991886000  1614479913 移动签到伊利牛奶官方旗舰店
+
+real	0m0.106s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:34 385374700 1614479914
+
+real	0m3.458s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.111s
+user	0m0.031s
+sys	0m0.016s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:37 990058500  1614479917
+use wskey
+
+real	0m0.123s
+user	0m0.047s
+sys	0m0.078s
+02/28/21 10:38:38 126145200  1614479918 token: AAFgOwIuADDWm5_Cz2nGivhgBxI-9FkslO7RHkC5sniOv2HVl9U5Ho1418V4DssJ57xonl9GkNI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.112s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:38:38 254223100  1614479918 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:38 268910600  1614479918 移动签到伊利牛奶官方旗舰店
+
+real	0m0.105s
+user	0m0.000s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:38 706364700 1614479918
+
+real	0m3.647s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.086s
+user	0m0.000s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:42 479738800  1614479922
+use wskey
+
+real	0m0.128s
+user	0m0.031s
+sys	0m0.063s
+02/28/21 10:38:42 619284600  1614479922 token: AAFgOwIyADBzHxral7hbEh05wZWeuxhy0PnhQmIYpONyRQ81OGnJt6pWDe3a-qZTIAtYnCnnwWY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.097s
+user	0m0.078s
+sys	0m0.031s
+02/28/21 10:38:42 731207100  1614479922 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:42 746570800  1614479922 移动签到伊利牛奶官方旗舰店
+
+real	0m0.114s
+user	0m0.031s
+sys	0m0.016s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:43 216284000 1614479923
+
+real	0m3.846s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.088s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+02/28/21 10:38:47 183619000  1614479927
+use wskey
+
+real	0m0.107s
+user	0m0.047s
+sys	0m0.047s
+02/28/21 10:38:47 301640400  1614479927 token: AAFgOwI3ADDPIuFHzDYGvgn6drkDchHepK5axDW-msF9zhJ9Wiu4ApBd-uCczP6SMrmiL3JtmeA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.107s
+user	0m0.047s
+sys	0m0.063s
+02/28/21 10:38:47 421032500  1614479927 secretPin: 
+[WARN] get secretPin error
+
+02/28/21 10:38:47 432397000  1614479927 移动签到伊利牛奶官方旗舰店
+
+real	0m0.081s
+user	0m0.016s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+02/28/21 10:38:47 766479700 1614479927
+
+real	0m3.964s
+user	0m0.000s
+sys	0m0.047s
+02/28/21 10:39:31 849926300  1614479971
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/yili2_delay
+
+移动签到伊利牛奶官方旗舰店查看结果
+
+
+
+伊利牛奶官方旗舰店活动规则
+
+
+# 活动时间：2021.02.01 00:29:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10元优惠券
+连续签到5天：15元优惠券
+连续签到10天：30元优惠券
+连续签到15天：优酸乳原味半价购
+连续签到28天：赠送赠送谷粒多红养颗颗
+"
+
+#店铺名称
+vendername="伊利牛奶官方旗舰店"
+#店铺激活码
+actId="b1d87d7302234f1b937d56bce7b1ba42"
+##店铺id
+venderId="115090"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="24"
+sign_total_num="24"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 24 天
+签到总天数 24"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="14"
+sign_total_num="15"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 14 天
+签到总天数 15"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="24"
+sign_total_num="24"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 24 天
+签到总天数 24"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1612396800;signed=2
+signTime=1612483200;signed=2
+signTime=1612569600;signed=2
+signTime=1612656000;signed=2
+signTime=1612742400;signed=2
+signTime=1612828800;signed=2
+signTime=1612915200;signed=2
+signTime=1613001600;signed=2
+signTime=1613088000;signed=2
+signTime=1613174400;signed=2
+signTime=1613260800;signed=2
+signTime=1613347200;signed=2
+signTime=1613433600;signed=2
+signTime=1613520000;signed=2
+signTime=1613606400;signed=2
+signTime=1613692800;signed=2
+signTime=1613779200;signed=2
+signTime=1613865600;signed=2
+signTime=1613952000;signed=2
+signTime=1614038400;signed=2
+signTime=1614124800;signed=2
+signTime=1614211200;signed=2
+signTime=1614297600;signed=2
+signTime=1614384000;signed=2"
+sign_num="24"
+sign_total_num="24"
+giftName="null"
+giftRes="ok"
+giftDate="20210227"
+sign_res_info="
+2021/02/04_08:00:00  [已~签~到]      
+2021/02/05_08:00:00  [已~签~到]      
+2021/02/06_08:00:00  [已~签~到]      
+2021/02/07_08:00:00  [已~签~到]      
+2021/02/08_08:00:00  [已~签~到]      
+2021/02/09_08:00:00  [已~签~到]      
+2021/02/10_08:00:00  [已~签~到]      
+2021/02/11_08:00:00  [已~签~到]      
+2021/02/12_08:00:00  [已~签~到]      
+2021/02/13_08:00:00  [已~签~到]      
+2021/02/14_08:00:00  [已~签~到]      
+2021/02/15_08:00:00  [已~签~到]      
+2021/02/16_08:00:00  [已~签~到]      
+2021/02/17_08:00:00  [已~签~到]      
+2021/02/18_08:00:00  [已~签~到]      
+2021/02/19_08:00:00  [已~签~到]      
+2021/02/20_08:00:00  [已~签~到]      
+2021/02/21_08:00:00  [已~签~到]      
+2021/02/22_08:00:00  [已~签~到]      
+2021/02/23_08:00:00  [已~签~到]      
+2021/02/24_08:00:00  [已~签~到]      
+2021/02/25_08:00:00  [已~签~到]      
+2021/02/26_08:00:00  [已~签~到]      
+2021/02/27_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 24 天
+签到总天数 24"
+#移动 jd_OeTNobRVGiNZ sign_res_end
