@@ -15,57 +15,63 @@ actId="6365de679b174d909e5474ce869c32fe"
 venderId="1000348442"
 #赵 122294312-396444 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="8"
-sign_total_num="29"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="9"
+sign_total_num="30"
 giftName="null"
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 8 天
-签到总天数 29"
+连续签到 9 天
+签到总天数 30"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="16"
-sign_total_num="17"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="17"
+sign_total_num="18"
 giftName="null"
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 16 天
-签到总天数 17"
+连续签到 17 天
+签到总天数 18"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="8"
-sign_total_num="29"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="9"
+sign_total_num="30"
 giftName="null"
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 8 天
-签到总天数 29"
+连续签到 9 天
+签到总天数 30"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="8"
-sign_total_num="29"
-giftName="null"
-giftRes="ok"
-giftDate="20210301"
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210302"
 sign_res_info="
-2021/03/01_08:00:00  [已~签~到]      
-当天签到奖励 [null]
-连续签到 8 天
-签到总天数 29"
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
 #移动 jd_OeTNobRVGiNZ sign_res_end

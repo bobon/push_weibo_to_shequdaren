@@ -16,57 +16,63 @@ actRule="
 "
 #赵 122294312-396444 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210301"
+giftDate="20210302"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
-signTime=1614556800;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName=""10积分""
-giftRes="ok"
-giftDate="20210301"
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210302"
 sign_res_info="
-2021/03/01_08:00:00  [已~签~到]      
-当天签到奖励 ["10积分"]
-连续签到 2 天
-签到总天数 2"
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
 #移动 jd_OeTNobRVGiNZ sign_res_end

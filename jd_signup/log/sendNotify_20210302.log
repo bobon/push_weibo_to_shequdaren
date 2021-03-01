@@ -1,0 +1,43 @@
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210302_045501_950085900
+
+api_vender/shop_1614116103_32  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7271929A6F0673DA4019C8C5A681F568
+发现明天是 [肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885] 签到 [水裕青食品饮料专营店] 的第 3 天，将要获取到奖品[ 3 京豆]
+明天立即执行. 不改名字 api_vender/shop_1614116103_32
+
+api_vender/shop_1614608665_17_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=837A6266C629DC65E26FED55A919C37E
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [蝶印京东自营旗舰店] 的第 3 天，将要获取到奖品[ 3 京豆]
+[RUN] 明天立即执行. api_vender/shop_1614608665_17_delay --> api_vender/shop_1614608665_17
+
+api_vender/shop_1614608682_22_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=95015697779C9950A1A5D1A7C2B4863C
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [CHUMS运动户外旗舰店] 的第 3 天，将要获取到奖品[ 10 京豆]
+[RUN] 明天立即执行. api_vender/shop_1614608682_22_delay --> api_vender/shop_1614608682_22
+
+api_vender/shop_1614608690_24_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9E16AF6539DB0BDFE6ED00656ECD0B08
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [寅书母婴官方旗舰店] 的第 3 天，将要获取到奖品[ 2 京豆]
+[RUN] 明天立即执行. api_vender/shop_1614608690_24_delay --> api_vender/shop_1614608690_24
+
+vender/aoyouruye_delay  
+发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204] 签到 [澳优乳业官方旗舰店] 的第 7 天，将要获取到奖品[ 10京豆 10京豆]
+[RUN] 明天立即执行. vender/aoyouruye_delay --> vender/aoyouruye
+
+vender/shop_1613052102_8_delay  
+发现明天是 [王 1309893722-164885] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
+
+vender/shop_1613052185_19_delay  
+发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [尤妮佳舒蔻京东自营官方旗舰店] 的第 10 天，将要获取到奖品[ 10积分 10积分]
+
+vender/shop_1613569734_15_delay  
+vender/shop_1613569763_104_delay  
+vender/shop_1614116065_18  https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6311b018ecfa4319b37d0003638468af&venderId=143153&adsource=tg_xuanFuTuBiao
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [歌德老酒行精品旗舰店] 的第 7 天，将要获取到奖品[ 5京豆 5京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ; 王 1309893722-164885] 签到 [歌德老酒行精品旗舰店] 的第 1 天，将要获取到奖品[ 1积分 1积分]
+明天立即执行. 不改名字 vender/shop_1614116065_18
+
+vender/shop_1614116294_94_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [杨国福旗舰店] 的第 7 天，将要获取到奖品[ 5元优惠券]
+
+[RUN] 明天签到 英氏YeeHoO旗舰店, 不会获取奖品. vender/shop_1614516084_0 --> vender/shop_1614516084_0_delay
+

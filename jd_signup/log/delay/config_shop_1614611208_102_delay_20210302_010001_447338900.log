@@ -1,0 +1,148 @@
+03/02/21 01:08:56 481384000  1614618536
+RANDOM_num: 20
+removed '/tmp/tmp.SplklPkXNz'
+03/02/21 01:08:56 573949800  1614618536 检查122294312-396444签到
+removed '/tmp/tmp.ZQRVq18hDY'
+03/02/21 01:08:56 651375100  1614618536 检查1309893722-164885签到
+
+03/02/21 01:08:56 699147700  1614618536 赵签到雅鹿自由自在家纺京东自营旗舰店
+
+real	0m0.106s
+user	0m0.000s
+sys	0m0.078s
+{"msg":"当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+活动已结束. /home/myid/jd/jd_signup/api_vender/shop_1614611208_102_delay --> /home/myid/jd/jd_signup/api_vender/shop_1614611208_102_del
+renamed '/home/myid/jd/jd_signup/api_vender/shop_1614611208_102_delay' -> '/home/myid/jd/jd_signup/api_vender/shop_1614611208_102_del'
+
+03/02/21 01:09:17 001043000  1614618557
+赵签到雅鹿自由自在家纺京东自营旗舰店查看结果
+
+
+
+赵签到雅鹿自由自在家纺京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1614355200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614441600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614612031370,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1614614400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614700800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614787200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614873600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614960000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 1
+}
+王签到雅鹿自由自在家纺京东自营旗舰店日志
+
+# 短链接
+suo_url=""
+venderId=1000008426
+startTime=1614355200000
+endTime=1615046399000
+activityId=10280178
+token=0D2FACA86DD610A7A034A7CA0905E42B
+#店铺名称
+vendername="雅鹿自由自在家纺京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=0D2FACA86DD610A7A034A7CA0905E42B
+# 活动时间：2021.02.27 00:00:00 - 2021.03.06 23:59:59
+# 奖励说明：
+actRule="
+连续签到4天：20京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614612031;signed=2;currentDay=1
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3"
+sign_num="1"
+giftName=""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_23:20:31  1    [已~签~到]
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+当天签到奖励 []
+已签到 1 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614528000;signed=1;currentDay=1
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3"
+sign_num="0"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210301"
+sign_res_info="
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_00:00:00  1    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+当天签到奖励 []
+已签到 0 天"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614612170;signed=2;currentDay=1
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3"
+sign_num="1"
+giftName=""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_23:22:50  1    [已~签~到]
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+当天签到奖励 []
+已签到 1 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614528000;signed=1;currentDay=1
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3"
+sign_num="0"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210301"
+sign_res_info="
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_00:00:00  1    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+当天签到奖励 []
+已签到 0 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,770 @@
+03/02/21 04:03:40 023269400  1614629020
+RANDOM_num: 20
+removed '/tmp/tmp.gukl56Ww03'
+03/02/21 04:03:40 183353200  1614629020 检查移动签到
+
+real	0m0.162s
+user	0m0.031s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629620	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629620	LZ_TOKEN_KEY	lztokenpagea0e195cebd81492fa1890c8058038961
+03/02/21 04:03:40 444610600  1614629020
+use wskey
+
+real	0m0.125s
+user	0m0.063s
+sys	0m0.063s
+03/02/21 04:03:40 584881200  1614629020 token: AAFgPUicADCgNvUejTpHSvQPUEu5mISmMSYeATVB5Ilw6_aDUJAXbSj3SCBuIdmww61rKTAHOH8
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.256s
+user	0m0.031s
+sys	0m0.094s
+03/02/21 04:03:40 855439200  1614629020 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:40 868079500  1614629020 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.559s
+user	0m0.031s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:41 741340100 1614629021
+
+real	0m0.230s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.182s
+user	0m0.000s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629622	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629622	LZ_TOKEN_KEY	lztokenpaged3780ef1c09446d0a5d1afa8c1bce8a0
+03/02/21 04:03:42 200978400  1614629022
+use wskey
+
+real	0m0.168s
+user	0m0.094s
+sys	0m0.078s
+03/02/21 04:03:42 384354900  1614629022 token: AAFgPUieADCVwuwYi8WXpto8rL1QFqJTQ5P23ibMq5it9L6oOfNLngbzaatxEu5boIvEgdClSVI
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.265s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 04:03:42 669682900  1614629022 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:42 687045800  1614629022 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.139s
+user	0m0.031s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:43 168253400 1614629023
+
+real	0m0.431s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.166s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629623	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629623	LZ_TOKEN_KEY	lztokenpage5f6ea660903346769d1fd3d72557ead5
+03/02/21 04:03:43 804848400  1614629023
+use wskey
+
+real	0m0.121s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 04:03:43 941459400  1614629023 token: AAFgPUifADCDlKU0jSOjg4SOHsL2iYreTiHncGnSpLUHoqke1l5V4VlpKAt2my2dMz5jcxIIeJA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.278s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 04:03:44 245700500  1614629024 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:44 263924500  1614629024 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.167s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:44 833763500 1614629024
+
+real	0m0.628s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.228s
+user	0m0.000s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629625	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629625	LZ_TOKEN_KEY	lztokenpage227742a80bdb46a687555ed30ac4667e
+03/02/21 04:03:45 736178200  1614629025
+use wskey
+
+real	0m0.140s
+user	0m0.047s
+sys	0m0.094s
+03/02/21 04:03:45 890645800  1614629025 token: AAFgPUihADDBbd7sFuVAWNuMqLtIw3DBxQ3NIFXdumLXtmeqJhbn42VEj9SDShWCPnftWAbMb4Q
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.270s
+user	0m0.063s
+sys	0m0.031s
+03/02/21 04:03:46 176850300  1614629026 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:46 225265700  1614629026 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.160s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:46 848844300 1614629026
+
+real	0m0.843s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m0.240s
+user	0m0.016s
+sys	0m0.141s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629627	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629627	LZ_TOKEN_KEY	lztokenpage576827b40cdc4a1d9bdd428de43cf733
+03/02/21 04:03:47 966875900  1614629027
+use wskey
+
+real	0m0.173s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 04:03:48 160579600  1614629028 token: AAFgPUikADAU5RjeRF7mDKrSvrrWSgl--4UUNZXIc4vNNqFiUTGzJ-KQimvXtJysy3Ajoh_rbdk
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.303s
+user	0m0.109s
+sys	0m0.047s
+03/02/21 04:03:48 489391900  1614629028 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:48 506301300  1614629028 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.179s
+user	0m0.016s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:49 209071700 1614629029
+
+real	0m1.028s
+user	0m0.016s
+sys	0m0.000s
+
+real	0m0.206s
+user	0m0.031s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629630	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629630	LZ_TOKEN_KEY	lztokenpage753e68897855409f850ef30d05e5ebbf
+03/02/21 04:03:50 489011200  1614629030
+use wskey
+
+real	0m0.138s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 04:03:50 646976600  1614629030 token: AAFgPUimADB1P7PySGxalJ4mtyxBnptKaIJ73uHCOmLZUtUru6D1oibOmETvd4VZo4RjaKfClwU
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.307s
+user	0m0.094s
+sys	0m0.063s
+03/02/21 04:03:50 991096100  1614629030 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:51 027883200  1614629031 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.232s
+user	0m0.016s
+sys	0m0.109s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:51 657569000 1614629031
+
+real	0m1.250s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m0.189s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629633	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629633	LZ_TOKEN_KEY	lztokenpage13fec11631d44f6da0a5038933d012aa
+03/02/21 04:03:53 189081200  1614629033
+use wskey
+
+real	0m0.142s
+user	0m0.094s
+sys	0m0.063s
+03/02/21 04:03:53 350329700  1614629033 token: AAFgPUipADAo2ub61ghTQ-0zqKY30KsbBQ03MnebbG8s2h9EoQ0_3h67XFKjp0FOKYcOCeCzISg
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.329s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 04:03:53 700804700  1614629033 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:53 716167500  1614629033 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.158s
+user	0m0.047s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:54 250606700 1614629034
+
+real	0m1.442s
+user	0m0.016s
+sys	0m0.000s
+
+real	0m0.203s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629635	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629635	LZ_TOKEN_KEY	lztokenpage5f72cccf849b4236882355d6b4fd8e77
+03/02/21 04:03:55 943405200  1614629035
+use wskey
+
+real	0m0.124s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 04:03:56 090752000  1614629036 token: AAFgPUisADDe0Wi5ZbvliA2qIcxltuSB4WtE8aL1gM5-EYP_aPtdhOTlHTp3CFhu_gL8qUx-WRg
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.317s
+user	0m0.078s
+sys	0m0.156s
+03/02/21 04:03:56 436634300  1614629036 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:56 458440100  1614629036 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.153s
+user	0m0.000s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:03:57 025773200 1614629037
+
+real	0m1.636s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.196s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629638	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629638	LZ_TOKEN_KEY	lztokenpageb909ce7b874b42a880131efdf9ca927e
+03/02/21 04:03:58 913774800  1614629038
+use wskey
+
+real	0m0.186s
+user	0m0.063s
+sys	0m0.172s
+03/02/21 04:03:59 151025500  1614629039 token: AAFgPUivADBeWnd5DDCZ4nrgO1KLExk1Meci704MuHW_RhLZQwes8GMpVR4X1D2TNDdPZo9zyVY
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.328s
+user	0m0.078s
+sys	0m0.125s
+03/02/21 04:03:59 497039200  1614629039 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:03:59 512021000  1614629039 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.216s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:04:00 464181400 1614629040
+
+real	0m1.869s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m12.313s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629654	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629654	LZ_TOKEN_KEY	lztokenpagec258c89b9ea54e84866748dc181bec6a
+03/02/21 04:04:14 704193900  1614629054
+use wskey
+
+real	0m0.243s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 04:04:15 025842700  1614629055 token: AAFgPUi-ADAWq_BPd48ukCwRJDtC9TRf_e5fH1TCSuYBZnhs35XEJZhsSuXFJ6ZkqoH928ZtzFU
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.667s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 04:04:15 746225000  1614629055 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:15 818204300  1614629055 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.483s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:04:18 192297200 1614629058
+
+real	0m2.372s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.605s
+user	0m0.031s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629661	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629661	LZ_TOKEN_KEY	lztokenpageff98a0f7b5274718a27c93a8408491d4
+03/02/21 04:04:21 427681100  1614629061
+use wskey
+
+real	0m0.501s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 04:04:22 018838900  1614629062 token: AAFgPUjFADA1oMhjfPnrS0KGYf2K08rOAha6rTOa5LXuF4PIN-pEQz0G9BlkP9dJpZvEPrqy64s
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.585s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 04:04:22 677210100  1614629062 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:22 758424300  1614629062 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.374s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:04:24 460857600 1614629064
+
+real	0m2.436s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.346s
+user	0m0.047s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629667	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614629667	LZ_TOKEN_KEY	lztokenpage6cbee8ac4f424aa5ac5a6389442c67c3
+03/02/21 04:04:27 580092900  1614629067
+use wskey
+
+real	0m0.325s
+user	0m0.094s
+sys	0m0.141s
+03/02/21 04:04:28 012911500  1614629068 token: AAFgPUjLADCCR1dy0-zpeuQdZXmZ4O4c1WgplNB_xJhC9zOkFKwxkv5WpsVHV5L2iFE-5UAK5zU
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.474s
+user	0m0.109s
+sys	0m0.047s
+03/02/21 04:04:28 538282700  1614629068 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:28 576790700  1614629068 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.289s
+user	0m0.031s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 04:04:29 697052300 1614629069
+
+real	0m2.452s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.229s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:32 470014900  1614629072
+use wskey
+
+real	0m0.235s
+user	0m0.094s
+sys	0m0.125s
+03/02/21 04:04:32 736932100  1614629072 token: AAFgPUjQADDXyMsD5e3DyIJfYcnC-r-CzuhlOU7A_o9OclzYY1fRCwxafjmKtTnRsYRqAavRIT0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.207s
+user	0m0.094s
+sys	0m0.125s
+03/02/21 04:04:32 977818100  1614629072 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:33 024732100  1614629073 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.268s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:34 083845400 1614629074
+
+real	0m2.731s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.194s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:37 227134400  1614629077
+use wskey
+
+real	0m0.212s
+user	0m0.125s
+sys	0m0.078s
+03/02/21 04:04:37 468184400  1614629077 token: AAFgPUjVADDA45iG_34BJJ69H7qO-8ekJGNslaR3s5PfZi8Kk7BFh7t5xOAkfd6YfUFqAsNRN7Q
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.220s
+user	0m0.125s
+sys	0m0.156s
+03/02/21 04:04:37 712850600  1614629077 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:37 745995000  1614629077 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.166s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:38 606609400 1614629078
+
+real	0m2.884s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.254s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:41 841749200  1614629081
+use wskey
+
+real	0m0.263s
+user	0m0.141s
+sys	0m0.109s
+03/02/21 04:04:42 164987400  1614629082 token: AAFgPUjaADAlvqL7s9zGl_za2BnwjoUlvXhs0NY5FClldBKA2Lyqgqg91PJ2cNoUkWll3sv3Pp0
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.213s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 04:04:42 421130400  1614629082 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:42 454530500  1614629082 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.182s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:43 287934200 1614629083
+
+real	0m3.059s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.319s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:46 825485800  1614629086
+use wskey
+
+real	0m0.343s
+user	0m0.125s
+sys	0m0.141s
+03/02/21 04:04:47 228326400  1614629087 token: AAFgPUjfADDKDt1Vn0wNmXuShAj7trfvLbPHRc0JGmsXQ1gGqVpsrCEfeP-LFBgQkgQVj5APIuM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.233s
+user	0m0.094s
+sys	0m0.125s
+03/02/21 04:04:47 495534900  1614629087 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:47 536550700  1614629087 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.206s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:48 275512600 1614629088
+
+real	0m3.275s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.178s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:51 774991400  1614629091
+use wskey
+
+real	0m0.135s
+user	0m0.047s
+sys	0m0.109s
+03/02/21 04:04:51 927136100  1614629091 token: AAFgPUjjADCjSVcDI1X2oLJSTJGoEYy9e8La7acwXfDEq8hMIHueKWL9plqkcaI7lexn4dyHEvM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.128s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 04:04:52 070415600  1614629092 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:52 084323800  1614629092 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.126s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:52 575112800 1614629092
+
+real	0m3.448s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.143s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 04:04:56 214419700  1614629096
+use wskey
+
+real	0m0.146s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 04:04:56 376125000  1614629096 token: AAFgPUjoADA1tLoWZ3Auu2XdeDmCihihq1Yxnui2cY6n_5zm-ZNTqV4fO0bgU2aoW17OGdTOals
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.135s
+user	0m0.063s
+sys	0m0.125s
+03/02/21 04:04:56 528477400  1614629096 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:04:56 551317400  1614629096 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.118s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:04:57 252224400 1614629097
+
+real	0m3.655s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.161s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/02/21 04:05:01 151747100  1614629101
+use wskey
+
+real	0m0.150s
+user	0m0.063s
+sys	0m0.109s
+03/02/21 04:05:01 330024500  1614629101 token: AAFgPUjtADBvyehmwm2rceBmIpQzpjrmPB-PH4kyVQvDhEogEzvi0paQHXhEoBKJfaCx9Q8Rb6Y
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.219s
+user	0m0.109s
+sys	0m0.125s
+03/02/21 04:05:01 571674300  1614629101 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:05:01 591623200  1614629101 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.140s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:05:02 119305200 1614629102
+
+real	0m3.836s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.124s
+user	0m0.016s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 04:05:06 145367000  1614629106
+use wskey
+
+real	0m0.119s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 04:05:06 279701200  1614629106 token: AAFgPUjyADClUB1seHsQfyEIgynZcTND92PYNiW6XmFUV21FAI2C2A4sgi88g6FZpbvQpLo1XDo
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.123s
+user	0m0.094s
+sys	0m0.078s
+03/02/21 04:05:06 417472300  1614629106 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 04:05:06 432770900  1614629106 移动签到GARMIN佳明官方旗舰店
+
+real	0m0.104s
+user	0m0.000s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 04:05:06 924206600 1614629106
+
+real	0m4.031s
+user	0m0.000s
+sys	0m0.047s
+03/02/21 04:05:31 071381600  1614629131
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614611208_104_delay
+
+移动签到GARMIN佳明官方旗舰店查看结果, 活动规则
+
+
+#店铺名称
+vendername="GARMIN佳明官方旗舰店"
+#店铺激活码
+actId="13126645fcb2477fa1090a94cb7f3ca2"
+#店铺id
+venderId="206265"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_xuanFuTuBiao"
+
+startTime=1612407600
+endTime=1614787140
+# 活动时间：2021-02-04 11:00 - 2021-03-03 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：1京豆
+连续签到3天：10元优惠券
+连续签到4天：1京豆
+连续签到5天：20元优惠券
+连续签到6天：1京豆
+连续签到7天：50元优惠券
+"
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["1京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

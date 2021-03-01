@@ -1,0 +1,125 @@
+03/02/21 00:00:00 879817100  1614614400
+RANDOM_num: 15
+force to sign
+
+real	0m0.427s
+user	0m0.016s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615001	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615001	LZ_TOKEN_KEY	lztokenpage9d5aad4e34d84024a73c7a8051f3906b
+03/02/21 00:00:02 420258800  1614614402
+use pt_key
+
+real	0m0.916s
+user	0m0.141s
+sys	0m0.109s
+03/02/21 00:00:03 585552800  1614614403 token: AAFgPQ-DADDzUeTiNMvHmVyFzy0NBHh2THTOZZzojRC9g8oJTZ0Jpahu8YWXkDHZMDux91GfbA8
+
+real	0m1.525s
+user	0m0.141s
+sys	0m0.078s
+03/02/21 00:00:05 381784500  1614614405 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/02/21 00:00:05 599288800  1614614405 王签到英氏YeeHoO奥特莱斯店
+
+real	0m0.805s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 00:00:08 829606800 1614614408
+
+real	0m0.553s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.540s
+user	0m0.000s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615009	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615009	LZ_TOKEN_KEY	lztokenpage44153dbbe8eb4fa4967f87ad699742d0
+03/02/21 00:00:10 261232400  1614614410
+use pt_key
+
+real	0m0.682s
+user	0m0.109s
+sys	0m0.094s
+03/02/21 00:00:11 293551100  1614614411 token: AAFgPQ-KADA6MdLjdcdsk5TJci5pUW6l8e-0Un0WbdxLn9cp1midWURCPbY95K8R3C9BucCk1aM
+
+real	0m0.967s
+user	0m0.094s
+sys	0m0.109s
+03/02/21 00:00:12 596457900  1614614412 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/02/21 00:00:13 134169300  1614614413 王签到英氏YeeHoO奥特莱斯店
+
+real	0m1.754s
+user	0m0.078s
+sys	0m0.063s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569768_117 写入 over
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="5ff5ff7000d444a0893a41c1f678e4bf"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1612157940
+endTime=1614749940
+# 活动时间：2021-02-01 13:39 - 2021-03-03 13:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

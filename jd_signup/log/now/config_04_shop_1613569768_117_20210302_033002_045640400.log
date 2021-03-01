@@ -1,0 +1,813 @@
+03/02/21 03:30:02 720824400  1614627002
+RANDOM_num: 25
+removed '/tmp/tmp.snrEZGAoGD'
+03/02/21 03:30:03 215956900  1614627003 检查移动签到
+
+real	0m0.294s
+user	0m0.063s
+sys	0m0.016s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627603	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627603	LZ_TOKEN_KEY	lztokenpage61525a528747449e96cf03c74b9d1c50
+03/02/21 03:30:03 881397700  1614627003
+use wskey
+
+real	0m0.300s
+user	0m0.109s
+sys	0m0.094s
+03/02/21 03:30:04 216511000  1614627004 token: AAFgPUC8ADAbiFTiCHcLqXuNxzTvlFEstKGgHOkRn96JqiKsuJE1DNP98M0biT7A3NvNmXFvdcE
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.378s
+user	0m0.016s
+sys	0m0.047s
+03/02/21 03:30:04 614951300  1614627004 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:04 636426300  1614627004 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.210s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:05 426255400 1614627005
+
+real	0m0.271s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.208s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627605	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627605	LZ_TOKEN_KEY	lztokenpage41739a38082c4400b9a396613a8aa366
+03/02/21 03:30:05 945803800  1614627005
+use wskey
+
+real	0m0.156s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:30:06 115358500  1614627006 token: AAFgPUC-ADBssjm1M4I_NmkW-yBbENNylZuoTh70UkMJxPUd2rRrXTX2iHszlCu4DtnknoqnayM
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.275s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:06 422412100  1614627006 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:06 443544700  1614627006 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.248s
+user	0m0.016s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:07 192915100 1614627007
+
+real	0m0.434s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.206s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627607	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627607	LZ_TOKEN_KEY	lztokenpage21bf88a36aa14c518a41db0c524bb99e
+03/02/21 03:30:07 894628100  1614627007
+use wskey
+
+real	0m0.197s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:08 109479400  1614627008 token: AAFgPUDAADD4NOVJiSH1znqTVmL-ndlLp6mQKKC6YyOnREZ6NnZSOdaYsjYIBv9uDEZ2bOEBcAI
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.283s
+user	0m0.047s
+sys	0m0.125s
+03/02/21 03:30:08 412230400  1614627008 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:08 429623400  1614627008 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.184s
+user	0m0.000s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:08 966331700 1614627008
+
+real	0m0.675s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.202s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627609	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627609	LZ_TOKEN_KEY	lztokenpage43b0b8020677421692379571551b3c59
+03/02/21 03:30:09 898101600  1614627009
+use wskey
+
+real	0m0.120s
+user	0m0.031s
+sys	0m0.078s
+03/02/21 03:30:10 065372200  1614627010 token: AAFgPUDCADCe_J6yFDbGYcPCtRvmYyDxmN4Glg5pjbg7u3WvZ_TjmQXyI7SKbpjzq-60vAbUovc
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.328s
+user	0m0.078s
+sys	0m0.125s
+03/02/21 03:30:10 412922200  1614627010 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:10 427303400  1614627010 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.173s
+user	0m0.031s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:10 938386400 1614627010
+
+real	0m0.832s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.189s
+user	0m0.031s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627611	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627611	LZ_TOKEN_KEY	lztokenpagefb7a82463e42459797b842d118f33934
+03/02/21 03:30:11 995173200  1614627011
+use wskey
+
+real	0m0.141s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 03:30:12 150058300  1614627012 token: AAFgPUDEADAhNYaEy0aA-0KvJ4mCik6uB8bSGHzJRgguNG5DYwRpVq02TiRqQJjQ1Ee9KSq7aHg
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.277s
+user	0m0.047s
+sys	0m0.094s
+03/02/21 03:30:12 440716700  1614627012 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:12 454775700  1614627012 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.175s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:13 008951500 1614627013
+
+real	0m1.058s
+user	0m0.016s
+sys	0m0.000s
+
+real	0m0.169s
+user	0m0.031s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627614	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627614	LZ_TOKEN_KEY	lztokenpage8788f5df943b48e5a5011a41a59f088a
+03/02/21 03:30:14 270861300  1614627014
+use wskey
+
+real	0m0.140s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:14 438195500  1614627014 token: AAFgPUDGADAO67cZ4c811MoAioJ_WxUSDXqcTbQzExIBnKbtvLV9pcOiHYl8ajZItwTkV02f_o0
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.288s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:14 748279100  1614627014 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:14 766869300  1614627014 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.152s
+user	0m0.031s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:15 582306000 1614627015
+
+real	0m1.253s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.233s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627617	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627617	LZ_TOKEN_KEY	lztokenpagead18edab4e9a4012baca945c7654ef30
+03/02/21 03:30:17 106518500  1614627017
+use wskey
+
+real	0m0.131s
+user	0m0.109s
+sys	0m0.047s
+03/02/21 03:30:17 252272000  1614627017 token: AAFgPUDJADAxMENuRhfjCeVLDOnxPleGGbOohSzjQWqHQkmY4SfzVQ7QdWurNO7Z1dypq2zebH8
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.305s
+user	0m0.047s
+sys	0m0.125s
+03/02/21 03:30:17 570790500  1614627017 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:17 583647900  1614627017 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.113s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:18 176803900 1614627018
+
+real	0m1.447s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.212s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627619	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627619	LZ_TOKEN_KEY	lztokenpage66ecc87e4d1c48a0bd6d598bbd6484f2
+03/02/21 03:30:19 889489700  1614627019
+use wskey
+
+real	0m0.129s
+user	0m0.094s
+sys	0m0.078s
+03/02/21 03:30:20 050182100  1614627020 token: AAFgPUDMADAO8hHKDQRYVt-z7e8-xzHilCqswGUqfLbYE4jcuT35Wek4QYt16ifM4spWLjPveKA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.300s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:30:20 369286700  1614627020 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:20 384171000  1614627020 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.119s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:21 063764500 1614627021
+
+real	0m1.668s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.139s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:22 908642700  1614627022
+use wskey
+
+real	0m0.113s
+user	0m0.047s
+sys	0m0.078s
+03/02/21 03:30:23 055955400  1614627023 token: AAFgPUDPADAO8Xbfz8Lgy6TXv9--rnF_Givr7C0Pn8Y-WitBl2oNkHx0b5J5jvxDiF73Nwq_kSk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.170s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:23 250697500  1614627023 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:23 265048600  1614627023 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.105s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:23 664800100 1614627023
+
+real	0m1.831s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.133s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:25 663119300  1614627025
+use wskey
+
+real	0m0.119s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:25 795112400  1614627025 token: AAFgPUDRADArJjfjfahZFT8REwOcnMBavTFIsdI8wMx4sRY8jDJPDTpkCXNH625MEqcYEKlgRWY
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.108s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 03:30:25 917361600  1614627025 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:25 929568700  1614627025 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.118s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:26 375326600 1614627026
+
+real	0m2.028s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.159s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:28 599909100  1614627028
+use wskey
+
+real	0m0.111s
+user	0m0.047s
+sys	0m0.094s
+03/02/21 03:30:28 724290100  1614627028 token: AAFgPUDUADDNqCW95gcTM9S2S7cNaz_Ss7kgK2KSK_6BEBtIzRUC5q-LW3s9KYsfjZNVS7QmaSM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.110s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 03:30:28 847041200  1614627028 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:28 859489000  1614627028 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.100s
+user	0m0.000s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:29 276537700 1614627029
+
+real	0m2.229s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.141s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:31 685786600  1614627031
+use wskey
+
+real	0m0.184s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 03:30:31 883851600  1614627031 token: AAFgPUDXADBu3-gnTNRxNB8Y7n-x0870lDcCLoPeNRndKzHR3oqZKBm495c1GI-XL0YW02ZyDVk
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.109s
+user	0m0.031s
+sys	0m0.109s
+03/02/21 03:30:32 005849700  1614627032 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:32 018468100  1614627032 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.124s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:32 434381000 1614627032
+
+real	0m2.428s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.123s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:35 066280200  1614627035
+use wskey
+
+real	0m0.120s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:35 199966200  1614627035 token: AAFgPUDbADB9IJDiZ3RqVpi3Bqk7wqMWDpoihgbv5YNi4mzFBFJ634phm1JrGnj4HC2BZdEAU2g
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.108s
+user	0m0.094s
+sys	0m0.063s
+03/02/21 03:30:35 321077300  1614627035 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:35 334227300  1614627035 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.098s
+user	0m0.031s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:35 726021200 1614627035
+
+real	0m2.628s
+user	0m0.016s
+sys	0m0.000s
+
+real	0m0.116s
+user	0m0.016s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:38 516905700  1614627038
+use wskey
+
+real	0m0.128s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:30:38 657185300  1614627038 token: AAFgPUDeADANc2UeclRogy4DwVp_KNadeg2Aa1VyhRpm2aCPr3tUwj2_LJK2VPQ5eHSvn7czQDU
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.109s
+user	0m0.063s
+sys	0m0.063s
+03/02/21 03:30:38 779351700  1614627038 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:38 791920000  1614627038 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.107s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:39 271748700 1614627039
+
+real	0m2.835s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.103s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:42 245054300  1614627042
+use wskey
+
+real	0m0.130s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:42 387842600  1614627042 token: AAFgPUDiADCIvvUOgf8CUkkz6HPDlCLtsP9efllDhsK5a0Htys5kRvfcD9UjY8btjDJVKmYU9TI
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.108s
+user	0m0.078s
+sys	0m0.047s
+03/02/21 03:30:42 509816800  1614627042 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:42 522316200  1614627042 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.126s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:42 937466700 1614627042
+
+real	0m3.023s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.151s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:46 145314900  1614627046
+use wskey
+
+real	0m0.113s
+user	0m0.031s
+sys	0m0.063s
+03/02/21 03:30:46 374378700  1614627046 token: AAFgPUDmADAkv5X44505TaBE0E9j8iiO74j0tqI8rwOh-RFCeSjnHUOkZYxMsrjJPGWVGK-aYt4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.107s
+user	0m0.078s
+sys	0m0.047s
+03/02/21 03:30:46 495183100  1614627046 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:46 507552500  1614627046 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.093s
+user	0m0.000s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:46 972959200 1614627046
+
+real	0m3.246s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.306s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:50 577467600  1614627050
+use wskey
+
+real	0m0.117s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:50 708616600  1614627050 token: AAFgPUDqADAoueI0WZqQasn3TEWKgGT06cyDM_aD-NiiwvQ4yBA-Ng5Fy3eOtmdPhUdY_DRbtfQ
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.118s
+user	0m0.063s
+sys	0m0.063s
+03/02/21 03:30:50 852279100  1614627050 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:50 868059700  1614627050 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.107s
+user	0m0.000s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:51 314262200 1614627051
+
+real	0m3.449s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.198s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627654	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627654	LZ_TOKEN_KEY	lztokenpage8ab17f2d44d2464f9428c1edd367cba8
+03/02/21 03:30:55 010352300  1614627055
+use wskey
+
+real	0m0.143s
+user	0m0.047s
+sys	0m0.078s
+03/02/21 03:30:55 168254000  1614627055 token: AAFgPUDvADArKcW94yEvG2xnIZV6kJct0tIuAizHnt5TDC7n7BrkJDMlRskOVrgP95GAv0A9DM8
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.287s
+user	0m0.047s
+sys	0m0.109s
+03/02/21 03:30:55 471286000  1614627055 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:55 484109500  1614627055 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.149s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:55 929006400 1614627055
+
+real	0m3.615s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.209s
+user	0m0.016s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627659	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627659	LZ_TOKEN_KEY	lztokenpage869a3a1c4e4641b3b6ae80afd09c0b43
+03/02/21 03:30:59 786273800  1614627059
+use wskey
+
+real	0m0.137s
+user	0m0.094s
+sys	0m0.063s
+03/02/21 03:30:59 945341800  1614627059 token: AAFgPUDzADCXvTSfG_FEbakxuXR5_DQ0n3yrFdZd5sI-hf999GTTSuU7J9DPJaV-RxmkfXnOodA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.264s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 03:31:00 228291000  1614627060 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:31:00 244040500  1614627060 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.703s
+user	0m0.031s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:31:01 290787100 1614627061
+
+real	0m3.827s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.174s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627665	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627665	LZ_TOKEN_KEY	lztokenpagef5d37635638e49e7aff5a9fb12e9192d
+03/02/21 03:31:05 345419200  1614627065
+use wskey
+
+real	0m0.147s
+user	0m0.109s
+sys	0m0.078s
+03/02/21 03:31:05 506427200  1614627065 token: AAFgPUD5ADBnDA_tLWu_ae1tIrRICwC1MoJJjwYqIOBBsq1PgIRjcr_KNtPjeTOHqIb51WCaUCI
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.303s
+user	0m0.047s
+sys	0m0.078s
+03/02/21 03:31:05 835374300  1614627065 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:31:05 848751800  1614627065 移动签到英氏YeeHoO奥特莱斯店
+
+real	0m0.144s
+user	0m0.016s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:31:06 326740800 1614627066
+
+real	0m4.028s
+user	0m0.000s
+sys	0m0.031s
+03/02/21 03:32:25 475281400  1614627145
+false
+签到失败. 写入失败的giftName: null
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+移动签到英氏YeeHoO奥特莱斯店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"c622932409824ce28d80b0693331e7a0","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"6京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"e33a730b162942be8d8b28c9e265ad98","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"7京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"e75dadd7bc604eb4a495fcd37c7228ed","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"8京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"09d092ffd424450d868f055955f90f76","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"9京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"cf1e43252d8146a39b4493d97142d039","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"121d669677f6439c8166b3769d709b39","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"15京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1140054","activityType":null},"imgUrl":"","giftInfoId":"7b0a50a997ea4d979001e5a6998c7bbc","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-01 13:39 - 2021-03-03 13:39；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、签到7天后不能再参加；
+5、第1天签到，有机会赠送5京豆；
+6、第2天签到，有机会赠送6京豆；
+7、第3天签到，有机会赠送7京豆；
+8、第4天签到，有机会赠送8京豆；
+9、第5天签到，有机会赠送9京豆；
+10、第6天签到，有机会赠送10京豆；
+11、第7天签到，有机会赠送15京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="5ff5ff7000d444a0893a41c1f678e4bf"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=5ff5ff7000d444a0893a41c1f678e4bf&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1612157940
+endTime=1614749940
+# 活动时间：2021-02-01 13:39 - 2021-03-03 13:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210228"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""15京豆""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["15京豆"]"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName="null"
+giftRes="很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~"
+giftDate="20210302"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

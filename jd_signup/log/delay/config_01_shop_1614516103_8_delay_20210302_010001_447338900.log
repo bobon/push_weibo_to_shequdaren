@@ -1,0 +1,109 @@
+03/02/21 01:16:38 223489500  1614618998
+RANDOM_num: 10
+removed '/tmp/tmp.INs4c7ykSp'
+03/02/21 01:16:38 326106400  1614618998 检查赵签到
+
+real	0m0.209s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614619598	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614619598	LZ_TOKEN_KEY	lztokenpage8cb20a55ab35493aaf41c300dfebf2a8
+03/02/21 01:16:38 646172200  1614618998
+use pt_key
+
+real	0m0.149s
+user	0m0.063s
+sys	0m0.125s
+03/02/21 01:16:38 810881200  1614618998 token: AAFgPSF2ADC31CiD_XmIwIN_LulNEpTneDlwNFRvDI70AnIsab3eSGT0NYPvWKw_MWFYwa0rTik
+
+real	0m0.299s
+user	0m0.016s
+sys	0m0.063s
+03/02/21 01:16:39 353152900  1614618999 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/02/21 01:16:39 393696800  1614618999 赵签到中顺洁柔官方自营旗舰店
+
+real	0m0.670s
+user	0m0.016s
+sys	0m0.078s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "1001000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "b029d1c0ba6f4755b2ace92223009797",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "lIsLhU"
+}
+true
+03/02/21 01:16:40 487199900 1614619000
+03/02/21 01:16:40 515345500 1614619000 签到中顺洁柔官方自营旗舰店完成
+03/02/21 01:16:50 616338200  1614619010
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+赵签到中顺洁柔官方自营旗舰店查看结果
+{"msg":"","giftLog":{"20210301":"y","20210302":"y"},"isOk":true,"signDetail":{"20210301":"y","20210302":"y"},"followDays":27,"signRecord":{"nicknameShow":null,"id":"a0c24881f1c140cc82ef428cd5a67835","venderId":1000306383,"actId":"ccf41f36d3dc4e439abff2f2c498f306","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210302,"contiSignNum":3,"totalSignNum":3,"createTime":1614516226000,"updateTime":1614619000000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210301": "y",
+    "20210302": "y"
+  },
+  "contiSignNum": 3,
+  "totalSignNum": 3
+}
+
+中顺洁柔官方自营旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {288:<--} ERROR CODE: 4[0m [0;31;3m[20210302 01:16:51] [ERROR] [0m
+

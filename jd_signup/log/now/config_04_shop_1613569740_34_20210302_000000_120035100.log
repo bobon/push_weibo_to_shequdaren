@@ -1,0 +1,812 @@
+03/02/21 00:00:00 752555400  1614614400
+RANDOM_num: 5
+force to sign
+
+real	0m0.517s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615001	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615001	LZ_TOKEN_KEY	lztokenpagecb182a5be5484a67b7191ca6421ece84
+03/02/21 00:00:02 190064800  1614614402
+use wskey
+
+real	0m1.285s
+user	0m0.078s
+sys	0m0.125s
+03/02/21 00:00:03 698315000  1614614403 token: AAFgPQ-DADD0FCrS8OHOjZV9yh_BICesHFjE7R705FBI_OhnzSxeDob8vE7C0oPWoH1rAvYeDkE
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m1.269s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 00:00:05 391482700  1614614405 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:05 514739700  1614614405 移动签到泉林本色京东自营旗舰店
+
+real	0m0.705s
+user	0m0.031s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:08 941112500 1614614408
+
+real	0m0.548s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.502s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615009	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615009	LZ_TOKEN_KEY	lztokenpage626334b867bf4de7b748dc6fd2927194
+03/02/21 00:00:10 401699000  1614614410
+use wskey
+
+real	0m0.699s
+user	0m0.094s
+sys	0m0.141s
+03/02/21 00:00:11 352986500  1614614411 token: AAFgPQ-LADBT0ybO7H8wMcKFHHsQ7-w_F_1VGR3RHnwDyg8-crlUu2jxzKvMshM8f6M0t2v7XWs
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m1.217s
+user	0m0.109s
+sys	0m0.094s
+03/02/21 00:00:12 783412300  1614614412 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:13 151968500  1614614413 移动签到泉林本色京东自营旗舰店
+
+real	0m1.576s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:19 831402100 1614614419
+
+real	0m0.890s
+user	0m0.016s
+sys	0m0.047s
+
+real	0m0.946s
+user	0m0.016s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615021	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615021	LZ_TOKEN_KEY	lztokenpagea8f267f26eb94f1eb21a39b668fc69d9
+03/02/21 00:00:21 997228300  1614614421
+use wskey
+
+real	0m0.535s
+user	0m0.141s
+sys	0m0.125s
+03/02/21 00:00:22 620079700  1614614422 token: AAFgPQ-WADD19PsiClpxgaKFNeCI2ehhqA36i1wduuho_VZ_dtjT9iqFCM2Mho7D26DlYXhKRKY
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.469s
+user	0m0.078s
+sys	0m0.141s
+03/02/21 00:00:23 143677200  1614614423 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:23 177994200  1614614423 移动签到泉林本色京东自营旗舰店
+
+real	0m0.329s
+user	0m0.016s
+sys	0m0.141s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:24 514781800 1614614424
+
+real	0m0.761s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.968s
+user	0m0.031s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615027	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615027	LZ_TOKEN_KEY	lztokenpage6bd0baff6c514517839ba899633623e3
+03/02/21 00:00:27 334484500  1614614427
+use wskey
+
+real	0m0.236s
+user	0m0.125s
+sys	0m0.094s
+03/02/21 00:00:27 639585500  1614614427 token: AAFgPQ-bADBv6xDrWkqW3_rvuD8l2P0uH__8aiWNPKZ8vyIBJfsvOD2C031hnDyN1Lc7C2jFJ9s
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.452s
+user	0m0.078s
+sys	0m0.156s
+03/02/21 00:00:28 122070300  1614614428 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:28 146661500  1614614428 移动签到泉林本色京东自营旗舰店
+
+real	0m0.284s
+user	0m0.047s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:29 563079700 1614614429
+
+real	0m0.885s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.231s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615030	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615030	LZ_TOKEN_KEY	lztokenpagef6f2d2e4310d4dc29d994501f9997819
+03/02/21 00:00:30 802022100  1614614430
+use wskey
+
+real	0m0.450s
+user	0m0.109s
+sys	0m0.094s
+03/02/21 00:00:31 351277400  1614614431 token: AAFgPQ-fADAfPvohMrzBVOoT70R-UiGDNThf3_fryMY2Owy4OWBMXQRKJY3sJ2vOBmAG-QLIFSQ
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.503s
+user	0m0.063s
+sys	0m0.109s
+03/02/21 00:00:31 925225900  1614614431 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:31 964396400  1614614431 移动签到泉林本色京东自营旗舰店
+
+real	0m0.360s
+user	0m0.047s
+sys	0m0.156s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:33 156276300 1614614433
+
+real	0m1.088s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.329s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615034	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615034	LZ_TOKEN_KEY	lztokenpage7e0bb4baa42e4ef89e08a57fadada027
+03/02/21 00:00:34 705596800  1614614434
+use wskey
+
+real	0m0.312s
+user	0m0.141s
+sys	0m0.094s
+03/02/21 00:00:35 058957600  1614614435 token: AAFgPQ-jADDpXbWfe5QYFHfoDLoDtHdJaWXiuFLAuZHG7FvErT2ZV2YaTxpX72QbXs3B2J2x8pA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m2.986s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 00:00:38 069452700  1614614438 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:38 096676600  1614614438 移动签到泉林本色京东自营旗舰店
+
+real	0m0.245s
+user	0m0.047s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:38 916709200 1614614438
+
+real	0m1.257s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.218s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615040	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615040	LZ_TOKEN_KEY	lztokenpage4773d3fb45774750a7e9eb96b5605f70
+03/02/21 00:00:40 451071100  1614614440
+use wskey
+
+real	0m0.233s
+user	0m0.094s
+sys	0m0.156s
+03/02/21 00:00:40 724479200  1614614440 token: AAFgPQ-oADBAkgWLGal4v7hCbd6h5pDcNImXG8nbpsI25DYGjoajfVj6tLWyOG8E7oflotKmgXM
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.422s
+user	0m0.125s
+sys	0m0.078s
+03/02/21 00:00:41 177503200  1614614441 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:41 194166000  1614614441 移动签到泉林本色京东自营旗舰店
+
+real	0m0.539s
+user	0m0.031s
+sys	0m0.125s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:42 323348900 1614614442
+
+real	0m1.447s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.186s
+user	0m0.047s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615043	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615043	LZ_TOKEN_KEY	lztokenpageebcb7b18146a4deb8684e3a5fa1f7284
+03/02/21 00:00:43 997161500  1614614443
+use wskey
+
+real	0m0.165s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 00:00:44 199275700  1614614444 token: AAFgPQ-sADDum-63PqmC-TPVETZBqfD47HTrcnG-c2GdGT3_SU1v638jUqCVHqkZNt6M5YEpY8M
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.583s
+user	0m0.109s
+sys	0m0.125s
+03/02/21 00:00:44 827306600  1614614444 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:44 865763400  1614614444 移动签到泉林本色京东自营旗舰店
+
+real	0m0.255s
+user	0m0.016s
+sys	0m0.125s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:45 902382000 1614614445
+
+real	0m1.653s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.246s
+user	0m0.047s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615047	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615047	LZ_TOKEN_KEY	lztokenpageb6c0492aa12b4e92afe32cc303904e5c
+03/02/21 00:00:47 866338500  1614614447
+use wskey
+
+real	0m0.169s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 00:00:48 051867100  1614614448 token: AAFgPQ-wADDlC_1nTxJHmtx_6sDqq3BphVpHGllKYxsFUVXl8sUGlWn4bFmZC6gjQikhEIWtbPA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.385s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 00:00:48 454378200  1614614448 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:48 468768600  1614614448 移动签到泉林本色京东自营旗舰店
+
+real	0m0.667s
+user	0m0.016s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:49 868448800 1614614449
+
+real	0m1.877s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.216s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615051	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615051	LZ_TOKEN_KEY	lztokenpageab5de81a98c446e8a456407a9f7e05a7
+03/02/21 00:00:52 022980200  1614614452
+use wskey
+
+real	0m0.206s
+user	0m0.094s
+sys	0m0.141s
+03/02/21 00:00:52 264711200  1614614452 token: AAFgPQ-0ADBR9_fry0Tu0NvcCk-pYaMUbFFtJOVyrDFaLY7XPsURKS11Bx_p18u7Fo702PHJZHA
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.329s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 00:00:52 620766200  1614614452 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:52 649630700  1614614452 移动签到泉林本色京东自营旗舰店
+
+real	0m0.451s
+user	0m0.047s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:53 628215500 1614614453
+
+real	0m2.031s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.387s
+user	0m0.047s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615056	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615056	LZ_TOKEN_KEY	lztokenpage07883289dc924febad319fe6f87d5365
+03/02/21 00:00:56 165812600  1614614456
+use wskey
+
+real	0m0.244s
+user	0m0.109s
+sys	0m0.125s
+03/02/21 00:00:56 432407400  1614614456 token: AAFgPQ-4ADBlYBMDQIpKc_rhynSrei0XUVJ4-hNheuq59P5tfGd36b9nbyPAQmcg1kLtpxktZd8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.181s
+user	0m0.078s
+sys	0m0.125s
+03/02/21 00:00:56 631928400  1614614456 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:00:56 652611000  1614614456 移动签到泉林本色京东自营旗舰店
+
+real	0m0.173s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:00:57 445935300 1614614457
+
+real	0m2.342s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.219s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615059	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615059	LZ_TOKEN_KEY	lztokenpagedb5518f681d947edb7bc2bec66865ee6
+03/02/21 00:01:00 057542500  1614614460
+use wskey
+
+real	0m0.179s
+user	0m0.094s
+sys	0m0.078s
+03/02/21 00:01:00 265062900  1614614460 token: AAFgPQ-8ADBMd0CQ4G9EbO9hn-OwOGMQinraZFNom6Ud9uAec-5wp5pW9smHEkX9r9CVg82-T3w
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.447s
+user	0m0.125s
+sys	0m0.063s
+03/02/21 00:01:00 743890200  1614614460 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:00 790210100  1614614460 移动签到泉林本色京东自营旗舰店
+
+real	0m0.484s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:01 772741500 1614614461
+
+real	0m2.448s
+user	0m0.016s
+sys	0m0.047s
+
+real	0m0.381s
+user	0m0.016s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615064	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615064	LZ_TOKEN_KEY	lztokenpagec6b9196c4a3e44639d9c998566a86095
+03/02/21 00:01:04 645954100  1614614464
+use wskey
+
+real	0m0.137s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 00:01:04 819752000  1614614464 token: AAFgPQ_AADCJOXI5FnIbS9V8P3xoFzLO-V5_ngg1rnpr3ORHdslWynZO9xV9300YGa_ygtc51M0
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.617s
+user	0m0.094s
+sys	0m0.109s
+03/02/21 00:01:05 487591400  1614614465 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:05 537960300  1614614465 移动签到泉林本色京东自营旗舰店
+
+real	0m0.255s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:06 449282400 1614614466
+
+real	0m2.667s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.433s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615069	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615069	LZ_TOKEN_KEY	lztokenpageac9960f907c54a5b80725252a0c2918b
+03/02/21 00:01:09 588205300  1614614469
+use wskey
+
+real	0m0.152s
+user	0m0.109s
+sys	0m0.063s
+03/02/21 00:01:09 759323100  1614614469 token: AAFgPQ_FADAH-Vx2eMIRZiqpXdq0jzEkcsL025wUQsLWlWm91uHsawqBxCi-PrGnsZYegsjWDHk
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.397s
+user	0m0.078s
+sys	0m0.125s
+03/02/21 00:01:10 175144400  1614614470 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:10 190467700  1614614470 移动签到泉林本色京东自营旗舰店
+
+real	0m0.328s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:10 914514900 1614614470
+
+real	0m2.843s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.764s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615074	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615074	LZ_TOKEN_KEY	lztokenpage43f4a825ec854fc28c65aa2d5b935f86
+03/02/21 00:01:14 565275100  1614614474
+use wskey
+
+real	0m0.154s
+user	0m0.109s
+sys	0m0.109s
+03/02/21 00:01:14 746726600  1614614474 token: AAFgPQ_KADAr4HFPGhNEKMX9RJZWqFWfNY999Mwjjn-ly85KtW_pCUmF8oMRp5BRI7SBKpJijyk
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.664s
+user	0m0.109s
+sys	0m0.109s
+03/02/21 00:01:15 468048400  1614614475 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:15 520450500  1614614475 移动签到泉林本色京东自营旗舰店
+
+real	0m0.399s
+user	0m0.063s
+sys	0m0.109s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:16 626216800 1614614476
+
+real	0m3.306s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.488s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615080	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615080	LZ_TOKEN_KEY	lztokenpage99450665087a458fb056d9d0728de6c2
+03/02/21 00:01:20 506560900  1614614480
+use wskey
+
+real	0m0.180s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 00:01:20 713169500  1614614480 token: AAFgPQ_QADDeUREcx5KR8s_RS63UwdQuOyI7SGchxb_TzSA-q4fJ0UeNw1AoT-Njhwn3Rj2sqn4
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.915s
+user	0m0.063s
+sys	0m0.125s
+03/02/21 00:01:21 676879500  1614614481 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:21 712479500  1614614481 移动签到泉林本色京东自营旗舰店
+
+real	0m0.564s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:22 927060100 1614614482
+
+real	0m3.303s
+user	0m0.000s
+sys	0m0.031s
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+
+real	0m0.066s
+user	0m0.000s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/02/21 00:01:26 340084600  1614614486
+use wskey
+
+real	0m0.147s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 00:01:26 506047600  1614614486 token: AAFgPQ_WADCYEQaWLTZmWY7AsFv2mKoH4Ufox6Gwg9qEr-LePd_7_AN7rNyDhWeIvzQMF4zWs7I
+
+real	0m1.720s
+user	0m0.078s
+sys	0m0.141s
+03/02/21 00:01:28 247202200  1614614488 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:28 272645100  1614614488 移动签到泉林本色京东自营旗舰店
+
+real	0m0.476s
+user	0m0.031s
+sys	0m0.094s
+03/02/21 00:01:29 468807600 1614614489
+
+real	0m3.503s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.662s
+user	0m0.016s
+sys	0m0.141s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615094	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615094	LZ_TOKEN_KEY	lztokenpage93815c0374b74590bffbe57d25e55c3d
+03/02/21 00:01:34 687981300  1614614494
+use wskey
+
+real	0m0.204s
+user	0m0.109s
+sys	0m0.109s
+03/02/21 00:01:34 932707800  1614614494 token: AAFgPQ_eADC1vFA03vrKpTXK6ls-lWE9PfrNkJ18kaqErY-TY2ezINCAtrFdxPBzrF9szaRyNtY
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m2.387s
+user	0m0.141s
+sys	0m0.078s
+03/02/21 00:01:37 343101300  1614614497 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:37 360728200  1614614497 移动签到泉林本色京东自营旗舰店
+
+real	0m1.818s
+user	0m0.000s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:39 540830700 1614614499
+
+real	0m3.634s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.874s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615104	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615104	LZ_TOKEN_KEY	lztokenpage414425d19ee74106a48debc742ebc7af
+03/02/21 00:01:44 166228200  1614614504
+use wskey
+
+real	0m0.250s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 00:01:44 431489700  1614614504 token: AAFgPQ_oADALJ37Fa0lqoNG2h6fwwsxDxGB5mDF38af2wg2dQLFDsopNsW9lH0v1X7eC6PvcaX4
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.909s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 00:01:45 374697600  1614614505 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:45 406817400  1614614505 移动签到泉林本色京东自营旗舰店
+
+real	0m0.799s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:46 576400700 1614614506
+
+real	0m3.833s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.051s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615111	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614615111	LZ_TOKEN_KEY	lztokenpageff5b25efc96347118db1bc49deb06de8
+03/02/21 00:01:51 502199400  1614614511
+use wskey
+
+real	0m0.163s
+user	0m0.125s
+sys	0m0.063s
+03/02/21 00:01:51 681283300  1614614511 token: AAFgPQ_vADAVFlQqgmiTcWpoBgNy2-2rZXV8ETXAAEZA9a1u5bWK7BC6mhQImurd2D-DOozKPFc
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.966s
+user	0m0.109s
+sys	0m0.078s
+03/02/21 00:01:52 667784400  1614614512 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 00:01:52 685046600  1614614512 移动签到泉林本色京东自营旗舰店
+
+real	0m1.053s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 00:01:54 144048200 1614614514
+
+real	0m4.032s
+user	0m0.000s
+sys	0m0.031s
+03/02/21 00:02:13 244100800  1614614533
+false
+签到失败. 写入失败的giftName: null
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+移动签到泉林本色京东自营旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"5","activityType":null},"imgUrl":"","giftInfoId":"774be7c4d36842adbe249a3129c1012e","dayNum":"1","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"10元优惠券","venderId":null,"giftType":"10","type":0,"shortLink":"3.cn/100Y7-vTC","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20748","activityType":null},"imgUrl":"","giftInfoId":"9e8ce58f221f4a728a3eac62fd00300f","dayNum":"2","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"20店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20","activityType":null},"imgUrl":"","giftInfoId":"8920a88b3a1744f1b69597e7f1fce812","dayNum":"3","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"5df0e1ff823042cca31321dddc79c126","dayNum":"4","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"9c68a98b8e4644e59eaa6fa69c7694c0","dayNum":"5","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"3京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"60bc5fbd98e94d5898044406d634283a","dayNum":"6","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"46cbd3639be94b9da294952fb825e915","dayNum":"7","showType":"1"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-27 23:24 - 2021-03-29 23:24；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送5店铺积分；
+6、第2天签到，有机会赠送10元优惠券；
+7、第3天签到，有机会赠送20店铺积分；
+8、第4天签到，有机会赠送1京豆；
+9、第5天签到，有机会赠送2京豆；
+10、第6天签到，有机会赠送3京豆；
+11、第7天签到，有机会赠送5京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="泉林本色京东自营旗舰店"
+#店铺激活码
+actId="1e5cac4ad760485d931141412c9fab0c"
+#店铺id
+venderId="1000001906"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao"
+
+startTime=1612496160
+endTime=1614483360
+# 活动时间：2021-02-05 11:36 - 2021-02-28 11:36；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：10元优惠券
+连续签到3天：20店铺积分
+连续签到4天：1京豆
+连续签到5天：2京豆
+连续签到6天：3京豆
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="5"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["2京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="5"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="5"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName="null"
+giftRes="很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~"
+giftDate="20210302"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

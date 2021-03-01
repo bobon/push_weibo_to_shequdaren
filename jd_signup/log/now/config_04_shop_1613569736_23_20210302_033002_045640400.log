@@ -1,0 +1,804 @@
+03/02/21 03:30:02 389267800  1614627002
+RANDOM_num: 45
+removed '/tmp/tmp.xPcuuLxEph'
+03/02/21 03:30:02 758808400  1614627002 检查移动签到
+
+real	0m0.417s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627603	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627603	LZ_TOKEN_KEY	lztokenpagee2a5a51e33f440bfa604c121616ef572
+03/02/21 03:30:03 554753500  1614627003
+use wskey
+
+real	0m0.267s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:03 851876300  1614627003 token: AAFgPUC7ADCDHv9ZEhNbB6uEV1wu40AImg0qq5KBwEfyevmqrc_JrcVkIUlpLekkQGfQXlaS78Q
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.449s
+user	0m0.094s
+sys	0m0.125s
+03/02/21 03:30:04 349058200  1614627004 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:04 383315100  1614627004 移动签到滴露旗舰店
+
+real	0m0.216s
+user	0m0.047s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:05 165297500 1614627005
+
+real	0m0.275s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.925s
+user	0m0.031s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627606	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627606	LZ_TOKEN_KEY	lztokenpageeeb50a55cdb7462982bace13c208abea
+03/02/21 03:30:06 434461600  1614627006
+use wskey
+
+real	0m0.185s
+user	0m0.109s
+sys	0m0.094s
+03/02/21 03:30:06 637430800  1614627006 token: AAFgPUC-ADBL5439VO0g0rCw2YcXx_0I52qjF8rqgj4oebXv1KN3k6Wor_OiLRwg3eZwz-XbckI
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.376s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:07 071899300  1614627007 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:07 091896300  1614627007 移动签到滴露旗舰店
+
+real	0m0.174s
+user	0m0.016s
+sys	0m0.094s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:07 637724900 1614627007
+
+real	0m0.433s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.186s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627608	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627608	LZ_TOKEN_KEY	lztokenpageb865f53c3eb84c1ca64438021e20d82f
+03/02/21 03:30:08 301202700  1614627008
+use wskey
+
+real	0m0.158s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 03:30:08 484628200  1614627008 token: AAFgPUDAADCY5G9GzqCumqhq6UT1kFPZb_66z6-8R6JQlCpnGbuAxt5Edje65bC_PT_HRCUg_2Q
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.285s
+user	0m0.031s
+sys	0m0.109s
+03/02/21 03:30:08 788529300  1614627008 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:08 806095200  1614627008 移动签到滴露旗舰店
+
+real	0m0.192s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:09 430461500 1614627009
+
+real	0m0.632s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.215s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627610	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627610	LZ_TOKEN_KEY	lztokenpage96e274ac35064335898fce50eedfb70c
+03/02/21 03:30:10 318828700  1614627010
+use wskey
+
+real	0m0.140s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:10 487783800  1614627010 token: AAFgPUDCADCwgfy1TbRMYHgxlDyjt-m7QjkPUxopUAfgeIocximwo0uWYlC7lFDkIeZopiUOUSQ
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.339s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:30:10 847697900  1614627010 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:10 867098100  1614627010 移动签到滴露旗舰店
+
+real	0m0.174s
+user	0m0.016s
+sys	0m0.047s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:11 483282400 1614627011
+
+real	0m0.828s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.181s
+user	0m0.000s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627612	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627612	LZ_TOKEN_KEY	lztokenpagef81fbec6d0c14d9cb69ddf25f4c5e145
+03/02/21 03:30:12 563737700  1614627012
+use wskey
+
+real	0m0.167s
+user	0m0.094s
+sys	0m0.031s
+03/02/21 03:30:12 767472000  1614627012 token: AAFgPUDEADCQ_Hv0sSEr07lYWIOi-4sTAuClzFAgQbgP9BSGhrt-bWHftqbJ-Z9jE-9fTJGMAl8
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.308s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:13 093607200  1614627013 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:13 111747000  1614627013 移动签到滴露旗舰店
+
+real	0m0.147s
+user	0m0.016s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:13 693681700 1614627013
+
+real	0m1.037s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.176s
+user	0m0.047s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627614	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627614	LZ_TOKEN_KEY	lztokenpaged6ec7730f6b147ea96961904412d043e
+03/02/21 03:30:14 950134300  1614627014
+use wskey
+
+real	0m0.205s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:15 205988400  1614627015 token: AAFgPUDHADCFxlnQurtt-Z01j6KmXzU9PdpIIuMscLVdZJLsKEarWtVdtD3auMh43jvBifMFz38
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.404s
+user	0m0.125s
+sys	0m0.094s
+03/02/21 03:30:15 631821200  1614627015 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:15 656252800  1614627015 移动签到滴露旗舰店
+
+real	0m0.245s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:16 415292800 1614627016
+
+real	0m1.244s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.187s
+user	0m0.047s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627617	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627617	LZ_TOKEN_KEY	lztokenpageb6d69d9687ae4bebb3752bc9441a3ceb
+03/02/21 03:30:17 894951300  1614627017
+use wskey
+
+real	0m0.227s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:30:18 143585900  1614627018 token: AAFgPUDKADA_jtDYHs27MmyAMZCscHKMafVLVR0lh-RtThR6Xcghp8cTCJC95C2kWKGKMkoAeqo
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.288s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:18 456622300  1614627018 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:18 474056500  1614627018 移动签到滴露旗舰店
+
+real	0m0.125s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:19 043655200 1614627019
+
+real	0m1.441s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.214s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627620	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627620	LZ_TOKEN_KEY	lztokenpage8b586c6f21d948b890b86dce1c6c15c0
+03/02/21 03:30:20 751235500  1614627020
+use wskey
+
+real	0m0.237s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:30:21 021504000  1614627021 token: AAFgPUDMADApwuAuq13j2weUam5GnM5zTfOSLUirJOzmdzypmrNrSowl7V2f6JDL0SyS2ZfoPP4
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.382s
+user	0m0.094s
+sys	0m0.109s
+03/02/21 03:30:21 426985000  1614627021 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:21 446285300  1614627021 移动签到滴露旗舰店
+
+real	0m0.121s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:21 938385600 1614627021
+
+real	0m1.660s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.117s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:23 758315200  1614627023
+use wskey
+
+real	0m0.138s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 03:30:23 916496100  1614627023 token: AAFgPUDPADBA2MTiInCtEzVxiNJu1EuM2BjlohMsyV7Hl6QxqFd0ADiuvjnY9mhNCZxL7Bh5VF4
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.148s
+user	0m0.016s
+sys	0m0.094s
+03/02/21 03:30:24 083939700  1614627024 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:24 103646000  1614627024 移动签到滴露旗舰店
+
+real	0m0.175s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:24 647345300 1614627024
+
+real	0m1.840s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.137s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:26 673888200  1614627026
+use wskey
+
+real	0m0.142s
+user	0m0.109s
+sys	0m0.063s
+03/02/21 03:30:26 835723300  1614627026 token: AAFgPUDSADCfbHz14iWdVXVtv5Qp4vQjtn8al5m_V1krMjzpbUQSAgFCLyZ9MLFISVFlMDsUhdM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.137s
+user	0m0.063s
+sys	0m0.109s
+03/02/21 03:30:26 991485100  1614627026 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:27 008185400  1614627027 移动签到滴露旗舰店
+
+real	0m0.141s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:27 578686200 1614627027
+
+real	0m2.044s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.098s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:29 761340000  1614627029
+use wskey
+
+real	0m0.134s
+user	0m0.109s
+sys	0m0.063s
+03/02/21 03:30:29 914664500  1614627029 token: AAFgPUDVADDDMaHeKNliawFyG4AVJxuKgzPx0ee3ds_Jp8ZmB2KZfu9CzUKSHBBvCEqnZGT1BK8
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.157s
+user	0m0.063s
+sys	0m0.063s
+03/02/21 03:30:30 090016200  1614627030 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:30 108061700  1614627030 移动签到滴露旗舰店
+
+real	0m0.115s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:30 616256400 1614627030
+
+real	0m2.259s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.104s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:33 018991200  1614627033
+use wskey
+
+real	0m0.162s
+user	0m0.063s
+sys	0m0.094s
+03/02/21 03:30:33 199771700  1614627033 token: AAFgPUDZADCsZkDpojKQ7rQCCyh6gWxGrJT5Sh3Na_75_yqAzIiYIhUPzj2smimU3MphN9xfx20
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.133s
+user	0m0.063s
+sys	0m0.031s
+03/02/21 03:30:33 352550400  1614627033 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:33 370886300  1614627033 移动签到滴露旗舰店
+
+real	0m0.109s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:33 839377300 1614627033
+
+real	0m2.441s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.138s
+user	0m0.000s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:36 458433200  1614627036
+use wskey
+
+real	0m0.144s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:30:36 624012800  1614627036 token: AAFgPUDcADBJUpZYM2WwTfafsa9by2CKZWjetiBSU9e9L1Wxtk6NKw7ZK7c8WDmHFtSjQNIwsNs
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.151s
+user	0m0.063s
+sys	0m0.125s
+03/02/21 03:30:36 800974200  1614627036 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:36 822366300  1614627036 移动签到滴露旗舰店
+
+real	0m0.119s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:37 391356000 1614627037
+
+real	0m2.640s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.137s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:40 204543300  1614627040
+use wskey
+
+real	0m0.135s
+user	0m0.109s
+sys	0m0.078s
+03/02/21 03:30:40 355914300  1614627040 token: AAFgPUDgADBiOvcImfxv3ZjYU89F6-br5O6yBgF7m7KmbMExuMPWhunGfUHzAeNBR0JU4C1REHM
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.177s
+user	0m0.094s
+sys	0m0.094s
+03/02/21 03:30:40 558822400  1614627040 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:40 576756400  1614627040 移动签到滴露旗舰店
+
+real	0m0.111s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:41 041471300 1614627041
+
+real	0m2.846s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.109s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:44 077256800  1614627044
+use wskey
+
+real	0m0.155s
+user	0m0.078s
+sys	0m0.063s
+03/02/21 03:30:44 256888200  1614627044 token: AAFgPUDkADD21uZt6tK__btqiNUtFYdqovqcNR4d9l3OnDNWudlGq5Zw2WAOoMC41sXJlve0Ank
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.116s
+user	0m0.063s
+sys	0m0.078s
+03/02/21 03:30:44 391954500  1614627044 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:44 413902600  1614627044 移动签到滴露旗舰店
+
+real	0m0.119s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:44 956753900 1614627044
+
+real	0m3.042s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.158s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:48 195059300  1614627048
+use wskey
+
+real	0m0.140s
+user	0m0.094s
+sys	0m0.125s
+03/02/21 03:30:48 357868200  1614627048 token: AAFgPUDoADCHk3PnDq1hTuz8iiSUDl_U9AW-VflVkvEALEvtioBIy6NtulWARm_uce1FFQNt3RA
+parse error: Invalid numeric literal at line 1, column 10
+
+real	0m0.167s
+user	0m0.094s
+sys	0m0.078s
+03/02/21 03:30:48 551296500  1614627048 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:48 573562400  1614627048 移动签到滴露旗舰店
+
+real	0m0.133s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/02/21 03:30:49 202309100 1614627049
+
+real	0m3.250s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.139s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/02/21 03:30:52 633479600  1614627052
+use wskey
+
+real	0m0.132s
+user	0m0.047s
+sys	0m0.094s
+03/02/21 03:30:52 783132200  1614627052 token: AAFgPUDsADAd53A3aLcAeGP1VrDawIW1ACLH0ts70-CrXOwyK5FcZ6iyYc13oNUikYz6OJzJcpA
+
+real	0m0.162s
+user	0m0.063s
+sys	0m0.063s
+03/02/21 03:30:52 966966200  1614627052 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:52 982295500  1614627052 移动签到滴露旗舰店
+
+real	0m0.151s
+user	0m0.031s
+sys	0m0.063s
+03/02/21 03:30:53 542692400 1614627053
+
+real	0m3.458s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.220s
+user	0m0.016s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627657	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627657	LZ_TOKEN_KEY	lztokenpagea5253e4d0faf4194b69b668d0f84d65a
+03/02/21 03:30:57 265570000  1614627057
+use wskey
+
+real	0m0.146s
+user	0m0.047s
+sys	0m0.125s
+03/02/21 03:30:57 428088400  1614627057 token: AAFgPUDxADDO34w9VpMyxef6w7qOGjlFEi8DoUNQkRDN1fkVMimDTN9XDs5oxDtNApEB1MrrGJY
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.295s
+user	0m0.109s
+sys	0m0.063s
+03/02/21 03:30:57 746641100  1614627057 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:30:57 768797300  1614627057 移动签到滴露旗舰店
+
+real	0m0.167s
+user	0m0.000s
+sys	0m0.109s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:30:58 344675400 1614627058
+
+real	0m3.615s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.237s
+user	0m0.031s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627662	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627662	LZ_TOKEN_KEY	lztokenpage2b91fdb001b44386bf18eebfb2c2f47c
+03/02/21 03:31:02 240953900  1614627062
+use wskey
+
+real	0m0.153s
+user	0m0.109s
+sys	0m0.063s
+03/02/21 03:31:02 410555100  1614627062 token: AAFgPUD2ADBEFIzMaTjopbOzlw7_chY5jCclIoLak_77phLf_8MGc8fG-7dKIve3qH3GzBVFcSg
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.271s
+user	0m0.078s
+sys	0m0.109s
+03/02/21 03:31:02 722092000  1614627062 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:31:02 736922400  1614627062 移动签到滴露旗舰店
+
+real	0m0.151s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:31:03 462481700 1614627063
+
+real	0m3.836s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.213s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627667	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614627667	LZ_TOKEN_KEY	lztokenpagef702e568a9384c6092ed169e45afb8bb
+03/02/21 03:31:07 555398500  1614627067
+use wskey
+
+real	0m0.164s
+user	0m0.078s
+sys	0m0.094s
+03/02/21 03:31:07 738142600  1614627067 token: AAFgPUD7ADBZPUGWV-W4nRbPVZvW0BOdS6UDj_TpaiG_siUpQdFSVY6-L590-rtZPGDCvBUQywg
+jq: error (at <stdin>:0) (not a string): {"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+
+real	0m0.267s
+user	0m0.078s
+sys	0m0.078s
+03/02/21 03:31:08 037490100  1614627068 secretPin: 
+[WARN] get secretPin error
+
+03/02/21 03:31:08 069735200  1614627068 移动签到滴露旗舰店
+
+real	0m0.172s
+user	0m0.016s
+sys	0m0.031s
+{
+  "msg": "很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~",
+  "code": "AUTH.FAILED.VALID",
+  "isOk": false
+}
+03/02/21 03:31:08 716414400 1614627068
+
+real	0m4.032s
+user	0m0.000s
+sys	0m0.031s
+03/02/21 03:33:27 846106400  1614627207
+false
+签到失败. 写入失败的giftName: null
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+移动签到滴露旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/10-0Xms0e","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"346722959","activityType":null},"imgUrl":"","giftInfoId":"dd1745b9292b4947b5c570ae177c449a","dayNum":"1","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1146004","activityType":null},"imgUrl":"","giftInfoId":"6bcc312397534b47b996f5a1f17102ec","dayNum":"2","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"10元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/10-0XmsUQ","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"347239799","activityType":null},"imgUrl":"","giftInfoId":"8d4ea0cb64ce40b8a65a6aa71cf9d77f","dayNum":"3","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1146004","activityType":null},"imgUrl":"","giftInfoId":"38dc7da362f34f41ac65a90e018a6af0","dayNum":"4","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"20元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/100-Xmtle","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"347720309","activityType":null},"imgUrl":"","giftInfoId":"66fadc9b261c449295a3e28f12a49905","dayNum":"5","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1146004","activityType":null},"imgUrl":"","giftInfoId":"bd20fd77d5494bf09b50bc23b4fec8bb","dayNum":"6","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"50元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/100Xm-sUL","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"347730277","activityType":null},"imgUrl":"","giftInfoId":"eb92d855682e4764910445ab76037c87","dayNum":"7","showType":"1"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-04 11:00 - 2021-03-03 23:59；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送5元优惠券；
+6、第2天签到，有机会赠送1京豆；
+7、第3天签到，有机会赠送10元优惠券；
+8、第4天签到，有机会赠送1京豆；
+9、第5天签到，有机会赠送20元优惠券；
+10、第6天签到，有机会赠送1京豆；
+11、第7天签到，有机会赠送50元优惠券；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="滴露旗舰店"
+#店铺激活码
+actId="13126645fcb2477fa1090a94cb7f3ca2"
+#店铺id
+venderId="206265"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_xuanFuTuBiao"
+
+startTime=1612407600
+endTime=1614787140
+# 活动时间：2021-02-04 11:00 - 2021-03-03 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：1京豆
+连续签到3天：10元优惠券
+连续签到4天：1京豆
+连续签到5天：20元优惠券
+连续签到6天：1京豆
+连续签到7天：50元优惠券
+"
+#王 1309893722-164885 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="5"
+giftName=""20元优惠券""
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 ["20元优惠券"]"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName="null"
+giftRes="很抱歉，奖品与您擦肩而过了哟，关注下其他活动吧~"
+giftDate="20210302"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#移动 jd_OeTNobRVGiNZ sign_res_end

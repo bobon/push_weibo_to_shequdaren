@@ -1,0 +1,189 @@
+03/02/21 01:16:58 579892700  1614619018
+RANDOM_num: 15
+removed '/tmp/tmp.RZKaq3H8bq'
+03/02/21 01:16:58 741553100  1614619018 检查肥鹅签到
+
+real	0m0.219s
+user	0m0.047s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614619619	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614619619	LZ_TOKEN_KEY	lztokenpagea9e7c778238244f2b803596d8fdc0d7f
+03/02/21 01:16:59 087322400  1614619019
+use pt_key
+
+real	0m0.160s
+user	0m0.063s
+sys	0m0.125s
+03/02/21 01:16:59 266888300  1614619019 token: AAFgPSGLADCo6MD3_jptEraoy2BEGDOSZpWTmYqUbJppu1IOQ6S0XJWP-EEaNwnopwfaBMGvpM0
+
+real	0m0.332s
+user	0m0.031s
+sys	0m0.063s
+03/02/21 01:16:59 711830700  1614619019 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/02/21 01:16:59 728418400  1614619019 肥鹅签到膳魔师（THERMOS）京东自营旗舰店
+
+real	0m0.543s
+user	0m0.031s
+sys	0m0.063s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "10",
+    "giftType": "9",
+    "giftName": "10积分",
+    "giftNum": "10",
+    "giftTotal": "500000000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "c7e93c568e0f4b1b9f9f500c643fbecc",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "HqeWlu"
+}
+true
+03/02/21 01:17:00 757203800 1614619020
+03/02/21 01:17:00 779128900 1614619020 签到膳魔师（THERMOS）京东自营旗舰店完成
+03/02/21 01:17:15 875878200  1614619035
+true
+首次签到成功. 写入giftName: "10积分"
+
+***********************************************
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+肥鹅签到膳魔师（THERMOS）京东自营旗舰店查看结果
+{"msg":"","giftLog":{"20210301":"y","20210302":"y"},"isOk":true,"signDetail":{"20210301":"y","20210302":"y"},"followDays":28,"signRecord":{"nicknameShow":null,"id":"0d66752cd80a421cab0796340797fc77","venderId":1000007127,"actId":"525ab0229bfd449d9a01471270d4d25a","actName":"签到活动","nick":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210302,"contiSignNum":2,"totalSignNum":2,"createTime":1614608810000,"updateTime":1614619020000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210301": "y",
+    "20210302": "y"
+  },
+  "contiSignNum": 2,
+  "totalSignNum": 2
+}
+
+膳魔师（THERMOS）京东自营旗舰店活动规则
+{"msg":"","act":{"id":"525ab0229bfd449d9a01471270d4d25a","jdActivityId":null,"venderId":1000007127,"actName":"签到活动","startTime":1614586860000,"endTime":1617206399000,"tplId":"0120","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=525ab0229bfd449d9a01471270d4d25a&venderId=1000007127","shortUrl":"3.cn/-10173WO6","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/155304/10/20593/3609/603ca477Ee6e6fb07/89c00159e550944c.png","actRule":"1、活动时间：2021-03-01 16:21 - 2021-03-31 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[10积分]；
+4、连续签到30天，有机会赠送[500积分]；
+5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+6、关注店铺后方可参与活动；
+7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1614586999000,"updateTime":1614586999000,"activityType":null,"actTimeStr":"2021-03-01 16:21 至 2021-03-31 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"c7e93c568e0f4b1b9f9f500c643fbecc\",\"giftName\":\"10积分\",\"giftNum\":\"10\",\"giftTotal\":\"500000000\",\"giftType\":\"9\",\"id\":\"10\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"30\",\"gift\":{\"giftInfoId\":\"b9a717d63b5a4adab3e700a2a63a5d4b\",\"giftName\":\"500积分\",\"giftNum\":\"500\",\"giftTotal\":\"1000\",\"giftType\":\"9\",\"id\":\"500\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10","giftType":"9","giftName":"10积分","giftNum":"10","giftTotal":"500000000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"c7e93c568e0f4b1b9f9f500c643fbecc","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"30","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"500","giftType":"9","giftName":"500积分","giftNum":"500","giftTotal":"1000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"b9a717d63b5a4adab3e700a2a63a5d4b","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"7721733,100010566590,100007188128,100007188124,100007188108,100013619570,100014165598,100001410012,3948853,5978244,3856533,100001106111","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=525ab0229bfd449d9a01471270d4d25a&venderId=1000007127",
+  "shortUrl": "3.cn/-10173WO6",
+  "actRule": "1、活动时间：2021-03-01 16:21 - 2021-03-31 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[10积分]；\n4、连续签到30天，有机会赠送[500积分]；\n5、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n6、关注店铺后方可参与活动；\n7、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n8、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=525ab0229bfd449d9a01471270d4d25a
+venderId=1000007127
+startTime=1614586860000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/-10173WO6"
+actTimeStr="2021-03-01 16:21 至 2021-03-31 23:59"
+#店铺名称
+vendername="膳魔师（THERMOS）京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=525ab0229bfd449d9a01471270d4d25a&venderId=1000007127&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.03.01 16:21:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到30天：500积分 500积分
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210301"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end

@@ -1,0 +1,71 @@
+03/02/21 01:12:32 378746900  1614618752
+RANDOM_num: 25
+removed '/tmp/tmp.nph0Xy3Lxt'
+03/02/21 01:12:32 452470600  1614618752 检查122294312-396444签到
+removed '/tmp/tmp.uWdOYBYicg'
+王 签到结果获取失败.
+03/02/21 01:12:32 523833200  1614618752 检查1309893722-164885签到
+
+03/02/21 01:12:32 571427700  1614618752 赵签到意尔嫚礼品京东自营旗舰店
+
+real	0m0.109s
+user	0m0.031s
+sys	0m0.063s
+{"msg":"当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+活动已结束. /home/myid/jd/jd_signup/api_vender/shop_1614611211_114_delay --> /home/myid/jd/jd_signup/api_vender/shop_1614611211_114_del
+renamed '/home/myid/jd/jd_signup/api_vender/shop_1614611211_114_delay' -> '/home/myid/jd/jd_signup/api_vender/shop_1614611211_114_del'
+
+03/02/21 01:12:57 887794100  1614618777
+赵签到意尔嫚礼品京东自营旗舰店查看结果
+
+
+
+赵签到意尔嫚礼品京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1614355200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614441600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614528000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1614614400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614700800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614787200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614873600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1614960000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 0
+}
+王签到意尔嫚礼品京东自营旗舰店日志
+
+# 短链接
+suo_url=""
+venderId=1000352708
+startTime=1614355200000
+endTime=1615046399000
+activityId=10280281
+token=4FF34A40CF216169D1993A152F02F70B
+#店铺名称
+vendername="意尔嫚礼品京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=4FF34A40CF216169D1993A152F02F70B
+# 活动时间：2021.02.27 00:00:00 - 2021.03.06 23:59:59
+# 奖励说明：
+actRule="
+连续签到4天：20京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=1
+signTime=1614528000;signed=1;currentDay=3
+signTime=1614614400;signed=1;currentDay=3
+signTime=1614700800;signed=1;currentDay=3
+signTime=1614787200;signed=1;currentDay=3
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3"
+sign_num="0"
+giftName=""
+giftRes="用户达到签到上限"
+giftDate="20210228"
+sign_res_info="
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  1    未签到
+2021/03/01_00:00:00  3    未签到
+2021/03/02_00:00:00  3    未签到
+2021/03/03_00:00:00  3    未签到
+2021/03/04_00:00:00  3    未签到
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+当天签到奖励 []
+已签到 0 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
