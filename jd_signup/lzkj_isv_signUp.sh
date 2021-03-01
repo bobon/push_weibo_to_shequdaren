@@ -184,7 +184,10 @@ else
 		  -H 'Sec-Fetch-Site: same-origin' \
 		  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 		  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-		  --data-raw "userId=${venderId}&token=${token}&fromType=APP" | jq -j 'if(.result == true and .errorMessage == "") then .data.secretPin else error(.) end')
+		  --data-raw "userId=${venderId}&token=${token}&fromType=APP")
+		 
+		echo -e "$secretPin" | grep '活动太火爆' && break
+		secretPin=$(echo -e "$secretPin" | jq -j 'if(.result == true and .errorMessage == "") then .data.secretPin else error(.) end')
 		echo "$(date +"%x %X %N  %s") secretPin: $secretPin"
 		[ ! -z "$secretPin" ] || echo "[WARN] get secretPin error"
 

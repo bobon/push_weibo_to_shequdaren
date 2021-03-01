@@ -39,20 +39,6 @@ sign_res_info="
 连续签到 2 天
 签到总天数 16"
 #王 1309893722-164885 sign_res_end
-#肥鹅 jd_4d651d9e48204 sign_res
-sign_res="
-signTime=1614556800;signed=2"
-sign_num="5"
-sign_total_num="26"
-giftName="null"
-giftRes="ok"
-giftDate="20210301"
-sign_res_info="
-2021/03/01_08:00:00  [已~签~到]      
-当天签到奖励 [null]
-连续签到 5 天
-签到总天数 26"
-#肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 signTime=1614556800;signed=2"
@@ -67,3 +53,17 @@ sign_res_info="
 连续签到 5 天
 签到总天数 26"
 #移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2"
+sign_num="5"
+sign_total_num="26"
+giftName="null"
+giftRes="ok"
+giftDate="20210301"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 26"
+#肥鹅 jd_4d651d9e48204 sign_res_end

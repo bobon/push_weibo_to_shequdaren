@@ -226,4 +226,4 @@ exit
 ## 
 ./search.sh flush_from_old
 ./sign_search.sh nosearch
-./sign_search.sh check_pre check_pre | tee log/check_pre.log
+./sign_search.sh check_pre | tee log/check_pre.log

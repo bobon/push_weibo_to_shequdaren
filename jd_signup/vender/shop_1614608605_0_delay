@@ -1,0 +1,72 @@
+actId=23cee021ce2c46c3891d9724baaf145d
+venderId=1000099544
+startTime=1614589980000
+endTime=1617182039000
+# 短链接
+suo_url="https://3.cn/10175-hFy"
+actTimeStr="2021-03-01 17:13 至 2021-03-31 17:13"
+#店铺名称
+vendername="Mideer弥鹿京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=23cee021ce2c46c3891d9724baaf145d&venderId=1000099544&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.03.01 17:13:00 - 2021.03.31 17:13:59
+# 奖励说明：
+actRule="
+连续签到7天：20积分 20积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210301"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210301"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210301"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210301"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -49,6 +49,25 @@ log_d() {
 cd $sign_base_dir
 
 if [ "$1" = "check_pre" ]; then
+	num=100
+	for kt in $(grep -l -r '活动时间.*2021.03' --include=shop shop/); do
+		if [ $(grep -l '京豆' $kt >/dev/null;echo $?) -eq 0 ]; then
+			if [ $(grep '^url=' "$kt" | egrep 'api.m.jd.com|h5.m.jd.com'>/dev/null;echo $?) -eq 0 ]; then
+				flag=api_vender_pre
+			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/sevenDay'>/dev/null;echo $?) -eq 0 ]; then
+				flag=lzkj_sevenDay_vender
+			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/signActivity'>/dev/null;echo $?) -eq 0 ]; then
+				flag=vender
+			else
+				error "not find process fun." 
+			fi
+			cp -rvf "$kt" "$flag/shop_$(date '+%s')_${num}_delay"
+			let num++ || true
+			echo $kt
+		fi
+	done
+	unset kt
+	
 	for kk in $(find api_vender_pre/ -type f | egrep -v '_del$'); do
 		unset actRule
 		source $kk

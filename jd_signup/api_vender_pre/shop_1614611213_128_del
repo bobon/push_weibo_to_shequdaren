@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=1000300421
+startTime=1612800000000
+endTime=1615219199000
+activityId=10269962
+token=89335A545F9B50C93D7886A8977F251D
+#店铺名称
+vendername="北面（The North Face）京东自营专区"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=89335A545F9B50C93D7886A8977F251D
+# 活动时间：2021.02.09 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆
+"
