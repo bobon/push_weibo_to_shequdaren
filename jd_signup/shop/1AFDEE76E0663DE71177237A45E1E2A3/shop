@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=1000014143
+startTime=1614614400000
+endTime=1617206399000
+activityId=10283367
+token=1AFDEE76E0663DE71177237A45E1E2A3
+#店铺名称
+vendername="柴火大院京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1AFDEE76E0663DE71177237A45E1E2A3
+# 活动时间：2021.03.02 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：100店铺积分
+连续签到5天：满128-10店铺券
+连续签到7天：100京豆
+连续签到5天：200店铺积分
+"

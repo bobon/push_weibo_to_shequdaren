@@ -1,0 +1,20 @@
+actId=0e34416861cc4cda8df003189c6a36f0
+venderId=10133101
+startTime=1614332160000
+endTime=1619768219000
+# 短链接
+suo_url="https://3.cn/101-5UuIg"
+actTimeStr="2021-02-26 17:36 至 2021-04-30 15:36"
+#店铺名称
+vendername="歌德老酒行京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0e34416861cc4cda8df003189c6a36f0&venderId=10133101&sceneval=2&jxsid=16146428113866014329
+# 活动时间：2021.02.26 17:36:00 - 2021.04.30 15:36:59
+# 奖励说明：
+actRule="
+连续签到2天：20积分 20积分
+连续签到3天：50积分 50积分
+连续签到4天：5京豆 5京豆
+连续签到5天：100积分 100积分
+连续签到6天：10京豆 10京豆
+"

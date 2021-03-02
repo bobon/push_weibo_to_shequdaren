@@ -152,12 +152,12 @@ check_gift() {
 			log_s "签到 [$vendername] 店铺获得奖励 $i 活动链接\n$url"
 		fi
     local ss=$(awk 'BEGIN {b=0} {
-      if($0~/#.* sign_res$/) {a=1;b++;c=$0;sub(" sign_res", "", c)} else if($0~/#.* sign_res_end$/) {a=0}; if(a==1)
+      if($0~/#.* sign_res$/) {f=0;a=1;b++;c=$0;sub(" sign_res", "", c)} else if($0~/#.* sign_res_end$/) {a=0; if(f==1) {print c" 获得奖励: "s} }; if(a==1)
       {
         if ($0~/^giftName=/ && $0!~/^giftName=""$/ && $0!~/^giftName="null"$/) {
           s=$0;sub("giftName=", "", s)
-          print c" 获得奖励: "s
         }
+        if ($0~/"'"$dd"'"/ && $0~/^giftDate=/) {f=1}
       }
 		}' "$i")
   	log_s "$ss\n"

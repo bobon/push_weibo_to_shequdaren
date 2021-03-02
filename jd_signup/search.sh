@@ -161,9 +161,99 @@ filer_venderId_from_shop() {
 #check_sign venderId.tmp
 #| sed -r -e '/shop_logo/s,\,,,' -e '/"shop_name"/d' -e '/"shop_brief"/d' | jq -c '.shops[]|{shop_id, vender_type, vender_id}'
 
+
+sign_list() {
+	rm -rvf log/batch_parse_find_new_vender.tmp
+	for s_f in $(cat $1); do
+		if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
+			bash parse.sh "$s_f" batch_pro -f
+		else
+			bash parse.sh "$s_f" batch_pro || true
+		fi
+	done	
+	unset s_f
+	
+	if [ -f "log/batch_parse_find_new_vender.tmp" ]; then
+		num=0
+		for s_f in $(cat log/batch_parse_find_new_vender.tmp); do
+			kt=$s_f/shop
+			if [ $(grep '^url=' "$kt" | egrep 'api.m.jd.com|h5.m.jd.com'>/dev/null;echo $?) -eq 0 ]; then
+				flag=api_vender_pre
+				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
+				cp -rvf "$kt" "$new_v"
+			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/sevenDay'>/dev/null;echo $?) -eq 0 ]; then
+				flag=lzkj_sevenDay_vender
+				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
+				cp -rvf "$kt" "$new_v"
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 $new_v 2
+			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/signActivity'>/dev/null;echo $?) -eq 0 ]; then
+				flag=vender
+				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
+				cp -rvf "$kt" "$new_v"
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 $new_v 2
+				bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 $new_v 2
+			else
+				error "not find process fun." 
+			fi
+			let num++ || true
+			echo "***** 新签到 $new_v"
+		done
+		unset s_f
+	fi
+}
+
+
 cd $sign_base_dir
 mkdir -vp /home/myid/all_shop_info
-if [ -f "$1" ]; then
+if [ "$1" = "sign_list" ]; then
+	if [ $(cat $sign_base_dir/$1 | grep '^https://'>/dev/null;echo $?) -eq 0 ]; then
+		cat $sign_base_dir/$1 | grep '^https://' > $sign_base_dir/sign_list_t
+		sign_list $sign_base_dir/sign_list_t
+	fi
+	
+	cat $sign_base_dir/$1 | grep -v '^https://' || exit	
+	cat $sign_base_dir/$1 | grep -v '^https://' > $sign_base_dir/sign_list_t
+	flush=true
+	echo "从 sign_vender_list 查找活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
+	if [ -f "log/sign.tmp" ]; then
+		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
+	fi
+	rm -rvf log/sign.tmp
+	
+	cat $sign_base_dir/sign_list_t | sort | uniq > log/all_shop_signed.tmp
+	
+	check_sign log/all_shop_signed.tmp
+	cat log/sign.tmp | sort | uniq > log/shop2.tmp
+	mv -vf log/shop2.tmp log/sign.tmp
+	echo "从 $(cat log/all_shop_signed.tmp | wc -l) 个已签到的店铺中，已发现 $(cat log/sign.tmp | wc -l) 个新活动"
+	
+	sed -r -e 's,^",,' -e 's,"$,,' log/sign.tmp > $sign_base_dir/sign_list_t
+	sign_list $sign_base_dir/sign_list_t
+
+elif [ "$1" = "sign_vender_list" ]; then
+	flush=true
+	echo "从 sign_vender_list 查找活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
+	if [ -f "log/sign.tmp" ]; then
+		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
+	fi
+	rm -rvf log/sign.tmp
+	
+	cat sign_vender_list | sort | uniq > log/all_shop_signed.tmp
+	
+	check_sign log/all_shop_signed.tmp
+	cat log/sign.tmp | sort | uniq > log/shop2.tmp
+	mv -vf log/shop2.tmp log/sign.tmp
+	echo "从 $(cat log/all_shop_signed.tmp | wc -l) 个已签到的店铺中，已发现 $(cat log/sign.tmp | wc -l) 个新活动"
+	
+	sed -r -e 's,^",,' -e 's,"$,,' log/sign.tmp > $sign_base_dir/sign_list_t
+	sign_list $sign_base_dir/sign_list_t
+	
+elif [ -f "$1" ]; then
 	echo "search $1 sign"
 	source "$1" || error "source $1 error"
 	[ ! -z "$venderId" ] || error "venderId error from $1"
@@ -227,3 +317,19 @@ exit
 ./search.sh flush_from_old
 ./sign_search.sh nosearch
 ./sign_search.sh check_pre | tee log/check_pre.log
+
+
+
+##
+将url活动链接和h5签到的短连接写入sign_list 比如
+"https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406&sceneval=2&jxsid=16146428113866014329"
+https://u.jd.com/iNUDG9R
+然后执行
+./search.sh sign_list
+
+
+
+##将店铺venderId号写入sign_vender_list，比如
+1000002423
+然后执行
+./search.sh sign_vender_list

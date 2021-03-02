@@ -300,11 +300,14 @@ parse_prize_lzkj_sevenDay() {
 	' "$shopSign" > "prize.tmp"
 	
 	mkdir -vp prize
+	old_IFS=$IFS
+	IFS=$'\n'
 	for ki in $(cat "prize.tmp"); do
 		unset days;unset p_type;unset giftName;unset discount;unset quota;unset promoPrice;unset jdPrice
 		eval $ki
 		echo "$ki" >> "prize/$days"
 	done
+	IFS=$old_IFS
 	cat prize/*
 	
 	if [ -z "$vendername" ]; then
@@ -389,7 +392,7 @@ get_shopSign_lzkj() {
 	source "$shop"
 		
 	jq -r '.act.wxSignActivityGiftBean.giftConditions[]|
-		"level=" + .dayNum + ";days=" + .dayNum + ";p_type=" + .gift.giftType + ";discount=" + .gift.giftNum + ";giftName=" + .gift.giftName
+		"level=" + .dayNum + ";days=" + .dayNum + ";p_type=" + .gift.giftType + ";discount=" + .gift.giftNum + ";giftName=\"" + .gift.giftName + "\""
 		' "$shopSign" > "prize.tmp"
 	
 	echo "#店铺名称" >> "$shop"
@@ -404,11 +407,14 @@ get_shopSign_lzkj() {
 	echo "# 活动时间：$(date +"%Y.%m.%d %H:%M:%S" --date="@$startTime_") - $(date +"%Y.%m.%d %H:%M:%S" --date="@$endTime_")" >> "$shop"
 	
 	echo -e "# 奖励说明：\nactRule=\"" >> "$shop"
+	old_IFS=$IFS
+	IFS=$'\n'
 	for i in $(cat "prize.tmp"); do
 		unset days;unset p_type;unset level;unset discount;unset quota;unset promoPrice;unset jdPrice
 		eval $i
 		parse_prize_lzkj "$i"
 	done
+	IFS=$old_IFS
 	echo "\"" >> "$shop"
 	
 	echo
@@ -447,6 +453,9 @@ parse_prize_lzkj() {
 sign_base_dir=/home/myid/jd/jd_signup
 cd $sign_base_dir
 
+if [ "$3" = "-f" ]; then
+	force_del="force"
+fi
 if [ "$2" = "-f" ]; then
 	force_del="force"
 elif [ "$2" = "batch_pro" ]; then
