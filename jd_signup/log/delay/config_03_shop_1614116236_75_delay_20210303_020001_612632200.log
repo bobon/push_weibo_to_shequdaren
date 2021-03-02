@@ -1,0 +1,100 @@
+03/03/21 02:01:39 170604300  1614708099
+RANDOM_num: 30
+removed '/tmp/tmp.LKHmUNSqoQ'
+03/03/21 02:01:39 253485100  1614708099
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210303
+***********************************************
+
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 7
+***********************************************
+
+actId=a3e7341936fb4fe786cb441977fad1df
+venderId=10114665
+startTime=1613664000000
+endTime=1616169659000
+# 短链接
+suo_url="https://3.cn/1012Wo-ru"
+actTimeStr="2021-02-19 00:00 至 2021-03-20 00:00"
+#店铺名称
+vendername="JEEP SPIRIT眼镜旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a3e7341936fb4fe786cb441977fad1df&venderId=10114665&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.19 00:00:00 - 2021.03.20 00:00:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆 1京豆
+连续签到5天：3京豆 3京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="7"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 7"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="7"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 7"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="7"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 7"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210303"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

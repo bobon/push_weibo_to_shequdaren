@@ -1,0 +1,96 @@
+03/03/21 02:06:23 772907400  1614708383
+RANDOM_num: 35
+removed '/tmp/tmp.SDUFRMgIy0'
+03/03/21 02:06:23 856053400  1614708383
+王 今天已经签到过. 签到结果: ok  giftDate: 20210303
+***********************************************
+
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 18
+***********************************************
+
+# 活动时间：2021.01.30 00:00:00 - 2021.02.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+
+#店铺名称
+vendername="澳优乳业官方旗舰店"
+#店铺激活码
+actId="eb0ef5535d6e462096ab4e2135ba6c45"
+##店铺id
+venderId="37166"
+
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="0"
+sign_total_num="28"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 ["10京豆"]
+连续签到 0 天
+签到总天数 28"
+#赵 122294312-396444 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="0"
+sign_total_num="28"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 ["10京豆"]
+连续签到 0 天
+签到总天数 28"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="4"
+sign_total_num="18"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 18"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210303"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

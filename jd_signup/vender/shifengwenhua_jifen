@@ -12,54 +12,60 @@ actId="f8d4b0c5dfaf4c49b415987962ee9ef4"
 ##店铺id
 venderId="1000300368"
 
-#赵 122294312-396444 sign_res
-sign_res="
-signTime=1614556800;signed=2
-signTime=1614643200;signed=2"
-sign_num="31"
-sign_total_num="52"
-giftName=""10积分""
-giftRes="ok"
-giftDate="20210302"
-sign_res_info="
-2021/03/01_08:00:00  [已~签~到]      
-2021/03/02_08:00:00  [已~签~到]      
-当天签到奖励 ["10积分"]
-连续签到 31 天
-签到总天数 52"
-#赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1614556800;signed=2
-signTime=1614643200;signed=2"
-sign_num="17"
-sign_total_num="38"
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="18"
+sign_total_num="39"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210302"
+giftDate="20210303"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 17 天
-签到总天数 38"
+连续签到 18 天
+签到总天数 39"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1614556800;signed=2
-signTime=1614643200;signed=2"
-sign_num="31"
-sign_total_num="31"
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="32"
+sign_total_num="32"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210302"
+giftDate="20210303"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 31 天
-签到总天数 31"
+连续签到 32 天
+签到总天数 32"
 #肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="32"
+sign_total_num="53"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 32 天
+签到总天数 53"
+#赵 122294312-396444 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 "
@@ -67,7 +73,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210302"
+giftDate="20210303"
 sign_res_info="
 
 当天签到奖励 []

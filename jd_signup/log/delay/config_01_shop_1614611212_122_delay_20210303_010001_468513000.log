@@ -1,0 +1,134 @@
+03/03/21 01:16:45 942205500  1614705405
+RANDOM_num: 25
+removed '/tmp/tmp.7Fwvwk9Nnh'
+03/03/21 01:16:46 033842100  1614705406 检查赵签到
+
+real	0m0.142s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614706006	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614706006	LZ_TOKEN_KEY	lztokenpage97d83adacab3417f93a80bbad7ce97e8
+03/03/21 01:16:46 278708700  1614705406
+use pt_key
+
+real	0m0.137s
+user	0m0.047s
+sys	0m0.078s
+03/03/21 01:16:46 430185200  1614705406 token: AAFgPnL9ADBWhc_yHLVAEnyJy2FvTQhUt7RY7-B07gwv_TbJEyEkdV7GT1fhim1Y9EuQlkMWCpI
+
+real	0m0.278s
+user	0m0.000s
+sys	0m0.094s
+03/03/21 01:16:46 813905600  1614705406 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/03/21 01:16:46 829848100  1614705406 赵签到英氏YeeHoO旗舰店
+
+real	0m0.185s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1614611212_122_delay --> /home/myid/jd/jd_signup/vender/shop_1614611212_122_del
+renamed '/home/myid/jd/jd_signup/vender/shop_1614611212_122_delay' -> '/home/myid/jd/jd_signup/vender/shop_1614611212_122_del'
+03/03/21 01:17:12 303900800  1614705432
+
+赵签到英氏YeeHoO旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+英氏YeeHoO旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=6798964e773a447bba56243fbff38c84
+venderId=16732
+startTime=1614136740000
+endTime=1614700799000
+# 短链接
+suo_url="https://3.cn/10152Q-jS"
+actTimeStr="2021-02-24 11:19 至 2021-03-02 23:59"
+#店铺名称
+vendername="英氏YeeHoO旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6798964e773a447bba56243fbff38c84&venderId=16732&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.24 11:19:00 - 2021.03.02 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆 5京豆
+连续签到5天：10京豆 10京豆
+连续签到7天：15京豆 15京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210302"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210302"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

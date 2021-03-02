@@ -321,9 +321,10 @@ exit
 
 
 ##
-将url活动链接和h5签到的短连接写入sign_list 比如
-"https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406&sceneval=2&jxsid=16146428113866014329"
+将url活动链接(不能带两边引号)、h5签到的短连接(不能带两边引号)、或者店铺venderId号写入sign_list 比如
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406&sceneval=2&jxsid=16146428113866014329
 https://u.jd.com/iNUDG9R
+1000002423
 然后执行
 ./search.sh sign_list
 

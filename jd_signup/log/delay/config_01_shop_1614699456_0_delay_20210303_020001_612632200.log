@@ -1,0 +1,92 @@
+03/03/21 02:04:01 867875000  1614708241
+RANDOM_num: 20
+removed '/tmp/tmp.eskkRq9POG'
+03/03/21 02:04:01 964020000  1614708241
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210303
+***********************************************
+
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+actId=d9362f287a96497d95eab5be94a7b604
+venderId=667324
+startTime=1614528000000
+endTime=1615305599000
+# 短链接
+suo_url="https://3.cn/1015ZE-lC"
+actTimeStr="2021-03-01 00:00 至 2021-03-09 23:59"
+#店铺名称
+vendername="卡西欧手表官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d9362f287a96497d95eab5be94a7b604&venderId=667324&adsource=tg_storePage&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=dfb96aaf82b64cbb8d9771eba3c2d717
+# 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 2 天
+签到总天数 2"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210303"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
