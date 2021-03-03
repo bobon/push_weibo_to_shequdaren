@@ -8,7 +8,7 @@ actTimeStr="2021-02-22 13:59 至 2021-03-20 23:59"
 #店铺名称
 vendername="歌德老酒行精品旗舰店"
 # 长链接
-url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6311b018ecfa4319b37d0003638468af&venderId=143153&adsource=tg_xuanFuTuBiao
+url="https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6311b018ecfa4319b37d0003638468af&venderId=143153&adsource=tg_xuanFuTuBiao"
 # 活动时间：2021.02.22 13:59:00 - 2021.03.20 23:59:59
 # 奖励说明：
 actRule="
@@ -46,7 +46,7 @@ signTime=1614729600;signed=2
 signTime=1614816000;signed=2"
 sign_num="0"
 sign_total_num="9"
-giftName=""董酒 专享价""
+giftName="董酒 专享价"
 giftRes="ok"
 giftDate="20210304"
 sign_res_info="
@@ -54,7 +54,7 @@ sign_res_info="
 2021/03/02_08:00:00  [已~签~到]      
 2021/03/03_08:00:00  [已~签~到]      
 2021/03/04_08:00:00  [已~签~到]      
-当天签到奖励 ["董酒 专享价"]
+当天签到奖励 [董酒 专享价]
 连续签到 0 天
 签到总天数 9"
 #赵 122294312-396444 sign_res_end
