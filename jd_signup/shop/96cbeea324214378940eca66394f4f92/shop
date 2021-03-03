@@ -1,0 +1,18 @@
+actId=96cbeea324214378940eca66394f4f92
+venderId=33293
+startTime=1614582000000
+endTime=1615302059000
+# 短链接
+suo_url="https://3.cn/1017-16lj"
+actTimeStr="2021-03-01 15:00 至 2021-03-09 23:00"
+#店铺名称
+vendername="也买酒旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=96cbeea324214378940eca66394f4f92&venderId=33293&adsource=tg_storePage
+# 活动时间：2021.03.01 15:00:00 - 2021.03.09 23:00:59
+# 奖励说明：
+actRule="
+连续签到3天：3京豆 3京豆
+连续签到5天：5元优惠券
+连续签到7天：5京豆 5京豆
+"

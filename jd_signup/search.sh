@@ -164,24 +164,41 @@ filer_venderId_from_shop() {
 
 sign_list() {
 	rm -rvf log/batch_parse_find_new_vender.tmp
-	for s_f in $(cat $1); do
-		if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
-			bash parse.sh "$s_f" batch_pro -f
-		else
-			bash parse.sh "$s_f" batch_pro || true
-		fi
-	done	
+	if [ "$2" = one ]; then
+		for s_f in $(cat $1 | sed -n 1p); do
+			if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
+				bash parse.sh "$s_f" batch_pro -f
+			else
+				bash parse.sh "$s_f" batch_pro -f || true
+			fi
+		done
+	else
+		for s_f in $(cat $1); do
+			if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
+				bash parse.sh "$s_f" batch_pro -f
+			else
+				bash parse.sh "$s_f" batch_pro -f || true
+			fi
+			sleep 2
+		done
+	fi	
 	unset s_f
 	
 	if [ -f "log/batch_parse_find_new_vender.tmp" ]; then
+		new_s=""
 		num=0
 		for s_f in $(cat log/batch_parse_find_new_vender.tmp); do
+			key=$(echo "$s_f" | sed -r -e 's,shop/,,')
+			echo "process $key"
 			kt=$s_f/shop
-			if [ $(grep '^url=' "$kt" | egrep 'api.m.jd.com|h5.m.jd.com'>/dev/null;echo $?) -eq 0 ]; then
+			if [ ! -f "$kt" ]; then continue; fi
+			if [ $(grep '^url=' "$kt" | egrep 'api.m.jd.com|h5.m.jd.com'>/dev/null;echo $?) -eq 0 ]; then				
+				egrep -r "^token=$key|^token=\"$key" api_vender | grep -v '_del:' && continue || true
 				flag=api_vender_pre
 				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
 				cp -rvf "$kt" "$new_v"
 			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/sevenDay'>/dev/null;echo $?) -eq 0 ]; then
+				egrep -r "^actId=$key|^actId=\"$key" lzkj_sevenDay_vender | grep -v '_del:' && continue || true
 				flag=lzkj_sevenDay_vender
 				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
 				cp -rvf "$kt" "$new_v"
@@ -190,6 +207,7 @@ sign_list() {
 				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 $new_v 2
 				bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 $new_v 2
 			elif [ $(grep '^url=' "$kt" | grep 'lzkj-isv.isvjcloud.com/sign/signActivity'>/dev/null;echo $?) -eq 0 ]; then
+				egrep -r "^actId=$key|^actId=\"$key" vender | grep -v '_del:' && continue || true
 				flag=vender
 				new_v="$sign_base_dir/$flag/shop_$(date '+%s')_${num}_delay"
 				cp -rvf "$kt" "$new_v"
@@ -201,10 +219,11 @@ sign_list() {
 				error "not find process fun." 
 			fi
 			let num++ || true
-			echo "***** 新签到 $new_v"
+			new_s="$new_s\n***** 新签到 $new_v"
 		done
 		unset s_f
-	fi
+		echo -e "$new_s"
+	fi	
 }
 
 
@@ -213,7 +232,7 @@ mkdir -vp /home/myid/all_shop_info
 if [ "$1" = "sign_list" ]; then
 	if [ $(cat $sign_base_dir/$1 | grep '^https://'>/dev/null;echo $?) -eq 0 ]; then
 		cat $sign_base_dir/$1 | grep '^https://' > $sign_base_dir/sign_list_t
-		sign_list $sign_base_dir/sign_list_t
+		sign_list $sign_base_dir/sign_list_t $2
 	fi
 	
 	cat $sign_base_dir/$1 | grep -v '^https://' || exit	
@@ -233,7 +252,7 @@ if [ "$1" = "sign_list" ]; then
 	echo "从 $(cat log/all_shop_signed.tmp | wc -l) 个已签到的店铺中，已发现 $(cat log/sign.tmp | wc -l) 个新活动"
 	
 	sed -r -e 's,^",,' -e 's,"$,,' log/sign.tmp > $sign_base_dir/sign_list_t
-	sign_list $sign_base_dir/sign_list_t
+	sign_list $sign_base_dir/sign_list_t $2
 
 elif [ "$1" = "sign_vender_list" ]; then
 	flush=true
@@ -321,12 +340,14 @@ exit
 
 
 ##
-将url活动链接(不能带两边引号)、h5签到的短连接(不能带两边引号)、或者店铺venderId号写入sign_list 比如
+将url活动链接(不能带两边引号)、h5签到的短连接(不能带两边引号)、或者店铺venderId号写入sign_list, sign_list不能有空行. 比如
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406&sceneval=2&jxsid=16146428113866014329
 https://u.jd.com/iNUDG9R
 1000002423
 然后执行
 ./search.sh sign_list
+如果只处理sign_list第一行，执行
+./search.sh sign_list one
 
 
 
@@ -334,3 +355,10 @@ https://u.jd.com/iNUDG9R
 1000002423
 然后执行
 ./search.sh sign_vender_list
+
+
+##
+for i in $(grep -r 'shopId:' shop/ | sed -r -e 's,.*shopId: ,,' -e "s,',,g" -e 's,\,.*,,' | sort | uniq ); do
+	curl -sS -k https://shop.m.jd.com/?shopId=$i | egrep '/sign/sevenDay/signActivity|/sign/signActivity|/babelDiy/Zeus/'
+done | sed -r -e 's,.*https,https,' -e 's,"\,$,,' -e 's,"$,,' | sort | uniq > sign_list
+./search.sh sign_list one  ## 一行行执行

@@ -24,20 +24,20 @@
 <meta http-equiv="expires" content="-1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.css?2537">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/animate.min.css?2537">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.css?2537">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.css?2729">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/animate.min.css?2729">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.css?2729">
 
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/htmlFontSize.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.fx.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/vue.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/jd/jssdk.min.js?2537"></script>
-<script src="//res.wx.qq.com/open/js/jweixin-1.3.2.js?2537"></script>
-<script src="//h5static.m.jd.com/act/jm-jdshare/2.3.0/jm-jdshare.js?2537"></script>
-<script type="text/javascript" src="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.min.js?2537"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/htmlFontSize.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.fx.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/vue.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/jd/jssdk.min.js?2729"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.3.2.js?2729"></script>
+<script src="//h5static.m.jd.com/act/jm-jdshare/2.3.0/jm-jdshare.js?2729"></script>
+<script type="text/javascript" src="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.min.js?2729"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/vConsole/3.3.4/vconsole.min.js"></script>
 
 <script type="text/javascript">
@@ -50,17 +50,17 @@
 
 
 <title>签到有礼</title>
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0000.min.css?2537">
-    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0140/0140.css?2537">
-    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/component-countdown.min.css?2537">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0000.min.css?2729">
+    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0110/0110.css?2729">
+    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/component-countdown.min.css?2729">
 </head>
 <body>
 <input type="hidden" id="baseUrl" value="https://lzkj-isv.isvjcloud.com">
 <input type="hidden" id="baseResourcesUrl" value="//cjwxqz.dianpusoft.cn/resources">
-<input type="hidden" id="activityId" value="0b3575b2b7a54b438f0c909bf1b43fe8">
+<input type="hidden" id="activityId" value="96cbeea324214378940eca66394f4f92">
 <input type="hidden" id="venderId" value="33293">
 <input type="hidden" id="userId" value="33293">
-<input type="hidden" id="startTime" value="2021-01-17 00:00:00.0">
+<input type="hidden" id="startTime" value="2021-03-01 15:00:00.0">
 <div id="timmer">
     <vue-countdown v-bind:vendtime="jstime?jstime:0"></vue-countdown>
 </div>
@@ -78,24 +78,24 @@
     
     
     <div class="draw-rule" @click="showSidebar"></div>
-    <div class="draw-banner-name animated ">{{shopInfo.shopName}}</div>
+    <div class="draw-banner-name animated fadeInUp">{{shopInfo.shopName}}</div>
     <div class="draw-banner">
-        <img class="animated bounceInDown" src="//img10.360buyimg.com/imgzone/jfs/t1/25949/39/12764/16727/5c9ad2b3E788bc671/c4a411fa28b35cda.png" alt="" style="display: block;">
+        <img class="animated bounceInDown" src="//img10.360buyimg.com/imgzone/jfs/t1/26979/27/12634/7342/5c99e521E796af4e7/3a551be297a98f9a.png" alt="" style="display: block;">
     </div>
         <div class="signButton">
-            <div class="draw-sign-btn" @click="sign" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay" style="width: 3.1rem">
+            <div style="font-size: .24rem;color: #ff75b3;" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay">今日未签到</div>
+            <div class="draw-sign-btn" @click="sign" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay">
                 {{isFocusShop == 'y'?'关注店铺 点我签到':'点我签到'}}
             </div>
             <div class="draw-sign-btn1 active" v-if="signRecord.lastSignDate == nowDay">
                 今日已签到
-                <img class="hasSign" src="//img10.360buyimg.com/imgzone/jfs/t1/29052/2/12825/2797/5c9ae050E0e164d3f/2b76c47d7b9df1ba.png" alt="">
+                <img class="hasSign" src="//img10.360buyimg.com/imgzone/jfs/t1/20482/13/6776/1009/5c62400eE6822db2f/6bdf929db17d4eda.png" alt="">
             </div>
-            <div style="font-size: .24rem;color: #ffe9b3;margin-top: .2rem" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay">~今日未签到~</div>
         </div>
     <div class="draw-sign-ctn">
         <div class="draw-sign-count f-cb">
-            <div class="f-fl">连续签 <span style="color: #fc7742;font-size: .36rem;margin: 0 .1rem;">{{signRecord.contiSignNum}}</span> 天</div>
-            <div class="f-fr">累计签 <span style="color: #fc7742;font-size: .36rem;margin: 0 .1rem;">{{signRecord.totalSignNum}}</span> 天</div>
+            <div class="f-fl">连续签 <span style="color:#ff5eb5;">{{signRecord.contiSignNum}}</span> 天</div>
+            <div class="f-fr">累计签 <span style="color:#ff5eb5;">{{signRecord.totalSignNum}}</span> 天</div>
         </div>
         <div class="draw-sign-date">{{day}}</div>
     </div>
@@ -114,7 +114,7 @@
                 <span v-for="it in dateList" :class="{disabled: it.isDisabled, isign: it.isign, isgift: it.isgift}">
                     {{it.day}}
                     <template v-if = "it.isCurDay && it.isign">
-                        <img class="isCurDay" src="//img10.360buyimg.com/imgzone/jfs/t1/20700/40/12812/850/5c9adec0Ecde43ac3/7e93218151bc0c45.png" alt="" >
+                        <img class="isCurDay" src="//img10.360buyimg.com/imgzone/jfs/t1/21821/26/12806/656/5c9ae222Ec5f7ece8/047a34f27654df36.png" alt="" >
                     </template>
                 </span>
             </div>
@@ -823,7 +823,7 @@
 
         
         
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/draw-sign-list.css?2537">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/draw-sign-list.css?2729">
 <!--加倍曝光通用代码-->
 <div v-if="actCustomPromotionList != null && actCustomPromotionList.length > 0">
     <div v-for="it in actCustomPromotionList">
@@ -897,7 +897,7 @@
         </div>
     </div>
 </div>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/vue-lazyload.js?2537"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/vue-lazyload.js?2729"></script>
 
 </div>
 <!--技术支持-->
@@ -939,15 +939,15 @@
 	</transition>
 </div>
 
-<script src="https://lzkj-isv.isvjcloud.com/resources/wxjs/config.min.js?2537"></script>
+<script src="https://lzkj-isv.isvjcloud.com/resources/wxjs/config.min.js?2729"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/lzsdk.min.js?2537"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/lzsdk.min.js?2729"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/globalFiles/ConsumerGlobal/browserLog/browserLog.min.js?2537"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/globalFiles/ConsumerGlobal/browserLog/browserLog.min.js?2729"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/wxCustomPromotion/commonJs.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/countdown.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/moment.min.js?2537"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/templateCommon.min.js?2537"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/wxCustomPromotion/commonJs.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/countdown.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/moment.min.js?2729"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/templateCommon.min.js?2729"></script>
 </body>
 </html>
