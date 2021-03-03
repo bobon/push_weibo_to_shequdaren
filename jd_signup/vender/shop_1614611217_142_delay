@@ -14,60 +14,66 @@ url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ccf41f36d3dc4e4
 actRule="
 连续签到30天：50京豆 50京豆
 "
-#肥鹅 jd_4d651d9e48204 sign_res
+#王 1309893722-164885 sign_res
 sign_res="
 signTime=1614556800;signed=2
 signTime=1614643200;signed=2
-signTime=1614729600;signed=2"
-sign_num="4"
-sign_total_num="4"
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="5"
+sign_total_num="5"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210303"
+giftDate="20210304"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
 2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 4 天
-签到总天数 4"
+连续签到 5 天
+签到总天数 5"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 5 天
+签到总天数 5"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1614556800;signed=2
 signTime=1614643200;signed=2
-signTime=1614729600;signed=2"
-sign_num="4"
-sign_total_num="4"
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="5"
+sign_total_num="5"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210303"
+giftDate="20210304"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
 2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 4 天
-签到总天数 4"
+连续签到 5 天
+签到总天数 5"
 #赵 122294312-396444 sign_res_end
-#王 1309893722-164885 sign_res
-sign_res="
-signTime=1614556800;signed=2
-signTime=1614643200;signed=2
-signTime=1614729600;signed=2"
-sign_num="4"
-sign_total_num="4"
-giftName=""10积分""
-giftRes="ok"
-giftDate="20210303"
-sign_res_info="
-2021/03/01_08:00:00  [已~签~到]      
-2021/03/02_08:00:00  [已~签~到]      
-2021/03/03_08:00:00  [已~签~到]      
-当天签到奖励 ["10积分"]
-连续签到 4 天
-签到总天数 4"
-#王 1309893722-164885 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 "
@@ -75,7 +81,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210303"
+giftDate="20210304"
 sign_res_info="
 
 当天签到奖励 []

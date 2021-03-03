@@ -1,0 +1,98 @@
+03/04/21 02:03:32 943253800  1614794612
+RANDOM_num: 20
+removed '/tmp/tmp.Jh039UbJUx'
+03/04/21 02:03:33 029342300  1614794613
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210304
+***********************************************
+
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+actId=64b89ed39b3c4ddfbcabc64f402e0a07
+venderId=1000000582
+startTime=1614564000000
+endTime=1617155099000
+# 短链接
+suo_url="https://3.cn/101-6TNxz"
+actTimeStr="2021-03-01 10:00 至 2021-03-31 09:44"
+#店铺名称
+vendername="极米投影京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=64b89ed39b3c4ddfbcabc64f402e0a07&venderId=1000000582&sid=e3e570ce05c2616b77c432ae0142423w&un_area=3_51038_3000_0
+# 活动时间：2021.03.01 10:00:00 - 2021.03.31 09:44:59
+# 奖励说明：
+actRule="
+连续签到1天：1京豆 1京豆
+连续签到3天：3京豆 3京豆
+连续签到5天：5京豆 5京豆
+连续签到10天：10京豆 10京豆
+连续签到15天：15京豆 15京豆
+连续签到20天：20京豆 20京豆
+连续签到30天：50京豆 50京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210304"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

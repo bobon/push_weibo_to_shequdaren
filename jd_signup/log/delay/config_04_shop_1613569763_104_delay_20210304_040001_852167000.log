@@ -1,0 +1,26 @@
+03/04/21 04:01:12 651537800  1614801672
+RANDOM_num: 35
+removed '/tmp/tmp.qZnsYfQcW1'
+03/04/21 04:01:12 728900200  1614801672 检查移动签到
+
+real	0m0.181s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614802272	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614802272	LZ_TOKEN_KEY	lztokenpage4b148f5fed6e43e89c8a1215f2baf4dd
+03/04/21 04:01:13 029158900  1614801673
+use wskey
+
+real	0m0.178s
+user	0m0.094s
+sys	0m0.094s
+03/04/21 04:01:13 231642600  1614801673 token: AAFgP-sJADCTxIkNi5KixsN7GcUC-G4B8wrpnvAppB5plaJhrPzyTF-o6ySf-6UjaqYXySQwspw
+
+real	0m0.253s
+user	0m0.000s
+sys	0m0.047s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/04/21 04:01:48 587825400  1614801708
+curl: (6) Could not resolve host: lzkj-isv.isvjcloud.com
+[0;31;3mRUN  at {258:<--} ERROR CODE: 6[0m [0;31;3m[20210304 04:01:48] [ERROR] [0m
+

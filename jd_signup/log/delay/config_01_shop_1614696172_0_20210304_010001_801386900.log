@@ -1,0 +1,151 @@
+03/04/21 01:14:54 403995300  1614791694
+RANDOM_num: 35
+removed '/tmp/tmp.W3WOvdpgNz'
+03/04/21 01:14:54 543962700  1614791694 检查赵签到
+
+real	0m0.210s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792294	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792294	LZ_TOKEN_KEY	lztokenpage03a27a795a384cd0918296ec216d91ba
+03/04/21 01:14:54 847822200  1614791694
+use pt_key
+
+real	0m0.176s
+user	0m0.063s
+sys	0m0.094s
+03/04/21 01:14:55 048176100  1614791695 token: AAFgP8QPADDri9gP4gfnXCZwV0VGlQo3EOjeL5yK3Q3UKXl2sTv97lcPHllaw9N44iG3Hhfxayg
+
+real	0m0.306s
+user	0m0.016s
+sys	0m0.078s
+03/04/21 01:14:55 505830700  1614791695 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/04/21 01:14:55 522415100  1614791695 赵签到Oray京东自营官方旗舰店
+
+real	0m1.154s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "ojraeC",
+    "giftLogId": "fe7f8af62cb64031927eb0a35bef1a6c",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1151212",
+      "giftType": "6",
+      "giftName": "5京豆",
+      "giftNum": "5",
+      "giftTotal": "500",
+      "giftResidue": null,
+      "priceInfo": "0.05",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+03/04/21 01:14:57 250761100 1614791697
+03/04/21 01:14:57 293220400 1614791697 签到Oray京东自营官方旗舰店完成
+03/04/21 01:16:43 241843100  1614791803
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "5京豆"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["5京豆"]
+***********************************************
+
+赵签到Oray京东自营官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="Oray京东自营官方旗舰店"
+#店铺激活码
+actId="36a96949aef74f239e4a8b8553518bac"
+#店铺id
+venderId="10142406"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406&sceneval=2&jxsid=16146428113866014329"
+
+startTime=1614565080
+endTime=1616169540
+# 活动时间：2021-03-01 10:18 - 2021-03-19 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210304"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""5京豆""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["5京豆"]"
+#赵 122294312-396444 sign_res_end

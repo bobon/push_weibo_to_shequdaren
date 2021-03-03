@@ -1,0 +1,151 @@
+03/04/21 01:15:07 918145700  1614791707
+RANDOM_num: 10
+removed '/tmp/tmp.N4YGmfBnig'
+03/04/21 01:15:08 156961400  1614791708 检查王签到
+
+real	0m0.179s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792308	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792308	LZ_TOKEN_KEY	lztokenpageeb717aef146c47d7be17412092907aba
+03/04/21 01:15:08 467109900  1614791708
+use pt_key
+
+real	0m0.120s
+user	0m0.078s
+sys	0m0.078s
+03/04/21 01:15:08 603452600  1614791708 token: AAFgP8QcADDTbLYj_1paeBxWbLDuNxpvaKWgV8lblKfiOYzmvhZOBRYRuIKYCW-k5qQb3z2Gxg4
+
+real	0m0.317s
+user	0m0.031s
+sys	0m0.047s
+03/04/21 01:15:09 186206600  1614791709 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/04/21 01:15:09 230365400  1614791709 王签到欧迪芬旗舰店
+
+real	0m0.561s
+user	0m0.063s
+sys	0m0.094s
+{
+  "msg": "",
+  "signResult": {
+    "key": "3.cn/1015A-yPy",
+    "giftLogId": "62dfc4d9cf8543efbc56c3e061620f13",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "349268601",
+      "giftType": "1",
+      "giftName": "10元优惠券",
+      "giftNum": "10",
+      "giftTotal": "100000",
+      "giftResidue": null,
+      "priceInfo": "10.00",
+      "shortLink": "3.cn/1015A-yPy",
+      "orginLink": "http://coupon.m.jd.com/coupons/show.action?key=8131cd7f603e4ddf87ebcc6950929001&roleId=46829109&to=mall.jd.com/index-191003.html",
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+03/04/21 01:15:10 374071000 1614791710
+03/04/21 01:15:10 403246500 1614791710 签到欧迪芬旗舰店完成
+03/04/21 01:15:40 645204600  1614791740
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "10元优惠券"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["10元优惠券"]
+***********************************************
+
+王签到欧迪芬旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="欧迪芬旗舰店"
+#店铺激活码
+actId="3a6f8c8f9ef04a8c82016b375d3aa442"
+#店铺id
+venderId="199355"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3a6f8c8f9ef04a8c82016b375d3aa442&venderId=199355&adsource=tg_xuanFuTuBiao"
+
+startTime=1614528000
+endTime=1615219140
+# 活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：2京豆
+连续签到3天：10元优惠券
+连续签到4天：
+连续签到5天：20元优惠券
+连续签到6天：
+连续签到7天：10京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["2京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210304"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""10元优惠券""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["10元优惠券"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName=""10元优惠券""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["10元优惠券"]"
+#王 1309893722-164885 sign_res_end

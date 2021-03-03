@@ -1,0 +1,91 @@
+03/04/21 01:14:37 101560900  1614791677
+RANDOM_num: 25
+removed '/tmp/tmp.n7YPgYkAjl'
+03/04/21 01:14:37 280809400  1614791677 检查王签到
+
+real	0m0.357s
+user	0m0.016s
+sys	0m0.156s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792277	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614792277	LZ_TOKEN_KEY	lztokenpagea3f84f26813f48d5b1e0e2e90b98bc9b
+03/04/21 01:14:37 801622600  1614791677
+use pt_key
+
+real	0m0.149s
+user	0m0.141s
+sys	0m0.078s
+03/04/21 01:14:37 971678000  1614791677 token: AAFgP8P9ADB7ZNzwnppkQGzV91znEPAa4yBrs9yFHEcV1fFZvOkSEq5aXkf13rjvWrKje5lRLKU
+
+real	0m0.337s
+user	0m0.016s
+sys	0m0.078s
+03/04/21 01:14:38 458446600  1614791678 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/04/21 01:14:38 497587300  1614791678 王签到佳贝艾特京东自营官方旗舰店
+
+real	0m0.276s
+user	0m0.031s
+sys	0m0.031s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776884_2_delay 写入 over
+
+#店铺名称
+vendername="佳贝艾特京东自营官方旗舰店"
+#店铺激活码
+actId="3f6c151718844239b7be3ecca403cd70"
+#店铺id
+venderId="1000002710"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710&adsource=tg_storePage"
+
+startTime=1614568200
+endTime=1617203160
+# 活动时间：2021-03-01 11:10 - 2021-03-31 23:06；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20元优惠券
+连续签到2天：80元优惠券
+连续签到3天：30店铺积分
+连续签到4天：50店铺积分
+连续签到5天：80店铺积分
+连续签到6天：2京豆
+连续签到7天：100元优惠券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210303"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#肥鹅 jd_4d651d9e48204 sign_res_end

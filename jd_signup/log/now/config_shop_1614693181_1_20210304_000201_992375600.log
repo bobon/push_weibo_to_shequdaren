@@ -1,0 +1,152 @@
+03/04/21 00:02:03 124783900  1614787323
+RANDOM_num: 35
+removed '/tmp/tmp.aBsEBNZN33'
+03/04/21 00:02:03 998237900  1614787323
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210304
+***********************************************
+
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:45  2    [已~签~到]
+2021/03/03_01:11:18  2    [已~签~到]
+2021/03/04_00:00:03  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天
+***********************************************
+
+03/04/21 00:02:04 209900400  1614787324 检查122294312-396444签到
+removed '/tmp/tmp.ri7ssdRFN7'
+王 今天已经签到过. 签到结果: ok  giftDate: 20210304
+***********************************************
+
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:45  2    [已~签~到]
+2021/03/03_01:11:18  2    [已~签~到]
+2021/03/04_00:00:05  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天
+***********************************************
+
+03/04/21 00:02:05 119460700  1614787325 检查1309893722-164885签到
+今天已全部签到过
+# 短链接
+suo_url="https://u.jd.com/iMWQ1vA"
+venderId=113121
+startTime=1614528000000
+endTime=1615132799000
+activityId=10277828
+token=84AC20429DDDAFDE8B58E89B3B6BC3FB
+#店铺名称
+vendername="由我蓝牙旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=84AC20429DDDAFDE8B58E89B3B6BC3FB&sceneval=2&jxsid=16145283109835634461&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=07ace8f8a79647659d7b49ab876a1042
+# 活动时间：2021.03.01 00:00:00 - 2021.03.07 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10京豆
+连续签到4天：20京豆
+连续签到5天：30京豆
+连续签到6天：40京豆
+连续签到7天：50京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614528000;signed=1;currentDay=2
+signTime=1614693355;signed=2;currentDay=2
+signTime=1614705121;signed=2;currentDay=2
+signTime=1614787203;signed=2;currentDay=1
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3"
+sign_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:55  2    [已~签~到]
+2021/03/03_01:12:01  2    [已~签~到]
+2021/03/04_00:00:03  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614528000;signed=1;currentDay=2
+signTime=1614693355;signed=2;currentDay=2
+signTime=1614705121;signed=2;currentDay=2
+signTime=1614787205;signed=2;currentDay=1
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3"
+sign_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:55  2    [已~签~到]
+2021/03/03_01:12:01  2    [已~签~到]
+2021/03/04_00:00:05  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614528000;signed=1;currentDay=2
+signTime=1614693345;signed=2;currentDay=2
+signTime=1614705078;signed=2;currentDay=2
+signTime=1614787203;signed=2;currentDay=1
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3"
+sign_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:45  2    [已~签~到]
+2021/03/03_01:11:18  2    [已~签~到]
+2021/03/04_00:00:03  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614528000;signed=1;currentDay=2
+signTime=1614693345;signed=2;currentDay=2
+signTime=1614705078;signed=2;currentDay=2
+signTime=1614787205;signed=2;currentDay=1
+signTime=1614873600;signed=1;currentDay=3
+signTime=1614960000;signed=1;currentDay=3
+signTime=1615046400;signed=1;currentDay=3"
+sign_num="3"
+giftName=""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="
+2021/03/01_00:00:00  2    未签到
+2021/03/02_21:55:45  2    [已~签~到]
+2021/03/03_01:11:18  2    [已~签~到]
+2021/03/04_00:00:05  1    [已~签~到]
+2021/03/05_00:00:00  3    未签到
+2021/03/06_00:00:00  3    未签到
+2021/03/07_00:00:00  3    未签到
+当天签到奖励 []
+已签到 3 天"
+#王 1309893722-164885 sign_res_end

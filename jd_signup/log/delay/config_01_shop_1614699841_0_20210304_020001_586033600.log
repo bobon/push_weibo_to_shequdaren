@@ -1,0 +1,151 @@
+03/04/21 02:05:32 189601800  1614794732
+RANDOM_num: 20
+removed '/tmp/tmp.PgDOhXZo1K'
+03/04/21 02:05:32 342302800  1614794732 检查赵签到
+
+real	0m0.266s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614795332	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614795332	LZ_TOKEN_KEY	lztokenpage251457958d9e492eb1cc30603f7efb60
+03/04/21 02:05:32 781593400  1614794732
+use pt_key
+
+real	0m0.207s
+user	0m0.109s
+sys	0m0.109s
+03/04/21 02:05:33 015213500  1614794733 token: AAFgP8_sADCN2PAGe_3s4BWxDPCbdp74pkPNLoDiXewIjXB6BkT7GnyqA2ymcYYnldmQraPv1aA
+
+real	0m0.327s
+user	0m0.031s
+sys	0m0.078s
+03/04/21 02:05:33 483290200  1614794733 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/04/21 02:05:33 497841900  1614794733 赵签到英氏YeeHoO奥特莱斯店
+
+real	0m0.514s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": "ciyteg",
+    "giftLogId": "91383618c819480da072cb8f17152d13",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1161773",
+      "giftType": "6",
+      "giftName": "7京豆",
+      "giftNum": "7",
+      "giftTotal": "3000",
+      "giftResidue": null,
+      "priceInfo": "0.07",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+03/04/21 02:05:34 506020800 1614794734
+03/04/21 02:05:34 523723200 1614794734 签到英氏YeeHoO奥特莱斯店完成
+03/04/21 02:06:34 584585900  1614794794
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "7京豆"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["7京豆"]
+***********************************************
+
+赵签到英氏YeeHoO奥特莱斯店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="f1f81c4b1d5e47b2aba7c2531739fc74"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f1f81c4b1d5e47b2aba7c2531739fc74&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1614680400
+endTime=1617272400
+# 活动时间：2021-03-02 18:20 - 2021-04-01 18:20；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName=""6京豆""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["6京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName=""6京豆""
+giftRes="ok"
+giftDate="20210303"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["6京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210304"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""7京豆""
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["7京豆"]"
+#赵 122294312-396444 sign_res_end
