@@ -1,0 +1,61 @@
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210305_045501_408766600
+
+api_vender/shop_1614116103_32  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7271929A6F0673DA4019C8C5A681F568
+发现明天是 [肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [水裕青食品饮料专营店] 的第 3 天，将要获取到奖品[ 3 京豆]
+明天立即执行. 不改名字 api_vender/shop_1614116103_32
+
+api_vender/shop_1614608665_17_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=837A6266C629DC65E26FED55A919C37E
+发现明天是 [赵 122294312-396444; 肥鹅 jd_4d651d9e48204] 签到 [蝶印京东自营旗舰店] 的第 3 天，将要获取到奖品[ 3 京豆]
+[RUN] 明天立即执行. api_vender/shop_1614608665_17_delay --> api_vender/shop_1614608665_17
+
+api_vender/shop_1614608682_22_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=95015697779C9950A1A5D1A7C2B4863C
+发现明天是 [肥鹅 jd_4d651d9e48204] 签到 [CHUMS运动户外旗舰店] 的第 3 天，将要获取到奖品[ 10 京豆]
+[RUN] 明天立即执行. api_vender/shop_1614608682_22_delay --> api_vender/shop_1614608682_22
+
+api_vender/shop_1614611208_103  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=0F1E3AD2C014E7C98306BAD6C4143D7E
+发现明天是 [移动 jd_OeTNobRVGiNZ; 王 1309893722-164885] 签到 [欧普浴霸京东自营旗舰店] 的第 5 天，将要获取到奖品[ 5 京豆]
+明天立即执行. 不改名字 api_vender/shop_1614611208_103
+
+api_vender/shop_1614693181_1  
+发现明天是 [肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ; 赵 122294312-396444; 王 1309893722-164885] 签到 [由我蓝牙旗舰店] 的第 5 天，将要获取到奖品[ 30 京豆]
+明天立即执行. 不改名字 api_vender/shop_1614693181_1
+
+api_vender/shop_1614699996_0_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=1AFDEE76E0663DE71177237A45E1E2A3
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [柴火大院京东自营旗舰店] 的第 5 天，将要获取到奖品[ 200 店铺积分]
+
+api_vender/tianrun_02_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [天润旗舰店] 的第 12 天，将要获取到奖品[ 12 京豆]
+[RUN] 明天立即执行. api_vender/tianrun_02_delay --> api_vender/tianrun_02
+
+vender/aoyouruye_delay  
+发现明天是 [王 1309893722-164885] 签到 [澳优乳业官方旗舰店] 的第 7 天，将要获取到奖品[ 10京豆 10京豆]
+[RUN] 明天立即执行. vender/aoyouruye_delay --> vender/aoyouruye
+
+vender/shop_1613052102_8_delay  
+发现明天是 [王 1309893722-164885] 签到 [ZEESEA旗舰店] 的第 3 天，将要获取到奖品[ 连签3天专享]
+
+vender/shop_1613569734_15_delay  
+vender/shop_1613569763_104_delay  
+vender/shop_1614116186_58_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [拉比官方旗舰店] 的第 5 天，将要获取到奖品[ 50积分 50积分]
+
+vender/shop_1614116233_74_delay  
+vender/shop_1614116236_75_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [JEEP SPIRIT眼镜旗舰店] 的第 5 天，将要获取到奖品[ 3京豆 3京豆]
+[RUN] 明天立即执行. vender/shop_1614116236_75_delay --> vender/shop_1614116236_75
+
+vender/shop_1614608741_39_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [后浪出版京东自营店] 的第 6 天，将要获取到奖品[ 赠送精美书籍]
+[RUN] 奖品需要手工拼抢，并填写地址. 不改名字 vender/shop_1614608741_39_delay
+
+vender/shop_1614611215_136_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [JEEP SPIRIT眼镜旗舰店] 的第 5 天，将要获取到奖品[ 3京豆 3京豆]
+[RUN] 明天立即执行. vender/shop_1614611215_136_delay --> vender/shop_1614611215_136
+
+vender/shop_1614696854_0  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [歌德老酒行京东自营旗舰店] 的第 5 天，将要获取到奖品[ 100积分 100积分]
+[RUN] 明天签到 歌德老酒行京东自营旗舰店, 虽然会获取奖品，但任务不用立即执行. vender/shop_1614696854_0 --> vender/shop_1614696854_0_delay
+

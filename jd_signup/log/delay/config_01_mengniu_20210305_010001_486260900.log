@@ -1,0 +1,143 @@
+RANDOM_num: 5
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1614878916	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1614878916	LZ_TOKEN_KEY	lztokenpagedb3956d46dba4b4ab70eecc87e96a82d
+use pt_key
+token: AAFgQRZsADAP5S6HzxDJz3paryBlFnMj6x3kqQhSmtv1zLLo3F0e6UcA6HEu86k2VuQfL6E1GZI
+secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/05/21 01:18:36 839595100  1614878316
+赵签到蒙牛京东自营旗舰店
+{
+  "result": true,
+  "data": {
+    "taskInfo": [
+      true,
+      false
+    ]
+  },
+  "count": 0,
+  "errorMessage": ""
+}
+
+real	0m0.240s
+user	0m0.016s
+sys	0m0.031s
+
+03/05/21 01:18:37 695564500  1614878317
+赵签到蒙牛京东自营旗舰店
+{
+  "result": false,
+  "data": "",
+  "count": 0,
+  "errorMessage": "您已完成当天签到！"
+}
+"您已完成当天签到！"
+签到蒙牛京东自营旗舰店完成
+
+赵签到蒙牛京东自营旗舰店查看结果, 活动规则
+{"result":true,"data":{"signStartTime":1614528000000,"shareImage":"https://img10.360buyimg.com/imgzone/jfs/t1/130875/40/391/14993/5eccbde3E304492bc/bb2530ba7c0f8b5b.jpg","rule":"活动主办方：蒙牛京东自营旗舰店
+签到时间：2021-03-01 00:00:00 – 2021-03-31 12:00:00
+
+活动规则： 
+1.每日签到领取店铺积分；
+2.连续签到18天有机会额外可领取70积分，连续签到第28天有机会额外可领取100京豆；
+3.签到积分相同情况下，根据签到完成时间的早晚排名前10名有机会额外获得500个京豆大奖。
+4.达到连续签到天数并领取连续签到的奖品后，签到记录不清零，继续签到领好礼；
+5.如出现积分相同情况下，系统自动默认按照先达成积分时间先后顺序进行排名；
+6.补签要求：当天只能补签前一天的签到，邀请三位好友即可补签成功，补签不赠予店铺积分，但可以计入累计签到天数领后续奖品；
+7.奖品数量有限，先到先得；
+8.本次活动如果中了任何奖品。如积分、京豆均需要您手动领取；超过奖品有效期限未兑换视为自动放弃； 
+
+活动规范：
+1．每位自然人用户仅能使用一个京东账号参与活动，京东账号、手机号码等任意信息一致或指向同一用户，则视为同一用户；第一个参与本活动的账号参与结果有效，其他账号参与本活动均视为无效；
+2．若发现同一用户使用不同账号重复参与活动，商家有权取消其获奖资格； 
+3．参与活动的用户将关注“蒙牛京东自营旗舰店”
+
+注意事项：
+1.活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，将有权终止其参与活动，并取消其获奖资格（如奖品已发放，将有权追回），如给蒙牛京东自营旗舰店造成损失的，将保留向违规用户继续追索的权利。
+2.如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，有权取消、修改或暂停本活动。
+3.为了及时有效的处理您的问题，若您对活动有任何疑问，请进入蒙牛京东自营旗舰店找“在线客服”咨询。
+4.是否中奖以活动发布者后台统计结果为准。","firstAccess":false,"signDetail":["20210301","20210302","20210303"],"signDate":1614878323618,"hasLastPrize":false,"backImg":"https://img10.360buyimg.com/imgzone/jfs/t1/151323/4/20366/305150/60385e76Eefb5138e/bf9012a83e4056ac.jpg","shareContent":"蒙牛喊你来签到，京豆多多，福利多多，争分夺秒，不容错过！","top":[{"score":25,"pin":"X**l"},{"score":25,"pin":"生**奇"},{"score":25,"pin":"帅**_"},{"score":25,"pin":"a**y"},{"score":25,"pin":"j**q"},{"score":25,"pin":"静**9"},{"score":25,"pin":"j**往"},{"score":25,"pin":"w**4"},{"score":25,"pin":"图**豆"},{"score":25,"pin":"随**e"}],"shopId":1000014803,"taskInfo":[false,false],"offSignNum":1,"hasEnd":false,"miniShareImage":"https://img10.360buyimg.com/imgzone/jfs/t1/121626/1/3005/134942/5eccbde3Ef5c8ac4e/8fd456eac96421a3.jpg","hasWin":false,"activityName":"蒙牛签到","contiSignNum":0,"assistType":0,"userId":1000014803,"needOpenCard":false,"shareTitle":"连续签到赢京豆","jdActivityId":1154801,"allPoint":10,"self":true,"endTime":1617163200000,"actorUuid":"cce0dc0f040a479397f46d3356cf4736"},"count":0,"errorMessage":""}
+
+{
+  "result": true,
+  "data": {
+    "signStartTime": 1614528000000,
+    "shareImage": "https://img10.360buyimg.com/imgzone/jfs/t1/130875/40/391/14993/5eccbde3E304492bc/bb2530ba7c0f8b5b.jpg",
+    "rule": "活动主办方：蒙牛京东自营旗舰店\r\n签到时间：2021-03-01 00:00:00 – 2021-03-31 12:00:00\r\n\r\n活动规则： \r\n1.每日签到领取店铺积分；\r\n2.连续签到18天有机会额外可领取70积分，连续签到第28天有机会额外可领取100京豆；\r\n3.签到积分相同情况下，根据签到完成时间的早晚排名前10名有机会额外获得500个京豆大奖。\r\n4.达到连续签到天数并领取连续签到的奖品后，签到记录不清零，继续签到领好礼；\r\n5.如出现积分相同情况下，系统自动默认按照先达成积分时间先后顺序进行排名；\r\n6.补签要求：当天只能补签前一天的签到，邀请三位好友即可补签成功，补签不赠予店铺积分，但可以计入累计签到天数领后续奖品；\r\n7.奖品数量有限，先到先得；\r\n8.本次活动如果中了任何奖品。如积分、京豆均需要您手动领取；超过奖品有效期限未兑换视为自动放弃； \r\n\r\n活动规范：\r\n1．每位自然人用户仅能使用一个京东账号参与活动，京东账号、手机号码等任意信息一致或指向同一用户，则视为同一用户；第一个参与本活动的账号参与结果有效，其他账号参与本活动均视为无效；\r\n2．若发现同一用户使用不同账号重复参与活动，商家有权取消其获奖资格； \r\n3．参与活动的用户将关注“蒙牛京东自营旗舰店”\r\n\r\n注意事项：\r\n1.活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，将有权终止其参与活动，并取消其获奖资格（如奖品已发放，将有权追回），如给蒙牛京东自营旗舰店造成损失的，将保留向违规用户继续追索的权利。\r\n2.如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，有权取消、修改或暂停本活动。\r\n3.为了及时有效的处理您的问题，若您对活动有任何疑问，请进入蒙牛京东自营旗舰店找“在线客服”咨询。\r\n4.是否中奖以活动发布者后台统计结果为准。",
+    "firstAccess": false,
+    "signDetail": [
+      "20210301",
+      "20210302",
+      "20210303"
+    ],
+    "signDate": 1614878323618,
+    "hasLastPrize": false,
+    "backImg": "https://img10.360buyimg.com/imgzone/jfs/t1/151323/4/20366/305150/60385e76Eefb5138e/bf9012a83e4056ac.jpg",
+    "shareContent": "蒙牛喊你来签到，京豆多多，福利多多，争分夺秒，不容错过！",
+    "top": [
+      {
+        "score": 25,
+        "pin": "X**l"
+      },
+      {
+        "score": 25,
+        "pin": "生**奇"
+      },
+      {
+        "score": 25,
+        "pin": "帅**_"
+      },
+      {
+        "score": 25,
+        "pin": "a**y"
+      },
+      {
+        "score": 25,
+        "pin": "j**q"
+      },
+      {
+        "score": 25,
+        "pin": "静**9"
+      },
+      {
+        "score": 25,
+        "pin": "j**往"
+      },
+      {
+        "score": 25,
+        "pin": "w**4"
+      },
+      {
+        "score": 25,
+        "pin": "图**豆"
+      },
+      {
+        "score": 25,
+        "pin": "随**e"
+      }
+    ],
+    "shopId": 1000014803,
+    "taskInfo": [
+      false,
+      false
+    ],
+    "offSignNum": 1,
+    "hasEnd": false,
+    "miniShareImage": "https://img10.360buyimg.com/imgzone/jfs/t1/121626/1/3005/134942/5eccbde3Ef5c8ac4e/8fd456eac96421a3.jpg",
+    "hasWin": false,
+    "activityName": "蒙牛签到",
+    "contiSignNum": 0,
+    "assistType": 0,
+    "userId": 1000014803,
+    "needOpenCard": false,
+    "shareTitle": "连续签到赢京豆",
+    "jdActivityId": 1154801,
+    "allPoint": 10,
+    "self": true,
+    "endTime": 1617163200000,
+    "actorUuid": "cce0dc0f040a479397f46d3356cf4736"
+  },
+  "count": 0,
+  "errorMessage": ""
+}

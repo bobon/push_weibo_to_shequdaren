@@ -1,0 +1,101 @@
+03/05/21 02:03:28 616775900  1614881008
+RANDOM_num: 10
+removed '/tmp/tmp.65SwCCsgfo'
+03/05/21 02:03:28 713336900  1614881008
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210305
+***********************************************
+
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+actId=020aa2446606484892a5dd15603cd939
+venderId=1000094055
+startTime=1614326340000
+endTime=1616655899000
+# 短链接
+suo_url="https://3.cn/1015-T6u6"
+actTimeStr="2021-02-26 15:59 至 2021-03-25 15:04"
+#店铺名称
+vendername="天润乳品京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=020aa2446606484892a5dd15603cd939&venderId=1000094055&adsource=tg_xuanFuTuBiao&sceneval=2&jxsid=16146428113866014329
+# 活动时间：2021.02.26 15:59:00 - 2021.03.25 15:04:59
+# 奖励说明：
+actRule="
+连续签到10天：100京豆 100京豆
+连续签到20天：赠送高钙砖1提
+连续签到25天：赠送天润奶啤12罐
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

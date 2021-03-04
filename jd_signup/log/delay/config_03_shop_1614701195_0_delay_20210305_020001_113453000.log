@@ -1,0 +1,101 @@
+03/05/21 02:03:40 849311200  1614881020
+RANDOM_num: 40
+removed '/tmp/tmp.xqS7lnG8aQ'
+03/05/21 02:03:40 978822700  1614881020
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210305
+***********************************************
+
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 [10积分]
+连续签到 3 天
+签到总天数 20
+***********************************************
+
+actId=4a669aaf044540ae859b472c07e472e5
+venderId=1000003179
+startTime=1614567600000
+endTime=1616947199000
+# 短链接
+suo_url="https://3.cn/K9gEAGzNc"
+actTimeStr="2021-03-01 11:00 至 2021-03-28 23:59"
+#店铺名称
+vendername="美赞臣京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179&sid=e3e570ce05c2616b77c432ae0142423w&un_area=3_51038_3000_0
+# 活动时间：2021.03.01 11:00:00 - 2021.03.28 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10积分 10积分
+连续签到7天：30积分 30积分
+连续签到25天：赠送三网10元话费
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="45"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 45"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="43"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 43"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="20"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 3 天
+签到总天数 20"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

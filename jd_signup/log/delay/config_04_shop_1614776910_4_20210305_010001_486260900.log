@@ -1,0 +1,781 @@
+03/05/21 01:19:38 639085600  1614878378
+RANDOM_num: 30
+removed '/tmp/tmp.mAo4SXYmUq'
+03/05/21 01:19:42 215439200  1614878382 检查移动签到
+
+real	0m1.123s
+user	0m0.016s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/05/21 01:19:45 906879100  1614878385
+use wskey
+
+real	0m1.418s
+user	0m0.078s
+sys	0m0.141s
+03/05/21 01:19:47 744581300  1614878387 token: AAFgQRazADBtR1PRJL0CfybGJSDHq2PebaGaG4rYG9dt92glrQVEJRVnbgiEYnLpe8VVUgrPu1o
+
+real	0m1.156s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:19:50 401584500  1614878390 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:19:50 642734800  1614878390 移动签到也买酒旗舰店
+
+real	0m1.321s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:19:54 948293600 1614878394
+
+real	0m1.269s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.776s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/05/21 01:19:58 761408500  1614878398
+use wskey
+
+real	0m1.449s
+user	0m0.109s
+sys	0m0.125s
+03/05/21 01:20:00 908684600  1614878400 token: AAFgQRbAADArLvp5TMBUnc7ozYjW_vYlsTwRUBwHlx9t9mYF6ysztftO9FHzVQ0UM4ygg2oQl3g
+
+real	0m0.971s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:03 671596400  1614878403 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:20:04 135128900  1614878404 移动签到也买酒旗舰店
+
+real	0m0.976s
+user	0m0.063s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:08 627738600 1614878408
+
+real	0m1.277s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.570s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/05/21 01:20:13 364795300  1614878413
+use wskey
+
+real	0m1.433s
+user	0m0.094s
+sys	0m0.109s
+03/05/21 01:20:15 219368300  1614878415 token: AAFgQRbOADBMX5zmfkEDQona-ZeYuahKUKOwr3fu_0IF4-KMRmMLzd1Gsmuz8s15-duamEXhjTY
+
+real	0m1.100s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:17 717727100  1614878417 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:20:18 090499900  1614878418 移动签到也买酒旗舰店
+
+real	0m0.847s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:22 617235000 1614878422
+
+real	0m1.759s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.839s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:20:26 115584400  1614878426
+use wskey
+
+real	0m1.246s
+user	0m0.063s
+sys	0m0.172s
+03/05/21 01:20:27 799058800  1614878427 token: AAFgQRbbADAd8BMlB6rIywawZ5J4xZU29aA3E9Fivv8nqI4qLXcOF10QPWNy8Br1fc7tx6TpJhs
+
+real	0m1.203s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:30 613378300  1614878430 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:20:31 056224700  1614878431 移动签到也买酒旗舰店
+
+real	0m0.551s
+user	0m0.063s
+sys	0m0.031s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:34 536222300 1614878434
+
+real	0m1.956s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m1.240s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/05/21 01:20:38 812214700  1614878438
+use wskey
+
+real	0m0.891s
+user	0m0.094s
+sys	0m0.125s
+03/05/21 01:20:41 139272100  1614878441 token: AAFgQRbnADDbR0aq_5Y37jv4JRurxypkLF9h9X8DSMhf7rRERh9XFxdh0ZYBzp5NW8CpACuIxCs
+
+real	0m1.344s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:44 176975300  1614878444 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:20:44 469012200  1614878444 移动签到也买酒旗舰店
+
+real	0m1.181s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:48 593802300 1614878448
+
+real	0m1.968s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.497s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/05/21 01:20:53 259484700  1614878453
+use wskey
+
+real	0m1.065s
+user	0m0.109s
+sys	0m0.125s
+03/05/21 01:20:54 804417300  1614878454 token: AAFgQRb2ADBp17jZoKaLdBaloavm5QwSpg_147yyBt00u-YFywln55JcCEY0bTW4YCT-LYM8VVk
+
+real	0m1.085s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:20:57 726754000  1614878457 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:20:58 191911300  1614878458 移动签到也买酒旗舰店
+
+real	0m1.280s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:02 374749900 1614878462
+
+real	0m2.195s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.972s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:21:06 544733200  1614878466
+use wskey
+
+real	0m1.479s
+user	0m0.078s
+sys	0m0.125s
+03/05/21 01:21:08 559930600  1614878468 token: AAFgQRcDADA9txTjRVL1F6GRi8YwUrdsGh-9QgQJ_mLSyFBOw-ucBJul1SGFl-mG4CFHH-6I6TU
+
+real	0m2.564s
+user	0m0.000s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:12 523060100  1614878472 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:21:12 875177000  1614878472 移动签到也买酒旗舰店
+
+real	0m1.145s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:17 568196300 1614878477
+
+real	0m2.347s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.771s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/05/21 01:21:21 372411500  1614878481
+use wskey
+
+real	0m0.916s
+user	0m0.078s
+sys	0m0.125s
+03/05/21 01:21:22 892166200  1614878482 token: AAFgQRcSADAeZ4rX4P-QHFYOguqZgpkMob85RNs77kagAmfkdkFuaPr3095lMi_p0s53LP147B4
+
+real	0m0.965s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:25 360705300  1614878485 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:21:25 653780400  1614878485 移动签到也买酒旗舰店
+
+real	0m1.135s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:29 432461700 1614878489
+
+real	0m2.543s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.008s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:21:33 704137100  1614878493
+use wskey
+
+real	0m0.960s
+user	0m0.078s
+sys	0m0.172s
+03/05/21 01:21:35 020925100  1614878495 token: AAFgQRceADC4gDNNrX7vKfZDiRoXIe0qrG9mkOYPrjgeW6c32_bAfCxGxtBHEnH-cE73mAXZaN0
+
+real	0m0.745s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:37 168079200  1614878497 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:21:37 405554100  1614878497 移动签到也买酒旗舰店
+
+real	0m1.333s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:43 022338300 1614878503
+
+real	0m2.807s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.480s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:21:47 885857900  1614878507
+use wskey
+
+real	0m1.188s
+user	0m0.125s
+sys	0m0.094s
+03/05/21 01:21:49 422129300  1614878509 token: AAFgQRcsADA6LlASvolmOy6kA3YEuGLZQX1SdTiuSPLe70DrU8hqA15Y5Fuj-OQin4-CXRyJUJw
+
+real	0m0.850s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:51 592799400  1614878511 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:21:51 796458600  1614878511 移动签到也买酒旗舰店
+
+real	0m0.924s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:21:56 079288300 1614878516
+
+real	0m3.135s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.964s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:22:01 010721600  1614878521
+use wskey
+
+real	0m1.433s
+user	0m0.125s
+sys	0m0.063s
+03/05/21 01:22:02 797320300  1614878522 token: AAFgQRc6ADAJ5WOlS_Q0yfVyNiuOggLPgA2prZb_43tVX11VWAYGPiNACWXmQ_TA8wHfv2dzujU
+
+real	0m0.895s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:05 026073400  1614878525 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:22:05 369217700  1614878525 移动签到也买酒旗舰店
+
+real	0m0.883s
+user	0m0.000s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:09 102383100 1614878529
+
+real	0m4.103s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.335s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/05/21 01:22:15 227611600  1614878535
+use wskey
+
+real	0m0.967s
+user	0m0.156s
+sys	0m0.078s
+03/05/21 01:22:16 654522400  1614878536 token: AAFgQRdIADB4sFRti7PjirUh1779M9iVsZNezr5uhCmpL0IGIWvXWkQORQ4Q6n0bqn5P_yUVaEA
+
+real	0m1.304s
+user	0m0.078s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:19 549281200  1614878539 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:22:19 754591600  1614878539 移动签到也买酒旗舰店
+
+real	0m1.202s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:23 234814000 1614878543
+
+real	0m3.100s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.315s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:22:28 182673800  1614878548
+use wskey
+
+real	0m1.185s
+user	0m0.141s
+sys	0m0.078s
+03/05/21 01:22:29 616782400  1614878549 token: AAFgQRdVADD8-kPBPaERsKZsK_kc5GWV46QDHpEoP1ovtZL9rKQ1ODimdd3pNYydC5TZl1bTrNU
+
+real	0m0.863s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:31 585204800  1614878551 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:22:31 808419900  1614878551 移动签到也买酒旗舰店
+
+real	0m0.953s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:35 621670900 1614878555
+
+real	0m3.415s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.917s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/05/21 01:22:41 794929800  1614878561
+use wskey
+
+real	0m1.517s
+user	0m0.094s
+sys	0m0.109s
+03/05/21 01:22:43 506542400  1614878563 token: AAFgQRdjADBqTFNa4aESfMIGXS23GYU6Fpi2kychYQ4ifQD0MHvwQhLEBXuA6Ps1cdH6tCu1W8s
+
+real	0m0.949s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:45 792647900  1614878565 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:22:46 174575000  1614878566 移动签到也买酒旗舰店
+
+real	0m0.917s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:49 482944900 1614878569
+
+real	0m3.884s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.795s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/05/21 01:22:54 769414900  1614878574
+use wskey
+
+real	0m1.226s
+user	0m0.109s
+sys	0m0.094s
+03/05/21 01:22:56 195517900  1614878576 token: AAFgQRdvADCIpoUR2Xoqwtf_B50DEqXBPBZH8o3Lv0oxOv00tzidvs3eyNQDrCXCoI0hDJtoXCc
+
+real	0m1.056s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:22:59 331359900  1614878579 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:22:59 828315400  1614878579 移动签到也买酒旗舰店
+
+real	0m1.051s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:03 990150500 1614878583
+
+real	0m3.856s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.899s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/05/21 01:23:09 516495400  1614878589
+use wskey
+
+real	0m2.437s
+user	0m0.141s
+sys	0m0.109s
+03/05/21 01:23:12 277385400  1614878592 token: AAFgQRd_ADCNGdyHEmcDv3-6H4xsDDbOm5q8TaaVTkz9R9uxYlSsxSB39V0rtzyGnEt3cx-YgIY
+
+real	0m0.960s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:15 169445500  1614878595 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:23:15 573766400  1614878595 移动签到也买酒旗舰店
+
+real	0m1.314s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:19 474168000 1614878599
+
+real	0m4.090s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.850s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/05/21 01:23:25 080602300  1614878605
+use wskey
+
+real	0m1.173s
+user	0m0.141s
+sys	0m0.109s
+03/05/21 01:23:26 560919200  1614878606 token: AAFgQReOADARk70CoJ8HSk57fKGJkRNH9ig1NoLMLgaTf5IlDr1AKY_zrntz7b4pEUV2HU8dpuo
+
+real	0m0.855s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:28 494807700  1614878608 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:23:28 677102600  1614878608 移动签到也买酒旗舰店
+
+real	0m1.129s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:32 832806300 1614878612
+
+real	0m4.316s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.757s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/05/21 01:23:38 619111700  1614878618
+use wskey
+
+real	0m0.972s
+user	0m0.125s
+sys	0m0.141s
+03/05/21 01:23:41 081987200  1614878621 token: AAFgQRebADBgNwqdG9rHN_x9HotpE6EiQcV8Zp9y9q5lLD7RyKOeBtnl_vj0yDt1ohPkFCc9MuA
+
+real	0m0.804s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:43 019838600  1614878623 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:23:43 309690400  1614878623 移动签到也买酒旗舰店
+
+real	0m0.951s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:47 278682200 1614878627
+
+real	0m4.559s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.492s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/05/21 01:23:52 813727900  1614878632
+use wskey
+
+real	0m0.868s
+user	0m0.109s
+sys	0m0.094s
+03/05/21 01:23:53 900850500  1614878633 token: AAFgQRepADCWfcUABBbsGb50ZvZsbiIvNw0lx4Q_iZgfE0JLdvkn5zLHU3oBEFEfsA87MB6nxvs
+
+real	0m0.766s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:55 664233000  1614878635 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:23:55 887211600  1614878635 移动签到也买酒旗舰店
+
+real	0m0.575s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:23:57 879489300 1614878637
+
+real	0m4.184s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.472s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+03/05/21 01:24:02 799541300  1614878642
+use wskey
+
+real	0m0.593s
+user	0m0.141s
+sys	0m0.063s
+03/05/21 01:24:03 574649900  1614878643 token: AAFgQRezADAgU-Rslz2RlweZLeZ2UXGZJz7zltROqyI49eJluMZY3iQttHBhaCfmNBiGjQzo_oU
+
+real	0m0.421s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:24:04 640713300  1614878644 secretPin: 
+[WARN] get secretPin error
+
+03/05/21 01:24:04 742036000  1614878644 移动签到也买酒旗舰店
+
+real	0m0.455s
+user	0m0.094s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/05/21 01:24:06 127676500 1614878646
+
+real	0m4.126s
+user	0m0.000s
+sys	0m0.031s
+03/05/21 01:25:40 376108800  1614878740
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/shop_1614776910_4
+
+移动签到也买酒旗舰店查看结果
+
+
+
+也买酒旗舰店活动规则
+
+
+actId=96cbeea324214378940eca66394f4f92
+venderId=33293
+startTime=1614582000000
+endTime=1615302059000
+# 短链接
+suo_url="https://3.cn/1017-16lj"
+actTimeStr="2021-03-01 15:00 至 2021-03-09 23:00"
+#店铺名称
+vendername="也买酒旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=96cbeea324214378940eca66394f4f92&venderId=33293&adsource=tg_storePage
+# 活动时间：2021.03.01 15:00:00 - 2021.03.09 23:00:59
+# 奖励说明：
+actRule="
+连续签到3天：3京豆 3京豆
+连续签到5天：5元优惠券
+连续签到7天：5京豆 5京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210304"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["3京豆"]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["3京豆"]
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["3京豆"]
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end

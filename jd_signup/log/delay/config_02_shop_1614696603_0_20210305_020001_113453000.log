@@ -1,0 +1,134 @@
+03/05/21 02:04:47 213721800  1614881087
+RANDOM_num: 25
+removed '/tmp/tmp.ql4OgPXke3'
+03/05/21 02:04:47 331758600  1614881087
+王 今天已经签到过. 签到结果: ok  giftDate: 20210305
+***********************************************
+7天签到 第  天
+当天签到奖励 [null]
+***********************************************
+
+王 签到结果获取失败.
+03/05/21 02:04:47 344994800  1614881087 检查王签到
+
+real	0m0.187s
+user	0m0.000s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614881687	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614881687	LZ_TOKEN_KEY	lztokenpagec5bf3cf598744a51a74a829e345839b5
+03/05/21 02:04:47 628135600  1614881087
+use pt_key
+
+real	0m0.139s
+user	0m0.063s
+sys	0m0.078s
+03/05/21 02:04:47 783669700  1614881087 token: AAFgQSE_ADAsvjKCu57PggK7aGbpbQU_E3MrJwLelTNTtgwwSo7TjIKSzl0okhTAHi09dQjsZec
+
+real	0m0.303s
+user	0m0.047s
+sys	0m0.047s
+03/05/21 02:04:48 192833300  1614881088 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/05/21 02:04:48 208677800  1614881088 王签到贝锐官方旗舰店
+
+real	0m0.259s
+user	0m0.031s
+sys	0m0.047s
+{
+  "msg": "当天只允许签到一次",
+  "isOk": false
+}
+"当天只允许签到一次"
+03/05/21 02:04:48 924770600 1614881088
+03/05/21 02:04:48 939962600 1614881088 签到贝锐官方旗舰店完成
+03/05/21 02:06:04 150730300  1614881164
+false
+parse error: Invalid numeric literal at line 1, column 10
+重复签到. 载入之前签到的giftName: null
+
+***********************************************
+7天签到 第  天
+当天签到奖励 [null]
+***********************************************
+
+王签到贝锐官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="贝锐官方旗舰店"
+#店铺激活码
+actId="d38c2feeeed74723ac3c5700b78bb2af"
+#店铺id
+venderId="736323"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323&sceneval=2&jxsid=16146428113866014329"
+
+startTime=1614565200
+endTime=1616255880
+# 活动时间：2021-03-01 10:20 - 2021-03-20 23:58；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end

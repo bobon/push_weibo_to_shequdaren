@@ -1,0 +1,133 @@
+03/05/21 01:19:04 107785100  1614878344
+RANDOM_num: 30
+removed '/tmp/tmp.mfKrDOrlsL'
+03/05/21 01:19:04 345242100  1614878344 检查肥鹅签到
+
+real	0m0.257s
+user	0m0.047s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878944	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878944	LZ_TOKEN_KEY	lztokenpagef88d78a4e1314ebd94f342a27172f1f6
+03/05/21 01:19:04 778820300  1614878344
+use pt_key
+
+real	0m0.124s
+user	0m0.078s
+sys	0m0.109s
+03/05/21 01:19:04 918170700  1614878344 token: AAFgQRaIADASpsd9xAzQn1TJpp46HdbZ-ntEDPpALO0gmU-Jo3sKt3iNZwRs07zB-t-BlPmgyyE
+
+real	0m0.351s
+user	0m0.031s
+sys	0m0.047s
+03/05/21 01:19:05 446297600  1614878345 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/05/21 01:19:05 475636300  1614878345 肥鹅签到欧迪芬旗舰店
+
+real	0m0.414s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": null,
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+03/05/21 01:19:06 548600000 1614878346
+03/05/21 01:19:06 592105700 1614878346 签到欧迪芬旗舰店完成
+03/05/21 01:20:37 141303200  1614878437
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: null
+
+***********************************************
+7天签到 第  天
+当天签到奖励 [null]
+***********************************************
+
+肥鹅签到欧迪芬旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="欧迪芬旗舰店"
+#店铺激活码
+actId="3a6f8c8f9ef04a8c82016b375d3aa442"
+#店铺id
+venderId="199355"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3a6f8c8f9ef04a8c82016b375d3aa442&venderId=199355&adsource=tg_xuanFuTuBiao"
+
+startTime=1614528000
+endTime=1615219140
+# 活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：2京豆
+连续签到3天：10元优惠券
+连续签到4天：
+连续签到5天：20元优惠券
+连续签到6天：
+连续签到7天：10京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

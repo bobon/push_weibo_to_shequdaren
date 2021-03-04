@@ -1,7 +1,13 @@
-#赵 122294312-396444 sign_res
-sign_num="2";f="#赵 122294312-396444 sign_res"
-giftName=""2京豆""
-giftRes="ok"
-giftDate="20210304"
-sign_res_info="7天签到 第 2 天
-当天签到奖励 ["2京豆"]"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="";f="#移动 jd_OeTNobRVGiNZ sign_res"
+sign_total_num=""
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="
+
+当天签到奖励 []
+连续签到  天
+签到总天数 "

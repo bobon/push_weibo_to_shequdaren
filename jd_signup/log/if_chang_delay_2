@@ -1,7 +1,19 @@
-#肥鹅 jd_4d651d9e48204 sign_res
-sign_num="2";f="#肥鹅 jd_4d651d9e48204 sign_res"
-giftName=""2京豆""
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2"
+sign_num="4";f="#王 1309893722-164885 sign_res"
+sign_total_num="4"
+giftName=""5京豆""
 giftRes="ok"
-giftDate="20210304"
-sign_res_info="7天签到 第 2 天
-当天签到奖励 ["2京豆"]"
+giftDate="20210305"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+当天签到奖励 ["5京豆"]
+连续签到 4 天
+签到总天数 4"

@@ -1,0 +1,70 @@
+03/05/21 01:14:58 027728300  1614878098
+RANDOM_num: 30
+removed '/tmp/tmp.Y1WYwrq7to'
+03/05/21 01:14:58 122823600  1614878098 检查移动签到
+
+real	0m0.182s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878698	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878698	LZ_TOKEN_KEY	lztokenpagefad8aadbe245473b95ff1a3706b2e202
+03/05/21 01:14:58 429144000  1614878098
+use wskey
+
+real	0m0.122s
+user	0m0.078s
+sys	0m0.078s
+03/05/21 01:14:58 578826400  1614878098 token: AAFgQRWSADDLhC6Y6hRKYbqFKGy2Ev9dHVKa-RFq0pOmlQ2aXlpETQ-6TqWqiGCVdrmBjKs3NYE
+
+real	0m0.307s
+user	0m0.047s
+sys	0m0.063s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/05/21 01:15:28 978404100  1614878128
+签到失败. 写入失败的giftName: 
+
+***********************************************
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+***********************************************
+
+移动签到澳优乳业官方旗舰店查看结果
+{"msg":"","giftLog":{},"isOk":true,"signDetail":{},"followDays":7,"signRecord":{"nicknameShow":null,"id":"7c0be14f726c4cfabce91adfc750e206","venderId":37166,"actId":"eb0ef5535d6e462096ab4e2135ba6c45","actName":"签到活动","nick":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","phone":"","midUrl":"","pin":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","lastSignDate":null,"contiSignNum":0,"totalSignNum":0,"createTime":null,"updateTime":null,"remark":null}}
+
+{
+  "signDetail": {},
+  "contiSignNum": 0,
+  "totalSignNum": 0
+}
+
+澳优乳业官方旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {288:<--} ERROR CODE: 4[0m [0;31;3m[20210305 01:15:29] [ERROR] [0m
+

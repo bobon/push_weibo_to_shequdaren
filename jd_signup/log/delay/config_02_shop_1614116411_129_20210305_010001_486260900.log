@@ -1,0 +1,133 @@
+03/05/21 01:18:44 267941000  1614878324
+RANDOM_num: 25
+removed '/tmp/tmp.Fk4J9njAuH'
+03/05/21 01:18:44 461976200  1614878324 检查王签到
+
+real	0m1.106s
+user	0m0.016s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878925	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1614878925	LZ_TOKEN_KEY	lztokenpageb67ca0ee7a8a447d840eefbf8c7648f9
+03/05/21 01:18:45 734548200  1614878325
+use pt_key
+
+real	0m0.204s
+user	0m0.109s
+sys	0m0.094s
+03/05/21 01:18:45 968493800  1614878325 token: AAFgQRZ1ADC7FN5A3UEPH0U-RQ5_gSfK5WbLwJtuZfF_5vZUYCFjmXixFuhFqsrGG8_pA77N8Ew
+
+real	0m0.360s
+user	0m0.031s
+sys	0m0.109s
+03/05/21 01:18:46 540746500  1614878326 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/05/21 01:18:46 573765900  1614878326 王签到安我（AND ALL）健康京东自营旗舰店
+
+real	0m0.568s
+user	0m0.047s
+sys	0m0.078s
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": "9b9382b2d6964ca1bc66bb37cf79d412",
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+03/05/21 01:18:47 866926800 1614878327
+03/05/21 01:18:47 903205200 1614878327 签到安我（AND ALL）健康京东自营旗舰店完成
+03/05/21 01:20:03 669905800  1614878403
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: null
+
+***********************************************
+7天签到 第  天
+当天签到奖励 [null]
+***********************************************
+
+王签到安我（AND ALL）健康京东自营旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="安我（AND ALL）健康京东自营旗舰店"
+#店铺激活码
+actId="f63f0cc98d32422b8b6ac5b8a0aaec0e"
+#店铺id
+venderId="1000351797"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f63f0cc98d32422b8b6ac5b8a0aaec0e&venderId=1000351797"
+
+startTime=1613723220
+endTime=1616342340
+# 活动时间：2021-02-19 16:27 - 2021-03-21 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：3京豆
+连续签到4天：2京豆
+连续签到5天：2京豆
+连续签到6天：2京豆
+连续签到7天：5京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210304"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210305"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210305"
+sign_res_info="7天签到 第  天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
