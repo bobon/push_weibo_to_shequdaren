@@ -111,14 +111,14 @@ write_sign_res() {
 	
 	local giftRes=$(echo -e "$4"| jq -r 'if (.success) then "ok" elif(.msg|test("只能签到一次|已经参加过该活动")) then "ok_s" else .msg end')
 	if [ "$giftRes" = "ok" ]; then
-		local giftName=$(echo -e "$4" | jq -r '.data[]|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
+		local giftName=$(echo -e "$4" | jq -r '.data[]|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n' | sed -r -e 's,[[:space:]]+,,g')
 		echo "首次签到成功. 写入giftName: $giftName"
 	elif [ "$giftRes" = "ok_s" ]; then
 		local giftRes="ok"
-		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
+		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,' | sed -r -e 's,[[:space:]]+,,g')
 		echo "重复签到. 载入之前签到的giftName: $giftName"
 	else
-		local giftName=$(echo -e "$4" | jq -r '.data[]?|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n')
+		local giftName=$(echo -e "$4" | jq -r '.data[]?|.prizeList[]|("奖励 " + (.discount|tostring) + ", type=" + (.type|tostring) + "; ")' | tr -d '\n' | sed -r -e 's,[[:space:]]+,,g')
 		echo "签到失败. 写入失败的giftName: $giftName"
 	fi
 	
@@ -157,14 +157,14 @@ write_sign_res_lzkj() {
 	
 	local giftRes=$(echo -e "$4"| jq -r 'if (.isOk) then "ok" elif(.msg|test("只允许签到一次|只能签到一次")) then "ok_s" else .msg end')
 	if [ "$giftRes" = "ok" ]; then
-		local giftName=$(echo -e "$4" | jq '.gift.giftName')
+		local giftName=$(echo -e "$4" | jq '.gift.giftName' | sed -r -e 's,[[:space:]]+,,g')
 		echo "首次签到成功. 写入giftName: $giftName"
 	elif [ "$giftRes" = "ok_s" ]; then
 		local giftRes="ok"
-		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,')
+		local giftName=$(echo -e "$old_sign_i" | grep '^giftName=' | sed -r -e 's,^giftName=["],,' -e 's,["]$,,' | sed -r -e 's,[[:space:]]+,,g')
 		echo "重复签到. 载入之前签到的giftName: $giftName"
 	else
-		local giftName=$(echo -e "$4" | jq '.gift.giftName')
+		local giftName=$(echo -e "$4" | jq '.gift.giftName' | sed -r -e 's,[[:space:]]+,,g')
 		echo "签到失败. 写入失败的giftName: $giftName"
 	fi
 	

@@ -1,13 +1,7 @@
-#移动 jd_OeTNobRVGiNZ sign_res
-sign_res="
-"
-sign_num="";f="#移动 jd_OeTNobRVGiNZ sign_res"
-sign_total_num=""
-giftName=""
-giftRes=""
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="3";f="#肥鹅 jd_4d651d9e48204 sign_res"
+giftName="null"
+giftRes="ok"
 giftDate="20210305"
-sign_res_info="
-
-当天签到奖励 []
-连续签到  天
-签到总天数 "
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
