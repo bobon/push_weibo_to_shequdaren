@@ -362,3 +362,4 @@ for i in $(grep -r 'shopId:' shop/ | sed -r -e 's,.*shopId: ,,' -e "s,',,g" -e '
 	curl -sS -k https://shop.m.jd.com/?shopId=$i | egrep '/sign/sevenDay/signActivity|/sign/signActivity|/babelDiy/Zeus/'
 done | sed -r -e 's,.*https,https,' -e 's,"\,$,,' -e 's,"$,,' | sort | uniq > sign_list
 ./search.sh sign_list one  ## 一行行执行
+
