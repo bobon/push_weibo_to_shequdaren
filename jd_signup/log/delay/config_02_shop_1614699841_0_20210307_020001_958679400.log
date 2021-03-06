@@ -1,0 +1,65 @@
+03/07/21 02:05:20 501556200  1615053920
+RANDOM_num: 25
+removed '/tmp/tmp.n3zDWihy3F'
+03/07/21 02:05:20 618855600  1615053920
+王 今天已经签到过. 签到结果: ok  giftDate: 20210307
+***********************************************
+7天签到 第 6 天
+当天签到奖励 [10京豆]
+***********************************************
+
+#店铺名称
+vendername="英氏YeeHoO奥特莱斯店"
+#店铺激活码
+actId="f1f81c4b1d5e47b2aba7c2531739fc74"
+#店铺id
+venderId="10409042"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f1f81c4b1d5e47b2aba7c2531739fc74&venderId=10409042&adsource=tg_xuanFuTuBiao"
+
+startTime=1614680400
+endTime=1617272400
+# 活动时间：2021-03-02 18:20 - 2021-04-01 18:20；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：6京豆
+连续签到3天：7京豆
+连续签到4天：8京豆
+连续签到5天：9京豆
+连续签到6天：10京豆
+连续签到7天：15京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["10京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["10京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["10京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

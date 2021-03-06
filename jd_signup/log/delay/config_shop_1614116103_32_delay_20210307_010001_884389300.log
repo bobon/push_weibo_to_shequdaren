@@ -1,0 +1,282 @@
+03/07/21 01:01:29 954414100  1615050089
+RANDOM_num: 30
+removed '/tmp/tmp.PsaKaDcFtc'
+03/07/21 01:01:30 057214000  1615050090 检查122294312-396444签到
+removed '/tmp/tmp.aoqFU6qQ66'
+03/07/21 01:01:30 143791400  1615050090 检查1309893722-164885签到
+
+03/07/21 01:01:30 213947200  1615050090 赵签到水裕青食品饮料专营店
+
+real	0m0.165s
+user	0m0.016s
+sys	0m0.109s
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":1.00,"type":6,"number":10000,"budgetNum":10000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+03/07/21 01:01:30 451647400  1615050090 王签到水裕青食品饮料专营店
+
+real	0m0.273s
+user	0m0.031s
+sys	0m0.078s
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":1.00,"type":6,"number":10000,"budgetNum":10000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+03/07/21 01:01:30 824665200 1615050090
+03/07/21 01:01:30 840972100 1615050090 签到水裕青食品饮料专营店完成
+
+03/07/21 01:02:00 949074000  1615050120
+赵签到水裕青食品饮料专营店查看结果
+200
+首次签到成功. 写入giftName: 奖励1,type=6;
+
+***********************************************
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:03  2    [已~签~到]
+2021/03/02_00:00:00  2    [已~签~到]
+2021/03/03_00:00:00  2    未签到
+2021/03/04_00:00:01  2    [已~签~到]
+2021/03/05_00:00:01  2    [已~签~到]
+2021/03/06_00:00:01  2    [已~签~到]
+2021/03/07_01:01:30  1    [已~签~到]
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 4 天
+***********************************************
+
+王签到水裕青食品饮料专营店查看结果
+200
+首次签到成功. 写入giftName: 奖励1,type=6;
+
+***********************************************
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:03  2    [已~签~到]
+2021/03/02_00:00:01  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_00:00:02  2    [已~签~到]
+2021/03/05_00:00:02  2    [已~签~到]
+2021/03/06_00:00:02  2    [已~签~到]
+2021/03/07_01:01:30  1    [已~签~到]
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 7 天
+***********************************************
+
+
+
+赵签到水裕青食品饮料专营店日志
+{"code":200,"data":{"signRecords":[{"signTime":1613923200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614009600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614096000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614182400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614268800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614355200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614441600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614531843617,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614614400711,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614700800000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614787201084,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614873601172,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614960001215,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615050090339,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615132800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615219200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615305600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":4,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 4
+}
+王签到水裕青食品饮料专营店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1613923200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614009600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614096000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614182400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614268800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614355200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614441600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614531843884,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614614401601,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614700801277,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614787202360,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614873602746,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614960002715,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1615050090678,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615132800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615219200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615305600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":7,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 7
+}
+# 短链接
+suo_url=""
+venderId=658310
+startTime=1613923200000
+endTime=1615391999000
+activityId=10274143
+token=7271929A6F0673DA4019C8C5A681F568
+#店铺名称
+vendername="水裕青食品饮料专营店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7271929A6F0673DA4019C8C5A681F568
+# 活动时间：2021.02.22 00:00:00 - 2021.03.10 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1店铺积分
+连续签到2天：2京豆
+连续签到3天：3京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1613923200;signed=1;currentDay=2
+signTime=1614009600;signed=1;currentDay=2
+signTime=1614096000;signed=1;currentDay=2
+signTime=1614182400;signed=1;currentDay=2
+signTime=1614268800;signed=1;currentDay=2
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614531882;signed=2;currentDay=2
+signTime=1614614400;signed=2;currentDay=2
+signTime=1614700800;signed=1;currentDay=2
+signTime=1614787200;signed=2;currentDay=2
+signTime=1614873601;signed=2;currentDay=2
+signTime=1614960001;signed=2;currentDay=1
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3
+signTime=1615305600;signed=1;currentDay=3"
+sign_num="3"
+giftName="奖励1,type=6;"
+giftRes="ok"
+giftDate="20210306"
+sign_res_info="
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:42  2    [已~签~到]
+2021/03/02_00:00:00  2    [已~签~到]
+2021/03/03_00:00:00  2    未签到
+2021/03/04_00:00:00  2    [已~签~到]
+2021/03/05_00:00:01  2    [已~签~到]
+2021/03/06_00:00:01  1    [已~签~到]
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 3 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1613923200;signed=1;currentDay=2
+signTime=1614009600;signed=1;currentDay=2
+signTime=1614096000;signed=1;currentDay=2
+signTime=1614182400;signed=1;currentDay=2
+signTime=1614268800;signed=1;currentDay=2
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614531882;signed=2;currentDay=2
+signTime=1614614401;signed=2;currentDay=2
+signTime=1614700801;signed=2;currentDay=2
+signTime=1614787202;signed=2;currentDay=2
+signTime=1614873602;signed=2;currentDay=2
+signTime=1614960002;signed=2;currentDay=1
+signTime=1615046400;signed=1;currentDay=3
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3
+signTime=1615305600;signed=1;currentDay=3"
+sign_num="6"
+giftName="奖励1,type=6;"
+giftRes="ok"
+giftDate="20210306"
+sign_res_info="
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:42  2    [已~签~到]
+2021/03/02_00:00:01  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_00:00:02  2    [已~签~到]
+2021/03/05_00:00:02  2    [已~签~到]
+2021/03/06_00:00:02  1    [已~签~到]
+2021/03/07_00:00:00  3    未签到
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 6 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1613923200;signed=1;currentDay=2
+signTime=1614009600;signed=1;currentDay=2
+signTime=1614096000;signed=1;currentDay=2
+signTime=1614182400;signed=1;currentDay=2
+signTime=1614268800;signed=1;currentDay=2
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614531843;signed=2;currentDay=2
+signTime=1614614400;signed=2;currentDay=2
+signTime=1614700800;signed=1;currentDay=2
+signTime=1614787201;signed=2;currentDay=2
+signTime=1614873601;signed=2;currentDay=2
+signTime=1614960001;signed=2;currentDay=2
+signTime=1615050090;signed=2;currentDay=1
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3
+signTime=1615305600;signed=1;currentDay=3"
+sign_num="4"
+giftName="奖励1,type=6;"
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:03  2    [已~签~到]
+2021/03/02_00:00:00  2    [已~签~到]
+2021/03/03_00:00:00  2    未签到
+2021/03/04_00:00:01  2    [已~签~到]
+2021/03/05_00:00:01  2    [已~签~到]
+2021/03/06_00:00:01  2    [已~签~到]
+2021/03/07_01:01:30  1    [已~签~到]
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 4 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1613923200;signed=1;currentDay=2
+signTime=1614009600;signed=1;currentDay=2
+signTime=1614096000;signed=1;currentDay=2
+signTime=1614182400;signed=1;currentDay=2
+signTime=1614268800;signed=1;currentDay=2
+signTime=1614355200;signed=1;currentDay=2
+signTime=1614441600;signed=1;currentDay=2
+signTime=1614531843;signed=2;currentDay=2
+signTime=1614614401;signed=2;currentDay=2
+signTime=1614700801;signed=2;currentDay=2
+signTime=1614787202;signed=2;currentDay=2
+signTime=1614873602;signed=2;currentDay=2
+signTime=1614960002;signed=2;currentDay=2
+signTime=1615050090;signed=2;currentDay=1
+signTime=1615132800;signed=1;currentDay=3
+signTime=1615219200;signed=1;currentDay=3
+signTime=1615305600;signed=1;currentDay=3"
+sign_num="7"
+giftName="奖励1,type=6;"
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="
+2021/02/22_00:00:00  2    未签到
+2021/02/23_00:00:00  2    未签到
+2021/02/24_00:00:00  2    未签到
+2021/02/25_00:00:00  2    未签到
+2021/02/26_00:00:00  2    未签到
+2021/02/27_00:00:00  2    未签到
+2021/02/28_00:00:00  2    未签到
+2021/03/01_01:04:03  2    [已~签~到]
+2021/03/02_00:00:01  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_00:00:02  2    [已~签~到]
+2021/03/05_00:00:02  2    [已~签~到]
+2021/03/06_00:00:02  2    [已~签~到]
+2021/03/07_01:01:30  1    [已~签~到]
+2021/03/08_00:00:00  3    未签到
+2021/03/09_00:00:00  3    未签到
+2021/03/10_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=6;]
+已签到 7 天"
+#王 1309893722-164885 sign_res_end

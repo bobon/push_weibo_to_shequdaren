@@ -1,0 +1,152 @@
+03/07/21 00:30:03 774477900  1615048203
+RANDOM_num: 15
+removed '/tmp/tmp.0L8OG2gWBv'
+03/07/21 00:30:04 936092500  1615048204 检查移动签到
+
+real	0m0.540s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615048806	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615048806	LZ_TOKEN_KEY	lztokenpage11613797a32a4a1498e20c398144e45f
+03/07/21 00:30:06 275714100  1615048206
+use wskey
+
+real	0m0.360s
+user	0m0.047s
+sys	0m0.188s
+03/07/21 00:30:06 693944400  1615048206 token: AAFgQ64OADAKiVMMqFCzgvAcvOjes5JHwE7BO-TmEw8IqGADUZHYIIyBwB5cl_-QubFC0BoQCFo
+
+real	0m0.314s
+user	0m0.016s
+sys	0m0.109s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/07/21 00:30:52 238366900  1615048252
+签到失败. 写入失败的giftName: 
+jq: error (at <stdin>:1): null (null) has no keys
+
+***********************************************
+
+当天签到奖励 []
+连续签到 null 天
+签到总天数 null
+***********************************************
+
+移动签到CeraVe适乐肤京东自营旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+CeraVe适乐肤京东自营旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=c498049594e449268869100c32e121f4
+venderId=1000224204
+startTime=1614528000000
+endTime=1615219199000
+# 短链接
+suo_url="https://3.cn/1016NO-YY"
+actTimeStr="2021-03-01 00:00 至 2021-03-08 23:59"
+#店铺名称
+vendername="CeraVe适乐肤京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=c498049594e449268869100c32e121f4&venderId=1000224204&sceneval=2&jxsid=16146428113866014329
+# 活动时间：2021.03.01 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：3京豆 3京豆
+连续签到2天：3京豆 3京豆
+连续签到3天：3京豆 3京豆
+连续签到4天：3京豆 3京豆
+连续签到5天：3京豆 3京豆
+连续签到6天：3京豆 3京豆
+连续签到7天：6京豆 6京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210306"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210306"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2"
+sign_num="5"
+sign_total_num="5"
+giftName="null"
+giftRes="ok"
+giftDate="20210306"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 5 天
+签到总天数 5"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="null"
+sign_total_num="null"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 null 天
+签到总天数 null"
+#移动 jd_OeTNobRVGiNZ sign_res_end
