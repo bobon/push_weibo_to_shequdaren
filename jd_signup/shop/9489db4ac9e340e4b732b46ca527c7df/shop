@@ -1,0 +1,23 @@
+#店铺名称
+vendername="可口可乐京东自营旗舰店"
+#店铺激活码
+actId="9489db4ac9e340e4b732b46ca527c7df"
+#店铺id
+venderId="1000014286"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9489db4ac9e340e4b732b46ca527c7df&venderId=1000014286"
+
+startTime=
+endTime=
+# 活动时间：2020-12-01 到2021-5-31
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1店铺积分
+连续签到2天：2店铺积分
+连续签到3天：4店铺积分
+连续签到4天：5店铺积分
+连续签到5天：8店铺积分
+连续签到6天：8店铺积分
+连续签到7天：15店铺积分
+"

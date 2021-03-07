@@ -1,0 +1,76 @@
+actId=ccde8f64c27a4111b33d6ae1616c957c
+venderId=1000001740
+startTime=1614219960000
+endTime=1615737659000
+# 短链接
+suo_url="https://3.cn/100mC52-3"
+actTimeStr="2021-02-25 10:26 至 2021-03-15 00:00"
+#店铺名称
+vendername="优彼京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ccde8f64c27a4111b33d6ae1616c957c&venderId=1000001740
+# 活动时间：2021.02.25 10:26:00 - 2021.03.15 00:00:59
+# 奖励说明：
+actRule="
+连续签到10天：50积分 50积分
+连续签到15天：2京豆 2京豆
+连续签到20天：150积分 150积分
+连续签到25天：5京豆 5京豆
+连续签到30天：200积分 200积分
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615075200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="
+2021/03/07_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 1 天
+签到总天数 1"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615075200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="
+2021/03/07_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615075200;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="
+2021/03/07_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -209,5 +209,6 @@ if [ "$1" = "clean" ]; then
 	ls -lah jifen
 	ls -lah delay
 	ls -lah now
+	find /home/myid/jd/jd_signup/log -name log_*.zip | sort -r | sed -r -n '7,$p' | xargs -i rm -rvf {}
 fi
 

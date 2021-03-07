@@ -1,0 +1,55 @@
+#店铺名称
+vendername="百事可乐京东自营旗舰店"
+#店铺激活码
+actId="e1544361694c4b27b31966451c798792"
+#店铺id
+venderId="1000010481"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=e1544361694c4b27b31966451c798792&venderId=1000010481"
+
+startTime=1614528000
+endTime=1615132740
+# 活动时间：2021-03-01 00:00 - 2021-03-07 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：8店铺积分
+连续签到3天：10店铺积分
+连续签到4天：2京豆
+连续签到5天：15店铺积分
+连续签到6天：20店铺积分
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName=""5店铺积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5店铺积分"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName=""5店铺积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName=""5店铺积分""
+giftRes="ok"
+giftDate="20210307"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

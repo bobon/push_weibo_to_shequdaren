@@ -1,0 +1,18 @@
+actId=787c49c0009c47f5a9b1f011532a255a
+venderId=1000072445
+startTime=1614358800000
+endTime=1615219259000
+# 短链接
+suo_url="https://3.cn/-10164KB6"
+actTimeStr="2021-02-27 01:00 至 2021-03-09 00:00"
+#店铺名称
+vendername="雷诺表京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=787c49c0009c47f5a9b1f011532a255a&venderId=1000072445&adsource=tg_storePage
+# 活动时间：2021.02.27 01:00:00 - 2021.03.09 00:00:59
+# 奖励说明：
+actRule="
+连续签到5天：1京豆 1京豆
+连续签到7天：赠送100元红包
+连续签到7天：赠送小雏菊表款
+"

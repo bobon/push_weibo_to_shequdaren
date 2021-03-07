@@ -1,0 +1,17 @@
+actId=77b75f44c1ba4e4b8a7114bb6d290f02
+venderId=1000092822
+startTime=1614528000000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/1016N4v-c"
+actTimeStr="2021-03-01 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="花王碧柔京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=77b75f44c1ba4e4b8a7114bb6d290f02&venderId=1000092822&adsource=tg_storePage
+# 活动时间：2021.03.01 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10积分 10积分
+连续签到15天：20积分 20积分
+"

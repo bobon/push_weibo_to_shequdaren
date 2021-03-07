@@ -1,0 +1,21 @@
+# 短链接
+suo_url=""
+venderId=1000101662
+startTime=1614787200000
+endTime=1615219199000
+activityId=10286803
+token=A5F3D784461DFEE87AC870ADA16C2CDE
+#店铺名称
+vendername="冰峰京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A5F3D784461DFEE87AC870ADA16C2CDE
+# 活动时间：2021.03.04 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到1天：5京豆
+连续签到2天：10京豆
+连续签到3天：15京豆
+连续签到4天：20京豆
+连续签到5天：25京豆
+"

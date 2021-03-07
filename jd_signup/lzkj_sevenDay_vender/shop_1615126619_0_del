@@ -1,0 +1,23 @@
+#店铺名称
+vendername="爽康（SANCOR）京东自营旗舰店"
+#店铺激活码
+actId="8c03666befa940d48f38ec199b6d9ce9"
+#店铺id
+venderId="1000337063"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=8c03666befa940d48f38ec199b6d9ce9&venderId=1000337063&adsource=tg_storePage"
+
+startTime=1600849560
+endTime=1603441560
+# 活动时间：2020-09-23 16:26 - 2020-10-23 16:26；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1店铺积分
+连续签到2天：1店铺积分
+连续签到3天：1店铺积分
+连续签到4天：2店铺积分
+连续签到5天：2店铺积分
+连续签到6天：2店铺积分
+连续签到7天：3店铺积分
+"

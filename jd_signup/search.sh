@@ -234,9 +234,13 @@ if [ "$1" = "sign_list" ]; then
 		cat $sign_base_dir/$1 | grep '^https://' > $sign_base_dir/sign_list_t
 		sign_list $sign_base_dir/sign_list_t $2
 	fi
-	
-	cat $sign_base_dir/$1 | grep -v '^https://' || exit	
-	cat $sign_base_dir/$1 | grep -v '^https://' > $sign_base_dir/sign_list_t
+		
+	if [ "$2" != "one" ]; then
+		cat $sign_base_dir/$1 | grep -v '^https://' || exit	
+		cat $sign_base_dir/$1 | grep -v '^https://' > $sign_base_dir/sign_list_t
+	else
+		exit
+	fi
 	flush=true
 	echo "从 sign_vender_list 查找活动. 备份 log/sign.tmp --> log/sign.tmp.bak"
 	if [ -f "log/sign.tmp" ]; then

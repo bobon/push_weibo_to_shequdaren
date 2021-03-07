@@ -1,0 +1,16 @@
+actId=1ef099826d7f4e29a96101fcf2bb96f6
+venderId=1000000182
+startTime=1614847440000
+endTime=1617439259000
+# 短链接
+suo_url="https://3.cn/1018-sCLC"
+actTimeStr="2021-03-04 16:44 至 2021-04-03 16:40"
+#店铺名称
+vendername="华硕京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=1ef099826d7f4e29a96101fcf2bb96f6&venderId=1000000182&adsource=tg_storePage
+# 活动时间：2021.03.04 16:44:00 - 2021.04.03 16:40:59
+# 奖励说明：
+actRule="
+连续签到5天：2京豆 2京豆
+"

@@ -1,0 +1,73 @@
+actId=d202626ef5fe48d0b24316347b13381c
+venderId=1000183780
+startTime=1607616000000
+endTime=1615392059000
+# 短链接
+suo_url="https://3.cn/1-00s9HuJ"
+actTimeStr="2020-12-11 00:00 至 2021-03-11 00:00"
+#店铺名称
+vendername="可爱布丁京东自营专区"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d202626ef5fe48d0b24316347b13381c&venderId=1000183780&adsource=tg_storePage
+# 活动时间：2020.12.11 00:00:00 - 2021.03.11 00:00:59
+# 奖励说明：
+actRule="
+连续签到7天：5积分 5积分
+连续签到30天：100京豆 100京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

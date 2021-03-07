@@ -1,0 +1,17 @@
+actId=0d0484285c5540f9a8a495660ceb15c3
+venderId=1000348404
+startTime=1614528000000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/1017-0T2D"
+actTimeStr="2021-03-01 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="田园主义京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0d0484285c5540f9a8a495660ceb15c3&venderId=1000348404&adsource=tg_storePage
+# 活动时间：2021.03.01 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到15天：5元优惠券
+连续签到30天：10元优惠券
+"

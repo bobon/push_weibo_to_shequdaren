@@ -1,0 +1,20 @@
+# 短链接
+suo_url=""
+venderId=1000341002
+startTime=1614960000000
+endTime=1617551999000
+activityId=10290228
+token=548A84266AA3A8967F7FA346B04D3722
+#店铺名称
+vendername="杜家京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=548A84266AA3A8967F7FA346B04D3722
+# 活动时间：2021.03.06 00:00:00 - 2021.04.04 23:59:59
+# 奖励说明：
+actRule="
+每日签到：30店铺积分
+连续签到7天：100店铺积分
+连续签到14天：200店铺积分
+连续签到21天：50京豆
+连续签到28天：100京豆
+"

@@ -1,0 +1,16 @@
+actId=d6ff3295cd734e2fb1a8d47f7c306ace
+venderId=1000101209
+startTime=1612233120000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/-100zzlMG"
+actTimeStr="2021-02-02 10:32 至 2021-03-31 23:59"
+#店铺名称
+vendername="振德（ZHENDE）京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d6ff3295cd734e2fb1a8d47f7c306ace&venderId=1000101209&adsource=tg_storePage
+# 活动时间：2021.02.02 10:32:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：50积分 50积分
+"

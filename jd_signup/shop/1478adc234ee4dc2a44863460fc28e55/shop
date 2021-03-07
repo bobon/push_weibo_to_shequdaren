@@ -1,0 +1,16 @@
+actId=1478adc234ee4dc2a44863460fc28e55
+venderId=1000074842
+startTime=1614528000000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/1-016NBaR"
+actTimeStr="2021-03-01 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="花王洁霸京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=1478adc234ee4dc2a44863460fc28e55&venderId=1000074842&adsource=tg_storePage
+# 活动时间：2021.03.01 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：10积分 10积分
+"

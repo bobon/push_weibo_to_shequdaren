@@ -1,0 +1,16 @@
+actId=bc4957015c0746c3af847de16a78be18
+venderId=1000081230
+startTime=1614837360000
+endTime=1617429419000
+# 短链接
+suo_url="https://3.cn/1018ns-ys"
+actTimeStr="2021-03-04 13:56 至 2021-04-03 13:56"
+#店铺名称
+vendername="乐吉儿自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=bc4957015c0746c3af847de16a78be18&venderId=1000081230&adsource=tg_storePage
+# 活动时间：2021.03.04 13:56:00 - 2021.04.03 13:56:59
+# 奖励说明：
+actRule="
+连续签到15天：赠送迷你投篮机(颜色随机)
+"

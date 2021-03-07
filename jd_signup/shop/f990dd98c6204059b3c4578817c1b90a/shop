@@ -1,0 +1,16 @@
+actId=f990dd98c6204059b3c4578817c1b90a
+venderId=1000347387
+startTime=1614657600000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/100zb-fWQ"
+actTimeStr="2021-03-02 12:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="Ddrops海外京东自营专区"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=f990dd98c6204059b3c4578817c1b90a&venderId=1000347387&adsource=tg_storePage
+# 活动时间：2021.03.02 12:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到15天：1京豆 1京豆
+"

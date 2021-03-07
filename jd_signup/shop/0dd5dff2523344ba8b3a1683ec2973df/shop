@@ -8,25 +8,9 @@ actTimeStr="2021-01-28 16:51 至 2021-03-31 23:59"
 #店铺名称
 vendername="果倍爽京东自营旗舰店"
 # 长链接
-url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0dd5dff2523344ba8b3a1683ec2973df&venderId=1000101935&adsource=tg_xuanFuTuBiao
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0dd5dff2523344ba8b3a1683ec2973df&venderId=1000101935
 # 活动时间：2021.01.28 16:51:00 - 2021.03.31 23:59:59
 # 奖励说明：
 actRule="
 连续签到30天：5积分 5积分
 "
-#移动 jd_OeTNobRVGiNZ sign_res
-sign_res="
-signTime=1613520000;signed=2
-signTime=1613606400;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName="null"
-giftRes="ok"
-giftDate="20210218"
-sign_res_info="
-2021/02/17_08:00:00  [已~签~到]      
-2021/02/18_08:00:00  [已~签~到]      
-当天签到奖励 null
-连续签到 2 天
-签到总天数 2"
-#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,17 @@
+actId=c1c6fc53d83f452ca837799ca814c27e
+venderId=1000081825
+startTime=1613786400000
+endTime=1616245199000
+# 短链接
+suo_url="https://3.cn/1-00Tnvvm"
+actTimeStr="2021-02-20 10:00 至 2021-03-20 20:59"
+#店铺名称
+vendername="科大讯飞京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=c1c6fc53d83f452ca837799ca814c27e&venderId=1000081825
+# 活动时间：2021.02.20 10:00:00 - 2021.03.20 20:59:59
+# 奖励说明：
+actRule="
+连续签到7天：20京豆 20京豆
+连续签到14天：50京豆 50京豆
+"
