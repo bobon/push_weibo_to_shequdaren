@@ -1,0 +1,17 @@
+actId=60d156d1f6874d88a449a22d6098ffa4
+venderId=10194864
+startTime=1613923200000
+endTime=1615219199000
+# 短链接
+suo_url="https://3.cn/1013NO-TD"
+actTimeStr="2021-02-22 00:00 至 2021-03-08 23:59"
+#店铺名称
+vendername="欧莱雅官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=60d156d1f6874d88a449a22d6098ffa4&venderId=10194864
+# 活动时间：2021.02.22 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：15元优惠券
+连续签到8天：赠送欧莱雅防晒小套装
+"
