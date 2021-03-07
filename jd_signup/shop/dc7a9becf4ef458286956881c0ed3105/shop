@@ -1,0 +1,16 @@
+actId=dc7a9becf4ef458286956881c0ed3105
+venderId=1000351621
+startTime=1614052560000
+endTime=1616644619000
+# 短链接
+suo_url="https://3.cn/1-014GSuP"
+actTimeStr="2021-02-23 11:56 至 2021-03-25 11:56"
+#店铺名称
+vendername="PYROIL京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=dc7a9becf4ef458286956881c0ed3105&venderId=1000351621&adsource=tg_storePage
+# 活动时间：2021.02.23 11:56:00 - 2021.03.25 11:56:59
+# 奖励说明：
+actRule="
+连续签到15天：300积分 300积分
+"
