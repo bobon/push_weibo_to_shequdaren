@@ -63,20 +63,6 @@ sign_res_info="
 连续签到 2 天
 签到总天数 32"
 #赵 122294312-396444 sign_res_end
-#移动 jd_OeTNobRVGiNZ sign_res
-sign_res="
-"
-sign_num="0"
-sign_total_num="0"
-giftName=""
-giftRes=""
-giftDate="20210307"
-sign_res_info="
-
-当天签到奖励 []
-连续签到 0 天
-签到总天数 0"
-#移动 jd_OeTNobRVGiNZ sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 "
@@ -91,3 +77,17 @@ sign_res_info="
 连续签到 0 天
 签到总天数 0"
 #王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210307"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
