@@ -1,0 +1,104 @@
+actId=96cbeea324214378940eca66394f4f92
+venderId=33293
+startTime=1614582000000
+endTime=1615302059000
+# 短链接
+suo_url="https://3.cn/1017-16lj"
+actTimeStr="2021-03-01 15:00 至 2021-03-09 23:00"
+#店铺名称
+vendername="也买酒旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=96cbeea324214378940eca66394f4f92&venderId=33293&adsource=tg_storePage
+# 活动时间：2021.03.01 15:00:00 - 2021.03.09 23:00:59
+# 奖励说明：
+actRule="
+连续签到3天：3京豆 3京豆
+连续签到5天：5元优惠券
+连续签到7天：5京豆 5京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 6 天
+签到总天数 6"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 6 天
+签到总天数 6"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="6"
+sign_total_num="6"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 6 天
+签到总天数 6"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210308"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

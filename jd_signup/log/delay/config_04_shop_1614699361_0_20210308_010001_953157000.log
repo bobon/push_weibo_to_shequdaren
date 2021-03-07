@@ -1,0 +1,181 @@
+03/08/21 01:20:17 363212400  1615137617
+RANDOM_num: 15
+removed '/tmp/tmp.AQVS2KJkwg'
+03/08/21 01:20:17 601072200  1615137617 检查移动签到
+
+real	0m0.347s
+user	0m0.031s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615138218	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615138218	LZ_TOKEN_KEY	lztokenpage978fc25fad5e40c7ab2e4af315770734
+03/08/21 01:20:18 209696100  1615137618
+use wskey
+
+real	0m0.223s
+user	0m0.141s
+sys	0m0.078s
+03/08/21 01:20:18 496706500  1615137618 token: AAFgRQtSADCGT22sviDmzLtIaqUqTtxOArIk7l3eDubkjFWIVJv2P1yrdiM_e9XeHGcp4oXx2ao
+
+real	0m0.407s
+user	0m0.047s
+sys	0m0.094s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/08/21 01:21:04 204101500  1615137664
+签到失败. 写入失败的giftName: 
+
+***********************************************
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+***********************************************
+
+移动签到卡西欧手表官方旗舰店查看结果
+{"msg":"","giftLog":{},"isOk":true,"signDetail":{},"followDays":7,"signRecord":{"nicknameShow":null,"id":"021c7fb1581049efa9dbfc523104275d","venderId":667324,"actId":"d9362f287a96497d95eab5be94a7b604","actName":"女神节限时领京豆","nick":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","phone":"","midUrl":"","pin":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","lastSignDate":null,"contiSignNum":0,"totalSignNum":0,"createTime":null,"updateTime":null,"remark":null}}
+
+{
+  "signDetail": {},
+  "contiSignNum": 0,
+  "totalSignNum": 0
+}
+
+卡西欧手表官方旗舰店活动规则
+{"msg":"","act":{"id":"d9362f287a96497d95eab5be94a7b604","jdActivityId":null,"venderId":667324,"actName":"女神节限时领京豆","startTime":1614528000000,"endTime":1615305599000,"tplId":"0140","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d9362f287a96497d95eab5be94a7b604&venderId=667324","shortUrl":"3.cn/1015ZE-lC","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/171169/4/8116/3640/6038e0d3E42e1736d/bdf36b7aa9dd83e6.png","actRule":"1、活动时间：2021-03-01 00:00 - 2021-03-09 19:41；
+2、活动对象：店铺会员；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+4、每日签到，有机会赠送[5京豆]；
+5、连续签到7天，有机会赠送[10京豆]；
+6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+7、关注店铺后方可参与活动；
+8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1614340307000,"updateTime":1614340307000,"activityType":null,"actTimeStr":"2021-03-01 00:00 至 2021-03-09 23:59","actRange":"member","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"9430e97327fb4c8d903b5e633f393a67\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"4000\",\"giftType\":\"6\",\"id\":\"1159111\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"7\",\"gift\":{\"giftInfoId\":\"2c51083deb1548268a70e7b85093a105\",\"giftName\":\"10京豆\",\"giftNum\":\"10\",\"giftTotal\":\"1000\",\"giftType\":\"6\",\"id\":\"1159111\",\"priceInfo\":\"0.10\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1159111","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"4000","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"9430e97327fb4c8d903b5e633f393a67","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"7","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1159111","giftType":"6","giftName":"10京豆","giftNum":"10","giftTotal":"1000","giftResidue":null,"priceInfo":"0.10","shortLink":"","orginLink":null,"giftInfoId":"2c51083deb1548268a70e7b85093a105","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"10025017407300,10025017407301,10022231570817,10022231570818,10022231570819,10022231570816,66714212371,14195654023,18797464061,28451040573,11974496065,72069343509,72069343510,10026188317867,10022231570815,10025433840627,10025433840629,10024448802476,10024448802478,10026501673629","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d9362f287a96497d95eab5be94a7b604&venderId=667324",
+  "shortUrl": "3.cn/1015ZE-lC",
+  "actRule": "1、活动时间：2021-03-01 00:00 - 2021-03-09 19:41；\n2、活动对象：店铺会员；\n3、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n4、每日签到，有机会赠送[5京豆]；\n5、连续签到7天，有机会赠送[10京豆]；\n6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n7、关注店铺后方可参与活动；\n8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=d9362f287a96497d95eab5be94a7b604
+venderId=667324
+startTime=1614528000000
+endTime=1615305599000
+# 短链接
+suo_url="https://3.cn/1015ZE-lC"
+actTimeStr="2021-03-01 00:00 至 2021-03-09 23:59"
+#店铺名称
+vendername="卡西欧手表官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d9362f287a96497d95eab5be94a7b604&venderId=667324&adsource=tg_storePage&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=dfb96aaf82b64cbb8d9771eba3c2d717
+# 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="0"
+sign_total_num="7"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 ["10京豆"]
+连续签到 0 天
+签到总天数 7"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="0"
+sign_total_num="7"
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 ["10京豆"]
+连续签到 0 天
+签到总天数 7"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="0"
+sign_total_num="7"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 7"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210308"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

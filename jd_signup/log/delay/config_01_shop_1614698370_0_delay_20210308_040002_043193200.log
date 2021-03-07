@@ -1,0 +1,65 @@
+03/08/21 04:03:48 774915500  1615147428
+RANDOM_num: 45
+removed '/tmp/tmp.PqrlvvDvzq'
+03/08/21 04:03:48 909457500  1615147428
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210308
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="正官庄海外旗舰店"
+#店铺激活码
+actId="4dbfe8f982fa43afbf694bd401a18178"
+#店铺id
+venderId="10025553"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=4dbfe8f982fa43afbf694bd401a18178&venderId=10025553&adsource=tg_xuanFuTuBiao"
+
+startTime=1614572280
+endTime=1615177080
+# 活动时间：2021-03-01 12:18 - 2021-03-08 12:18；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：2京豆
+连续签到3天：10店铺积分
+连续签到4天：5京豆
+连续签到5天：60元优惠券
+连续签到6天：80元优惠券
+连续签到7天：参糖80g
+"
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210308"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

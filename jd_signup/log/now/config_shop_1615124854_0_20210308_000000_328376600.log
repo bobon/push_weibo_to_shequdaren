@@ -1,0 +1,102 @@
+03/08/21 00:00:00 639989800  1615132800
+RANDOM_num: 30
+force to sign
+
+03/08/21 00:00:01 047942000  1615132801 赵签到冰峰京东自营旗舰店
+
+real	0m0.759s
+user	0m0.063s
+sys	0m0.063s
+{"code":200,"data":[{"level":1,"prizeList":[{"discount":5.00,"type":4,"number":1000,"budgetNum":5000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2},{"level":0,"prizeList":[{"discount":2.00,"type":4,"number":10000,"budgetNum":20000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+03/08/21 00:00:02 723907600  1615132802 王签到冰峰京东自营旗舰店
+
+real	0m0.865s
+user	0m0.063s
+sys	0m0.047s
+{"code":200,"data":[{"level":1,"prizeList":[{"discount":5.00,"type":4,"number":1000,"budgetNum":5000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":1,"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2},{"level":0,"prizeList":[{"discount":2.00,"type":4,"number":10000,"budgetNum":20000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+03/08/21 00:00:04 783428700 1615132804
+03/08/21 00:00:05 118438200 1615132805 签到冰峰京东自营旗舰店完成
+
+03/08/21 00:01:35 895658400  1615132895
+赵签到冰峰京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励5,type=4;奖励2,type=4;
+
+***********************************************
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:01  1    [已~签~到]
+当天签到奖励 [奖励5,type=4;奖励2,type=4;]
+已签到 1 天
+***********************************************
+
+王签到冰峰京东自营旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励5,type=4;奖励2,type=4;
+
+***********************************************
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:03  1    [已~签~到]
+当天签到奖励 [奖励5,type=4;奖励2,type=4;]
+已签到 1 天
+***********************************************
+
+
+
+赵签到冰峰京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1614787200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614873600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614960000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615046400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615132801474,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 1
+}
+王签到冰峰京东自营旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1614787200000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614873600000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614960000000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615046400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615132803254,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":1,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 1
+}
+# 短链接
+suo_url=""
+venderId=1000101662
+startTime=1614787200000
+endTime=1615219199000
+activityId=10286803
+token=A5F3D784461DFEE87AC870ADA16C2CDE
+#店铺名称
+vendername="冰峰京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A5F3D784461DFEE87AC870ADA16C2CDE
+# 活动时间：2021.03.04 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到1天：5京豆
+连续签到2天：10京豆
+连续签到3天：15京豆
+连续签到4天：20京豆
+连续签到5天：25京豆
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614787200;signed=1;currentDay=2
+signTime=1614873600;signed=1;currentDay=2
+signTime=1614960000;signed=1;currentDay=2
+signTime=1615046400;signed=1;currentDay=2
+signTime=1615132803;signed=2;currentDay=1"
+sign_num="1"
+giftName="奖励5,type=4;奖励2,type=4;"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:03  1    [已~签~到]
+当天签到奖励 [奖励5,type=4;奖励2,type=4;]
+已签到 1 天"
+#王 1309893722-164885 sign_res_end

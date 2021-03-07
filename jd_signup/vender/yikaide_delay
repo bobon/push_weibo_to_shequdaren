@@ -21,12 +21,13 @@ signTime=1614729600;signed=2
 signTime=1614816000;signed=2
 signTime=1614902400;signed=2
 signTime=1614988800;signed=2
-signTime=1615075200;signed=2"
-sign_num="14"
-sign_total_num="35"
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="15"
+sign_total_num="36"
 giftName="null"
 giftRes="ok"
-giftDate="20210307"
+giftDate="20210308"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
@@ -35,9 +36,10 @@ sign_res_info="
 2021/03/05_08:00:00  [已~签~到]      
 2021/03/06_08:00:00  [已~签~到]      
 2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 14 天
-签到总天数 35"
+连续签到 15 天
+签到总天数 36"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
@@ -47,12 +49,13 @@ signTime=1614729600;signed=2
 signTime=1614816000;signed=2
 signTime=1614902400;signed=2
 signTime=1614988800;signed=2
-signTime=1615075200;signed=2"
-sign_num="1"
-sign_total_num="23"
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="2"
+sign_total_num="24"
 giftName="null"
 giftRes="ok"
-giftDate="20210307"
+giftDate="20210308"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
@@ -61,9 +64,10 @@ sign_res_info="
 2021/03/05_08:00:00  [已~签~到]      
 2021/03/06_08:00:00  [已~签~到]      
 2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 1 天
-签到总天数 23"
+连续签到 2 天
+签到总天数 24"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
@@ -73,12 +77,13 @@ signTime=1614729600;signed=2
 signTime=1614816000;signed=2
 signTime=1614902400;signed=2
 signTime=1614988800;signed=2
-signTime=1615075200;signed=2"
-sign_num="14"
-sign_total_num="35"
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2"
+sign_num="15"
+sign_total_num="36"
 giftName="null"
 giftRes="ok"
-giftDate="20210307"
+giftDate="20210308"
 sign_res_info="
 2021/03/01_08:00:00  [已~签~到]      
 2021/03/02_08:00:00  [已~签~到]      
@@ -87,9 +92,10 @@ sign_res_info="
 2021/03/05_08:00:00  [已~签~到]      
 2021/03/06_08:00:00  [已~签~到]      
 2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
 当天签到奖励 [null]
-连续签到 14 天
-签到总天数 35"
+连续签到 15 天
+签到总天数 36"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
@@ -98,7 +104,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210307"
+giftDate="20210308"
 sign_res_info="
 
 当天签到奖励 []
