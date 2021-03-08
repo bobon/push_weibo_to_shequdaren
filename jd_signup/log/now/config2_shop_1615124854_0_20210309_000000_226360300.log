@@ -1,0 +1,126 @@
+03/09/21 00:00:00 346153300  1615219200
+RANDOM_num: 15
+force to sign
+
+03/09/21 00:00:00 598921300  1615219200 肥鹅签到冰峰京东自营旗舰店
+
+real	0m0.659s
+user	0m0.031s
+sys	0m0.078s
+{"msg":"当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+活动已结束. /home/myid/jd/jd_signup/api_vender/shop_1615124854_0 --> /home/myid/jd/jd_signup/api_vender/shop_1615124854_0_del
+mv: cannot stat '/home/myid/jd/jd_signup/api_vender/shop_1615124854_0': No such file or directory
+
+03/09/21 00:00:49 284616800  1615219249
+肥鹅签到冰峰京东自营旗舰店查看结果
+
+
+
+肥鹅签到冰峰京东自营旗舰店日志
+{"msg":"errCode:402, errMessage:当前不存在有效的活动!","code":402,"class":"com.jd.interact.center.client.api.common.param.Results","success":false}
+{
+  "contiSignNum": null
+}
+移动签到冰峰京东自营旗舰店日志
+
+# 短链接
+suo_url=""
+venderId=1000101662
+startTime=1614787200000
+endTime=1615219199000
+activityId=10286803
+token=A5F3D784461DFEE87AC870ADA16C2CDE
+#店铺名称
+vendername="冰峰京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A5F3D784461DFEE87AC870ADA16C2CDE
+# 活动时间：2021.03.04 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到1天：5京豆
+连续签到2天：10京豆
+连续签到3天：15京豆
+连续签到4天：20京豆
+连续签到5天：25京豆
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614787200;signed=1;currentDay=2
+signTime=1614873600;signed=1;currentDay=2
+signTime=1614960000;signed=1;currentDay=2
+signTime=1615046400;signed=1;currentDay=2
+signTime=1615132803;signed=2;currentDay=1"
+sign_num="1"
+giftName="奖励5,type=4;奖励2,type=4;"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:03  1    [已~签~到]
+当天签到奖励 [奖励5,type=4;奖励2,type=4;]
+已签到 1 天"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614787200;signed=1;currentDay=2
+signTime=1614873600;signed=1;currentDay=2
+signTime=1614960000;signed=1;currentDay=2
+signTime=1615046400;signed=1;currentDay=2
+signTime=1615132801;signed=2;currentDay=1"
+sign_num="1"
+giftName=""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:01  1    [已~签~到]
+当天签到奖励 []
+已签到 1 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614787200;signed=1;currentDay=2
+signTime=1614873600;signed=1;currentDay=2
+signTime=1614960000;signed=1;currentDay=2
+signTime=1615046400;signed=1;currentDay=2
+signTime=1615132803;signed=2;currentDay=1"
+sign_num="1"
+giftName=""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:03  1    [已~签~到]
+当天签到奖励 []
+已签到 1 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614787200;signed=1;currentDay=2
+signTime=1614873600;signed=1;currentDay=2
+signTime=1614960000;signed=1;currentDay=2
+signTime=1615046400;signed=1;currentDay=2
+signTime=1615132801;signed=2;currentDay=1"
+sign_num="1"
+giftName=""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/04_00:00:00  2    未签到
+2021/03/05_00:00:00  2    未签到
+2021/03/06_00:00:00  2    未签到
+2021/03/07_00:00:00  2    未签到
+2021/03/08_00:00:01  1    [已~签~到]
+当天签到奖励 []
+已签到 1 天"
+#赵 122294312-396444 sign_res_end

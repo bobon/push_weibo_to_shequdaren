@@ -1,0 +1,111 @@
+03/09/21 00:00:06 676804600  1615219206
+RANDOM_num: 15
+force to sign
+
+real	0m1.476s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_KEY	lztokenpage5996f843d49041c28b2439e6e9deb92b
+03/09/21 00:00:12 405945100  1615219212
+use wskey
+
+real	0m1.240s
+user	0m0.078s
+sys	0m0.125s
+03/09/21 00:00:14 031630300  1615219214 token: AAFgRkoNADBnFxsPcFtbVSkIjU7TbDexGa1nNyMqgWjFnhszDHkEADJBp7nKyxHKzX56H8EnV4Y
+
+real	0m1.138s
+user	0m0.047s
+sys	0m0.078s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/09/21 00:01:02 643133200  1615219262
+parse error: Invalid numeric literal at line 1, column 10
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+移动签到COSORI厨房电器旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="COSORI厨房电器旗舰店"
+#店铺激活码
+actId="85869b82469347279fd272a3c2015d9f"
+#店铺id
+venderId="10422730"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage"
+
+startTime=1613957940
+endTime=1616549940
+# 活动时间：2021-02-22 09:39 - 2021-03-24 09:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20京豆
+连续签到2天：30京豆
+连续签到3天：20店铺积分
+连续签到4天：30店铺积分
+连续签到5天：40京豆
+连续签到6天：50京豆
+连续签到7天：5元京东E卡
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName=""20京豆""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["20京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName=""20京豆""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["20京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName=""20京豆""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["20京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,79 @@
+03/09/21 00:00:08 646489500  1615219208
+RANDOM_num: 35
+force to sign
+
+real	0m1.842s
+user	0m0.031s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_KEY	lztokenpagea891282a54224708ac90ddae5fccefe0
+03/09/21 00:00:12 774952700  1615219212
+use pt_key
+
+real	0m1.761s
+user	0m0.109s
+sys	0m0.109s
+03/09/21 00:00:14 848786700  1615219214 token: AAFgRkoOADA6uMhzfbwjCgem15ThRP2CE4fMZ_jlfQiEOD0NvhwrKWopWJmouKErn4RMkkw1tGE
+
+real	0m1.407s
+user	0m0.047s
+sys	0m0.047s
+03/09/21 00:00:18 045296700  1615219218 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/09/21 00:00:18 703937500  1615219218 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.031s
+user	0m0.031s
+sys	0m0.094s
+{
+  "gift": null,
+  "msg": "",
+  "isOk": true,
+  "isSend": null,
+  "key": null
+}
+true
+03/09/21 00:00:24 735100400 1615219224
+03/09/21 00:00:24 901734000 1615219224 签到JEEP SPIRIT眼镜旗舰店完成
+03/09/21 00:02:11 263457300  1615219331
+true
+首次签到成功. 写入giftName: null
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 [null]
+连续签到  天
+签到总天数 
+***********************************************
+
+王签到JEEP SPIRIT眼镜旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {283:<--} ERROR CODE: 4[0m [0;31;3m[20210309 00:02:25] [ERROR] [0m
+

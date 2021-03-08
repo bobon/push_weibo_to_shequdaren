@@ -1,0 +1,119 @@
+03/09/21 01:18:46 078992300  1615223926
+RANDOM_num: 25
+removed '/tmp/tmp.aHtfxXEquo'
+03/09/21 01:18:46 269827500  1615223926 检查王签到
+
+real	0m0.267s
+user	0m0.047s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615224526	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615224526	LZ_TOKEN_KEY	lztokenpage7a9b914cca334c03a03e3167b90b5044
+03/09/21 01:18:46 805845400  1615223926
+use pt_key
+
+real	0m0.242s
+user	0m0.125s
+sys	0m0.094s
+03/09/21 01:18:47 071998800  1615223927 token: AAFgRlx3ADCcDBURpKA6tjF_Sp6Vj-VncEddoCgtzV30ZB_Z2oUWXsrIe543McN1rRfELgb3i4o
+
+real	0m0.360s
+user	0m0.000s
+sys	0m0.125s
+03/09/21 01:18:47 655864300  1615223927 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/09/21 01:18:47 703754200  1615223927 王签到美赞臣京东自营官方旗舰店
+
+real	0m0.631s
+user	0m0.031s
+sys	0m0.094s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "30",
+    "giftType": "9",
+    "giftName": "30积分",
+    "giftNum": "30",
+    "giftTotal": "999999999",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "72fc8f741f234a54adb00d0974524859",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "fIMPao"
+}
+true
+03/09/21 01:18:48 973695400 1615223928
+03/09/21 01:18:49 012700100 1615223929 签到美赞臣京东自营官方旗舰店完成
+03/09/21 01:19:14 162164800  1615223954
+true
+首次签到成功. 写入giftName: "30积分"
+
+***********************************************
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 ["30积分"]
+连续签到 7 天
+签到总天数 47
+***********************************************
+
+王签到美赞臣京东自营官方旗舰店查看结果
+{"msg":"","giftLog":{"20210308":"y","20210309":"y","20210304":"y","20210305":"y","20210306":"y","20210307":"y","20210303":"y"},"isOk":true,"signDetail":{"20210308":"y","20210309":"y","20210304":"y","20210305":"y","20210306":"y","20210307":"y","20210303":"y"},"followDays":18,"signRecord":{"nicknameShow":null,"id":"4a07b8a74d9640d7a37d5f0901dafa4c","venderId":1000003179,"actId":"4a669aaf044540ae859b472c07e472e5","actName":"1月签到得湿巾","nick":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","phone":"","midUrl":null,"pin":"8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==","lastSignDate":20210309,"contiSignNum":7,"totalSignNum":47,"createTime":1609679998000,"updateTime":1615223928000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210308": "y",
+    "20210309": "y",
+    "20210304": "y",
+    "20210305": "y",
+    "20210306": "y",
+    "20210307": "y",
+    "20210303": "y"
+  },
+  "contiSignNum": 7,
+  "totalSignNum": 47
+}
+
+美赞臣京东自营官方旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {288:<--} ERROR CODE: 4[0m [0;31;3m[20210309 01:19:15] [ERROR] [0m
+

@@ -1,0 +1,150 @@
+03/09/21 00:00:01 263878800  1615219201
+RANDOM_num: 20
+force to sign
+
+real	0m0.870s
+user	0m0.031s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219803	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219803	LZ_TOKEN_KEY	lztokenpage6e823a86643b4be28bc74b5e68de2d8d
+03/09/21 00:00:04 303140900  1615219204
+use pt_key
+
+real	0m1.095s
+user	0m0.125s
+sys	0m0.109s
+03/09/21 00:00:05 742663900  1615219205 token: AAFgRkoFADCaQBXm_amLKnmynchxEzSN83kpdnBWdcZR-5biwkc60HxEEEfgG0YLdBGwgR-zOLc
+
+real	0m1.500s
+user	0m0.016s
+sys	0m0.063s
+03/09/21 00:00:09 234207800  1615219209 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/09/21 00:00:09 619461500  1615219209 肥鹅签到帮宝适京东自营官方旗舰店
+
+real	0m3.756s
+user	0m0.031s
+sys	0m0.063s
+{
+  "msg": "",
+  "signResult": {
+    "key": "RwvfUH",
+    "giftLogId": "28e00d898b9246748d1021653d3a8559",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1163823",
+      "giftType": "6",
+      "giftName": "1京豆",
+      "giftNum": "1",
+      "giftTotal": "20000",
+      "giftResidue": null,
+      "priceInfo": "0.01",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+03/09/21 00:00:18 472300900 1615219218
+03/09/21 00:00:18 964988800 1615219218 签到帮宝适京东自营官方旗舰店完成
+03/09/21 00:01:20 222550300  1615219280
+true
+parse error: Invalid numeric literal at line 1, column 10
+首次签到成功. 写入giftName: "1京豆"
+
+***********************************************
+7天签到 第  天
+当天签到奖励 ["1京豆"]
+***********************************************
+
+肥鹅签到帮宝适京东自营官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="帮宝适京东自营官方旗舰店"
+#店铺激活码
+actId="9b8a4466ab984291908abd55c70d0646"
+#店铺id
+venderId="1000001933"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b8a4466ab984291908abd55c70d0646&venderId=1000001933&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=4f8841bf33eb4dfb9ccd26e52abc0106"
+
+startTime=1614566820
+endTime=1617206340
+# 活动时间：2021-03-01 10:47 - 2021-03-31 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：1京豆
+连续签到4天：1京豆
+连续签到5天：1京豆
+连续签到6天：1京豆
+连续签到7天：7京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210308"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

@@ -1,0 +1,111 @@
+03/09/21 00:00:07 587071000  1615219207
+RANDOM_num: 25
+force to sign
+
+real	0m1.631s
+user	0m0.063s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615219811	LZ_TOKEN_KEY	lztokenpage332d31b409f84f898f0b5dd1a33949a7
+03/09/21 00:00:12 206462100  1615219212
+use wskey
+
+real	0m1.319s
+user	0m0.078s
+sys	0m0.109s
+03/09/21 00:00:14 033071600  1615219214 token: AAFgRkoNADAMpFcg1PpVY8cdUT-14xK9lNPjxVZFQEEPm8zrOWr6_wQBRuzcHLikowXoknsQWqo
+
+real	0m1.127s
+user	0m0.047s
+sys	0m0.125s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/09/21 00:01:31 996127900  1615219291
+parse error: Invalid numeric literal at line 1, column 10
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+移动签到贝锐官方旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="贝锐官方旗舰店"
+#店铺激活码
+actId="d38c2feeeed74723ac3c5700b78bb2af"
+#店铺id
+venderId="736323"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323"
+
+startTime=1615172640
+endTime=1616342340
+# 活动时间：2021-03-08 11:04 - 2021-03-21 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName=""5元优惠券""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5元优惠券"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName=""5元优惠券""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5元优惠券"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName=""5元优惠券""
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5元优惠券"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,761 @@
+03/09/21 00:02:03 840864700  1615219323
+RANDOM_num: 25
+removed '/tmp/tmp.U7BQO3DdA2'
+03/09/21 00:02:05 142336700  1615219325 检查移动签到
+
+real	0m1.426s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/09/21 00:02:09 626380100  1615219329
+use wskey
+
+real	0m1.309s
+user	0m0.078s
+sys	0m0.125s
+03/09/21 00:02:11 190407600  1615219331 token: AAFgRkqCADAao5VFN1Jh2kCXqqZEXT0O8KCjOubeCVHEaRv0If_XnhKPokaF1g7a-qxw8eCxD_0
+
+real	0m1.826s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:02:15 253870500  1615219335 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:02:15 913740700  1615219335 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.647s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:02:25 404067500 1615219345
+
+real	0m1.609s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.164s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:02:31 118745900  1615219351
+use wskey
+
+real	0m2.150s
+user	0m0.109s
+sys	0m0.094s
+03/09/21 00:02:33 766113300  1615219353 token: AAFgRkqZADBqS1unWgdgtczlbU0pekvvnUqxzmVjGWtDF5CWawhm6EFKr6Q1I8KEV1i9JDpWcF4
+
+real	0m1.893s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:02:37 744776800  1615219357 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:02:38 282621300  1615219358 移动签到帮宝适京东自营官方旗舰店
+
+real	0m2.009s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:02:53 008798000 1615219373
+
+real	0m1.646s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.175s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:02:57 817831500  1615219377
+use wskey
+
+real	0m0.759s
+user	0m0.078s
+sys	0m0.125s
+03/09/21 00:02:58 806652900  1615219378 token: AAFgRkqyADAIGwgZdgJQOIESCXnVaTeK_hz74kBPZpDQ4zVT7lqvE0RsKu7o_Uq6lVmBLpAdkfM
+
+real	0m1.846s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:03:03 019729600  1615219383 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:03:03 413854400  1615219383 移动签到帮宝适京东自营官方旗舰店
+
+real	0m3.338s
+user	0m0.031s
+sys	0m0.078s
+03/09/21 00:03:14 288567900 1615219394
+
+real	0m2.117s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.900s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:03:22 828722200  1615219402
+use wskey
+
+real	0m1.511s
+user	0m0.125s
+sys	0m0.109s
+03/09/21 00:03:24 797499700  1615219404 token: AAFgRkrMADCf9fKBHUUHTuOMmtWHNHJ3BCCcfuHIrEBp1qJ1ZBJxs9zw5LU2c4v2j8WJJY005ek
+
+real	0m1.385s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:03:29 712345700  1615219409 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:03:30 063555900  1615219410 移动签到帮宝适京东自营官方旗舰店
+
+real	0m2.093s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:03:38 682147000 1615219418
+
+real	0m2.271s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m1.244s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/09/21 00:03:43 634396800  1615219423
+use wskey
+
+real	0m1.442s
+user	0m0.094s
+sys	0m0.141s
+03/09/21 00:03:45 588304600  1615219425 token: AAFgRkrgADD9fWFbskboWoOj4sQ2dnG2WSoW5eFJzWZadiUxtE6Sm5UgHatdHdoPj9pm82yB8S0
+
+real	0m1.173s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:03:49 122245100  1615219429 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:03:49 952826500  1615219429 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.673s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:03:57 770334100 1615219437
+
+real	0m2.263s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.028s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:04:01 913993300  1615219441
+use wskey
+
+real	0m1.500s
+user	0m0.109s
+sys	0m0.125s
+03/09/21 00:04:03 782459300  1615219443 token: AAFgRkrzADD-f6CmvhV3a7Zi2UyuRDb1PETs8f9iqQY0xB2-nid4hUre37cASqBM1wynhb4yvXQ
+
+real	0m1.195s
+user	0m0.016s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:06 769975100  1615219446 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:04:07 238232700  1615219447 移动签到帮宝适京东自营官方旗舰店
+
+real	0m0.912s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:15 042509300 1615219455
+
+real	0m2.352s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.930s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:04:21 143711700  1615219461
+use wskey
+
+real	0m2.099s
+user	0m0.188s
+sys	0m0.109s
+03/09/21 00:04:23 691338800  1615219463 token: AAFgRksGADB4tZvPgu5EQM_wIvO_H6lxt_2q8eK9fAWJb9OBjb3TJDRft-Fd844n0aAFaE66oPA
+
+real	0m1.326s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:27 053867700  1615219467 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:04:27 467966500  1615219467 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.473s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:35 609906100 1615219475
+
+real	0m2.238s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.389s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:04:39 782415100  1615219479
+use wskey
+
+real	0m1.510s
+user	0m0.141s
+sys	0m0.109s
+03/09/21 00:04:41 799293900  1615219481 token: AAFgRksZADCJAkDSnwsGfZOQ77QLZyePCfqJu124-DCzvOd78PRGQ26l9No92sjQJLthtohMEcM
+
+real	0m1.996s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:46 408204300  1615219486 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:04:46 796842200  1615219486 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.435s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:04:56 494214700 1615219496
+
+real	0m2.897s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.557s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:05:01 835974000  1615219501
+use wskey
+
+real	0m1.866s
+user	0m0.094s
+sys	0m0.109s
+03/09/21 00:05:04 453212800  1615219504 token: AAFgRksvADDYEWSSsvrcavvTDn6JYldIiT13TO-F8nCDli969q6i8PBrmWc_fUcHQOuNkqz4Yh4
+
+real	0m1.214s
+user	0m0.047s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:08 962225100  1615219508 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:05:09 404695400  1615219509 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.066s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:19 415179300 1615219519
+
+real	0m3.261s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.652s
+user	0m0.000s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/09/21 00:05:25 649547500  1615219525
+use wskey
+
+real	0m1.283s
+user	0m0.125s
+sys	0m0.063s
+03/09/21 00:05:27 295400500  1615219527 token: AAFgRktGADC58oGcxyaYtR6HgG-cFbgo24Tqo3XHNVYiv_kfKz6J3WFUposuywaW_HWu7Up084c
+
+real	0m1.081s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:30 473419900  1615219530 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:05:30 957360300  1615219530 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.322s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:38 952477400 1615219538
+
+real	0m3.362s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.208s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:05:45 183789400  1615219545
+use wskey
+
+real	0m1.555s
+user	0m0.109s
+sys	0m0.125s
+03/09/21 00:05:47 139876100  1615219547 token: AAFgRktaADDB-b31P3uGrM3e8D41u-WT6Fc3cO-rHyQLhEzh2X-wILEDN6fsDJ5FGx5R7VZvImk
+
+real	0m1.046s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:51 048128600  1615219551 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:05:51 483717400  1615219551 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.446s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:05:59 898989100 1615219559
+
+real	0m3.585s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.307s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:06:06 454736600  1615219566
+use wskey
+
+real	0m2.026s
+user	0m0.141s
+sys	0m0.141s
+03/09/21 00:06:08 775830400  1615219568 token: AAFgRktwADCPT1ETFdHmNYEwIxbH-2NIF2TpIlvb-8zqVybgeNgf26wvK0d-1h_Xg2Rbtl8Lo9s
+
+real	0m1.293s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:11 816241600  1615219571 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:06:12 292748800  1615219572 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.352s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:21 909334300 1615219581
+
+real	0m3.459s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.088s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:06:27 584355900  1615219587
+use wskey
+
+real	0m1.775s
+user	0m0.094s
+sys	0m0.125s
+03/09/21 00:06:29 784475700  1615219589 token: AAFgRkuFADCodQJiQnPA4rOPGSwtGN2b0UADhg_R6yDdqRvRFgEst0Q_4S7XWcvyzRTvKcjXkuA
+
+real	0m0.914s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:32 172020500  1615219592 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:06:32 371966400  1615219592 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.427s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:40 601040200 1615219600
+
+real	0m3.600s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.911s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/09/21 00:06:46 311279500  1615219606
+use wskey
+
+real	0m1.413s
+user	0m0.109s
+sys	0m0.109s
+03/09/21 00:06:47 922282700  1615219607 token: AAFgRkuXADCl_nLdCbSRQHBO8ieS350VZdaw6dwCIWi8iznljoQU0H7QWKc1_3jsnlAXW9bnqUw
+
+real	0m0.544s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:51 821705100  1615219611 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:06:52 533890200  1615219612 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.067s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:06:58 867665900 1615219618
+
+real	0m3.868s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.308s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/09/21 00:07:05 690135800  1615219625
+use wskey
+
+real	0m1.240s
+user	0m0.172s
+sys	0m0.094s
+03/09/21 00:07:07 284933300  1615219627 token: AAFgRkuqADBTVpU2_supzs43TiCPjCn2CIp9DlcjSImc6G4r3OWl8J-2h2B8FvtjOAtHkAlfRV4
+
+real	0m1.245s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:07:10 754049300  1615219630 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:07:11 394669700  1615219631 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.398s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:07:19 136576300 1615219639
+
+real	0m4.168s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.283s
+user	0m0.047s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:07:25 965726300  1615219645
+use wskey
+
+real	0m1.553s
+user	0m0.156s
+sys	0m0.125s
+03/09/21 00:07:27 837830600  1615219647 token: AAFgRku_ADCQo5Conhngo0RYkksiCEfSEV-f52TTRVqBcymhTd9InWM2ebAKS1r2ZqcWqew0IuQ
+
+real	0m1.328s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:07:31 173071100  1615219651 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:07:31 769280700  1615219651 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.511s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:07:39 148274700 1615219659
+
+real	0m4.190s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.225s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:07:45 387172600  1615219665
+use wskey
+
+real	0m1.053s
+user	0m0.109s
+sys	0m0.078s
+03/09/21 00:07:46 691213700  1615219666 token: AAFgRkvSADC1FN7CrPjKmzoFFa8hi-Lwc9AmCRDUH-pZ0sFbqjZB1CMUQVdL8JBMGK3gjcA-Q2c
+
+real	0m1.288s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:07:53 010335900  1615219673 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:07:53 388020500  1615219673 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.127s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:00 798625000 1615219680
+
+real	0m4.576s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.067s
+user	0m0.031s
+sys	0m0.063s
+[WARN] get LZ_TOKEN error
+03/09/21 00:08:07 034530200  1615219687
+use wskey
+
+real	0m1.041s
+user	0m0.094s
+sys	0m0.078s
+03/09/21 00:08:08 280472900  1615219688 token: AAFgRkvnADDG7Gboxe6JVNo30QdoSR0zyFW66wRbAd4DDm7qb8p5TRTvIjrUZCuLb9OSM5i_YDk
+
+real	0m1.608s
+user	0m0.000s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:12 337456600  1615219692 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:08:12 521848300  1615219692 移动签到帮宝适京东自营官方旗舰店
+
+real	0m1.096s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:18 210287900 1615219698
+
+real	0m6.070s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m0.794s
+user	0m0.000s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/09/21 00:08:25 667699100  1615219705
+use wskey
+
+real	0m1.046s
+user	0m0.109s
+sys	0m0.078s
+03/09/21 00:08:27 009195800  1615219707 token: AAFgRkv6ADBpzatYGsl3r1WmMTq736z8OpGjtvn89lktzdV6sXYw10ApVN37bEWCxgxr5Agjcvw
+
+real	0m0.749s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:28 902054100  1615219708 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:08:29 125661200  1615219709 移动签到帮宝适京东自营官方旗舰店
+
+real	0m0.748s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:34 918396400 1615219714
+
+real	0m4.813s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.100s
+user	0m0.063s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/09/21 00:08:42 277921400  1615219722
+use wskey
+
+real	0m0.897s
+user	0m0.078s
+sys	0m0.188s
+03/09/21 00:08:43 395853400  1615219723 token: AAFgRkwLADDBWZkDQ5_JE7B_1dfCYC1imraafUtt7fuQ2Zib45Rul7ndBW6x2U4DkYPAFl2jlnA
+
+real	0m0.775s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:44 746834200  1615219724 secretPin: 
+[WARN] get secretPin error
+
+03/09/21 00:08:44 836188200  1615219724 移动签到帮宝适京东自营官方旗舰店
+
+real	0m0.281s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/09/21 00:08:45 892065100 1615219725
+
+real	0m4.157s
+user	0m0.000s
+sys	0m0.031s
+03/09/21 00:10:05 194721500  1615219805
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0
+
+移动签到帮宝适京东自营官方旗舰店查看结果, 活动规则
+
+
+#店铺名称
+vendername="帮宝适京东自营官方旗舰店"
+#店铺激活码
+actId="9b8a4466ab984291908abd55c70d0646"
+#店铺id
+venderId="1000001933"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b8a4466ab984291908abd55c70d0646&venderId=1000001933&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=4f8841bf33eb4dfb9ccd26e52abc0106"
+
+startTime=1614566820
+endTime=1617206340
+# 活动时间：2021-03-01 10:47 - 2021-03-31 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：1京豆
+连续签到4天：1京豆
+连续签到5天：1京豆
+连续签到6天：1京豆
+连续签到7天：7京豆
+"
+#赵 122294312-396444 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num=""
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210309"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,127 @@
+03/09/21 01:20:13 838052500  1615224013
+RANDOM_num: 15
+removed '/tmp/tmp.hrppY9Nsmb'
+03/09/21 01:20:13 944467600  1615224013 检查赵签到
+
+real	0m0.176s
+user	0m0.000s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615224614	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615224614	LZ_TOKEN_KEY	lztokenpage8b4f0b2e77004f6685c3243e4a17137c
+03/09/21 01:20:14 233883400  1615224014
+use pt_key
+
+real	0m0.136s
+user	0m0.047s
+sys	0m0.125s
+03/09/21 01:20:14 387733800  1615224014 token: AAFgRlzOADC6yB71ccHq_ytfYDsDNNrzPayRrLYC-87qlvaVLMMEZiXmpYvL5oZwhZ_EJay7gw8
+
+real	0m0.341s
+user	0m0.031s
+sys	0m0.047s
+03/09/21 01:20:14 890532100  1615224014 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/09/21 01:20:14 905145700  1615224014 赵签到欧莱雅官方旗舰店
+
+real	0m0.217s
+user	0m0.016s
+sys	0m0.078s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1615159310_0_delay --> /home/myid/jd/jd_signup/vender/shop_1615159310_0_del
+renamed '/home/myid/jd/jd_signup/vender/shop_1615159310_0_delay' -> '/home/myid/jd/jd_signup/vender/shop_1615159310_0_del'
+03/09/21 01:20:30 478112200  1615224030
+
+赵签到欧莱雅官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+欧莱雅官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=60d156d1f6874d88a449a22d6098ffa4
+venderId=10194864
+startTime=1613923200000
+endTime=1615219199000
+# 短链接
+suo_url="https://3.cn/1013NO-TD"
+actTimeStr="2021-02-22 00:00 至 2021-03-08 23:59"
+#店铺名称
+vendername="欧莱雅官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=60d156d1f6874d88a449a22d6098ffa4&venderId=10194864
+# 活动时间：2021.02.22 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：15元优惠券
+连续签到8天：赠送欧莱雅防晒小套装
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615161600;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615161600;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615161600;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210308"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210308"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

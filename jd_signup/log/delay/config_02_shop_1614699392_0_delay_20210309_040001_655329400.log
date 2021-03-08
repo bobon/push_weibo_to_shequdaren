@@ -1,0 +1,134 @@
+03/09/21 04:01:58 254987200  1615233718
+RANDOM_num: 30
+removed '/tmp/tmp.GJrcrMboz0'
+03/09/21 04:01:58 376381000  1615233718
+王 今天已经签到过. 签到结果: ok  giftDate: 20210309
+***********************************************
+
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 1 天
+签到总天数 8
+***********************************************
+
+actId=d9362f287a96497d95eab5be94a7b604
+venderId=667324
+startTime=1614528000000
+endTime=1615305599000
+# 短链接
+suo_url="https://3.cn/1015ZE-lC"
+actTimeStr="2021-03-01 00:00 至 2021-03-09 23:59"
+#店铺名称
+vendername="卡西欧手表官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d9362f287a96497d95eab5be94a7b604&venderId=667324&adsource=tg_storePage&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=dfb96aaf82b64cbb8d9771eba3c2d717
+# 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2"
+sign_num="1"
+sign_total_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 1 天
+签到总天数 8"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2"
+sign_num="1"
+sign_total_num="8"
+giftName=""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 1 天
+签到总天数 8"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2"
+sign_num="1"
+sign_total_num="8"
+giftName="null"
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 8"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210309"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

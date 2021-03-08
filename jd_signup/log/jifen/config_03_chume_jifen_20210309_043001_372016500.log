@@ -1,0 +1,122 @@
+03/09/21 04:30:11 559707400  1615235411
+RANDOM_num: 10
+removed '/tmp/tmp.AX3fyGSywF'
+03/09/21 04:30:11 641270300  1615235411
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210309
+***********************************************
+
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 [10积分]
+连续签到 4 天
+签到总天数 34
+***********************************************
+
+#活动规则
+rule=""
+
+#店铺名称
+vendername="初么（chume）京东自营旗舰店"
+#店铺激活码
+actId="ea0a3b6c8ad84e75ba6bb5ba4fb6dd73"
+##店铺id
+venderId="1000334099"
+
+# https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ea0a3b6c8ad84e75ba6bb5ba4fb6dd73&shareuserid4minipg=2uLW3jegD3Uz29oF+hVnyE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000334099&lng=117.2462&lat=39.139145&sid=e063003e8f278d63fa05a16c75b559dw&un_area=3_51035_55901_0 HTTP/1.1
+
+
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2"
+sign_num="4"
+sign_total_num="34"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 34"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2"
+sign_num="4"
+sign_total_num="34"
+giftName=""10积分""
+giftRes="ok"
+giftDate="20210309"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+当天签到奖励 ["10积分"]
+连续签到 4 天
+签到总天数 34"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210309"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210309"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
