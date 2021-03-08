@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10016474
+startTime=1614614400000
+endTime=1617206399000
+activityId=10283638
+token=25EFF7F31BDF0052DFC21A7658A740F2
+#店铺名称
+vendername="b.box海外旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=25EFF7F31BDF0052DFC21A7658A740F2
+# 活动时间：2021.03.02 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到8天：满200-25店铺券
+"

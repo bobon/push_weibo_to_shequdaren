@@ -1,0 +1,19 @@
+actId=e7e9977e5caf438496872efcd1db37c5
+venderId=62589
+startTime=1614528000000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/100V-k8Nc"
+actTimeStr="2021-03-01 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="金利来官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e7e9977e5caf438496872efcd1db37c5&venderId=62589&adsource=tg_storePage
+# 活动时间：2021.03.01 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：5积分 5积分
+连续签到3天：15积分 15积分
+连续签到7天：赠送指定衬衫享8折礼券
+连续签到15天：赠送指定衬衫享7折礼券
+"

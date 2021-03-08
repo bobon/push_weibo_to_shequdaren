@@ -1,0 +1,19 @@
+# 短链接
+suo_url=""
+venderId=716704
+startTime=1614873600000
+endTime=1617206399000
+activityId=10288018
+token=E07FA3492FFEB5795E781350D202EC9E
+#店铺名称
+vendername="迪士尼联众专卖店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=E07FA3492FFEB5795E781350D202EC9E
+# 活动时间：2021.03.05 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1店铺积分
+连续签到1天：5店铺积分
+连续签到3天：10店铺积分
+连续签到20天：20店铺积分
+"

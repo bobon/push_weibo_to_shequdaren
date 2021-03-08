@@ -5,11 +5,11 @@ actId="d38c2feeeed74723ac3c5700b78bb2af"
 #店铺id
 venderId="736323"
 #长链接
-url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323&sceneval=2&jxsid=16146428113866014329"
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323"
 
-startTime=1614565200
-endTime=1616255880
-# 活动时间：2021-03-01 10:20 - 2021-03-20 23:58；
+startTime=1615172640
+endTime=1616342340
+# 活动时间：2021-03-08 11:04 - 2021-03-21 23:59；
 # 奖励说明：
 actRule="
 7天签到

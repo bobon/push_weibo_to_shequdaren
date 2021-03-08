@@ -748,7 +748,7 @@ show shop/D41ECBFE12AB0B3C94EFE087AFB5CED0/prize/: 7 14 21 30
 明天签到 妙馨思收纳京东自营旗舰店, 不会获取奖品, 保持文件名 api_vender/shop_1614116331_106_delay 不变.
 
 * * * * * * * *
-chekc if chang delay api_vender/shop_1614608669_18
+chekc if chang delay api_vender/shop_1614608669_18_delay
 比乐京东自营旗舰店
 # 活动时间：2021.03.01 00:00:00 - 2021.03.30 23:59:59
 
@@ -907,11 +907,10 @@ removed 'log/if_chang_delay_4'
 9;#王 1309893722-164885: sign_res
 show shop/88293B2447FF4A91D3EE2A79D3F33031/prize/: 0 7 8
 
-api_vender/shop_1614608669_18  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=88293B2447FF4A91D3EE2A79D3F33031
+api_vender/shop_1614608669_18_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=88293B2447FF4A91D3EE2A79D3F33031
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [比乐京东自营旗舰店] 的第 8 天，将要获取到奖品[ 1.00元红包]
 
-[RUN] 明天签到 比乐京东自营旗舰店, 虽然会获取奖品，但任务不用立即执行. api_vender/shop_1614608669_18 --> api_vender/shop_1614608669_18_delay
-renamed 'api_vender/shop_1614608669_18' -> 'api_vender/shop_1614608669_18_delay'
+明天签到 比乐京东自营旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 api_vender/shop_1614608669_18_delay 不变.
 
 
 * * * * * * * *
@@ -2893,7 +2892,7 @@ chekc if chang delay vender/shifengwenhua_jifen
 find del or jq or jifen file. skip.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614116236_75_delay
+chekc if chang delay vender/shop_1614116236_75
 JEEP SPIRIT眼镜旗舰店
 # 活动时间：2021.02.19 00:00:00 - 2021.03.20 00:00:59
 
@@ -2960,16 +2959,15 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/a3e7341936fb4fe786cb441977fad1df/prize/: 3 5
 
-vender/shop_1614116236_75_delay  
+vender/shop_1614116236_75  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [JEEP SPIRIT眼镜旗舰店] 的第 3 天，将要获取到奖品[ 1京豆 1京豆]
 
-[RUN] 明天立即执行. vender/shop_1614116236_75_delay --> vender/shop_1614116236_75
-renamed 'vender/shop_1614116236_75_delay' -> 'vender/shop_1614116236_75'
+明天立即执行. 不改名字 vender/shop_1614116236_75
 [SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1614116236_75
 
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614611215_136_delay
+chekc if chang delay vender/shop_1614611215_136
 JEEP SPIRIT眼镜旗舰店
 # 活动时间：2021.02.19 00:00:00 - 2021.03.20 00:00:59
 
@@ -3036,11 +3034,10 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/a3e7341936fb4fe786cb441977fad1df/prize/: 3 5
 
-vender/shop_1614611215_136_delay  
+vender/shop_1614611215_136  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [JEEP SPIRIT眼镜旗舰店] 的第 3 天，将要获取到奖品[ 1京豆 1京豆]
 
-[RUN] 明天立即执行. vender/shop_1614611215_136_delay --> vender/shop_1614611215_136
-renamed 'vender/shop_1614611215_136_delay' -> 'vender/shop_1614611215_136'
+明天立即执行. 不改名字 vender/shop_1614611215_136
 [SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1614611215_136
 
 
@@ -3341,7 +3338,7 @@ vender/shop_1614697710_0_delay  https://lzkj-isv.isvjcloud.com/sign/signActivity
 
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614699263_0
+chekc if chang delay vender/shop_1614699263_0_delay
 卡西欧手表官方旗舰店
 # 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
 
@@ -3403,12 +3400,10 @@ removed 'log/if_chang_delay_4'
 1;#赵 122294312-396444: sign_res
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/d9362f287a96497d95eab5be94a7b604/prize/: 7
-[RUN] 明天签到 卡西欧手表官方旗舰店, 不会获取奖品. vender/shop_1614699263_0 --> vender/shop_1614699263_0_delay
-renamed 'vender/shop_1614699263_0' -> 'vender/shop_1614699263_0_delay'
-
+明天签到 卡西欧手表官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1614699263_0_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614699361_0
+chekc if chang delay vender/shop_1614699361_0_delay
 卡西欧手表官方旗舰店
 # 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
 
@@ -3470,12 +3465,10 @@ removed 'log/if_chang_delay_4'
 1;#肥鹅 jd_4d651d9e48204: sign_res
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/d9362f287a96497d95eab5be94a7b604/prize/: 7
-[RUN] 明天签到 卡西欧手表官方旗舰店, 不会获取奖品. vender/shop_1614699361_0 --> vender/shop_1614699361_0_delay
-renamed 'vender/shop_1614699361_0' -> 'vender/shop_1614699361_0_delay'
-
+明天签到 卡西欧手表官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1614699361_0_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614699392_0
+chekc if chang delay vender/shop_1614699392_0_delay
 卡西欧手表官方旗舰店
 # 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
 
@@ -3537,12 +3530,10 @@ removed 'log/if_chang_delay_4'
 1;#肥鹅 jd_4d651d9e48204: sign_res
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/d9362f287a96497d95eab5be94a7b604/prize/: 7
-[RUN] 明天签到 卡西欧手表官方旗舰店, 不会获取奖品. vender/shop_1614699392_0 --> vender/shop_1614699392_0_delay
-renamed 'vender/shop_1614699392_0' -> 'vender/shop_1614699392_0_delay'
-
+明天签到 卡西欧手表官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1614699392_0_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614699456_0
+chekc if chang delay vender/shop_1614699456_0_delay
 卡西欧手表官方旗舰店
 # 活动时间：2021.03.01 00:00:00 - 2021.03.09 23:59:59
 
@@ -3604,9 +3595,7 @@ removed 'log/if_chang_delay_4'
 1;#赵 122294312-396444: sign_res
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/d9362f287a96497d95eab5be94a7b604/prize/: 7
-[RUN] 明天签到 卡西欧手表官方旗舰店, 不会获取奖品. vender/shop_1614699456_0 --> vender/shop_1614699456_0_delay
-renamed 'vender/shop_1614699456_0' -> 'vender/shop_1614699456_0_delay'
-
+明天签到 卡西欧手表官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1614699456_0_delay 不变.
 
 * * * * * * * *
 chekc if chang delay vender/shop_1614701195_0_delay
@@ -3945,7 +3934,7 @@ show shop/1d3600dcc13640c2bdb9b2c16f2b2132/prize/: 3 5 15 20 30
 明天签到 贝亲辅食尿裤京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1614776102_0_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1614776910_4_delay
+chekc if chang delay vender/shop_1614776910_4
 也买酒旗舰店
 # 活动时间：2021.03.01 15:00:00 - 2021.03.09 23:00:59
 
@@ -4007,11 +3996,10 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/96cbeea324214378940eca66394f4f92/prize/: 3 5 7
 
-vender/shop_1614776910_4_delay  
+vender/shop_1614776910_4  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [也买酒旗舰店] 的第 7 天，将要获取到奖品[ 5京豆 5京豆]
 
-[RUN] 明天立即执行. vender/shop_1614776910_4_delay --> vender/shop_1614776910_4
-renamed 'vender/shop_1614776910_4_delay' -> 'vender/shop_1614776910_4'
+明天立即执行. 不改名字 vender/shop_1614776910_4
 [SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1614776910_4
 
 
@@ -4167,7 +4155,7 @@ show shop/c1c6fc53d83f452ca837799ca814c27e/prize/: 7 14
 明天签到 科大讯飞京东自营旗舰店, 不会获取奖品, 保持文件名 vender/shop_1615124346_0_delay 不变.
 
 * * * * * * * *
-chekc if chang delay vender/shop_1615124735_0_delay
+chekc if chang delay vender/shop_1615124735_0
 3N京东自营旗舰店
 # 活动时间：2021.02.23 09:45:00 - 2021.03.10 09:39:59
 
@@ -4217,17 +4205,16 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/e2bd704c39974e21b20c0a1b4c7b0c8e/prize/: 1 3 7
 
-vender/shop_1615124735_0_delay  
+vender/shop_1615124735_0  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [3N京东自营旗舰店] 的第 3 天，将要获取到奖品[ 3京豆 3京豆]
 发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [3N京东自营旗舰店] 的第 1 天，将要获取到奖品[ 20积分 20积分]
 
-[RUN] 明天立即执行. vender/shop_1615124735_0_delay --> vender/shop_1615124735_0
-renamed 'vender/shop_1615124735_0_delay' -> 'vender/shop_1615124735_0'
+明天立即执行. 不改名字 vender/shop_1615124735_0
 [SHELL]|移动 jd_OeTNobRVGiNZ|vender/shop_1615124735_0
 
 
 * * * * * * * *
-chekc if chang delay vender/shop_1615125912_0_delay
+chekc if chang delay vender/shop_1615125912_0
 TOI京东自营旗舰店
 # 活动时间：2021.03.05 11:06:00 - 2021.03.31 23:19:59
 
@@ -4281,11 +4268,10 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/b7e55c6f38ec47f989dda76c32b49ac1/prize/: 3 5 7 15 20 25 29
 
-vender/shop_1615125912_0_delay  
+vender/shop_1615125912_0  
 发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [TOI京东自营旗舰店] 的第 3 天，将要获取到奖品[ 1京豆 1京豆]
 
-[RUN] 明天立即执行. vender/shop_1615125912_0_delay --> vender/shop_1615125912_0
-renamed 'vender/shop_1615125912_0_delay' -> 'vender/shop_1615125912_0'
+明天立即执行. 不改名字 vender/shop_1615125912_0
 [SHELL]|赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615125912_0
 
 
@@ -4444,6 +4430,298 @@ removed 'log/if_chang_delay_4'
 1;#移动 jd_OeTNobRVGiNZ: sign_res
 show shop/f990dd98c6204059b3c4578817c1b90a/prize/: 15
 明天签到 Ddrops海外京东自营专区, 不会获取奖品, 保持文件名 vender/shop_1615126735_0_delay 不变.
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615159310_0_delay
+欧莱雅官方旗舰店
+# 活动时间：2021.02.22 00:00:00 - 2021.03.08 23:59:59
+
+连续签到3天：15元优惠券
+连续签到8天：赠送欧莱雅防晒小套装
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#王 1309893722-164885: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/60d156d1f6874d88a449a22d6098ffa4/prize/: 3 8
+明天签到 欧莱雅官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1615159310_0_delay 不变.
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615210945_0_delay
+荣耀亲选官方旗舰店
+# 活动时间：2021.03.03 00:00:00 - 2021.04.30 23:59:59
+
+连续签到30天：10京豆 10京豆
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#王 1309893722-164885: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/83e5dc8a99b84c6b84e5813dbd86bd2e/prize/: 30
+明天签到 荣耀亲选官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1615210945_0_delay 不变.
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615211001_9_delay
+松达纸尿裤旗舰店
+# 活动时间：2021.03.04 08:55:00 - 2021.03.31 23:59:59
+
+连续签到7天：5京豆 5京豆
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [5积分]
+连续签到 1 天
+签到总天数 1
+
+#王 1309893722-164885: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [5积分]
+连续签到 1 天
+签到总天数 1
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [5积分]
+连续签到 1 天
+签到总天数 1
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/5a700f65b2f54d14bda5a7a03c4ff055/prize/: 7
+明天签到 松达纸尿裤旗舰店, 不会获取奖品, 保持文件名 vender/shop_1615211001_9_delay 不变.
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615211039_13_delay
+金士顿旗舰店
+# 活动时间：2021.03.04 00:00:00 - 2021.03.20 00:00:59
+
+连续签到1天：1京豆 1京豆
+连续签到3天：2京豆 2京豆
+连续签到5天：3京豆 3京豆
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [1京豆]
+连续签到 1 天
+签到总天数 1
+
+#王 1309893722-164885: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [1京豆]
+连续签到 1 天
+签到总天数 1
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [1京豆]
+连续签到 1 天
+签到总天数 1
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/e86853787ead4094b4e5189bf6d1223b/prize/: 1 3 5
+
+vender/shop_1615211039_13_delay  
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [金士顿旗舰店] 的第 1 天，将要获取到奖品[ 1京豆 1京豆]
+
+[RUN] 明天立即执行. vender/shop_1615211039_13_delay --> vender/shop_1615211039_13
+renamed 'vender/shop_1615211039_13_delay' -> 'vender/shop_1615211039_13'
+[SHELL]|移动 jd_OeTNobRVGiNZ|vender/shop_1615211039_13
+
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615211060_14_delay
+可优比官方旗舰店
+# 活动时间：2021.03.02 00:00:00 - 2021.03.08 23:59:59
+
+连续签到5天：10京豆 10京豆
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0
+
+#王 1309893722-164885: sign_res
+
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+1;#赵 122294312-396444: sign_res
+1;#王 1309893722-164885: sign_res
+1;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/5fd15f32251a4ac7baa00562211d762e/prize/: 5
+明天签到 可优比官方旗舰店, 不会获取奖品, 保持文件名 vender/shop_1615211060_14_delay 不变.
+
+* * * * * * * *
+chekc if chang delay vender/shop_1615211077_15_delay
+优赛电脑专营店
+# 活动时间：2021.03.03 12:12:00 - 2021.03.19 00:00:59
+
+连续签到7天：100京豆 100京豆
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#王 1309893722-164885: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#肥鹅 jd_4d651d9e48204: sign_res
+
+2021/03/08_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 1 天
+签到总天数 1
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/2cabce14e6bc42f38f6cc82dd100a03d/prize/: 7
+明天签到 优赛电脑专营店, 不会获取奖品, 保持文件名 vender/shop_1615211077_15_delay 不变.
 
 * * * * * * * *
 chekc if chang delay vender/yikaide_delay
@@ -4617,55 +4895,6 @@ lzkj_sevenDay_vender/shop_1614116411_129  https://lzkj-isv.isvjcloud.com/sign/se
 
 明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1614116411_129
 [SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614116411_129
-
-
-* * * * * * * *
-chekc if chang delay lzkj_sevenDay_vender/shop_1614611219_151
-安我（AND ALL）健康京东自营旗舰店
-# 活动时间：2021-02-19 16:27 - 2021-03-21 23:59；
-
-7天签到
-连续签到1天：1京豆
-连续签到2天：1京豆
-连续签到3天：3京豆
-连续签到4天：2京豆
-连续签到5天：2京豆
-连续签到6天：2京豆
-连续签到7天：5京豆
-
-removed 'log/if_chang_delay_1'
-removed 'log/if_chang_delay_2'
-removed 'log/if_chang_delay_3'
-removed 'log/if_chang_delay_4'
-
-#赵 122294312-396444: sign_res
-7天签到 第 5 天
-当天签到奖励 []
-
-#王 1309893722-164885: sign_res
-7天签到 第 5 天
-当天签到奖励 []
-
-#肥鹅 jd_4d651d9e48204: sign_res
-7天签到 第 5 天
-当天签到奖励 [null]
-
-#移动 jd_OeTNobRVGiNZ: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-6;#赵 122294312-396444: sign_res
-6;#王 1309893722-164885: sign_res
-6;#肥鹅 jd_4d651d9e48204: sign_res
-1;#移动 jd_OeTNobRVGiNZ: sign_res
-show shop/f63f0cc98d32422b8b6ac5b8a0aaec0e/prize/: 1 2 3 4 5 6 7
-
-lzkj_sevenDay_vender/shop_1614611219_151  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f63f0cc98d32422b8b6ac5b8a0aaec0e&venderId=1000351797
-发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [安我（AND ALL）健康京东自营旗舰店] 的第 6 天，将要获取到奖品[ 2京豆京豆 2京豆]
-发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [安我（AND ALL）健康京东自营旗舰店] 的第 1 天，将要获取到奖品[ 1京豆京豆 1京豆]
-
-明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1614611219_151
-[SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614611219_151
 
 
 * * * * * * * *
@@ -5054,53 +5283,6 @@ lzkj_sevenDay_vender/shop_1614776892_3  https://lzkj-isv.isvjcloud.com/sign/seve
 
 
 * * * * * * * *
-chekc if chang delay lzkj_sevenDay_vender/shop_1615123090_0_delay
-佳贝艾特京东自营官方旗舰店
-# 活动时间：2021-03-01 11:10 - 2021-03-31 23:06；
-
-7天签到
-连续签到1天：20元优惠券
-连续签到2天：80元优惠券
-连续签到3天：30店铺积分
-连续签到4天：50店铺积分
-连续签到5天：80店铺积分
-连续签到6天：2京豆
-连续签到7天：100元优惠券
-
-removed 'log/if_chang_delay_1'
-removed 'log/if_chang_delay_2'
-removed 'log/if_chang_delay_3'
-removed 'log/if_chang_delay_4'
-
-#赵 122294312-396444: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-#王 1309893722-164885: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-#肥鹅 jd_4d651d9e48204: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-#移动 jd_OeTNobRVGiNZ: sign_res
-7天签到 第 0 天
-当天签到奖励 []
-
-1;#赵 122294312-396444: sign_res
-1;#王 1309893722-164885: sign_res
-1;#肥鹅 jd_4d651d9e48204: sign_res
-1;#移动 jd_OeTNobRVGiNZ: sign_res
-show shop/3f6c151718844239b7be3ecca403cd70/prize/: 1 2 3 4 5 6 7
-
-lzkj_sevenDay_vender/shop_1615123090_0_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710&adsource=tg_storePage
-发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
-
-明天签到 佳贝艾特京东自营官方旗舰店, 虽然会获取奖品，但任务不用立即执行. 保持文件名 lzkj_sevenDay_vender/shop_1615123090_0_delay 不变.
-
-
-* * * * * * * *
 chekc if chang delay lzkj_sevenDay_vender/shop_1615126461_0
 零食码头自营专区
 # 活动时间：2021-02-25 14:30 - 2021-03-24 14:30；
@@ -5149,6 +5331,156 @@ lzkj_sevenDay_vender/shop_1615126461_0  https://lzkj-isv.isvjcloud.com/sign/seve
 [SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615126461_0
 
 
+* * * * * * * *
+chekc if chang delay lzkj_sevenDay_vender/shop_1615210965_1_delay
+COSORI厨房电器旗舰店
+# 活动时间：2021-02-22 09:39 - 2021-03-24 09:39；
+
+7天签到
+连续签到1天：20京豆
+连续签到2天：30京豆
+连续签到3天：20店铺积分
+连续签到4天：30店铺积分
+连续签到5天：40京豆
+连续签到6天：50京豆
+连续签到7天：5元京东E卡
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+7天签到 第 1 天
+当天签到奖励 [20京豆]
+
+#王 1309893722-164885: sign_res
+7天签到 第 1 天
+当天签到奖励 [20京豆]
+
+#肥鹅 jd_4d651d9e48204: sign_res
+7天签到 第 1 天
+当天签到奖励 [20京豆]
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+7天签到 第 0 天
+当天签到奖励 []
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/85869b82469347279fd272a3c2015d9f/prize/: 1 2 3 4 5 6 7
+
+lzkj_sevenDay_vender/shop_1615210965_1_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [COSORI厨房电器旗舰店] 的第 2 天，将要获取到奖品[ 30京豆京豆 30京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [COSORI厨房电器旗舰店] 的第 1 天，将要获取到奖品[ 20京豆京豆 20京豆]
+
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1615210965_1_delay --> lzkj_sevenDay_vender/shop_1615210965_1
+renamed 'lzkj_sevenDay_vender/shop_1615210965_1_delay' -> 'lzkj_sevenDay_vender/shop_1615210965_1'
+[SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210965_1
+
+
+* * * * * * * *
+chekc if chang delay lzkj_sevenDay_vender/shop_1615210984_8_delay
+滴露旗舰店
+# 活动时间：2021-03-04 10:00 - 2021-03-31 23:59；
+
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：1京豆
+连续签到3天：10元优惠券
+连续签到4天：1京豆
+连续签到5天：20元优惠券
+连续签到6天：1京豆
+连续签到7天：50元优惠券
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#王 1309893722-164885: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#肥鹅 jd_4d651d9e48204: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+7天签到 第 0 天
+当天签到奖励 []
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/13126645fcb2477fa1090a94cb7f3ca2/prize/: 1 2 3 4 5 6 7
+
+lzkj_sevenDay_vender/shop_1615210984_8_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [滴露旗舰店] 的第 2 天，将要获取到奖品[ 1京豆京豆 1京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [滴露旗舰店] 的第 1 天，将要获取到奖品[ 5元优惠券]
+
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1615210984_8_delay --> lzkj_sevenDay_vender/shop_1615210984_8
+renamed 'lzkj_sevenDay_vender/shop_1615210984_8_delay' -> 'lzkj_sevenDay_vender/shop_1615210984_8'
+[SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210984_8
+
+
+* * * * * * * *
+chekc if chang delay lzkj_sevenDay_vender/shop_1615211020_10_delay
+贝锐官方旗舰店
+# 活动时间：2021-03-08 11:04 - 2021-03-21 23:59；
+
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+
+removed 'log/if_chang_delay_1'
+removed 'log/if_chang_delay_2'
+removed 'log/if_chang_delay_3'
+removed 'log/if_chang_delay_4'
+
+#赵 122294312-396444: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#王 1309893722-164885: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#肥鹅 jd_4d651d9e48204: sign_res
+7天签到 第 1 天
+当天签到奖励 [5元优惠券]
+
+#移动 jd_OeTNobRVGiNZ: sign_res
+7天签到 第 0 天
+当天签到奖励 []
+
+2;#赵 122294312-396444: sign_res
+2;#王 1309893722-164885: sign_res
+2;#肥鹅 jd_4d651d9e48204: sign_res
+1;#移动 jd_OeTNobRVGiNZ: sign_res
+show shop/d38c2feeeed74723ac3c5700b78bb2af/prize/: 1 2 3 4 5 6 7
+
+lzkj_sevenDay_vender/shop_1615211020_10_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [贝锐官方旗舰店] 的第 2 天，将要获取到奖品[ 2京豆京豆 2京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [贝锐官方旗舰店] 的第 1 天，将要获取到奖品[ 5元优惠券]
+
+[RUN] 明天立即执行. lzkj_sevenDay_vender/shop_1615211020_10_delay --> lzkj_sevenDay_vender/shop_1615211020_10
+renamed 'lzkj_sevenDay_vender/shop_1615211020_10_delay' -> 'lzkj_sevenDay_vender/shop_1615211020_10'
+[SHELL]|移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615211020_10
+
+
 检查是否有签到失败的活动
 [sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
 签到 [泉林本色京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1613569740_34 活动链接
@@ -5157,11 +5489,6 @@ https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad76
 
 [sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1614116411_129
 签到 [安我（AND ALL）健康京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1614116411_129 活动链接
-https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f63f0cc98d32422b8b6ac5b8a0aaec0e&venderId=1000351797
-移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
-
-[sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1614611219_151
-签到 [安我（AND ALL）健康京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1614611219_151 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f63f0cc98d32422b8b6ac5b8a0aaec0e&venderId=1000351797
 移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
 
@@ -5205,20 +5532,24 @@ https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f064b1a32e
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=dc7d745e3f4d45e9ab7638d36fd43f32&venderId=1000001414&adsource=tg_storePage
 移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
 
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1615123090_0_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1615123090_0_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1615123090_0_delay
-[sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1615123090_0_delay
-签到 [佳贝艾特京东自营官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1615123090_0_delay 活动链接
-https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710&adsource=tg_storePage
-赵 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-王 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-肥鹅 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
-移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
-
 [sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1615126461_0
 签到 [零食码头自营专区] 店铺有问题 lzkj_sevenDay_vender/shop_1615126461_0 活动链接
 https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=bd6dbb94e12343d8b5034d64b0cd9ef6&venderId=1000304425
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1615210965_1
+签到 [COSORI厨房电器旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1615210965_1 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1615210984_8
+签到 [滴露旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1615210984_8 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|lzkj_sevenDay_vender/shop_1615211020_10
+签到 [贝锐官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1615211020_10 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323
 移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
 
 [sign fail] config_/config_04|vender/aoyouruye_delay
@@ -5330,6 +5661,36 @@ https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6311b018ecfa4319b37
 
 [sign fail] config_/config_04|vender/shop_1615126735_0_delay
 签到 [Ddrops海外京东自营专区] 店铺有问题 vender/shop_1615126735_0_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|vender/shop_1615159310_0_delay
+签到 [欧莱雅官方旗舰店] 店铺有问题 vender/shop_1615159310_0_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|vender/shop_1615210945_0_delay
+签到 [荣耀亲选官方旗舰店] 店铺有问题 vender/shop_1615210945_0_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|vender/shop_1615211001_9_delay
+签到 [松达纸尿裤旗舰店] 店铺有问题 vender/shop_1615211001_9_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|vender/shop_1615211039_13
+签到 [金士顿旗舰店] 店铺有问题 vender/shop_1615211039_13 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_01|vender/shop_1615211060_14_delay
+[sign fail] config_/config_02|vender/shop_1615211060_14_delay
+[sign fail] config_/config_03|vender/shop_1615211060_14_delay
+[sign fail] config_/config_04|vender/shop_1615211060_14_delay
+签到 [可优比官方旗舰店] 店铺有问题 vender/shop_1615211060_14_delay 活动链接
+赵 122294312-396444 签到失败: 20210308 -- > 只有该店铺的会员才能参加活动
+王 1309893722-164885 签到失败: 20210308 -- > 只有该店铺的会员才能参加活动
+肥鹅 jd_4d651d9e48204 签到失败: 20210308 -- > 只有该店铺的会员才能参加活动
+移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
+
+[sign fail] config_/config_04|vender/shop_1615211077_15_delay
+签到 [优赛电脑专营店] 店铺有问题 vender/shop_1615211077_15_delay 活动链接
 移动 jd_OeTNobRVGiNZ 签到失败: 20210308 -- > 
 
 [sign fail] config_/config_04|vender/yikaide_delay
@@ -5468,11 +5829,46 @@ https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=bd6dbb94e12
 #王 1309893722-164885 获得奖励: ""1京豆""
 #移动 jd_OeTNobRVGiNZ 获得奖励: ""1京豆""
 
+签到 [Keep食品京东自营旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1615158673_0_del 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=7860d17f2a9744aca23f5f8c0b292f5f&venderId=1000351221&adsource=tg_storePage
+#赵 122294312-396444 获得奖励: ""10店铺积分""
+#王 1309893722-164885 获得奖励: ""10店铺积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""10店铺积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""10店铺积分""
+
+签到 [偶爱你京东自营旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1615159017_0_del 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=84c56dc7d2f4462e8406c9fe2cf47217&venderId=1000353503
+#赵 122294312-396444 获得奖励: ""3店铺积分""
+#王 1309893722-164885 获得奖励: ""3店铺积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""3店铺积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""3店铺积分""
+
+签到 [COSORI厨房电器旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1615210965_1 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage
+#赵 122294312-396444 获得奖励: ""20京豆""
+#王 1309893722-164885 获得奖励: ""20京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""20京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""20京豆""
+
+签到 [滴露旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1615210984_8 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+#赵 122294312-396444 获得奖励: ""5元优惠券""
+#王 1309893722-164885 获得奖励: ""5元优惠券""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5元优惠券""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5元优惠券""
+
+签到 [贝锐官方旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1615211020_10 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=d38c2feeeed74723ac3c5700b78bb2af&venderId=736323
+#赵 122294312-396444 获得奖励: ""5元优惠券""
+#王 1309893722-164885 获得奖励: ""5元优惠券""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5元优惠券""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5元优惠券""
+
 签到 [初么（chume）京东自营旗舰店] 店铺获得奖励 vender/chume_jifen 活动链接
 #肥鹅 jd_4d651d9e48204 获得奖励: ""10积分""
 #赵 122294312-396444 获得奖励: ""10积分""
-#移动 jd_OeTNobRVGiNZ 获得奖励: ""10积分""
 #王 1309893722-164885 获得奖励: ""10积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""10积分""
 
 签到 [实丰文化京东自营旗舰店] 店铺获得奖励 vender/shifengwenhua_jifen 活动链接
 #赵 122294312-396444 获得奖励: ""10积分""
@@ -5553,6 +5949,24 @@ https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6311b018ecfa4319b37
 #肥鹅 jd_4d651d9e48204 获得奖励: ""1京豆""
 #移动 jd_OeTNobRVGiNZ 获得奖励: ""1京豆""
 
+签到 [PYROIL京东自营旗舰店] 店铺获得奖励 vender/shop_1615158890_0_del 活动链接
+#赵 122294312-396444 获得奖励: ""100积分""
+#王 1309893722-164885 获得奖励: ""100积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""100积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""100积分""
+
+签到 [松达纸尿裤旗舰店] 店铺获得奖励 vender/shop_1615211001_9_delay 活动链接
+#赵 122294312-396444 获得奖励: ""5积分""
+#王 1309893722-164885 获得奖励: ""5积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5积分""
+
+签到 [金士顿旗舰店] 店铺获得奖励 vender/shop_1615211039_13 活动链接
+#赵 122294312-396444 获得奖励: ""1京豆""
+#王 1309893722-164885 获得奖励: ""1京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""1京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""1京豆""
+
 
 h5签到总数 19
 
@@ -5564,9 +5978,9 @@ h5签到总数 19
 赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1614776910_4
 移动 jd_OeTNobRVGiNZ|vender/shop_1615124735_0
 赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615125912_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1615211039_13
 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614116411_129
-移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614611219_151
 赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614698288_0
 肥鹅 jd_4d651d9e48204; 赵 122294312-396444; 王 1309893722-164885; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614698669_0
 赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699061_0
@@ -5575,14 +5989,12 @@ h5签到总数 19
 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776867_1
 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776892_3
 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615126461_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210965_1
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210984_8
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615211020_10
 
 显示执行结束，不能再签到的任务
-[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1615123090_0_delay
-[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1615123090_0_delay
-[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1615123090_0_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1615123090_0_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1615123090_0_delay
-不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1615123090_0_delay
+
 
 替换成pt_pin后的任务
 config03|api_vender/shop_1614699996_0
@@ -5605,9 +6017,9 @@ config04|vender/shop_1615124735_0
 config01|vender/shop_1615125912_0
 config02|vender/shop_1615125912_0
 config03|vender/shop_1615125912_0
+config04|vender/shop_1615211039_13
 config04|lzkj_sevenDay_vender/shop_1613569740_34
 config04|lzkj_sevenDay_vender/shop_1614116411_129
-config04|lzkj_sevenDay_vender/shop_1614611219_151
 config01|lzkj_sevenDay_vender/shop_1614698288_0
 config02|lzkj_sevenDay_vender/shop_1614698288_0
 config03|lzkj_sevenDay_vender/shop_1614698288_0
@@ -5631,6 +6043,9 @@ config04|lzkj_sevenDay_vender/shop_1614699841_0
 config04|lzkj_sevenDay_vender/shop_1614776867_1
 config04|lzkj_sevenDay_vender/shop_1614776892_3
 config04|lzkj_sevenDay_vender/shop_1615126461_0
+config04|lzkj_sevenDay_vender/shop_1615210965_1
+config04|lzkj_sevenDay_vender/shop_1615210984_8
+config04|lzkj_sevenDay_vender/shop_1615211020_10
 
 合并后的立即执行的任务
 config2|api_vender/shop_1614699996_0
@@ -5639,7 +6054,6 @@ config2|api_vender/shop_1615124854_0
 config|api_vender/shop_1615124854_0
 config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
 config_/config_04|lzkj_sevenDay_vender/shop_1614116411_129
-config_/config_04|lzkj_sevenDay_vender/shop_1614611219_151
 config_/config_01|lzkj_sevenDay_vender/shop_1614698288_0
 config_/config_02|lzkj_sevenDay_vender/shop_1614698288_0
 config_/config_03|lzkj_sevenDay_vender/shop_1614698288_0
@@ -5663,6 +6077,9 @@ config_/config_04|lzkj_sevenDay_vender/shop_1614699841_0
 config_/config_04|lzkj_sevenDay_vender/shop_1614776867_1
 config_/config_04|lzkj_sevenDay_vender/shop_1614776892_3
 config_/config_04|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_04|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_04|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_04|lzkj_sevenDay_vender/shop_1615211020_10
 config_/config_01|vender/shop_1614116236_75
 config_/config_02|vender/shop_1614116236_75
 config_/config_03|vender/shop_1614116236_75
@@ -5676,6 +6093,7 @@ config_/config_04|vender/shop_1615124735_0
 config_/config_01|vender/shop_1615125912_0
 config_/config_02|vender/shop_1615125912_0
 config_/config_03|vender/shop_1615125912_0
+config_/config_04|vender/shop_1615211039_13
 
 延迟执行的任务
 config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
@@ -5684,9 +6102,6 @@ config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
 config_/config_01|lzkj_sevenDay_vender/shop_1614116411_129
 config_/config_02|lzkj_sevenDay_vender/shop_1614116411_129
 config_/config_03|lzkj_sevenDay_vender/shop_1614116411_129
-config_/config_01|lzkj_sevenDay_vender/shop_1614611219_151
-config_/config_02|lzkj_sevenDay_vender/shop_1614611219_151
-config_/config_03|lzkj_sevenDay_vender/shop_1614611219_151
 config_/config_01|lzkj_sevenDay_vender/shop_1614776867_1
 config_/config_02|lzkj_sevenDay_vender/shop_1614776867_1
 config_/config_03|lzkj_sevenDay_vender/shop_1614776867_1
@@ -5696,6 +6111,15 @@ config_/config_03|lzkj_sevenDay_vender/shop_1614776892_3
 config_/config_01|lzkj_sevenDay_vender/shop_1615126461_0
 config_/config_02|lzkj_sevenDay_vender/shop_1615126461_0
 config_/config_03|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_01|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_02|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_03|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_01|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_02|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_03|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_01|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_02|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_03|lzkj_sevenDay_vender/shop_1615211020_10
 config_/config_04|vender/shop_1614116236_75
 config_/config_04|vender/shop_1614611215_136
 config_/config_04|vender/shop_1614776910_4
@@ -5703,6 +6127,9 @@ config_/config_01|vender/shop_1615124735_0
 config_/config_02|vender/shop_1615124735_0
 config_/config_03|vender/shop_1615124735_0
 config_/config_04|vender/shop_1615125912_0
+config_/config_01|vender/shop_1615211039_13
+config_/config_02|vender/shop_1615211039_13
+config_/config_03|vender/shop_1615211039_13
 
 show run_shell.sh
 if [ "$2" = "precise" ]; then
@@ -5735,76 +6162,82 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config
 date +"%x %X %N %s"
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 30 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614116411_129_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614611219_151 35 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614611219_151_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698288_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698288_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698288_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698288_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698288_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698288_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698288_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698288_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698288_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699841_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699841_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699841_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699841_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699841_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699841_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699841_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699841_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699841_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 45 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776867_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776867_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776892_3 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776892_3_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776892_3 10 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776892_3_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615126461_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615126461_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615126461_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615126461_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210965_1 15 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615210965_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614116236_75 20 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614116236_75_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210984_8 20 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615210984_8_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614116236_75 25 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614116236_75_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615211020_10 25 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615211020_10_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614116236_75 30 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614116236_75_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614116236_75 30 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614116236_75_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614611215_136 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614611215_136_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614116236_75 35 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614116236_75_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614611215_136 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614611215_136_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614116236_75 40 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614116236_75_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614611215_136 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614611215_136_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614611215_136 45 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614611215_136_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614776910_4 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614776910_4_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614611215_136 5 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614611215_136_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614776910_4 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614776910_4_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614611215_136 10 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614611215_136_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614776910_4 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614776910_4_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614776910_4 15 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614776910_4_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615124735_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615124735_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614776910_4 20 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614776910_4_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615125912_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615125912_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614776910_4 25 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614776910_4_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615125912_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615125912_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615124735_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615124735_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615125912_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615125912_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615125912_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615125912_0_${log_f}.log 2>&1 &
+date +"%x %X %N %s"
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615125912_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615125912_0_${log_f}.log 2>&1 &
+date +"%x %X %N %s"
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615125912_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615125912_0_${log_f}.log 2>&1 &
+date +"%x %X %N %s"
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615211039_13 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615211039_13_${log_f}.log 2>&1 &

@@ -1,0 +1,23 @@
+#店铺名称
+vendername="Onitsuka Tiger官方旗舰店"
+#店铺激活码
+actId="ca0ddf8da9fa4d2b99c3f53dadbd0307"
+#店铺id
+venderId="42602"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=ca0ddf8da9fa4d2b99c3f53dadbd0307&venderId=42602"
+
+startTime=1614235440
+endTime=1615219140
+# 活动时间：2021-02-25 14:44 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：
+连续签到2天：50店铺积分
+连续签到3天：
+连续签到4天：20元优惠券
+连续签到5天：
+连续签到6天：
+连续签到7天：200元实物
+"

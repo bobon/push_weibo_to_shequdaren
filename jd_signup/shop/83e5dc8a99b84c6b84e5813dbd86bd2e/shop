@@ -1,0 +1,16 @@
+actId=83e5dc8a99b84c6b84e5813dbd86bd2e
+venderId=10388537
+startTime=1614700800000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/1017-qBZe"
+actTimeStr="2021-03-03 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="荣耀亲选官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=83e5dc8a99b84c6b84e5813dbd86bd2e&venderId=10388537&adsource=tg_storePage
+# 活动时间：2021.03.03 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到30天：10京豆 10京豆
+"

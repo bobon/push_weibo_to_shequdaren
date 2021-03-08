@@ -163,32 +163,42 @@ filer_venderId_from_shop() {
 
 
 sign_list() {
-	rm -rvf log/batch_parse_find_new_vender.tmp
-	if [ "$2" = one ]; then
-		for s_f in $(cat $1 | sed -n 1p); do
-			if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
-				bash parse.sh "$s_f" batch_pro -f
-			else
-				bash parse.sh "$s_f" batch_pro -f || true
-			fi
-		done
-	else
-		for s_f in $(cat $1); do
-			if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
-				bash parse.sh "$s_f" batch_pro -f
-			else
-				bash parse.sh "$s_f" batch_pro -f || true
-			fi
-			sleep 2
-		done
-	fi	
-	unset s_f
+	if true; then
+		rm -rvf log/batch_parse_find_new_vender.tmp
+		if [ "$2" = one ]; then
+			for s_f in $(cat $1 | sed -n 1p); do
+				if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
+					bash parse.sh "$s_f" batch_pro -f
+				else
+					bash parse.sh "$s_f" batch_pro -f || true
+				fi
+			done
+		else
+			for s_f in $(cat $1); do
+				echo "sign $s_f"
+				if [ $(echo "$s_f" | egrep 'isv.isvjcloud.com'>/dev/null;echo $?) -eq 0 ]; then
+					bash parse.sh "$s_f" batch_pro -f || true
+				else
+					bash parse.sh "$s_f" batch_pro -f || true
+				fi
+				sleep 2
+			done
+		fi	
+		unset s_f
 	
-	if [ -f "log/batch_parse_find_new_vender.tmp" ]; then
+		for kut in $(cat log/batch_parse_find_new_vender.tmp); do
+			if [ -f "$kut/shop" ]; then
+				grep '豆' $kut/shop >/dev/null && echo $kut || true
+			fi
+		done >log/batch_parse_find_new_vender.tmp2
+		unset kut
+	fi
+	
+	if [ -f "log/batch_parse_find_new_vender.tmp2" ]; then
 		new_s=""
 		num=0
-		for s_f in $(cat log/batch_parse_find_new_vender.tmp); do
-			key=$(echo "$s_f" | sed -r -e 's,shop/,,')
+		for s_f in $(cat log/batch_parse_find_new_vender.tmp2); do
+			key=$(echo "$s_f" | cut -d '/' -f 2)
 			echo "process $key"
 			kt=$s_f/shop
 			if [ ! -f "$kt" ]; then continue; fi
@@ -366,4 +376,5 @@ for i in $(grep -r 'shopId:' shop/ | sed -r -e 's,.*shopId: ,,' -e "s,',,g" -e '
 	curl -sS -k https://shop.m.jd.com/?shopId=$i | egrep '/sign/sevenDay/signActivity|/sign/signActivity|/babelDiy/Zeus/'
 done | sed -r -e 's,.*https,https,' -e 's,"\,$,,' -e 's,"$,,' | sort | uniq > sign_list
 ./search.sh sign_list one  ## 一行行执行
-
+./search.sh sign_list  ## 修正sign_list后，批量执行
+./sign_res_check.sh  # 检查sign_list是否有签到失败

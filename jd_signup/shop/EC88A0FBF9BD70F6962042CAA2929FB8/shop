@@ -1,0 +1,20 @@
+# 短链接
+suo_url=""
+venderId=10366118
+startTime=1614528000000
+endTime=1617119999000
+activityId=10276731
+token=EC88A0FBF9BD70F6962042CAA2929FB8
+#店铺名称
+vendername="费卡华瑞旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=EC88A0FBF9BD70F6962042CAA2929FB8
+# 活动时间：2021.03.01 00:00:00 - 2021.03.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：2店铺积分
+连续签到5天：3店铺积分
+连续签到10天：8店铺积分
+连续签到15天：12店铺积分
+连续签到20天：20店铺积分
+"

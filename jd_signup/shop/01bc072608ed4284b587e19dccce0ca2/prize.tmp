@@ -1,0 +1,7 @@
+days=1;discount="订单满30赠送";giftName="订单满30赠送";p_type=7
+days=2;discount="定向专享减10元";giftName="定向专享减10元";p_type=8
+days=3;discount="满1500元联系客服";giftName="满1500元联系客服";p_type=7
+days=4;discount="";giftName="";p_type=
+days=5;discount="定向专享减5元";giftName="定向专享减5元";p_type=8
+days=6;discount="满2000元联系客服";giftName="满2000元联系客服";p_type=7
+days=7;discount="50元优惠券";giftName="50元优惠券";p_type=1

@@ -1,0 +1,23 @@
+#店铺名称
+vendername="月芽儿女鞋旗舰店"
+#店铺激活码
+actId="63c66ccd89af450aa73a5ca40b5cc108"
+#店铺id
+venderId="10103884"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=63c66ccd89af450aa73a5ca40b5cc108&venderId=10103884&adsource=tg_storePage"
+
+startTime=1614528000
+endTime=1615219140
+# 活动时间：2021-03-01 00:00 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：
+连续签到2天：
+连续签到3天：50元优惠券
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：50元优惠券
+"

@@ -1,0 +1,4 @@
+level=1;days=1;p_type=9;discount=5;giftName="5积分"
+level=3;days=3;p_type=9;discount=15;giftName="15积分"
+level=7;days=7;p_type=7;discount=369;giftName="指定衬衫享8折礼券"
+level=15;days=15;p_type=7;discount=369;giftName="指定衬衫享7折礼券"

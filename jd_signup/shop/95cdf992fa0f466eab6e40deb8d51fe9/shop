@@ -1,0 +1,19 @@
+actId=95cdf992fa0f466eab6e40deb8d51fe9
+venderId=28957
+startTime=1609746420000
+endTime=1640936879000
+# 短链接
+suo_url="https://3.cn/100Kig-yp"
+actTimeStr="2021-01-04 15:47 至 2021-12-31 15:47"
+#店铺名称
+vendername="益智谷玩具"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=95cdf992fa0f466eab6e40deb8d51fe9&venderId=28957&adsource=tg_storePage
+# 活动时间：2021.01.04 15:47:00 - 2021.12.31 15:47:59
+# 奖励说明：
+actRule="
+连续签到7天：20积分 20积分
+连续签到30天：50积分 50积分
+连续签到66天：小狗不倒翁
+连续签到132天：赠送39元实物
+"

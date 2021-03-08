@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=10584855
+startTime=1614960000000
+endTime=1617551999000
+activityId=10289837
+token=A0287665FA8F233E7162CAB5D0ABDFC0
+#店铺名称
+vendername="海底捞官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=A0287665FA8F233E7162CAB5D0ABDFC0
+# 活动时间：2021.03.06 00:00:00 - 2021.04.04 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到7天：5店铺积分
+"

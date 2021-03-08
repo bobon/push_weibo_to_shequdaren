@@ -1,0 +1,23 @@
+#店铺名称
+vendername="茂盛酒城官方旗舰店"
+#店铺激活码
+actId="e0a515483ddb4a60ac66c123e2ac80c9"
+#店铺id
+venderId="79116"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=e0a515483ddb4a60ac66c123e2ac80c9&venderId=79116&adsource=tg_storePage"
+
+startTime=1614130500
+endTime=1616945700
+# 活动时间：2021-02-24 09:35 - 2021-03-28 23:35；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：250元优惠券
+连续签到2天：
+连续签到3天：
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：250元优惠券
+"

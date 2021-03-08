@@ -1,0 +1,23 @@
+#店铺名称
+vendername="PEDRO旗舰店"
+#店铺激活码
+actId="0785c0c0b5844ff7b26702f7e0971b97"
+#店铺id
+venderId="10051136"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=0785c0c0b5844ff7b26702f7e0971b97&venderId=10051136"
+
+startTime=1613791740
+endTime=1615219140
+# 活动时间：2021-02-20 11:29 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50店铺积分
+连续签到2天：20元优惠券
+连续签到3天：40元优惠券
+连续签到4天：50店铺积分
+连续签到5天：60元优惠券
+连续签到6天：50店铺积分
+连续签到7天：120元优惠券
+"

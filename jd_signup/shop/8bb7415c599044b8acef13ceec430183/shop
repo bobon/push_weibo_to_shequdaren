@@ -1,0 +1,20 @@
+actId=8bb7415c599044b8acef13ceec430183
+venderId=10102806
+startTime=1614839820000
+endTime=1617206459000
+# 短链接
+suo_url="https://3.cn/1018oPc-V"
+actTimeStr="2021-03-04 14:37 至 2021-04-01 00:00"
+#店铺名称
+vendername="小米有品生活电器官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=8bb7415c599044b8acef13ceec430183&venderId=10102806
+# 活动时间：2021.03.04 14:37:00 - 2021.04.01 00:00:59
+# 奖励说明：
+actRule="
+连续签到3天：30积分 30积分
+连续签到5天：10元优惠券
+连续签到7天：20元优惠券
+连续签到9天：赠送指环
+连续签到12天：赠送冉物智能防丢器青春版
+"

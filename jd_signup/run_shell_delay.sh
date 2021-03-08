@@ -266,23 +266,17 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp_dingzhi.sh /home/myid/jd/jd_signup/
 
 ## add by sign_res_check.sh
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 40 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 10 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1613569740_34_${log_f}.log 2>&1 &
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 45 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 15 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1613569740_34_${log_f}.log 2>&1 &
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 5 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 20 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1613569740_34_${log_f}.log 2>&1 &
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 10 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1614116411_129_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 25 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1614116411_129_${log_f}.log 2>&1 &
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 15 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1614116411_129_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 30 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1614116411_129_${log_f}.log 2>&1 &
 sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 20 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1614116411_129_${log_f}.log 2>&1 &
-sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614611219_151 25 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1614611219_151_${log_f}.log 2>&1 &
-sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614611219_151 30 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1614611219_151_${log_f}.log 2>&1 &
-sleep 1
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614611219_151 35 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1614611219_151_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614116411_129 35 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1614116411_129_${log_f}.log 2>&1 &
 sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 40 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1614776867_1_${log_f}.log 2>&1 &
 sleep 1
@@ -302,6 +296,24 @@ bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config
 sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615126461_0 35 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615126461_0_${log_f}.log 2>&1 &
 sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210965_1 40 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1615210965_1_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210965_1 45 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1615210965_1_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210965_1 5 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615210965_1_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210984_8 10 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1615210984_8_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210984_8 15 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1615210984_8_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615210984_8 20 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615210984_8_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615211020_10 25 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1615211020_10_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615211020_10 30 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1615211020_10_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615211020_10 35 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615211020_10_${log_f}.log 2>&1 &
+sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1614116236_75 40 $1 > /home/myid/jd/jd_signup/log/delay/config_04_shop_1614116236_75_${log_f}.log 2>&1 &
 sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1614611215_136 45 $1 > /home/myid/jd/jd_signup/log/delay/config_04_shop_1614611215_136_${log_f}.log 2>&1 &
@@ -315,3 +327,9 @@ sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615124735_0 20 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615124735_0_${log_f}.log 2>&1 &
 sleep 1
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615125912_0 25 $1 > /home/myid/jd/jd_signup/log/delay/config_04_shop_1615125912_0_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615211039_13 30 $1 > /home/myid/jd/jd_signup/log/delay/config_01_shop_1615211039_13_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615211039_13 35 $1 > /home/myid/jd/jd_signup/log/delay/config_02_shop_1615211039_13_${log_f}.log 2>&1 &
+sleep 1
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615211039_13 40 $1 > /home/myid/jd/jd_signup/log/delay/config_03_shop_1615211039_13_${log_f}.log 2>&1 &

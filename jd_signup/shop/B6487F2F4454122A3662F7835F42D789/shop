@@ -1,0 +1,20 @@
+# 短链接
+suo_url=""
+venderId=20922
+startTime=1614614400000
+endTime=1617206399000
+activityId=10283145
+token=B6487F2F4454122A3662F7835F42D789
+#店铺名称
+vendername="丸美官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=B6487F2F4454122A3662F7835F42D789
+# 活动时间：2021.03.02 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：5店铺积分
+连续签到2天：10店铺积分
+连续签到3天：30店铺积分
+连续签到4天：50店铺积分
+连续签到5天：100店铺积分
+"

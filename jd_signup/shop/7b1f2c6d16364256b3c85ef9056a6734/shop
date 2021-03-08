@@ -1,0 +1,23 @@
+#店铺名称
+vendername="自然堂官方旗舰店"
+#店铺激活码
+actId="7b1f2c6d16364256b3c85ef9056a6734"
+#店铺id
+venderId="60328"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=7b1f2c6d16364256b3c85ef9056a6734&venderId=60328&adsource=tg_storePage"
+
+startTime=1614650400
+endTime=1615219140
+# 活动时间：2021-03-02 10:00 - 2021-03-08 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50店铺积分
+连续签到2天：50店铺积分
+连续签到3天：50店铺积分
+连续签到4天：50店铺积分
+连续签到5天：100店铺积分
+连续签到6天：100店铺积分
+连续签到7天：100店铺积分
+"

@@ -1,0 +1,16 @@
+actId=5fd15f32251a4ac7baa00562211d762e
+venderId=804200
+startTime=1614614400000
+endTime=1615219199000
+# 短链接
+suo_url="https://3.cn/1-015wiEM"
+actTimeStr="2021-03-02 00:00 至 2021-03-08 23:59"
+#店铺名称
+vendername="可优比官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=5fd15f32251a4ac7baa00562211d762e&venderId=804200
+# 活动时间：2021.03.02 00:00:00 - 2021.03.08 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：10京豆 10京豆
+"

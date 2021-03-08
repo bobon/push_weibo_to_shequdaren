@@ -1,0 +1,5 @@
+level=3;days=3;p_type=9;discount=30;giftName="30积分"
+level=5;days=5;p_type=1;discount=10;giftName="10元优惠券"
+level=7;days=7;p_type=1;discount=20;giftName="20元优惠券"
+level=9;days=9;p_type=7;discount=19.9;giftName="指环"
+level=12;days=12;p_type=7;discount=49;giftName="冉物智能防丢器青春版"
