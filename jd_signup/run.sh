@@ -210,5 +210,7 @@ if [ "$1" = "clean" ]; then
 	ls -lah delay
 	ls -lah now
 	find /home/myid/jd/jd_signup/log -name log_*.zip | sort -r | sed -r -n '7,$p' | xargs -i rm -rvf {}
+	find /home/myid/jd/jd_signup/log -name 'sendNotify_*.log' | sort -r | sed -r -n '10,$p' | xargs -i rm -rvf {}
+	find /home/myid/jd/jd_signup/log -name 'common_*.log' | sort -r | sed -r -n '10,$p' | xargs -i rm -rvf {}
 fi
 
