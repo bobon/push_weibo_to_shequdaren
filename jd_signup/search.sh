@@ -299,6 +299,7 @@ elif [ "$1" = "flush" ]; then
 		cp -rvf log/sign.tmp log/sign.tmp.bak_$(date +%s)
 	fi
 	rm -rvf log/sign.tmp
+	find /home/myid/jd/jd_signup/log -name 'sign.tmp.bak_*' | sort -r | sed -r -n '7,$p' | xargs -i rm -rvf {}
 	check_sign /home/myid/all_shop.tmp
 	cat log/sign.tmp | sort | uniq > log/shop2.tmp
 	mv -vf log/shop2.tmp log/sign.tmp
