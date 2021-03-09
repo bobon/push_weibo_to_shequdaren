@@ -1,0 +1,65 @@
+03/10/21 02:05:15 339258900  1615313115
+RANDOM_num: 25
+removed '/tmp/tmp.3VzRia7isj'
+03/10/21 02:05:15 435618800  1615313115
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210310
+***********************************************
+7天签到 第 4 天
+当天签到奖励 [1京豆]
+***********************************************
+
+#店铺名称
+vendername="零食码头自营专区"
+#店铺激活码
+actId="bd6dbb94e12343d8b5034d64b0cd9ef6"
+#店铺id
+venderId="1000304425"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=bd6dbb94e12343d8b5034d64b0cd9ef6&venderId=1000304425"
+
+startTime=1614234600
+endTime=1616567400
+# 活动时间：2021-02-25 14:30 - 2021-03-24 14:30；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：1京豆
+连续签到4天：1京豆
+连续签到5天：1京豆
+连续签到6天：1京豆
+连续签到7天：5京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210310"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="4"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210310"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["1京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="4"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210310"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["1京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="4"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210310"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["1京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

@@ -19,50 +19,56 @@ actRule="
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1615161600;signed=2
-signTime=1615248000;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName="null"
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""2京豆""
 giftRes="ok"
-giftDate="20210309"
+giftDate="20210310"
 sign_res_info="
 2021/03/08_08:00:00  [已~签~到]      
 2021/03/09_08:00:00  [已~签~到]      
-当天签到奖励 [null]
-连续签到 2 天
-签到总天数 2"
+2021/03/10_08:00:00  [已~签~到]      
+当天签到奖励 ["2京豆"]
+连续签到 3 天
+签到总天数 3"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1615161600;signed=2
-signTime=1615248000;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName="null"
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""2京豆""
 giftRes="ok"
-giftDate="20210309"
+giftDate="20210310"
 sign_res_info="
 2021/03/08_08:00:00  [已~签~到]      
 2021/03/09_08:00:00  [已~签~到]      
-当天签到奖励 [null]
-连续签到 2 天
-签到总天数 2"
+2021/03/10_08:00:00  [已~签~到]      
+当天签到奖励 ["2京豆"]
+连续签到 3 天
+签到总天数 3"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1615161600;signed=2
-signTime=1615248000;signed=2"
-sign_num="2"
-sign_total_num="2"
-giftName="null"
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""2京豆""
 giftRes="ok"
-giftDate="20210309"
+giftDate="20210310"
 sign_res_info="
 2021/03/08_08:00:00  [已~签~到]      
 2021/03/09_08:00:00  [已~签~到]      
-当天签到奖励 [null]
-连续签到 2 天
-签到总天数 2"
+2021/03/10_08:00:00  [已~签~到]      
+当天签到奖励 ["2京豆"]
+连续签到 3 天
+签到总天数 3"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
@@ -71,7 +77,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210309"
+giftDate="20210310"
 sign_res_info="
 
 当天签到奖励 []

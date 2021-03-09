@@ -615,3 +615,112 @@ config_/config_03|vender/shop_1615211039_13
 * * * * * * * * * * * * * * * * * *
 记录时刻 20210309_093601_228417500
 
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210309_234003_873837500
+
+
+显示立即执行的任务
+肥鹅 jd_4d651d9e48204; 赵 122294312-396444|vender/aoyouruye
+移动 jd_OeTNobRVGiNZ|vender/shop_1615211039_13
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614116411_129
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614698669_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699061_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699101_0
+肥鹅 jd_4d651d9e48204; 赵 122294312-396444; 王 1309893722-164885; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699841_0
+肥鹅 jd_4d651d9e48204; 赵 122294312-396444; 王 1309893722-164885; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776867_1
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776892_3
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615126461_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210965_1
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615211020_10
+
+显示执行结束，不能再签到的任务
+[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1614699841_0
+[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1614699841_0
+[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1614699841_0
+不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1614699841_0
+不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1614699841_0
+不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1614699841_0
+
+替换成pt_pin后的任务
+config03|vender/aoyouruye
+config01|vender/aoyouruye
+config04|vender/shop_1615211039_13
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1614116411_129
+config04|lzkj_sevenDay_vender/shop_1614698669_0
+config04|lzkj_sevenDay_vender/shop_1614699061_0
+config04|lzkj_sevenDay_vender/shop_1614699101_0
+config03|lzkj_sevenDay_vender/shop_1614699841_0
+config01|lzkj_sevenDay_vender/shop_1614699841_0
+config02|lzkj_sevenDay_vender/shop_1614699841_0
+config04|lzkj_sevenDay_vender/shop_1614699841_0
+config03|lzkj_sevenDay_vender/shop_1614776867_1
+config01|lzkj_sevenDay_vender/shop_1614776867_1
+config02|lzkj_sevenDay_vender/shop_1614776867_1
+config04|lzkj_sevenDay_vender/shop_1614776867_1
+config01|lzkj_sevenDay_vender/shop_1614776892_3
+config02|lzkj_sevenDay_vender/shop_1614776892_3
+config03|lzkj_sevenDay_vender/shop_1614776892_3
+config04|lzkj_sevenDay_vender/shop_1614776892_3
+config04|lzkj_sevenDay_vender/shop_1615126461_0
+config04|lzkj_sevenDay_vender/shop_1615210965_1
+config04|lzkj_sevenDay_vender/shop_1615211020_10
+
+合并后的立即执行的任务
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_04|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699841_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699841_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699841_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699841_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_02|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_03|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_04|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_01|lzkj_sevenDay_vender/shop_1614776892_3
+config_/config_02|lzkj_sevenDay_vender/shop_1614776892_3
+config_/config_03|lzkj_sevenDay_vender/shop_1614776892_3
+config_/config_04|lzkj_sevenDay_vender/shop_1614776892_3
+config_/config_04|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_04|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_04|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/shop_1615211039_13
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_02|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_03|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_01|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_01|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_02|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_03|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_01|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_02|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_03|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_01|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_02|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_03|lzkj_sevenDay_vender/shop_1615211020_10
+config_/config_02|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+config_/config_01|vender/shop_1615211039_13
+config_/config_02|vender/shop_1615211039_13
+config_/config_03|vender/shop_1615211039_13
