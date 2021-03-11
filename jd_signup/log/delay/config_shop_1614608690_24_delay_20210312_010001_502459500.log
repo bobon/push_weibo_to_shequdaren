@@ -1,0 +1,261 @@
+03/12/21 01:04:42 986439600  1615482282
+RANDOM_num: 25
+removed '/tmp/tmp.CWkKHRafmS'
+03/12/21 01:04:43 081425000  1615482283 检查122294312-396444签到
+removed '/tmp/tmp.evCg4bJvnq'
+03/12/21 01:04:43 162220400  1615482283 检查1309893722-164885签到
+
+03/12/21 01:04:43 211601800  1615482283 赵签到寅书母婴官方旗舰店
+
+real	0m0.219s
+user	0m0.000s
+sys	0m0.078s
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":1.00,"type":4,"number":10000,"budgetNum":10000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+03/12/21 01:04:43 506426600  1615482283 王签到寅书母婴官方旗舰店
+
+real	0m0.206s
+user	0m0.000s
+sys	0m0.078s
+{"code":200,"data":[{"level":0,"prizeList":[{"discount":1.00,"type":4,"number":10000,"budgetNum":10000,"userPirzeStatus":2,"class":"com.jd.interact.center.client.api.user.domain.InteractUserPrize","status":2}],"signType":0,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignInteractUserPrizeRule","userPrizeRuleStatus":2}],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+03/12/21 01:04:43 815491600 1615482283
+03/12/21 01:04:43 829506400 1615482283 签到寅书母婴官方旗舰店完成
+
+03/12/21 01:05:08 924161100  1615482308
+赵签到寅书母婴官方旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励1,type=4;
+
+***********************************************
+2021/03/01_22:35:08  2    [已~签~到]
+2021/03/02_01:08:24  2    [已~签~到]
+2021/03/03_00:00:00  2    [已~签~到]
+2021/03/04_01:14:53  2    [已~签~到]
+2021/03/05_01:07:46  2    [已~签~到]
+2021/03/06_01:06:07  2    [已~签~到]
+2021/03/07_01:07:50  2    [已~签~到]
+2021/03/08_01:06:22  2    [已~签~到]
+2021/03/09_01:06:22  2    [已~签~到]
+2021/03/10_01:07:15  2    [已~签~到]
+2021/03/11_01:06:08  2    [已~签~到]
+2021/03/12_01:04:43  1    [已~签~到]
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=4;]
+已签到 12 天
+***********************************************
+
+王签到寅书母婴官方旗舰店查看结果
+200
+首次签到成功. 写入giftName: 奖励1,type=4;
+
+***********************************************
+2021/03/01_22:35:08  2    [已~签~到]
+2021/03/02_01:08:24  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_01:14:54  2    [已~签~到]
+2021/03/05_01:07:46  2    [已~签~到]
+2021/03/06_01:06:07  2    [已~签~到]
+2021/03/07_01:07:50  2    [已~签~到]
+2021/03/08_01:06:23  2    [已~签~到]
+2021/03/09_01:06:22  2    [已~签~到]
+2021/03/10_01:07:15  2    [已~签~到]
+2021/03/11_01:06:08  2    [已~签~到]
+2021/03/12_01:04:43  1    [已~签~到]
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=4;]
+已签到 12 天
+***********************************************
+
+
+
+赵签到寅书母婴官方旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1614609308197,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614618504435,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614700800248,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614791693872,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614877666054,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1614963967687,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615050470369,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615136782959,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615223182215,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615309635057,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615395968056,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615482283345,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615564800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615651200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1615737600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":12,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 12
+}
+王签到寅书母婴官方旗舰店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1614609308581,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614618504733,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614700801741,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614791694214,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614877666357,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1614963967951,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1615050470667,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1615136783256,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1615223182550,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1615309635317,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1615395968336,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1615482283632,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615564800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615651200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1615737600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":12,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 12
+}
+# 短链接
+suo_url=""
+venderId=10424407
+startTime=1614528000000
+endTime=1615823999000
+activityId=10281456
+token=9E16AF6539DB0BDFE6ED00656ECD0B08
+#店铺名称
+vendername="寅书母婴官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=9E16AF6539DB0BDFE6ED00656ECD0B08
+# 活动时间：2021.03.01 00:00:00 - 2021.03.15 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1京豆
+连续签到3天：2京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614609317;signed=2;currentDay=2
+signTime=1614618518;signed=2;currentDay=2
+signTime=1614700800;signed=2;currentDay=2
+signTime=1614787201;signed=2;currentDay=2
+signTime=1614877694;signed=2;currentDay=2
+signTime=1614964011;signed=2;currentDay=2
+signTime=1615050519;signed=2;currentDay=2
+signTime=1615136831;signed=2;currentDay=2
+signTime=1615223211;signed=2;currentDay=2
+signTime=1615309683;signed=2;currentDay=2
+signTime=1615395981;signed=2;currentDay=1
+signTime=1615478400;signed=1;currentDay=3
+signTime=1615564800;signed=1;currentDay=3
+signTime=1615651200;signed=1;currentDay=3
+signTime=1615737600;signed=1;currentDay=3"
+sign_num="11"
+giftName="奖励1,type=4;"
+giftRes="ok"
+giftDate="20210311"
+sign_res_info="
+2021/03/01_22:35:17  2    [已~签~到]
+2021/03/02_01:08:38  2    [已~签~到]
+2021/03/03_00:00:00  2    [已~签~到]
+2021/03/04_00:00:01  2    [已~签~到]
+2021/03/05_01:08:14  2    [已~签~到]
+2021/03/06_01:06:51  2    [已~签~到]
+2021/03/07_01:08:39  2    [已~签~到]
+2021/03/08_01:07:11  2    [已~签~到]
+2021/03/09_01:06:51  2    [已~签~到]
+2021/03/10_01:08:03  2    [已~签~到]
+2021/03/11_01:06:21  1    [已~签~到]
+2021/03/12_00:00:00  3    未签到
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=4;]
+已签到 11 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1614528000;signed=1;currentDay=2
+signTime=1614618518;signed=2;currentDay=2
+signTime=1614700801;signed=2;currentDay=2
+signTime=1614787203;signed=2;currentDay=2
+signTime=1614877695;signed=2;currentDay=2
+signTime=1614964011;signed=2;currentDay=2
+signTime=1615050519;signed=2;currentDay=2
+signTime=1615136832;signed=2;currentDay=2
+signTime=1615223211;signed=2;currentDay=2
+signTime=1615309683;signed=2;currentDay=2
+signTime=1615395981;signed=2;currentDay=1
+signTime=1615478400;signed=1;currentDay=3
+signTime=1615564800;signed=1;currentDay=3
+signTime=1615651200;signed=1;currentDay=3
+signTime=1615737600;signed=1;currentDay=3"
+sign_num="10"
+giftName=""
+giftRes="ok"
+giftDate="20210311"
+sign_res_info="
+2021/03/01_00:00:00  2    未签到
+2021/03/02_01:08:38  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_00:00:03  2    [已~签~到]
+2021/03/05_01:08:15  2    [已~签~到]
+2021/03/06_01:06:51  2    [已~签~到]
+2021/03/07_01:08:39  2    [已~签~到]
+2021/03/08_01:07:12  2    [已~签~到]
+2021/03/09_01:06:51  2    [已~签~到]
+2021/03/10_01:08:03  2    [已~签~到]
+2021/03/11_01:06:21  1    [已~签~到]
+2021/03/12_00:00:00  3    未签到
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 []
+已签到 10 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1614609308;signed=2;currentDay=2
+signTime=1614618504;signed=2;currentDay=2
+signTime=1614700800;signed=2;currentDay=2
+signTime=1614791693;signed=2;currentDay=2
+signTime=1614877666;signed=2;currentDay=2
+signTime=1614963967;signed=2;currentDay=2
+signTime=1615050470;signed=2;currentDay=2
+signTime=1615136782;signed=2;currentDay=2
+signTime=1615223182;signed=2;currentDay=2
+signTime=1615309635;signed=2;currentDay=2
+signTime=1615395968;signed=2;currentDay=2
+signTime=1615482283;signed=2;currentDay=1
+signTime=1615564800;signed=1;currentDay=3
+signTime=1615651200;signed=1;currentDay=3
+signTime=1615737600;signed=1;currentDay=3"
+sign_num="12"
+giftName="奖励1,type=4;"
+giftRes="ok"
+giftDate="20210312"
+sign_res_info="
+2021/03/01_22:35:08  2    [已~签~到]
+2021/03/02_01:08:24  2    [已~签~到]
+2021/03/03_00:00:00  2    [已~签~到]
+2021/03/04_01:14:53  2    [已~签~到]
+2021/03/05_01:07:46  2    [已~签~到]
+2021/03/06_01:06:07  2    [已~签~到]
+2021/03/07_01:07:50  2    [已~签~到]
+2021/03/08_01:06:22  2    [已~签~到]
+2021/03/09_01:06:22  2    [已~签~到]
+2021/03/10_01:07:15  2    [已~签~到]
+2021/03/11_01:06:08  2    [已~签~到]
+2021/03/12_01:04:43  1    [已~签~到]
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=4;]
+已签到 12 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1614609308;signed=2;currentDay=2
+signTime=1614618504;signed=2;currentDay=2
+signTime=1614700801;signed=2;currentDay=2
+signTime=1614791694;signed=2;currentDay=2
+signTime=1614877666;signed=2;currentDay=2
+signTime=1614963967;signed=2;currentDay=2
+signTime=1615050470;signed=2;currentDay=2
+signTime=1615136783;signed=2;currentDay=2
+signTime=1615223182;signed=2;currentDay=2
+signTime=1615309635;signed=2;currentDay=2
+signTime=1615395968;signed=2;currentDay=2
+signTime=1615482283;signed=2;currentDay=1
+signTime=1615564800;signed=1;currentDay=3
+signTime=1615651200;signed=1;currentDay=3
+signTime=1615737600;signed=1;currentDay=3"
+sign_num="12"
+giftName="奖励1,type=4;"
+giftRes="ok"
+giftDate="20210312"
+sign_res_info="
+2021/03/01_22:35:08  2    [已~签~到]
+2021/03/02_01:08:24  2    [已~签~到]
+2021/03/03_00:00:01  2    [已~签~到]
+2021/03/04_01:14:54  2    [已~签~到]
+2021/03/05_01:07:46  2    [已~签~到]
+2021/03/06_01:06:07  2    [已~签~到]
+2021/03/07_01:07:50  2    [已~签~到]
+2021/03/08_01:06:23  2    [已~签~到]
+2021/03/09_01:06:22  2    [已~签~到]
+2021/03/10_01:07:15  2    [已~签~到]
+2021/03/11_01:06:08  2    [已~签~到]
+2021/03/12_01:04:43  1    [已~签~到]
+2021/03/13_00:00:00  3    未签到
+2021/03/14_00:00:00  3    未签到
+2021/03/15_00:00:00  3    未签到
+当天签到奖励 [奖励1,type=4;]
+已签到 12 天"
+#王 1309893722-164885 sign_res_end
