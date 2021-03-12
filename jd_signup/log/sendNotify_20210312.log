@@ -604,3 +604,143 @@ config_/config_04|vender/shop_1615126563_0
 * * * * * * * * * * * * * * * * * *
 记录时刻 20210312_093601_562621600
 
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210312_234004_480551500
+
+
+显示立即执行的任务
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/lorde
+赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1615123116_0
+王 1309893722-164885|vender/aoyouruye
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/baierkang
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/shop_1614611216_140
+王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444|vender/shop_1614696854_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615124346_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615125912_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615126563_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/shop_1615211039_13
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614116411_129
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614698669_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699061_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699101_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776867_1
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615126461_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210965_1
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615210984_8
+
+显示执行结束，不能再签到的任务
+
+
+替换成pt_pin后的任务
+config01|api_vender/lorde
+config03|api_vender/lorde
+config04|api_vender/lorde
+config01|api_vender/shop_1615123116_0
+config03|api_vender/shop_1615123116_0
+config04|api_vender/shop_1615123116_0
+config02|vender/aoyouruye
+config01|vender/baierkang
+config02|vender/baierkang
+config03|vender/baierkang
+config01|vender/shop_1614611216_140
+config02|vender/shop_1614611216_140
+config03|vender/shop_1614611216_140
+config04|vender/shop_1614611216_140
+config02|vender/shop_1614696854_0
+config03|vender/shop_1614696854_0
+config01|vender/shop_1614696854_0
+config01|vender/shop_1615124346_0
+config02|vender/shop_1615124346_0
+config03|vender/shop_1615124346_0
+config01|vender/shop_1615125912_0
+config02|vender/shop_1615125912_0
+config03|vender/shop_1615125912_0
+config01|vender/shop_1615126563_0
+config02|vender/shop_1615126563_0
+config03|vender/shop_1615126563_0
+config01|vender/shop_1615211039_13
+config02|vender/shop_1615211039_13
+config03|vender/shop_1615211039_13
+config04|vender/shop_1615211039_13
+config04|lzkj_sevenDay_vender/shop_1614116411_129
+config04|lzkj_sevenDay_vender/shop_1614698669_0
+config04|lzkj_sevenDay_vender/shop_1614699061_0
+config04|lzkj_sevenDay_vender/shop_1614699101_0
+config04|lzkj_sevenDay_vender/shop_1614776867_1
+config04|lzkj_sevenDay_vender/shop_1615126461_0
+config04|lzkj_sevenDay_vender/shop_1615210965_1
+config04|lzkj_sevenDay_vender/shop_1615210984_8
+
+合并后的立即执行的任务
+config2|api_vender/lorde
+config|api_vender/lorde
+config2|api_vender/shop_1615123116_0
+config|api_vender/shop_1615123116_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_04|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_04|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_04|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_04|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_02|vender/aoyouruye
+config_/config_01|vender/baierkang
+config_/config_02|vender/baierkang
+config_/config_03|vender/baierkang
+config_/config_01|vender/shop_1614611216_140
+config_/config_02|vender/shop_1614611216_140
+config_/config_03|vender/shop_1614611216_140
+config_/config_04|vender/shop_1614611216_140
+config_/config_01|vender/shop_1614696854_0
+config_/config_02|vender/shop_1614696854_0
+config_/config_03|vender/shop_1614696854_0
+config_/config_01|vender/shop_1615124346_0
+config_/config_02|vender/shop_1615124346_0
+config_/config_03|vender/shop_1615124346_0
+config_/config_01|vender/shop_1615125912_0
+config_/config_02|vender/shop_1615125912_0
+config_/config_03|vender/shop_1615125912_0
+config_/config_01|vender/shop_1615126563_0
+config_/config_02|vender/shop_1615126563_0
+config_/config_03|vender/shop_1615126563_0
+config_/config_01|vender/shop_1615211039_13
+config_/config_02|vender/shop_1615211039_13
+config_/config_03|vender/shop_1615211039_13
+config_/config_04|vender/shop_1615211039_13
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_02|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_03|lzkj_sevenDay_vender/shop_1614116411_129
+config_/config_01|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_02|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_03|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_01|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_02|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_03|lzkj_sevenDay_vender/shop_1615126461_0
+config_/config_01|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_02|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_03|lzkj_sevenDay_vender/shop_1615210965_1
+config_/config_01|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_02|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_03|lzkj_sevenDay_vender/shop_1615210984_8
+config_/config_01|vender/aoyouruye
+config_/config_03|vender/aoyouruye
+config_/config_04|vender/aoyouruye
+config_/config_04|vender/baierkang
+config_/config_04|vender/shop_1614696854_0
+config_/config_04|vender/shop_1615124346_0
+config_/config_04|vender/shop_1615125912_0
+config_/config_04|vender/shop_1615126563_0

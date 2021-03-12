@@ -1,0 +1,65 @@
+03/13/21 02:03:15 662834700  1615572195
+RANDOM_num: 10
+removed '/tmp/tmp.Lo9vysiV42'
+03/13/21 02:03:15 791417900  1615572195
+王 今天已经签到过. 签到结果: ok  giftDate: 20210313
+***********************************************
+7天签到 第 5 天
+当天签到奖励 []
+***********************************************
+
+#店铺名称
+vendername="帮宝适京东自营官方旗舰店"
+#店铺激活码
+actId="9b8a4466ab984291908abd55c70d0646"
+#店铺id
+venderId="1000001933"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b8a4466ab984291908abd55c70d0646&venderId=1000001933&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002903107_&utm_term=4f8841bf33eb4dfb9ccd26e52abc0106"
+
+startTime=1614566820
+endTime=1617206340
+# 活动时间：2021-03-01 10:47 - 2021-03-31 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：1京豆
+连续签到4天：1京豆
+连续签到5天：1京豆
+连续签到6天：1京豆
+连续签到7天：7京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210313"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="5"
+giftName=""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 []"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="5"
+giftName=""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 []"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="5"
+giftName=""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="7天签到 第 5 天
+当天签到奖励 []"
+#肥鹅 jd_4d651d9e48204 sign_res_end

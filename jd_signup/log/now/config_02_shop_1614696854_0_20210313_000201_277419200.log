@@ -1,0 +1,782 @@
+03/13/21 00:02:04 012333500  1615564924
+RANDOM_num: 20
+removed '/tmp/tmp.ITkLdZl68s'
+03/13/21 00:02:05 422899400  1615564925
+王 今天已经签到过. 签到结果: ok  giftDate: 20210313
+***********************************************
+
+
+当天签到奖励 [10京豆]
+连续签到  天
+签到总天数 
+***********************************************
+
+王 签到结果获取失败.
+03/13/21 00:02:05 734474600  1615564925 检查王签到
+
+real	0m1.821s
+user	0m0.047s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/13/21 00:02:10 311305600  1615564930
+use pt_key
+
+real	0m1.995s
+user	0m0.094s
+sys	0m0.109s
+03/13/21 00:02:12 899267100  1615564932 token: AAFgS5CDADAnSxAq-cIc2_UhQFpAEdjjYM60QAF4lAgP2lUyierElSjG9YTZDTN2wENXlgXSciM
+
+real	0m1.264s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:16 471983100  1615564936 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:02:16 970982100  1615564936 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.046s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:22 254645400 1615564942
+
+real	0m1.097s
+user	0m0.016s
+sys	0m0.063s
+
+real	0m1.501s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/13/21 00:02:25 731688500  1615564945
+use pt_key
+
+real	0m1.539s
+user	0m0.094s
+sys	0m0.109s
+03/13/21 00:02:27 682843600  1615564947 token: AAFgS5CSADCgz-i5lbiiS8OhVXjn8-mvBVwmAmRSdoT0mK5d4qw6xaOQU9ak4KK2X5lPIrdhuzY
+
+real	0m0.837s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:31 262528000  1615564951 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:02:31 621359000  1615564951 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.078s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:36 667532700 1615564956
+
+real	0m1.819s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.577s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/13/21 00:02:41 204498400  1615564961
+use pt_key
+
+real	0m1.557s
+user	0m0.094s
+sys	0m0.094s
+03/13/21 00:02:43 244101800  1615564963 token: AAFgS5ChADB5HsQE1HzZHl5AH4icY_FYyyY4FDQVXCINjNqWOLvaYx_Hj1TXrhzb0bXIfevqtQg
+
+real	0m1.485s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:46 563921200  1615564966 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:02:47 108743500  1615564967 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.299s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:51 964063400 1615564971
+
+real	0m1.179s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m0.861s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/13/21 00:02:54 651406300  1615564974
+use pt_key
+
+real	0m1.074s
+user	0m0.125s
+sys	0m0.094s
+03/13/21 00:02:56 164969500  1615564976 token: AAFgS5CuADC-xIGCuViA6agXjFkXhKFhdM-8Pwg37Bv6hk5jRCOcPbcPEJEiZdaWJSCoOboAHI0
+
+real	0m1.079s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:02:59 354416900  1615564979 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:02:59 678222600  1615564979 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.274s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:04 971688200 1615564984
+
+real	0m1.500s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.261s
+user	0m0.063s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/13/21 00:03:08 534230600  1615564988
+use pt_key
+
+real	0m1.506s
+user	0m0.094s
+sys	0m0.109s
+03/13/21 00:03:10 390717600  1615564990 token: AAFgS5C8ADB66POM6cgIOFLSq1wYmT9v5d7SkfFGF_yj51QO687xe-5R6RvFWRlZ8kB6htZ5hmQ
+
+real	0m1.170s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:13 648129700  1615564993 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:03:14 143979100  1615564994 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.244s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:17 915121200 1615564997
+
+real	0m1.860s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.363s
+user	0m0.000s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/13/21 00:03:22 052199000  1615565002
+use pt_key
+
+real	0m0.971s
+user	0m0.078s
+sys	0m0.156s
+03/13/21 00:03:23 376621600  1615565003 token: AAFgS5DJADBkNLgUHniImUgTtJL4G9jYQ-ew6pFvD8ChnYSn96KkylLmbq2fQ40owTD9m5n2Yc8
+
+real	0m1.060s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:26 506253200  1615565006 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:03:27 129774000  1615565007 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.177s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:32 511882200 1615565012
+
+real	0m2.182s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.791s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/13/21 00:03:37 712690600  1615565017
+use pt_key
+
+real	0m1.406s
+user	0m0.094s
+sys	0m0.156s
+03/13/21 00:03:39 489999500  1615565019 token: AAFgS5DaADCUpj021n8Hv1z8_TRiNai9o_yRfBTUC50gqz4zag5hrlDmfdV9tmAWMvFyWfxPHyA
+
+real	0m1.422s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:42 336827100  1615565022 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:03:42 725822500  1615565022 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.148s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:48 584030600 1615565028
+
+real	0m2.690s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.631s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/13/21 00:03:53 600129600  1615565033
+use pt_key
+
+real	0m1.105s
+user	0m0.109s
+sys	0m0.125s
+03/13/21 00:03:54 943134700  1615565034 token: AAFgS5DpADCG0qPcyU3CYVBOnOmDV2hIoJKSgXYC_3MUcp6OTobWWlVJlETEga8QXYlU0EipZsA
+
+real	0m1.289s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:03:58 183216200  1615565038 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:03:58 717220000  1615565038 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.032s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:03 686607500 1615565043
+
+real	0m2.543s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.898s
+user	0m0.016s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/13/21 00:04:07 631316900  1615565047
+use pt_key
+
+real	0m0.747s
+user	0m0.125s
+sys	0m0.141s
+03/13/21 00:04:08 528198800  1615565048 token: AAFgS5D3ADDx34ylyVyf-JNhvBlnycd_6nWdJCu2D7oX_-irQgEdsTUfSbl2Hj5ebT1mOWfPLK4
+
+real	0m0.872s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:10 950451500  1615565050 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:04:11 159312900  1615565051 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.142s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:16 675915800 1615565056
+
+real	0m2.635s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.165s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/13/21 00:04:21 060466000  1615565061
+use pt_key
+
+real	0m1.051s
+user	0m0.078s
+sys	0m0.172s
+03/13/21 00:04:22 469422800  1615565062 token: AAFgS5EFADDyuaqBc4bvoZ8vdlGYaUcV_n8UlZp6bL_-IN-yeDjuc1ZreEHy07iq1WLGEKLG1c4
+
+real	0m1.023s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:25 093064200  1615565065 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:04:25 354455200  1615565065 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.205s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:30 869269900 1615565070
+
+real	0m2.967s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.179s
+user	0m0.031s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/13/21 00:04:35 847423200  1615565075
+use pt_key
+
+real	0m0.803s
+user	0m0.094s
+sys	0m0.109s
+03/13/21 00:04:37 144820100  1615565077 token: AAFgS5ETADB8CPvy7is_0AyxmRiMvJ9KqcjjtJ66_oPDS16mtmp_ig9gRh1p5KXUxnaUFfpXq70
+
+real	0m1.116s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:39 863251600  1615565079 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:04:40 295999400  1615565080 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.491s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:44 324673000 1615565084
+
+real	0m3.240s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.603s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/13/21 00:04:49 850189700  1615565089
+use pt_key
+
+real	0m0.806s
+user	0m0.125s
+sys	0m0.141s
+03/13/21 00:04:50 894359400  1615565090 token: AAFgS5EhADCM8LKHolnjEZu1SOF__84YNJKkOwl6E2YiPmrqRzYd1SM8W0HFHBIILLsaAGFAuq4
+
+real	0m1.262s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:53 860166000  1615565093 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:04:54 182391500  1615565094 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.115s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:04:59 822499700 1615565099
+
+real	0m3.280s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.243s
+user	0m0.000s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/13/21 00:05:05 290839000  1615565105
+use pt_key
+
+real	0m1.341s
+user	0m0.094s
+sys	0m0.141s
+03/13/21 00:05:06 871437000  1615565106 token: AAFgS5ExADBhr860nNjIO1j2DMShT3mCCt4IWn6Us4Hgh3vBJMOm0WZYyxDuYA51UJL9Xg9vbfg
+
+real	0m0.970s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:10 195401900  1615565110 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:05:10 587876800  1615565110 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.276s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:14 817488600 1615565114
+
+real	0m3.432s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.913s
+user	0m0.000s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/13/21 00:05:19 749221200  1615565119
+use pt_key
+
+real	0m1.213s
+user	0m0.078s
+sys	0m0.125s
+03/13/21 00:05:21 139245200  1615565121 token: AAFgS5E_ADAN21Z9XZYcEsXRZl2gE41cceNxN8Ro73KtqMEOZojCgJkXwnSgYsw-zv18bPWrQLo
+
+real	0m1.227s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:24 498797000  1615565124 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:05:24 966276800  1615565124 王签到歌德老酒行京东自营旗舰店
+
+real	0m0.610s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:29 142871400 1615565129
+
+real	0m4.049s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.937s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/13/21 00:05:34 736501200  1615565134
+use pt_key
+
+real	0m1.174s
+user	0m0.094s
+sys	0m0.141s
+03/13/21 00:05:36 248401900  1615565136 token: AAFgS5FOADCSk21W9Qftp5mKfOh9_zVU4SzkrnPmnGfFDhNYdxzxWKPw3Oj9ujP_XzZAOU83XZg
+
+real	0m1.207s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:39 440585900  1615565139 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:05:39 727426400  1615565139 王签到歌德老酒行京东自营旗舰店
+
+real	0m0.902s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:44 460636400 1615565144
+
+real	0m3.898s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.898s
+user	0m0.016s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/13/21 00:05:49 686085100  1615565149
+use pt_key
+
+real	0m0.865s
+user	0m0.109s
+sys	0m0.094s
+03/13/21 00:05:50 675250500  1615565150 token: AAFgS5FdADAN_CHT5j0tqnlwzwUntldNPY2rq6BK6oEAyL4POOlvloGWHrHt_EO661-iuOw89_Q
+
+real	0m0.665s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:52 730501500  1615565152 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:05:53 005825000  1615565153 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.023s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:05:57 386211600 1615565157
+
+real	0m3.831s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.303s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/13/21 00:06:03 589431000  1615565163
+use pt_key
+
+real	0m1.131s
+user	0m0.109s
+sys	0m0.094s
+03/13/21 00:06:05 112429100  1615565165 token: AAFgS5FrADAA_dwSuWlgRY-gAo1rgqYkiZGVkMH2Ywpxsv-HYnplFZ5lTgacVpncBjkyZUs_r08
+
+real	0m0.986s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:07 144146700  1615565167 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:06:07 362324500  1615565167 王签到歌德老酒行京东自营旗舰店
+
+real	0m1.234s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:11 729650000 1615565171
+
+real	0m4.317s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.248s
+user	0m0.016s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/13/21 00:06:17 996944800  1615565177
+use pt_key
+
+real	0m1.418s
+user	0m0.109s
+sys	0m0.141s
+03/13/21 00:06:19 658496000  1615565179 token: AAFgS5F6ADACBmS966smudlGqR8DhqWnS-VREKQXMFkB7_YsjSyNa6PSXvIRJamcwncdopS2CHY
+
+real	0m0.830s
+user	0m0.000s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:21 791491200  1615565181 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:06:22 168453700  1615565182 王签到歌德老酒行京东自营旗舰店
+
+real	0m0.979s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:25 875242100 1615565185
+
+real	0m4.282s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.248s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/13/21 00:06:32 252007000  1615565192
+use pt_key
+
+real	0m1.254s
+user	0m0.125s
+sys	0m0.125s
+03/13/21 00:06:33 765496000  1615565193 token: AAFgS5GIADAX7e0mZVmpEc2g4HWCin9D5l6QggeX728elRvH6qgTtvtq_jr_mJSnNmXzJsKksdA
+
+real	0m1.193s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:36 542117500  1615565196 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:06:36 919650400  1615565196 王签到歌德老酒行京东自营旗舰店
+
+real	0m0.938s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:40 201443600 1615565200
+
+real	0m4.380s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.484s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/13/21 00:06:47 433588400  1615565207
+use pt_key
+
+real	0m1.416s
+user	0m0.109s
+sys	0m0.172s
+03/13/21 00:06:49 297197500  1615565209 token: AAFgS5GXADDLZGv52zjaK4bod6ezQ5d_mR_ge44_Infd_iLwRW5EW6aYrPdytRFSfhBXNEDZbp0
+
+real	0m1.393s
+user	0m0.047s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:52 299485000  1615565212 secretPin: 
+[WARN] get secretPin error
+
+03/13/21 00:06:52 611702300  1615565212 王签到歌德老酒行京东自营旗舰店
+
+real	0m0.513s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/13/21 00:06:55 763467600 1615565215
+
+real	0m4.883s
+user	0m0.000s
+sys	0m0.031s
+03/13/21 00:08:01 737819500  1615565281
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/shop_1614696854_0
+
+王签到歌德老酒行京东自营旗舰店查看结果
+
+
+
+歌德老酒行京东自营旗舰店活动规则
+
+
+actId=0e34416861cc4cda8df003189c6a36f0
+venderId=10133101
+startTime=1614332160000
+endTime=1619768219000
+# 短链接
+suo_url="https://3.cn/101-5UuIg"
+actTimeStr="2021-02-26 17:36 至 2021-04-30 15:36"
+#店铺名称
+vendername="歌德老酒行京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0e34416861cc4cda8df003189c6a36f0&venderId=10133101&sceneval=2&jxsid=16146428113866014329
+# 活动时间：2021.02.26 17:36:00 - 2021.04.30 15:36:59
+# 奖励说明：
+actRule="
+连续签到2天：20积分 20积分
+连续签到3天：50积分 50积分
+连续签到4天：5京豆 5京豆
+连续签到5天：100积分 100积分
+连续签到6天：10京豆 10京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210312"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="
+
+当天签到奖励 ["10京豆"]
+连续签到  天
+签到总天数 "
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="
+
+当天签到奖励 ["10京豆"]
+连续签到  天
+签到总天数 "
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""10京豆""
+giftRes="ok"
+giftDate="20210313"
+sign_res_info="
+
+当天签到奖励 ["10京豆"]
+连续签到  天
+签到总天数 "
+#肥鹅 jd_4d651d9e48204 sign_res_end
