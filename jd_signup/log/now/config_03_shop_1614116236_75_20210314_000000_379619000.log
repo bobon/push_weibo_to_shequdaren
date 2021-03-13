@@ -1,0 +1,114 @@
+03/14/21 00:00:02 125151200  1615651202
+RANDOM_num: 30
+force to sign
+
+real	0m0.988s
+user	0m0.031s
+sys	0m0.078s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615651803	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615651803	LZ_TOKEN_KEY	lztokenpage22a4cc3376274099a068247899e7b114
+03/14/21 00:00:05 011549100  1615651205
+use pt_key
+
+real	0m0.958s
+user	0m0.125s
+sys	0m0.109s
+03/14/21 00:00:06 209018700  1615651206 token: AAFgTOGDADCtBKhPYg4Zet2qQADarA4-MU-_4BySvf58kWd5YeES06GicRv3iTiL6j2egSB3lrA
+
+real	0m1.018s
+user	0m0.016s
+sys	0m0.109s
+03/14/21 00:00:08 172942100  1615651208 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/14/21 00:00:08 311135700  1615651208 肥鹅签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.853s
+user	0m0.063s
+sys	0m0.078s
+{
+  "gift": null,
+  "msg": "",
+  "isOk": true,
+  "isSend": null,
+  "key": null
+}
+true
+03/14/21 00:00:10 921290300 1615651210
+03/14/21 00:00:11 053327600 1615651211 签到JEEP SPIRIT眼镜旗舰店完成
+03/14/21 00:01:41 754182200  1615651301
+true
+首次签到成功. 写入giftName: null
+
+***********************************************
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/14_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 18
+***********************************************
+
+肥鹅签到JEEP SPIRIT眼镜旗舰店查看结果
+{"msg":"","giftLog":{},"isOk":true,"signDetail":{"20210301":"y","20210302":"y","20210303":"y","20210308":"y","20210309":"y","20210310":"y","20210311":"y","20210304":"y","20210305":"y","20210306":"y","20210307":"y","20210312":"y","20210313":"y","20210314":"y"},"followDays":2,"signRecord":{"nicknameShow":null,"id":"e47590acbf4f45f792a4d07d742bc19b","venderId":10114665,"actId":"a3e7341936fb4fe786cb441977fad1df","actName":"218签到活动","nick":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210314,"contiSignNum":3,"totalSignNum":18,"createTime":1614186939000,"updateTime":1615651206000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210301": "y",
+    "20210302": "y",
+    "20210303": "y",
+    "20210308": "y",
+    "20210309": "y",
+    "20210310": "y",
+    "20210311": "y",
+    "20210304": "y",
+    "20210305": "y",
+    "20210306": "y",
+    "20210307": "y",
+    "20210312": "y",
+    "20210313": "y",
+    "20210314": "y"
+  },
+  "contiSignNum": 3,
+  "totalSignNum": 18
+}
+
+JEEP SPIRIT眼镜旗舰店活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {288:<--} ERROR CODE: 4[0m [0;31;3m[20210314 00:02:37] [ERROR] [0m
+
