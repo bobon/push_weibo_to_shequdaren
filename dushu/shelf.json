@@ -1,5 +1,5 @@
 {
-  "synckey": 1615388272,
+  "synckey": 1615725686,
   "bookProgress": [
     {
       "bookId": "23796711",
@@ -152,9 +152,10 @@
       "bookId": "23194253",
       "progress": 0,
       "chapterUid": 2,
-      "chapterOffset": 0,
+      "chapterOffset": 414,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1576244300
+      "updateTime": 1615725424,
+      "synckey": 1086551881
     },
     {
       "bookId": "927711",
@@ -420,6 +421,15 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1599782445,
       "synckey": 1111892325
+    },
+    {
+      "bookId": "29815031",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615542140,
+      "synckey": 1111909486
     },
     {
       "bookId": "452677",
@@ -1056,7 +1066,7 @@
       "chapterUid": 1,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1610408985,
+      "updateTime": 1615542278,
       "synckey": 1111892325
     },
     {
@@ -1093,6 +1103,41 @@
       "chapterOffset": 397,
       "appId": "3473141535675511347658295365",
       "updateTime": 1574034610
+    },
+    {
+      "bookId": "26189008",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1593932211,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "923959",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1595569680,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "32169893",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 390,
+      "appId": "3366166262522229540044223065",
+      "updateTime": 1595753544,
+      "synckey": 1476801754
+    },
+    {
+      "bookId": "624530",
+      "progress": 100,
+      "chapterUid": 49,
+      "chapterOffset": 3542,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1549151502
     },
     {
       "bookId": "23595630",
@@ -1308,6 +1353,15 @@
       "synckey": 221636770
     },
     {
+      "bookId": "35138879",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615437872,
+      "synckey": 1111909486
+    },
+    {
       "bookId": "920617",
       "progress": 3,
       "chapterUid": 5,
@@ -1486,15 +1540,6 @@
       "synckey": 1111909486
     },
     {
-      "bookId": "26188310",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1594391172,
-      "synckey": 1111909486
-    },
-    {
       "bookId": "907761",
       "progress": 0,
       "chapterUid": 2,
@@ -1529,6 +1574,14 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1610495522,
       "synckey": 1111909486
+    },
+    {
+      "bookId": "3000000342",
+      "progress": 0,
+      "chapterUid": -2147483647,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615722836
     },
     {
       "bookId": "26187918",
@@ -1768,6 +1821,15 @@
       "synckey": 1111892325
     },
     {
+      "bookId": "857391",
+      "progress": 4,
+      "chapterUid": 9,
+      "chapterOffset": 2317,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615542823,
+      "synckey": 73401354
+    },
+    {
       "bookId": "853501",
       "progress": 0,
       "chapterUid": 3,
@@ -1938,31 +2000,49 @@
       "synckey": 1086551747
     },
     {
-      "bookId": "24139945",
-      "progress": 6,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1591228300,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "32307256",
+      "bookId": "934835",
       "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1609200036,
+      "updateTime": 1613954323,
       "synckey": 1111909486
     },
     {
-      "bookId": "860210",
+      "bookId": "23552633",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1595238170,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "917553",
       "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1589157460,
+      "updateTime": 1595306405,
       "synckey": 1111909486
+    },
+    {
+      "bookId": "32511492",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615248785,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "30791790",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 606,
+      "appId": "wb177381387461h1987489791",
+      "updateTime": 1593556065,
+      "synckey": 1251785202
     },
     {
       "bookId": "23514469",
@@ -2017,41 +2097,6 @@
       "updateTime": 1557236576
     },
     {
-      "bookId": "31743245",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1597397886,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "934365",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1608612944,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "910814",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1576214281
-    },
-    {
-      "bookId": "25601464",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1594686338,
-      "synckey": 1111892325
-    },
-    {
       "bookId": "813610",
       "progress": 0,
       "chapterUid": 4,
@@ -2095,14 +2140,6 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1614556566,
       "synckey": 597648064
-    },
-    {
-      "bookId": "25504039",
-      "progress": 100,
-      "chapterUid": 41,
-      "chapterOffset": 3775,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1586842539
     },
     {
       "bookId": "932475",
@@ -2185,33 +2222,6 @@
       "synckey": 1111909486
     },
     {
-      "bookId": "25631115",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1590147362,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "24129813",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1612414661,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "860425",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1608267033,
-      "synckey": 1111892325
-    },
-    {
       "bookId": "25031485",
       "progress": 3,
       "chapterUid": 10,
@@ -2221,162 +2231,12 @@
       "synckey": 1967218036
     },
     {
-      "bookId": "33530152",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1612741615,
-      "synckey": 1111892325
-    },
-    {
       "bookId": "26859515",
       "progress": 1,
       "chapterUid": -2147483647,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
       "updateTime": 1614397551,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "917542",
-      "progress": 100,
-      "chapterUid": 65,
-      "chapterOffset": 380,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1594038643,
-      "synckey": 916119604
-    },
-    {
-      "bookId": "935483",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1591438467,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "935560",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1608267029,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "934465",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1590195301,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "916848",
-      "progress": 8,
-      "chapterUid": 7,
-      "chapterOffset": 4697,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1600729594,
-      "synckey": 228382093
-    },
-    {
-      "bookId": "35175676",
-      "progress": 0,
-      "chapterUid": 8,
-      "chapterOffset": 2044,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1614137822,
-      "synckey": 148566274
-    },
-    {
-      "bookId": "824592",
-      "progress": 32,
-      "chapterUid": 17,
-      "chapterOffset": 378,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1614557801,
-      "synckey": 1881199388
-    },
-    {
-      "bookId": "807264",
-      "progress": 100,
-      "chapterUid": 11,
-      "chapterOffset": 28875,
-      "appId": "3347108262178335473789798959",
-      "updateTime": 1549450909
-    },
-    {
-      "bookId": "803849",
-      "progress": 1,
-      "chapterUid": 4,
-      "chapterOffset": 2685,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1603373434,
-      "synckey": 449533817
-    },
-    {
-      "bookId": "25670914",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 418,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1604414287,
-      "synckey": 1086551885
-    },
-    {
-      "bookId": "31402890",
-      "progress": 1,
-      "chapterUid": 2,
-      "chapterOffset": 9939,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1614574237,
-      "synckey": 615753312
-    },
-    {
-      "bookId": "814146",
-      "progress": 11,
-      "chapterUid": 6,
-      "chapterOffset": 4891,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1614644662,
-      "synckey": 303632422
-    },
-    {
-      "bookId": "933342",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1550554255
-    },
-    {
-      "bookId": "33500935",
-      "progress": 0,
-      "chapterUid": -2147483647,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1608025264
-    },
-    {
-      "bookId": "820120",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1612140192,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "23065355",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1595685118,
       "synckey": 1111909486
     },
     {
@@ -2407,13 +2267,287 @@
       "synckey": 1111892325
     },
     {
-      "bookId": "33500931",
+      "bookId": "635671",
+      "progress": 8,
+      "chapterUid": 8,
+      "chapterOffset": 22667,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1599741469,
+      "synckey": 139359883
+    },
+    {
+      "bookId": "824592",
+      "progress": 32,
+      "chapterUid": 17,
+      "chapterOffset": 378,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1614557801,
+      "synckey": 1881199388
+    },
+    {
+      "bookId": "807264",
+      "progress": 100,
+      "chapterUid": 11,
+      "chapterOffset": 28875,
+      "appId": "3347108262178335473789798959",
+      "updateTime": 1549450909
+    },
+    {
+      "bookId": "834841",
+      "progress": 5,
+      "chapterUid": 4,
+      "chapterOffset": 8849,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1614557274,
+      "synckey": 463056165
+    },
+    {
+      "bookId": "22926210",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 3091,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1597544540,
+      "synckey": 602111095
+    },
+    {
+      "bookId": "26596900",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1594427019,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "820178",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 561,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1599025205,
+      "synckey": 1086569694
+    },
+    {
+      "bookId": "915167",
+      "progress": 1,
+      "chapterUid": 4,
+      "chapterOffset": 1090,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615420957,
+      "synckey": 447182886
+    },
+    {
+      "bookId": "923174",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1592626581,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "624531",
+      "progress": 100,
+      "chapterUid": 44,
+      "chapterOffset": 5375,
+      "appId": "3347108262178335473789798959",
+      "updateTime": 1549178304
+    },
+    {
+      "bookId": "932139",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1590372941,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "32307256",
       "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1609654354,
+      "updateTime": 1609200036,
       "synckey": 1111909486
+    },
+    {
+      "bookId": "24139945",
+      "progress": 6,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1591228300,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "25504039",
+      "progress": 100,
+      "chapterUid": 41,
+      "chapterOffset": 3775,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1586842539
+    },
+    {
+      "bookId": "31402890",
+      "progress": 1,
+      "chapterUid": 2,
+      "chapterOffset": 9939,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1614574237,
+      "synckey": 615753312
+    },
+    {
+      "bookId": "33530152",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1612741615,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "33614890",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615542165,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "814146",
+      "progress": 11,
+      "chapterUid": 6,
+      "chapterOffset": 4891,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1614644662,
+      "synckey": 303632422
+    },
+    {
+      "bookId": "820120",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1612140192,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "23065355",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1595685118,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "916848",
+      "progress": 8,
+      "chapterUid": 7,
+      "chapterOffset": 4697,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1600729594,
+      "synckey": 228382093
+    },
+    {
+      "bookId": "35175676",
+      "progress": 0,
+      "chapterUid": 8,
+      "chapterOffset": 2044,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1614137822,
+      "synckey": 148566274
+    },
+    {
+      "bookId": "803849",
+      "progress": 1,
+      "chapterUid": 4,
+      "chapterOffset": 2685,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1603373434,
+      "synckey": 449533817
+    },
+    {
+      "bookId": "25670914",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 418,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1604414287,
+      "synckey": 1086551885
+    },
+    {
+      "bookId": "917542",
+      "progress": 100,
+      "chapterUid": 65,
+      "chapterOffset": 380,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1594038643,
+      "synckey": 916119604
+    },
+    {
+      "bookId": "935483",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1591438467,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "935560",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1608267029,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "33500935",
+      "progress": 0,
+      "chapterUid": -2147483647,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1608025264
+    },
+    {
+      "bookId": "933342",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1550554255
+    },
+    {
+      "bookId": "934465",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1590195301,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "22745081",
+      "progress": 5,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1597500519,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "35676067",
+      "progress": 0,
+      "chapterUid": 4,
+      "chapterOffset": 1982,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615284355,
+      "synckey": 447337206
     },
     {
       "bookId": "27092425",
@@ -2442,22 +2576,31 @@
       "updateTime": 1606470030
     },
     {
-      "bookId": "22745081",
-      "progress": 5,
+      "bookId": "33500931",
+      "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1597500519,
+      "updateTime": 1609654354,
       "synckey": 1111909486
     },
     {
-      "bookId": "35676067",
+      "bookId": "27247670",
       "progress": 0,
-      "chapterUid": 4,
-      "chapterOffset": 1982,
+      "chapterUid": 2,
+      "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1615284355,
-      "synckey": 447337206
+      "updateTime": 1593753621,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "856422",
+      "progress": 1,
+      "chapterUid": 4,
+      "chapterOffset": 5632,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1598708107,
+      "synckey": 456277432
     },
     {
       "bookId": "924918",
@@ -2496,6 +2639,15 @@
       "synckey": 1111892325
     },
     {
+      "bookId": "932508",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1594426973,
+      "synckey": 1111892325
+    },
+    {
       "bookId": "32607410",
       "progress": 0,
       "chapterUid": 2,
@@ -2503,69 +2655,6 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1609893242,
       "synckey": 1111909486
-    },
-    {
-      "bookId": "635671",
-      "progress": 8,
-      "chapterUid": 8,
-      "chapterOffset": 22667,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1599741469,
-      "synckey": 139359883
-    },
-    {
-      "bookId": "834841",
-      "progress": 5,
-      "chapterUid": 4,
-      "chapterOffset": 8849,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1614557274,
-      "synckey": 463056165
-    },
-    {
-      "bookId": "22926210",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 3091,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1597544540,
-      "synckey": 602111095
-    },
-    {
-      "bookId": "26713613",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1593755536,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "29105930",
-      "progress": 7,
-      "chapterUid": 5,
-      "chapterOffset": 2908,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1615247787,
-      "synckey": 374368242
-    },
-    {
-      "bookId": "26596900",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1594427019,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "820178",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 561,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1599025205,
-      "synckey": 1086569694
     },
     {
       "bookId": "35971845",
@@ -2682,57 +2771,22 @@
       "synckey": 1111909486
     },
     {
-      "bookId": "27247670",
+      "bookId": "29105930",
+      "progress": 7,
+      "chapterUid": 5,
+      "chapterOffset": 2908,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615247787,
+      "synckey": 374368242
+    },
+    {
+      "bookId": "26713613",
       "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1593753621,
+      "updateTime": 1593755536,
       "synckey": 1111909486
-    },
-    {
-      "bookId": "856422",
-      "progress": 1,
-      "chapterUid": 4,
-      "chapterOffset": 5632,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1598708107,
-      "synckey": 456277432
-    },
-    {
-      "bookId": "624531",
-      "progress": 100,
-      "chapterUid": 44,
-      "chapterOffset": 5375,
-      "appId": "3347108262178335473789798959",
-      "updateTime": 1549178304
-    },
-    {
-      "bookId": "932139",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1590372941,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "932508",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1594426973,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "923174",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1592626581,
-      "synckey": 1111892325
     },
     {
       "bookId": "932507",
@@ -2746,11 +2800,11 @@
     {
       "bookId": "805127",
       "progress": 1,
-      "chapterUid": -1,
-      "chapterOffset": -1,
-      "appId": "3366166262522229540044223065",
-      "updateTime": 1596289608,
-      "synckey": 1868904438
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615725361,
+      "synckey": 1111909486
     },
     {
       "bookId": "32330818",
@@ -2822,6 +2876,122 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1592313489,
       "synckey": 1111909486
+    },
+    {
+      "bookId": "31743245",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1597397886,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "934365",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1608612944,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "910814",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1576214281
+    },
+    {
+      "bookId": "25601464",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1594686338,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "860210",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1589157460,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "32482212",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1595929407,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "23681822",
+      "progress": 1,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3366166262522229540044223065",
+      "updateTime": 1596928532,
+      "synckey": 867646779
+    },
+    {
+      "bookId": "32489450",
+      "progress": 0,
+      "chapterUid": -2147483647,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1600923693,
+      "synckey": 567217095
+    },
+    {
+      "bookId": "778983",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 1830,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615437839,
+      "synckey": 597751414
+    },
+    {
+      "bookId": "25631115",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1590147362,
+      "synckey": 1111892325
+    },
+    {
+      "bookId": "814438",
+      "progress": 0,
+      "chapterUid": 3,
+      "chapterOffset": 0,
+      "appId": "123456",
+      "updateTime": 1615724660,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "24129813",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1612414661,
+      "synckey": 1111909486
+    },
+    {
+      "bookId": "860425",
+      "progress": 0,
+      "chapterUid": 1,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1608267033,
+      "synckey": 1111892325
     },
     {
       "bookId": "858010",
@@ -3115,6 +3285,23 @@
       "synckey": 1675535219
     },
     {
+      "bookId": "597517",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1550450700
+    },
+    {
+      "bookId": "926598",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1591394687,
+      "synckey": 1111909486
+    },
+    {
       "bookId": "935575",
       "progress": 0,
       "chapterUid": 1,
@@ -3150,24 +3337,6 @@
       "updateTime": 1586842446
     },
     {
-      "bookId": "32511492",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1615248785,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "30791790",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 606,
-      "appId": "wb177381387461h1987489791",
-      "updateTime": 1593556065,
-      "synckey": 1251785202
-    },
-    {
       "bookId": "804558",
       "progress": 0,
       "chapterUid": 1,
@@ -3191,33 +3360,6 @@
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
       "updateTime": 1594561565,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "934835",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1613954323,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "23552633",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1595238170,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "917553",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1595306405,
       "synckey": 1111909486
     },
     {
@@ -3285,10 +3427,10 @@
     {
       "bookId": "35177927",
       "progress": 1,
-      "chapterUid": 9,
-      "chapterOffset": 355,
+      "chapterUid": -2147483647,
+      "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1613380464,
+      "updateTime": 1615542239,
       "synckey": 1000551044
     },
     {
@@ -3346,48 +3488,13 @@
       "synckey": 1111892325
     },
     {
-      "bookId": "926598",
+      "bookId": "26188310",
       "progress": 0,
       "chapterUid": 2,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1591394687,
+      "updateTime": 1594391172,
       "synckey": 1111909486
-    },
-    {
-      "bookId": "597517",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1550450700
-    },
-    {
-      "bookId": "32482212",
-      "progress": 0,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1595929407,
-      "synckey": 1111892325
-    },
-    {
-      "bookId": "23681822",
-      "progress": 1,
-      "chapterUid": 1,
-      "chapterOffset": 0,
-      "appId": "3366166262522229540044223065",
-      "updateTime": 1596928532,
-      "synckey": 867646779
-    },
-    {
-      "bookId": "32489450",
-      "progress": 0,
-      "chapterUid": -2147483647,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1600923693,
-      "synckey": 567217095
     },
     {
       "bookId": "821606",
@@ -3849,12 +3956,12 @@
     },
     {
       "bookId": "834083",
-      "progress": 3,
-      "chapterUid": 12,
-      "chapterOffset": 7054,
-      "appId": "wb182564874693h899880980",
-      "updateTime": 1615208994,
-      "synckey": 1410434202
+      "progress": 5,
+      "chapterUid": 11,
+      "chapterOffset": 0,
+      "appId": "123456",
+      "updateTime": 1615720250,
+      "synckey": 463771171
     },
     {
       "bookId": "26447797",
@@ -4627,15 +4734,6 @@
       "synckey": 1111909486
     },
     {
-      "bookId": "858516",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1589413913,
-      "synckey": 1111909486
-    },
-    {
       "bookId": "22290109",
       "progress": 0,
       "chapterUid": 1,
@@ -4643,6 +4741,15 @@
       "appId": "3473141535675511347658295365",
       "updateTime": 1594099448,
       "synckey": 1111892325
+    },
+    {
+      "bookId": "858516",
+      "progress": 0,
+      "chapterUid": 2,
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1589413913,
+      "synckey": 1111909486
     },
     {
       "bookId": "26026610",
@@ -4907,10 +5014,10 @@
       "bookId": "3100000872",
       "progress": 100,
       "chapterUid": 2,
-      "chapterOffset": 6,
-      "appId": "3337136265417144019432846231",
-      "updateTime": 1608289237,
-      "synckey": 947932279
+      "chapterOffset": 0,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615725686,
+      "synckey": 1111909486
     },
     {
       "bookId": "929203",
@@ -5092,12 +5199,12 @@
     },
     {
       "bookId": "34920925",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1611377347,
-      "synckey": 1111909486
+      "progress": 8,
+      "chapterUid": 19,
+      "chapterOffset": 553,
+      "appId": "123456",
+      "updateTime": 1615720479,
+      "synckey": 322749637
     },
     {
       "bookId": "812457",
@@ -5177,7 +5284,7 @@
       "chapterUid": 1,
       "chapterOffset": 0,
       "appId": "3473141535675511347658295365",
-      "updateTime": 1596289630,
+      "updateTime": 1615725026,
       "synckey": 1111892325
     },
     {
@@ -5208,12 +5315,12 @@
     },
     {
       "bookId": "718468",
-      "progress": 43,
-      "chapterUid": 26,
-      "chapterOffset": 5799,
-      "appId": "123456",
-      "updateTime": 1615388272,
-      "synckey": 440333228
+      "progress": 61,
+      "chapterUid": 39,
+      "chapterOffset": 353,
+      "appId": "3473141535675511347658295365",
+      "updateTime": 1615722202,
+      "synckey": 172283289
     },
     {
       "bookId": "32324371",
@@ -5310,41 +5417,6 @@
       "chapterOffset": 376,
       "appId": "wb15757842h201653229",
       "updateTime": 1587045400
-    },
-    {
-      "bookId": "624530",
-      "progress": 100,
-      "chapterUid": 49,
-      "chapterOffset": 3542,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1549151502
-    },
-    {
-      "bookId": "32169893",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 390,
-      "appId": "3366166262522229540044223065",
-      "updateTime": 1595753544,
-      "synckey": 1476801754
-    },
-    {
-      "bookId": "923959",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1595569680,
-      "synckey": 1111909486
-    },
-    {
-      "bookId": "26189008",
-      "progress": 0,
-      "chapterUid": 2,
-      "chapterOffset": 0,
-      "appId": "3473141535675511347658295365",
-      "updateTime": 1593932211,
-      "synckey": 1111909486
     }
   ],
   "removed": [],
@@ -5352,6 +5424,126 @@
   "lectureRemoved": [],
   "archive": [],
   "books": [
+    {
+      "bookId": "857391",
+      "title": "你好，旧时光（同名网剧热播）",
+      "author": "八月长安",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/391/857391/s_857391.jpg",
+      "version": 1660054971,
+      "format": "epub",
+      "type": 0,
+      "price": 29.99,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 1,
+      "payType": 4097,
+      "finished": 1,
+      "maxFreeChapter": 35,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "category": "影视原著榜-最新播映",
+      "hasLecture": 0,
+      "updateTime": 1615342023,
+      "lastChapterIdx": 122,
+      "paperBook": {
+        "skuId": ""
+      },
+      "secret": 0,
+      "readUpdateTime": 1615542823,
+      "finishReading": 0
+    },
+    {
+      "bookId": "33436930",
+      "title": "这一夜，谁能安睡",
+      "author": "宫部美雪",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/930/33436930/s_33436930.jpg",
+      "version": 0,
+      "format": "txt",
+      "type": 0,
+      "price": 15.92,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 1,
+      "payType": 4097,
+      "finished": 1,
+      "maxFreeChapter": 8,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "category": "悬疑恐怖榜-侦探推理",
+      "hasLecture": 0,
+      "updateTime": 1598868294,
+      "lastChapterIdx": 24,
+      "paperBook": {
+        "skuId": "12558419"
+      },
+      "secret": 0,
+      "readUpdateTime": 1615542190,
+      "finishReading": 0
+    },
+    {
+      "bookId": "778983",
+      "title": "黄泉阴镖",
+      "author": "流浪的法神本尊",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/983/778983/s_778983.jpg",
+      "version": 0,
+      "format": "txt",
+      "type": 0,
+      "price": -1,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 2,
+      "payType": 12290,
+      "finished": 1,
+      "maxFreeChapter": 79,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "finishReading": 0,
+      "category": "悬疑恐怖榜-恐怖惊悚",
+      "hasLecture": 0,
+      "updateTime": 1611743688,
+      "lastChapterIdx": 840,
+      "paperBook": {
+        "skuId": ""
+      },
+      "secret": 0,
+      "readUpdateTime": 1615437839
+    },
+    {
+      "bookId": "915167",
+      "title": "朝鲜战争：未曾透露的真相",
+      "author": "约瑟夫·古尔登",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/167/915167/s_915167.jpg",
+      "version": 580429873,
+      "format": "epub",
+      "type": 0,
+      "price": 32.4,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 1,
+      "payType": 4097,
+      "finished": 1,
+      "maxFreeChapter": 57,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "category": "历史榜-世界史",
+      "hasLecture": 1,
+      "updateTime": 1600715646,
+      "lastChapterIdx": 193,
+      "paperBook": {
+        "skuId": ""
+      },
+      "secret": 0,
+      "readUpdateTime": 1615420957,
+      "finishReading": 0
+    },
     {
       "bookId": "26188352",
       "title": "图解：二战全史",
@@ -5380,6 +5572,36 @@
       },
       "secret": 0,
       "readUpdateTime": 1615334558,
+      "finishReading": 0
+    },
+    {
+      "bookId": "33614890",
+      "title": "云球全集",
+      "author": "白丁",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/890/33614890/s_33614890.jpg",
+      "version": 511543043,
+      "format": "epub",
+      "type": 0,
+      "price": 59.99,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 1,
+      "payType": 4097,
+      "finished": 1,
+      "maxFreeChapter": 20,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "category": "科幻经典榜",
+      "hasLecture": 0,
+      "updateTime": 1606899677,
+      "lastChapterIdx": 167,
+      "paperBook": {
+        "skuId": ""
+      },
+      "secret": 0,
+      "readUpdateTime": 1615542165,
       "finishReading": 0
     },
     {
@@ -5738,8 +5960,8 @@
       "finishReading": 0,
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 0,
-      "updateTime": 1615337279,
-      "lastChapterIdx": 511,
+      "updateTime": 1615682514,
+      "lastChapterIdx": 518,
       "paperBook": {
         "skuId": ""
       },
@@ -6165,7 +6387,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1596289608,
+      "readUpdateTime": 1615725361,
       "finishReading": 0
     },
     {
@@ -6535,7 +6757,7 @@
       "title": "一片叶子下生活",
       "author": "刘亮程",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/291/922291/s_922291.jpg",
-      "version": 481815429,
+      "version": 545651306,
       "format": "epub",
       "type": 0,
       "price": 8.99,
@@ -6551,7 +6773,7 @@
       "paid": 1,
       "category": "文学艺术榜-随笔",
       "hasLecture": 0,
-      "updateTime": 1612058900,
+      "updateTime": 1615394652,
       "lastChapterIdx": 38,
       "paperBook": {
         "skuId": "12060183"
@@ -7227,7 +7449,7 @@
       "title": "迷雾之子卷三：永世英雄",
       "author": "布兰登·桑德森",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/585/22899585/s_22899585.jpg",
-      "version": 211682026,
+      "version": 1004865897,
       "format": "epub",
       "type": 0,
       "price": 35,
@@ -7243,7 +7465,7 @@
       "paid": 0,
       "category": "玄幻精品榜",
       "hasLecture": 0,
-      "updateTime": 1612241251,
+      "updateTime": 1615572242,
       "lastChapterIdx": 93,
       "paperBook": {
         "skuId": ""
@@ -7677,7 +7899,7 @@
       "title": "家庭中的52个正面管教工具",
       "author": "卢丹丹",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/994/23433994/s_23433994.jpg",
-      "version": 1707207898,
+      "version": 1170317158,
       "format": "epub",
       "type": 0,
       "price": 13.99,
@@ -7693,13 +7915,13 @@
       "paid": 1,
       "category": "教育榜-育儿家教",
       "hasLecture": 1,
-      "updateTime": 1612263630,
+      "updateTime": 1615602303,
       "lastChapterIdx": 72,
       "paperBook": {
         "skuId": "12276338"
       },
       "secret": 0,
-      "readUpdateTime": 1598936116,
+      "readUpdateTime": 0,
       "finishReading": 0
     },
     {
@@ -7767,7 +7989,7 @@
       "title": "昨日的世界",
       "author": "茨威格",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/324/23796324/s_23796324.jpg",
-      "version": 477463314,
+      "version": 1209917932,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -7784,7 +8006,7 @@
       "category": "文学艺术榜-传记",
       "hasLecture": 1,
       "lPushName": "《布达佩斯大饭店》灵感来源 ，与昨日作别",
-      "updateTime": 1612303855,
+      "updateTime": 1615639036,
       "lastChapterIdx": 20,
       "paperBook": {
         "skuId": "12367969"
@@ -7878,7 +8100,7 @@
       "updateTime": 1604740844,
       "lastChapterIdx": 20,
       "paperBook": {
-        "skuId": "12189597"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1552002366,
@@ -8100,7 +8322,7 @@
       "title": "西方哲学史：从古希腊到当下",
       "author": "奎纳尔·希尔贝克 尼尔斯·吉列尔",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/365/934365/s_934365.jpg",
-      "version": 120714027,
+      "version": 2064254596,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -8116,7 +8338,7 @@
       "paid": 1,
       "category": "哲学社科榜-哲学",
       "hasLecture": 0,
-      "updateTime": 1612074168,
+      "updateTime": 1615404601,
       "lastChapterIdx": 113,
       "paperBook": {
         "skuId": "11868097"
@@ -8242,7 +8464,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1479911217,
+      "readUpdateTime": 1615724660,
       "finishReading": 0
     },
     {
@@ -8269,7 +8491,7 @@
       "updateTime": 1581652800,
       "lastChapterIdx": 68,
       "paperBook": {
-        "skuId": "12179584"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1590147362,
@@ -8421,7 +8643,7 @@
       "updateTime": 1605266146,
       "lastChapterIdx": 209,
       "paperBook": {
-        "skuId": "12706978"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1596290845,
@@ -8582,7 +8804,7 @@
       "title": "弗兰肯斯坦（译文名著精选）",
       "author": "玛丽·雪莱",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/143/932143/s_932143.jpg",
-      "version": 1189926795,
+      "version": 149909303,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -8598,7 +8820,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612079860,
+      "updateTime": 1615414812,
       "lastChapterIdx": 34,
       "paperBook": {
         "skuId": ""
@@ -8631,7 +8853,7 @@
       "updateTime": 1605337445,
       "lastChapterIdx": 50,
       "paperBook": {
-        "skuId": ""
+        "skuId": "11787925"
       },
       "secret": 0,
       "readUpdateTime": 1593339513,
@@ -9174,8 +9396,8 @@
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 0,
       "lPushName": "住房位置没选好差点要了主人的命",
-      "updateTime": 1615380609,
-      "lastChapterIdx": 1825,
+      "updateTime": 1615713010,
+      "lastChapterIdx": 1837,
       "paperBook": {
         "skuId": ""
       },
@@ -9938,7 +10160,7 @@
       "title": "火星编年史",
       "author": "雷·布拉德伯里",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/360/934360/s_934360.jpg",
-      "version": 606176751,
+      "version": 1882267294,
       "format": "epub",
       "type": 0,
       "price": 31.99,
@@ -9954,7 +10176,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 1,
-      "updateTime": 1612081925,
+      "updateTime": 1615417136,
       "lastChapterIdx": 28,
       "paperBook": {
         "skuId": "12221814"
@@ -10058,7 +10280,7 @@
       "title": "码书：编码与解码的战争",
       "author": "西蒙·辛格",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/206/23841206/s_23841206.jpg",
-      "version": 532383267,
+      "version": 406894872,
       "format": "epub",
       "type": 0,
       "price": 40.8,
@@ -10074,7 +10296,7 @@
       "paid": 0,
       "category": "科学科技榜-自然科学",
       "hasLecture": 0,
-      "updateTime": 1612312832,
+      "updateTime": 1615653656,
       "lastChapterIdx": 68,
       "paperBook": {
         "skuId": "12307986"
@@ -10118,7 +10340,7 @@
       "title": "致命引擎（致命引擎系列）",
       "author": "菲利普·瑞弗",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/59/25118059/s_25118059.jpg",
-      "version": 731428462,
+      "version": 632575010,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -10134,7 +10356,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1605133307,
+      "updateTime": 1615729793,
       "lastChapterIdx": 40,
       "paperBook": {
         "skuId": "12540306"
@@ -10299,7 +10521,7 @@
       "title": "省委书记",
       "author": "陆天明",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/945/24139945/s_24139945.jpg",
-      "version": 969762234,
+      "version": 526652860,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -10316,7 +10538,7 @@
       "category": "现实小说榜",
       "hasLecture": 0,
       "lPushName": "讴歌改革的现实主义力作，不畏艰险忠于信仰",
-      "updateTime": 1612312871,
+      "updateTime": 1615660034,
       "lastChapterIdx": 85,
       "paperBook": {
         "skuId": "12410924"
@@ -10481,7 +10703,7 @@
       "title": "狄仁杰之恶麒麟",
       "author": "曹灶",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/859/24153859/s_24153859.jpg",
-      "version": 671176698,
+      "version": 744761838,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -10497,7 +10719,7 @@
       "paid": 0,
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 1,
-      "updateTime": 1612313411,
+      "updateTime": 1615660649,
       "lastChapterIdx": 23,
       "paperBook": {
         "skuId": "12465014"
@@ -10571,7 +10793,7 @@
       "title": "科幻世界（2018年2月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/183/929183/s_929183.jpg",
-      "version": 1932143509,
+      "version": 1974015397,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -10587,7 +10809,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612084742,
+      "updateTime": 1615416579,
       "lastChapterIdx": 19,
       "paperBook": {
         "skuId": ""
@@ -10653,7 +10875,7 @@
         "skuId": "12759831"
       },
       "secret": 0,
-      "readUpdateTime": 1613380464,
+      "readUpdateTime": 1615542239,
       "finishReading": 0
     },
     {
@@ -11293,7 +11515,7 @@
       "title": "一句顶一万句（典藏版）",
       "author": "刘震云",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/835/934835/s_934835.jpg",
-      "version": 1384531809,
+      "version": 1183416196,
       "format": "epub",
       "type": 0,
       "price": 19.99,
@@ -11309,7 +11531,7 @@
       "paid": 1,
       "category": "现实小说榜",
       "hasLecture": 0,
-      "updateTime": 1613814001,
+      "updateTime": 1615421178,
       "lastChapterIdx": 29,
       "paperBook": {
         "skuId": "11893462"
@@ -11490,8 +11712,8 @@
       "finishReading": 0,
       "category": "男生小说榜-悬疑灵异榜",
       "hasLecture": 1,
-      "updateTime": 1615302075,
-      "lastChapterIdx": 2490,
+      "updateTime": 1615657255,
+      "lastChapterIdx": 2498,
       "paperBook": {
         "skuId": ""
       },
@@ -11653,7 +11875,7 @@
       "title": "科幻世界（2017年11月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/730/921730/s_921730.jpg",
-      "version": 936160508,
+      "version": 115263292,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -11669,7 +11891,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612058807,
+      "updateTime": 1615394552,
       "lastChapterIdx": 18,
       "paperBook": {
         "skuId": ""
@@ -11702,7 +11924,7 @@
       "updateTime": 1605645424,
       "lastChapterIdx": 776,
       "paperBook": {
-        "skuId": "12399628"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1608891579,
@@ -11713,7 +11935,7 @@
       "title": "世界史纲",
       "author": "赫伯特·乔治·威尔斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/736/922736/s_922736.jpg",
-      "version": 1299670483,
+      "version": 326930345,
       "format": "epub",
       "type": 0,
       "price": 7.99,
@@ -11729,10 +11951,10 @@
       "paid": 0,
       "category": "历史榜-世界史",
       "hasLecture": 0,
-      "updateTime": 1612066863,
+      "updateTime": 1615399284,
       "lastChapterIdx": 41,
       "paperBook": {
-        "skuId": ""
+        "skuId": "11838675"
       },
       "secret": 0,
       "readUpdateTime": 1585787597,
@@ -11792,7 +12014,7 @@
       "updateTime": 1604853947,
       "lastChapterIdx": 27,
       "paperBook": {
-        "skuId": "12376308"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1615098236,
@@ -11823,7 +12045,7 @@
       "updateTime": 1603738359,
       "lastChapterIdx": 34,
       "paperBook": {
-        "skuId": ""
+        "skuId": "11140980"
       },
       "secret": 0,
       "readUpdateTime": 1595238186,
@@ -12016,7 +12238,7 @@
       "title": "逻辑思维游戏",
       "author": "忘北",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/274/923274/s_923274.jpg",
-      "version": 815270099,
+      "version": 972172780,
       "format": "epub",
       "type": 0,
       "price": 14.99,
@@ -12032,7 +12254,7 @@
       "paid": 0,
       "category": "教育榜-教辅",
       "hasLecture": 0,
-      "updateTime": 1612052952,
+      "updateTime": 1615391724,
       "lastChapterIdx": 11,
       "paperBook": {
         "skuId": "11479653"
@@ -12096,7 +12318,7 @@
       "updateTime": 1566547059,
       "lastChapterIdx": 34,
       "paperBook": {
-        "skuId": "11747302"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1550141045
@@ -12662,9 +12884,9 @@
       "paid": 0,
       "finishReading": 0,
       "category": "男生小说榜-都市小说榜",
-      "hasLecture": 1,
-      "updateTime": 1615320188,
-      "lastChapterIdx": 1715,
+      "hasLecture": 0,
+      "updateTime": 1615665807,
+      "lastChapterIdx": 1718,
       "paperBook": {
         "skuId": ""
       },
@@ -13234,8 +13456,8 @@
       "finishReading": 0,
       "category": "悬疑恐怖榜-恐怖惊悚",
       "hasLecture": 0,
-      "updateTime": 1615383612,
-      "lastChapterIdx": 2167,
+      "updateTime": 1615728007,
+      "lastChapterIdx": 2169,
       "paperBook": {
         "skuId": ""
       },
@@ -13337,7 +13559,7 @@
       "title": "全世界孩子都爱玩的700个思维游戏",
       "author": "陈书凯编著",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/93/935093/s_935093.jpg",
-      "version": 1162251658,
+      "version": 1211733441,
       "format": "epub",
       "type": 0,
       "price": 13.99,
@@ -13353,7 +13575,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612089521,
+      "updateTime": 1615421492,
       "lastChapterIdx": 720,
       "paperBook": {
         "skuId": ""
@@ -13847,11 +14069,41 @@
       "finishReading": 0
     },
     {
+      "bookId": "32436061",
+      "title": "美国真相：民众、政府和市场势力的失衡与再平衡",
+      "author": "约瑟夫·斯蒂格利茨",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/61/32436061/s_32436061.jpg",
+      "version": 1708461712,
+      "format": "epub",
+      "type": 0,
+      "price": 30,
+      "originalPrice": 0,
+      "soldout": 0,
+      "bookStatus": 1,
+      "payType": 4097,
+      "finished": 1,
+      "maxFreeChapter": 22,
+      "free": 0,
+      "mcardDiscount": 0,
+      "ispub": 1,
+      "paid": 1,
+      "category": "军事政治榜-政治",
+      "hasLecture": 1,
+      "updateTime": 1607659204,
+      "lastChapterIdx": 75,
+      "paperBook": {
+        "skuId": "12883182"
+      },
+      "secret": 0,
+      "readUpdateTime": 1615543648,
+      "finishReading": 0
+    },
+    {
       "bookId": "22623964",
       "title": "急智思维游戏",
       "author": "罗非鱼",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/964/22623964/s_22623964.jpg",
-      "version": 1107182596,
+      "version": 1605416975,
       "format": "epub",
       "type": 0,
       "price": 15.99,
@@ -13867,7 +14119,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612121470,
+      "updateTime": 1615455054,
       "lastChapterIdx": 11,
       "paperBook": {
         "skuId": "12359504"
@@ -14001,7 +14253,7 @@
       "title": "黑暗精灵（三部曲）",
       "author": "R·A·萨尔瓦多",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/456/932456/s_932456.jpg",
-      "version": 1379897225,
+      "version": 1883561687,
       "format": "epub",
       "type": 0,
       "price": 53.97,
@@ -14017,7 +14269,7 @@
       "paid": 0,
       "category": "现实小说榜",
       "hasLecture": 0,
-      "updateTime": 1612086997,
+      "updateTime": 1615419075,
       "lastChapterIdx": 105,
       "paperBook": {
         "skuId": "12279674"
@@ -14082,7 +14334,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1590371501,
+      "readUpdateTime": 1615722836,
       "finishReading": 0
     },
     {
@@ -14913,10 +15165,10 @@
       "originalPrice": 0,
       "soldout": 0,
       "bookStatus": 1,
-      "payType": 4097,
+      "payType": 4161,
       "finished": 1,
-      "maxFreeChapter": 13,
-      "free": 0,
+      "maxFreeChapter": 12,
+      "free": 3,
       "mcardDiscount": 0,
       "ispub": 1,
       "paid": 1,
@@ -15120,7 +15372,7 @@
       "title": "3.5强迫升级",
       "author": "李伍熏",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/297/25117297/s_25117297.jpg",
-      "version": 1737636192,
+      "version": 61023426,
       "format": "epub",
       "type": 0,
       "price": 8,
@@ -15136,10 +15388,10 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1609677189,
+      "updateTime": 1615729651,
       "lastChapterIdx": 15,
       "paperBook": {
-        "skuId": "12011554"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1583072464,
@@ -15211,7 +15463,7 @@
       "title": "战争变种",
       "author": "刘慈欣等",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/345/25117345/s_25117345.jpg",
-      "version": 375598878,
+      "version": 845031196,
       "format": "epub",
       "type": 0,
       "price": 8,
@@ -15227,7 +15479,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1609940018,
+      "updateTime": 1615729687,
       "lastChapterIdx": 33,
       "paperBook": {
         "skuId": ""
@@ -15476,7 +15728,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1608612941,
+      "readUpdateTime": 1615437872,
       "finishReading": 0
     },
     {
@@ -16800,8 +17052,8 @@
       "finishReading": 0,
       "category": "男生小说榜-悬疑灵异榜",
       "hasLecture": 0,
-      "updateTime": 1615345805,
-      "lastChapterIdx": 2159,
+      "updateTime": 1615691404,
+      "lastChapterIdx": 2171,
       "paperBook": {
         "skuId": ""
       },
@@ -17083,7 +17335,7 @@
       "title": "《科幻中国》精装13本",
       "author": "刘慈欣 王晋康等",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/353/25117353/s_25117353.jpg",
-      "version": 54333859,
+      "version": 1680820952,
       "format": "epub",
       "type": 0,
       "price": 99,
@@ -17099,7 +17351,7 @@
       "paid": 1,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1604958062,
+      "updateTime": 1615718165,
       "lastChapterIdx": 549,
       "paperBook": {
         "skuId": ""
@@ -17625,7 +17877,7 @@
       "title": "科幻世界（2017年9月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/414/917414/s_917414.jpg",
-      "version": 1381363373,
+      "version": 767076651,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -17641,7 +17893,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612058100,
+      "updateTime": 1615389946,
       "lastChapterIdx": 19,
       "paperBook": {
         "skuId": ""
@@ -18018,7 +18270,7 @@
       "title": "我的前半生（九项奥斯卡大奖电影《末代皇帝》原著）",
       "author": "爱新觉罗·溥仪",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/818/24973818/s_24973818.jpg",
-      "version": 786058100,
+      "version": 1790102362,
       "format": "epub",
       "type": 0,
       "price": 34.99,
@@ -18034,7 +18286,7 @@
       "paid": 1,
       "category": "文学艺术榜-传记",
       "hasLecture": 1,
-      "updateTime": 1612339170,
+      "updateTime": 1615675209,
       "lastChapterIdx": 98,
       "paperBook": {
         "skuId": "12418005"
@@ -18199,7 +18451,7 @@
       "title": "无缘社会",
       "author": "NHK 特别节目录制组",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/416/23796416/s_23796416.jpg",
-      "version": 281030199,
+      "version": 78345157,
       "format": "epub",
       "type": 0,
       "price": 24.99,
@@ -18215,7 +18467,7 @@
       "paid": 1,
       "category": "文学艺术榜-纪实文学",
       "hasLecture": 1,
-      "updateTime": 1612312234,
+      "updateTime": 1615652896,
       "lastChapterIdx": 147,
       "paperBook": {
         "skuId": "12533911"
@@ -18259,7 +18511,7 @@
       "title": "环球科学",
       "author": "公众号",
       "cover": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4O3TRO5C43g3DPWYLa0x5B4Y4oibk7l21NkA2lC3N0Alg/0",
-      "version": 1615347373,
+      "version": 1615708456,
       "format": "epub",
       "type": 3,
       "price": 0,
@@ -18274,7 +18526,7 @@
       "ispub": 0,
       "paid": 0,
       "hasLecture": 0,
-      "updateTime": 1615353115,
+      "updateTime": 1615714029,
       "lastChapterIdx": 0,
       "paperBook": {
         "skuId": ""
@@ -18456,8 +18708,8 @@
       "finishReading": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1615341606,
-      "lastChapterIdx": 566,
+      "updateTime": 1615514405,
+      "lastChapterIdx": 567,
       "paperBook": {
         "skuId": ""
       },
@@ -18650,7 +18902,7 @@
       "title": "科幻世界（2018年1月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/182/929182/s_929182.jpg",
-      "version": 1039379490,
+      "version": 1023287535,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -18666,7 +18918,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612077702,
+      "updateTime": 1615412344,
       "lastChapterIdx": 16,
       "paperBook": {
         "skuId": ""
@@ -18893,7 +19145,7 @@
       "title": "一看就停不下来的中国史",
       "author": "最爱君",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/890/23881890/s_23881890.jpg",
-      "version": 1613405072,
+      "version": 23267852,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -18909,7 +19161,7 @@
       "paid": 1,
       "category": "历史榜-历史随笔",
       "hasLecture": 1,
-      "updateTime": 1612306925,
+      "updateTime": 1615643037,
       "lastChapterIdx": 16,
       "paperBook": {
         "skuId": "12569363"
@@ -20186,7 +20438,7 @@
       "title": "让孩子着迷的趣味思维游戏（基础篇）",
       "author": "张强",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/645/23566645/s_23566645.jpg",
-      "version": 1424094737,
+      "version": 1617373631,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -20202,7 +20454,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612274734,
+      "updateTime": 1615613838,
       "lastChapterIdx": 246,
       "paperBook": {
         "skuId": ""
@@ -20300,7 +20552,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1615208994,
+      "readUpdateTime": 1615720250,
       "finishReading": 0
     },
     {
@@ -20761,7 +21013,7 @@
       "title": "5分钟专注力训练迷宫100：神秘恐龙",
       "author": "沐渔文化绘",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/888/22623888/s_22623888.jpg",
-      "version": 2136240273,
+      "version": 542287706,
       "format": "epub",
       "type": 0,
       "price": 15.99,
@@ -20777,7 +21029,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612111100,
+      "updateTime": 1615438890,
       "lastChapterIdx": 103,
       "paperBook": {
         "skuId": "12310316"
@@ -21018,8 +21270,8 @@
       "finishReading": 0,
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 0,
-      "updateTime": 1615385366,
-      "lastChapterIdx": 625,
+      "updateTime": 1615723825,
+      "lastChapterIdx": 637,
       "paperBook": {
         "skuId": ""
       },
@@ -21080,7 +21332,7 @@
       "updateTime": 1605908816,
       "lastChapterIdx": 43,
       "paperBook": {
-        "skuId": "12615533"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1592224246,
@@ -21351,7 +21603,7 @@
       "updateTime": 1605236707,
       "lastChapterIdx": 18,
       "paperBook": {
-        "skuId": "12048494"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1548465951,
@@ -21453,7 +21705,7 @@
       "title": "白痴（译文名著精选）",
       "author": "陀思妥耶夫斯基",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/109/932109/s_932109.jpg",
-      "version": 984676362,
+      "version": 499119196,
       "format": "epub",
       "type": 0,
       "price": 28.99,
@@ -21469,7 +21721,7 @@
       "paid": 1,
       "category": "经典小说榜-世界名著",
       "hasLecture": 1,
-      "updateTime": 1612072018,
+      "updateTime": 1615402892,
       "lastChapterIdx": 56,
       "paperBook": {
         "skuId": "11404690"
@@ -21603,7 +21855,7 @@
       "title": "蒋勋说红楼梦（套装共8册）",
       "author": "蒋勋",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/142/23444142/s_23444142.jpg",
-      "version": 1372481406,
+      "version": 936174417,
       "format": "epub",
       "type": 0,
       "price": 199,
@@ -21620,7 +21872,7 @@
       "category": "文学艺术榜-文学理论",
       "hasLecture": 1,
       "lPushName": "曹雪芹到底想让贾宝玉和谁在一起？",
-      "updateTime": 1612267331,
+      "updateTime": 1615597317,
       "lastChapterIdx": 1389,
       "paperBook": {
         "skuId": "12042889"
@@ -22084,7 +22336,7 @@
       "title": "约翰·克利斯朵夫（全集）",
       "author": "罗曼·罗兰",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/169/23796169/s_23796169.jpg",
-      "version": 2103118648,
+      "version": 375797711,
       "format": "epub",
       "type": 0,
       "price": 149.99,
@@ -22100,7 +22352,7 @@
       "paid": 1,
       "category": "现实小说榜",
       "hasLecture": 1,
-      "updateTime": 1612300175,
+      "updateTime": 1615643990,
       "lastChapterIdx": 43,
       "paperBook": {
         "skuId": "12657783"
@@ -22144,7 +22396,7 @@
       "title": "中国政治五千年",
       "author": "吕思勉",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/210/22395210/s_22395210.jpg",
-      "version": 1305196771,
+      "version": 1423342801,
       "format": "epub",
       "type": 0,
       "price": 11.99,
@@ -22160,7 +22412,7 @@
       "paid": 1,
       "category": "历史榜-中国史",
       "hasLecture": 0,
-      "updateTime": 1605242152,
+      "updateTime": 1615408728,
       "lastChapterIdx": 38,
       "paperBook": {
         "skuId": ""
@@ -22264,7 +22516,7 @@
       "title": "5分钟专注力训练迷宫100：炫酷汽车",
       "author": "沐渔文化绘",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/890/22623890/s_22623890.jpg",
-      "version": 372109284,
+      "version": 2093167629,
       "format": "epub",
       "type": 0,
       "price": 15.99,
@@ -22280,7 +22532,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612125587,
+      "updateTime": 1615457749,
       "lastChapterIdx": 103,
       "paperBook": {
         "skuId": "12310324"
@@ -22766,7 +23018,7 @@
       "updateTime": 1603704984,
       "lastChapterIdx": 107,
       "paperBook": {
-        "skuId": "12018031"
+        "skuId": ""
       },
       "secret": 1,
       "readUpdateTime": 1550547569
@@ -22896,7 +23148,7 @@
       "title": "北欧神话",
       "author": "卡罗琳·拉灵顿",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/11/24191011/s_24191011.jpg",
-      "version": 1366804576,
+      "version": 798689,
       "format": "epub",
       "type": 0,
       "price": 39.6,
@@ -22912,7 +23164,7 @@
       "paid": 0,
       "category": "哲学社科榜-文化",
       "hasLecture": 1,
-      "updateTime": 1612316595,
+      "updateTime": 1615664538,
       "lastChapterIdx": 56,
       "paperBook": {
         "skuId": "12475351"
@@ -23016,7 +23268,7 @@
       "title": "科幻大师经典代表作品集（套装共12册）",
       "author": "道格拉斯·亚当斯 雷·布拉德伯里等",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/107/25118107/s_25118107.jpg",
-      "version": 1089662366,
+      "version": 1890278444,
       "format": "epub",
       "type": 0,
       "price": 189.99,
@@ -23032,7 +23284,7 @@
       "paid": 1,
       "category": "文学艺术榜-文集",
       "hasLecture": 0,
-      "updateTime": 1600726415,
+      "updateTime": 1615730034,
       "lastChapterIdx": 462,
       "paperBook": {
         "skuId": ""
@@ -23106,7 +23358,7 @@
       "title": "红楼梦（全二册）",
       "author": "曹雪芹",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/173/926173/s_926173.jpg",
-      "version": 633147987,
+      "version": 1890085985,
       "format": "epub",
       "type": 0,
       "price": 9.99,
@@ -23122,7 +23374,7 @@
       "paid": 1,
       "category": "经典小说榜-古典小说",
       "hasLecture": 1,
-      "updateTime": 1612074172,
+      "updateTime": 1615408687,
       "lastChapterIdx": 121,
       "paperBook": {
         "skuId": "10110098"
@@ -23591,7 +23843,7 @@
       "title": "很冷很冷的冷门知识",
       "author": "尹霞",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/36/935036/s_935036.jpg",
-      "version": 730750884,
+      "version": 1761980052,
       "format": "epub",
       "type": 0,
       "price": 6.99,
@@ -23607,7 +23859,7 @@
       "paid": 0,
       "category": "科学科技榜-自然科学",
       "hasLecture": 0,
-      "updateTime": 1612089267,
+      "updateTime": 1615421267,
       "lastChapterIdx": 79,
       "paperBook": {
         "skuId": "12371250"
@@ -23832,7 +24084,7 @@
       "title": "超频交易商",
       "author": "谢云宁",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/573/924573/s_924573.jpg",
-      "version": 241078302,
+      "version": 2001664729,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -23848,7 +24100,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612064414,
+      "updateTime": 1615397196,
       "lastChapterIdx": 84,
       "paperBook": {
         "skuId": "12258748"
@@ -24455,7 +24707,7 @@
       "updateTime": 1604358217,
       "lastChapterIdx": 20,
       "paperBook": {
-        "skuId": "11952124"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1552610013,
@@ -24800,7 +25052,7 @@
       "title": "远大前程（译文名著精选）",
       "author": "狄更斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/87/932087/s_932087.jpg",
-      "version": 334452562,
+      "version": 1601640485,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -24816,7 +25068,7 @@
       "paid": 1,
       "category": "现实小说榜",
       "hasLecture": 0,
-      "updateTime": 1612086380,
+      "updateTime": 1615418389,
       "lastChapterIdx": 64,
       "paperBook": {
         "skuId": "12116721"
@@ -24951,7 +25203,7 @@
       "title": "埃及神话",
       "author": "加里·J.肖",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/9/24191009/s_24191009.jpg",
-      "version": 1898252770,
+      "version": 215251784,
       "format": "epub",
       "type": 0,
       "price": 40.8,
@@ -24967,7 +25219,7 @@
       "paid": 0,
       "category": "历史榜-历史随笔",
       "hasLecture": 1,
-      "updateTime": 1612330723,
+      "updateTime": 1615671458,
       "lastChapterIdx": 16,
       "paperBook": {
         "skuId": "12475365"
@@ -25420,8 +25672,8 @@
       "finishReading": 0,
       "category": "男生小说榜-科幻未来榜",
       "hasLecture": 0,
-      "updateTime": 1615307608,
-      "lastChapterIdx": 1730,
+      "updateTime": 1615653210,
+      "lastChapterIdx": 1742,
       "paperBook": {
         "skuId": ""
       },
@@ -25677,7 +25929,7 @@
       "title": "科幻世界·译文版（2018年2月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/181/929181/s_929181.jpg",
-      "version": 1476764286,
+      "version": 1524609562,
       "format": "epub",
       "type": 0,
       "price": 6.99,
@@ -25693,7 +25945,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612070278,
+      "updateTime": 1615401095,
       "lastChapterIdx": 11,
       "paperBook": {
         "skuId": ""
@@ -26010,7 +26262,7 @@
       "title": "宇宙涟漪中的孩子",
       "author": "谢云宁",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/575/924575/s_924575.jpg",
-      "version": 1594636237,
+      "version": 1730734985,
       "format": "epub",
       "type": 0,
       "price": 6.99,
@@ -26026,7 +26278,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612080101,
+      "updateTime": 1615411454,
       "lastChapterIdx": 25,
       "paperBook": {
         "skuId": "12254656"
@@ -26273,7 +26525,7 @@
       "updateTime": 1602208748,
       "lastChapterIdx": 203,
       "paperBook": {
-        "skuId": ""
+        "skuId": "10072418"
       },
       "secret": 0,
       "readUpdateTime": 1592173195,
@@ -26375,7 +26627,7 @@
       "title": "银河系搭车客指南（五部曲套装）",
       "author": "道格拉斯·亚当斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/390/24147390/s_24147390.jpg",
-      "version": 802896644,
+      "version": 382270082,
       "format": "epub",
       "type": 0,
       "price": 95.99,
@@ -26391,7 +26643,7 @@
       "paid": 1,
       "category": "科幻经典榜",
       "hasLecture": 1,
-      "updateTime": 1612317447,
+      "updateTime": 1615655344,
       "lastChapterIdx": 202,
       "paperBook": {
         "skuId": ""
@@ -26405,7 +26657,7 @@
       "title": "科幻世界（2017年12月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/578/924578/s_924578.jpg",
-      "version": 597806376,
+      "version": 2142407237,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -26421,7 +26673,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612080118,
+      "updateTime": 1615411474,
       "lastChapterIdx": 18,
       "paperBook": {
         "skuId": ""
@@ -26435,7 +26687,7 @@
       "title": "破碎的星球Ⅰ：第五季",
       "author": "N.K.杰米辛",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/573/23181573/s_23181573.jpg",
-      "version": 47130193,
+      "version": 1545268483,
       "format": "epub",
       "type": 0,
       "price": 19.8,
@@ -26451,7 +26703,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612249800,
+      "updateTime": 1615580404,
       "lastChapterIdx": 31,
       "paperBook": {
         "skuId": "12327194"
@@ -26890,7 +27142,7 @@
       "title": "梁羽生闲说金瓶梅",
       "author": "梁羽生",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/741/927741/s_927741.jpg",
-      "version": 1542911784,
+      "version": 858106828,
       "format": "epub",
       "type": 0,
       "price": 10.99,
@@ -26906,7 +27158,7 @@
       "paid": 1,
       "category": "文学艺术榜-文学理论",
       "hasLecture": 0,
-      "updateTime": 1612068768,
+      "updateTime": 1615399615,
       "lastChapterIdx": 52,
       "paperBook": {
         "skuId": ""
@@ -27007,7 +27259,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1608289237
+      "readUpdateTime": 1615725686
     },
     {
       "bookId": "929203",
@@ -27827,7 +28079,7 @@
       "title": "两晋南北朝：迷乱狂欢三百年",
       "author": "梅毅",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/47/23549047/s_23549047.jpg",
-      "version": 919481057,
+      "version": 967317680,
       "format": "epub",
       "type": 0,
       "price": 47.99,
@@ -27843,7 +28095,7 @@
       "paid": 1,
       "category": "历史榜-历史随笔",
       "hasLecture": 0,
-      "updateTime": 1612273424,
+      "updateTime": 1615612488,
       "lastChapterIdx": 122,
       "paperBook": {
         "skuId": ""
@@ -28508,7 +28760,7 @@
       "updateTime": 1598114507,
       "lastChapterIdx": 39,
       "paperBook": {
-        "skuId": "11428052"
+        "skuId": ""
       },
       "secret": 0,
       "readUpdateTime": 1593755536,
@@ -28568,7 +28820,7 @@
       "updateTime": 1609749189,
       "lastChapterIdx": 47,
       "paperBook": {
-        "skuId": ""
+        "skuId": "12075198"
       },
       "secret": 0,
       "readUpdateTime": 1590107254,
@@ -28579,7 +28831,7 @@
       "title": "反骗案中案（独家定制）",
       "author": "常书欣",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/925/34920925/s_34920925.jpg",
-      "version": 963049334,
+      "version": 518955941,
       "format": "epub",
       "type": 0,
       "price": -1,
@@ -28597,13 +28849,13 @@
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 1,
       "lPushName": "《余罪》作者常书欣最新力作！",
-      "updateTime": 1615371009,
-      "lastChapterIdx": 190,
+      "updateTime": 1615695009,
+      "lastChapterIdx": 194,
       "paperBook": {
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1611377347
+      "readUpdateTime": 1615720479
     },
     {
       "bookId": "812457",
@@ -29030,7 +29282,7 @@
       "title": "以色列：一个民族的重生",
       "author": "丹尼尔·戈迪斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/767/24173767/s_24173767.jpg",
-      "version": 1725059502,
+      "version": 1777538944,
       "format": "epub",
       "type": 0,
       "price": 44,
@@ -29047,7 +29299,7 @@
       "category": "历史榜-世界史",
       "hasLecture": 0,
       "lPushName": "生动再现以色列跌宕起伏的建国历史",
-      "updateTime": 1612315281,
+      "updateTime": 1615662724,
       "lastChapterIdx": 35,
       "paperBook": {
         "skuId": "12426658"
@@ -29093,7 +29345,7 @@
       "title": "科幻世界（2017年10月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/507/920507/s_920507.jpg",
-      "version": 1023703325,
+      "version": 775128276,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -29109,7 +29361,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612064287,
+      "updateTime": 1615396571,
       "lastChapterIdx": 17,
       "paperBook": {
         "skuId": ""
@@ -29175,7 +29427,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1596289630,
+      "readUpdateTime": 1615725026,
       "finishReading": 0
     },
     {
@@ -29416,7 +29668,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1615388272,
+      "readUpdateTime": 1615722202,
       "finishReading": 0
     },
     {
@@ -29454,7 +29706,7 @@
       "title": "思辨的禅趣",
       "author": "熊逸",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/899/22980899/s_22980899.jpg",
-      "version": 1406412324,
+      "version": 154982180,
       "format": "epub",
       "type": 0,
       "price": 17.99,
@@ -29470,7 +29722,7 @@
       "paid": 1,
       "category": "哲学社科榜-宗教",
       "hasLecture": 1,
-      "updateTime": 1612252554,
+      "updateTime": 1615585511,
       "lastChapterIdx": 71,
       "paperBook": {
         "skuId": "12378499"
@@ -30176,7 +30428,7 @@
       "title": "侯大利刑侦笔记（独家首发）",
       "author": "小桥老树",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/598/29125598/s_29125598.jpg",
-      "version": 511595909,
+      "version": 53430754,
       "format": "epub",
       "type": 0,
       "price": -1,
@@ -30195,8 +30447,8 @@
       "authorVids": "13607587",
       "hasLecture": 1,
       "lPushName": "百万作家小桥老树全新悬疑巨作",
-      "updateTime": 1615374714,
-      "lastChapterIdx": 449,
+      "updateTime": 1615720321,
+      "lastChapterIdx": 454,
       "paperBook": {
         "skuId": "12818336"
       },
@@ -30290,7 +30542,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1610408985,
+      "readUpdateTime": 1615542278,
       "finishReading": 0
     },
     {
@@ -30328,7 +30580,7 @@
       "title": "曾国藩（全三册）",
       "author": "唐浩明",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/231/927231/s_927231.jpg",
-      "version": 156732005,
+      "version": 83399638,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -30345,7 +30597,7 @@
       "category": "历史榜-历史小说",
       "hasLecture": 1,
       "lPushName": "读懂曾国藩处世智慧的经典之作",
-      "updateTime": 1612067996,
+      "updateTime": 1615399493,
       "lastChapterIdx": 202,
       "paperBook": {
         "skuId": "12925684"
@@ -30709,7 +30961,7 @@
       "updateTime": 1604387378,
       "lastChapterIdx": 43,
       "paperBook": {
-        "skuId": ""
+        "skuId": "12019565"
       },
       "secret": 0,
       "readUpdateTime": 1604903795,
@@ -30962,7 +31214,7 @@
       "title": "异闻录：惊悚怪谈（套装共10册）",
       "author": "桐木 贺宝栋等",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/476/25291476/s_25291476.jpg",
-      "version": 284788345,
+      "version": 25823026,
       "format": "epub",
       "type": 0,
       "price": 99.99,
@@ -30978,7 +31230,7 @@
       "paid": 1,
       "category": "悬疑恐怖榜-恐怖惊悚",
       "hasLecture": 1,
-      "updateTime": 1604961699,
+      "updateTime": 1615727464,
       "lastChapterIdx": 149,
       "paperBook": {
         "skuId": ""
@@ -31191,7 +31443,7 @@
       "updateTime": 1611742301,
       "lastChapterIdx": 27,
       "paperBook": {
-        "skuId": ""
+        "skuId": "12162881"
       },
       "secret": 0,
       "readUpdateTime": 1591919936,
@@ -31325,7 +31577,7 @@
       "title": "数学游戏精选",
       "author": "林夕",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/437/23742437/s_23742437.jpg",
-      "version": 427197219,
+      "version": 583443247,
       "format": "epub",
       "type": 0,
       "price": 11.99,
@@ -31341,7 +31593,7 @@
       "paid": 0,
       "category": "教育榜-少儿教育",
       "hasLecture": 0,
-      "updateTime": 1612297351,
+      "updateTime": 1615634662,
       "lastChapterIdx": 11,
       "paperBook": {
         "skuId": ""
@@ -31538,7 +31790,7 @@
       "title": "戴笠：黑暗时代里最黑暗的人",
       "author": "杨帆",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/309/24069309/s_24069309.jpg",
-      "version": 958891425,
+      "version": 595217118,
       "format": "epub",
       "type": 0,
       "price": 49.99,
@@ -31554,7 +31806,7 @@
       "paid": 1,
       "category": "文学艺术榜-传记",
       "hasLecture": 1,
-      "updateTime": 1612316974,
+      "updateTime": 1615654853,
       "lastChapterIdx": 290,
       "paperBook": {
         "skuId": "12244873"
@@ -31689,7 +31941,7 @@
       "title": "雾都孤儿（译文名著精选）",
       "author": "狄更斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/85/932085/s_932085.jpg",
-      "version": 468105094,
+      "version": 2118311983,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -31705,7 +31957,7 @@
       "paid": 1,
       "category": "经典小说榜-世界名著",
       "hasLecture": 1,
-      "updateTime": 1612071917,
+      "updateTime": 1615402809,
       "lastChapterIdx": 57,
       "paperBook": {
         "skuId": ""
@@ -33018,7 +33270,7 @@
       "title": "银河系搭车客指南",
       "author": "道格拉斯·亚当斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/392/24147392/s_24147392.jpg",
-      "version": 1919023094,
+      "version": 595663232,
       "format": "epub",
       "type": 0,
       "price": 19.99,
@@ -33035,7 +33287,7 @@
       "category": "科幻经典榜",
       "hasLecture": 1,
       "lPushName": "马斯克童年最爱的科幻经典",
-      "updateTime": 1612325734,
+      "updateTime": 1615666312,
       "lastChapterIdx": 46,
       "paperBook": {
         "skuId": "12599388"
@@ -33260,7 +33512,7 @@
       "title": "科幻世界（2018年3月）",
       "author": "科幻世界杂志社",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/399/933399/s_933399.jpg",
-      "version": 136624919,
+      "version": 1343740211,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -33276,7 +33528,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612073072,
+      "updateTime": 1615403475,
       "lastChapterIdx": 14,
       "paperBook": {
         "skuId": ""
@@ -33307,8 +33559,8 @@
       "finishReading": 0,
       "category": "悬疑恐怖榜-侦探推理",
       "hasLecture": 0,
-      "updateTime": 1615388256,
-      "lastChapterIdx": 995,
+      "updateTime": 1615720240,
+      "lastChapterIdx": 1003,
       "paperBook": {
         "skuId": ""
       },
@@ -33606,7 +33858,7 @@
       "free": 0,
       "mcardDiscount": 0,
       "ispub": 1,
-      "paid": 0,
+      "paid": 1,
       "category": "科学科技榜-自然科学",
       "hasLecture": 1,
       "updateTime": 1589888118,
@@ -33615,7 +33867,7 @@
         "skuId": "12616215"
       },
       "secret": 0,
-      "readUpdateTime": 0,
+      "readUpdateTime": 1615542140,
       "finishReading": 0
     },
     {
@@ -33863,7 +34115,7 @@
       "title": "精彩纷呈的物理实验",
       "author": "廖伯琴",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/394/22623394/s_22623394.jpg",
-      "version": 1834933493,
+      "version": 531657067,
       "format": "epub",
       "type": 0,
       "price": 15.99,
@@ -33879,7 +34131,7 @@
       "paid": 0,
       "category": "科学科技榜-自然科学",
       "hasLecture": 0,
-      "updateTime": 1612114413,
+      "updateTime": 1615447497,
       "lastChapterIdx": 47,
       "paperBook": {
         "skuId": ""
@@ -33893,7 +34145,7 @@
       "title": "日本合众国",
       "author": "彼得·特莱亚斯",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/248/23415248/s_23415248.jpg",
-      "version": 331215844,
+      "version": 996507956,
       "format": "epub",
       "type": 0,
       "price": 26.99,
@@ -33909,7 +34161,7 @@
       "paid": 0,
       "category": "科幻经典榜",
       "hasLecture": 0,
-      "updateTime": 1612273390,
+      "updateTime": 1615606238,
       "lastChapterIdx": 14,
       "paperBook": {
         "skuId": "12439242"
@@ -34375,7 +34627,7 @@
       "title": "平行的世界: 尼安德特三部曲",
       "author": "罗伯特·索耶",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/955/22781955/s_22781955.jpg",
-      "version": 659331663,
+      "version": 192090596,
       "format": "epub",
       "type": 0,
       "price": 69.99,
@@ -34391,7 +34643,7 @@
       "paid": 0,
       "category": "经典小说榜-外国经典",
       "hasLecture": 0,
-      "updateTime": 1612239982,
+      "updateTime": 1615570907,
       "lastChapterIdx": 141,
       "paperBook": {
         "skuId": ""
@@ -35057,7 +35309,7 @@
         "skuId": ""
       },
       "secret": 0,
-      "readUpdateTime": 1576244300,
+      "readUpdateTime": 1615725424,
       "finishReading": 0
     },
     {
@@ -35396,7 +35648,7 @@
       "title": "西游记",
       "author": "吴承恩",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/913/919913/s_919913.jpg",
-      "version": 2079948372,
+      "version": 1093512655,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -35412,7 +35664,7 @@
       "paid": 0,
       "category": "经典小说榜-古典小说",
       "hasLecture": 1,
-      "updateTime": 1612063763,
+      "updateTime": 1615395896,
       "lastChapterIdx": 105,
       "paperBook": {
         "skuId": ""
@@ -35426,7 +35678,7 @@
       "title": "江城",
       "author": "彼得·海斯勒",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/29/925029/s_925029.jpg",
-      "version": 1242262369,
+      "version": 347850694,
       "format": "epub",
       "type": 0,
       "price": 18,
@@ -35443,7 +35695,7 @@
       "category": "文学艺术榜-纪实文学",
       "hasLecture": 0,
       "lPushName": "何伟纪实中国起点，看见一个鲜为人知的中国",
-      "updateTime": 1611844614,
+      "updateTime": 1615397408,
       "lastChapterIdx": 19,
       "paperBook": {
         "skuId": "12353995"
@@ -35638,7 +35890,7 @@
       "title": "和孩子一起玩创意：启发孩子创造力的四季艺术课堂",
       "author": "雪宁文 暹罗小喵图",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/616/23566616/s_23566616.jpg",
-      "version": 524390622,
+      "version": 1705881514,
       "format": "epub",
       "type": 0,
       "price": 11.99,
@@ -35654,7 +35906,7 @@
       "paid": 0,
       "category": "教育榜-育儿家教",
       "hasLecture": 0,
-      "updateTime": 1612284954,
+      "updateTime": 1615619259,
       "lastChapterIdx": 61,
       "paperBook": {
         "skuId": ""
@@ -35970,7 +36222,7 @@
       "title": "狄仁杰之恶麒麟",
       "author": "曹灶",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/859/24153859/s_24153859.jpg",
-      "version": 671176698,
+      "version": 744761838,
       "format": "epub",
       "type": 0,
       "price": 29.99,
@@ -36223,7 +36475,7 @@
       "title": "逍遥游：当《庄子》遭遇现实",
       "author": "熊逸",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/897/22980897/s_22980897.jpg",
-      "version": 978201510,
+      "version": 331906877,
       "format": "epub",
       "type": 0,
       "price": 17.99,
@@ -36672,7 +36924,7 @@
       "title": "西游记",
       "author": "吴承恩",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/913/919913/s_919913.jpg",
-      "version": 2079948372,
+      "version": 1093512655,
       "format": "epub",
       "type": 0,
       "price": 4.99,
@@ -36868,7 +37120,7 @@
       "title": "每天一堂北大历史课",
       "author": "程门立雪",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/841/22653841/s_22653841.jpg",
-      "version": 187603933,
+      "version": 1756422365,
       "format": "epub",
       "type": 0,
       "price": 15.6,
@@ -36923,7 +37175,7 @@
       "title": "老舍作品集（全二十一册）",
       "author": "老舍",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/442/924442/s_924442.jpg",
-      "version": 1396944016,
+      "version": 821344240,
       "format": "epub",
       "type": 0,
       "price": 111,
@@ -37343,7 +37595,7 @@
       "title": "红与黑（译文名著精选）",
       "author": "司汤达",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/154/932154/s_932154.jpg",
-      "version": 529738752,
+      "version": 513751627,
       "format": "epub",
       "type": 0,
       "price": 5.99,
@@ -37371,7 +37623,7 @@
       "title": "大雪无痕",
       "author": "陆天明",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/939/24139939/s_24139939.jpg",
-      "version": 1288247929,
+      "version": 921835617,
       "format": "epub",
       "type": 0,
       "price": 30.99,
@@ -37609,7 +37861,7 @@
       "free": 0,
       "mcardDiscount": 0,
       "ispub": 1,
-      "lectureReadUpdateTime": 1592611008,
+      "lectureReadUpdateTime": 1615722226,
       "hasLecture": 0,
       "lecturePaid": 1,
       "lastChapterIdx": 0,
@@ -37964,7 +38216,7 @@
       "title": "全脑演讲：左脑逻辑，右脑情商",
       "author": "大卫祁",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/204/25128204/s_25128204.jpg",
-      "version": 2049036471,
+      "version": 762529255,
       "format": "epub",
       "type": 0,
       "price": 22,
@@ -38089,7 +38341,7 @@
       "free": 0,
       "mcardDiscount": 0,
       "ispub": 1,
-      "lectureReadUpdateTime": 1590372968,
+      "lectureReadUpdateTime": 1615722833,
       "hasLecture": 1,
       "lecturePaid": 1,
       "lastChapterIdx": 0,
@@ -38159,7 +38411,7 @@
       "title": "罪与罚（译文名著精选）",
       "author": "陀思妥耶夫斯基",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/105/932105/s_932105.jpg",
-      "version": 164765276,
+      "version": 1876532082,
       "format": "epub",
       "type": 0,
       "price": 14.99,
