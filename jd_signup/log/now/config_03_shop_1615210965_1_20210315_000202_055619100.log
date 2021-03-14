@@ -1,0 +1,68 @@
+03/15/21 00:02:02 912859500  1615737722
+RANDOM_num: 5
+giftOver="ok"
+03/15/21 00:02:03 150446300  1615737723
+肥鹅 签满7天不能再参加了.
+***********************************************
+7天签到 第 0 天
+当天签到奖励 []
+***********************************************
+
+#店铺名称
+vendername="COSORI厨房电器旗舰店"
+#店铺激活码
+actId="85869b82469347279fd272a3c2015d9f"
+#店铺id
+venderId="10422730"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage"
+
+startTime=1613957940
+endTime=1616549940
+# 活动时间：2021-02-22 09:39 - 2021-03-24 09:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20京豆
+连续签到2天：30京豆
+连续签到3天：20店铺积分
+连续签到4天：30店铺积分
+连续签到5天：40京豆
+连续签到6天：50京豆
+连续签到7天：5元京东E卡
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""5元京东E卡""
+giftRes="ok"
+giftDate="20210314"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["5元京东E卡"]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""5元京东E卡""
+giftRes="ok"
+giftDate="20210314"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["5元京东E卡"]"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""5元京东E卡""
+giftRes="ok"
+giftDate="20210314"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["5元京东E卡"]"
+giftOver="ok"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210315"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
