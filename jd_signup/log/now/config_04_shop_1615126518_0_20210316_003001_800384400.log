@@ -1,0 +1,63 @@
+03/16/21 00:30:08 921416700  1615825808
+RANDOM_num: 10
+removed '/tmp/tmp.HM3OwbQ3wP'
+03/16/21 00:30:10 303996200  1615825810 检查移动签到
+
+real	0m1.091s
+user	0m0.031s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615826412	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615826412	LZ_TOKEN_KEY	lztokenpage877cc8f4828f461aa66e4d7386a8586c
+03/16/21 00:30:13 101541700  1615825813
+use wskey
+
+real	0m0.722s
+user	0m0.078s
+sys	0m0.156s
+03/16/21 00:30:14 138624400  1615825814 token: AAFgT4uVADDRjLhLDgG_xsn54fNScoKZVEtcqXgC1ob95N-rq4lMHF4VcW5ORybQKHIqLyi7h5M
+
+real	0m0.871s
+user	0m0.031s
+sys	0m0.109s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/16/21 00:30:45 941363100  1615825845
+签到失败. 写入失败的giftName: 
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 []
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到大力智能京东自营旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {283:<--} ERROR CODE: 4[0m [0;31;3m[20210316 00:30:49] [ERROR] [0m
+

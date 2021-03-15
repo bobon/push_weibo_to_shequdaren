@@ -1,0 +1,807 @@
+03/16/21 00:02:08 650484300  1615824128
+RANDOM_num: 15
+removed '/tmp/tmp.0msXLSgGhS'
+03/16/21 00:02:11 137219100  1615824131
+王 今天已经签到过. 签到结果: ok  giftDate: 20210316
+***********************************************
+
+
+当天签到奖励 []
+连续签到  天
+签到总天数 
+***********************************************
+
+王 签到结果获取失败.
+03/16/21 00:02:11 623647000  1615824131 检查王签到
+
+real	0m2.213s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:17 024005800  1615824137
+use pt_key
+
+real	0m1.764s
+user	0m0.094s
+sys	0m0.141s
+03/16/21 00:02:19 116612100  1615824139 token: AAFgT4UKADBVV0j1nqWVIFQfL9MT5b1pjOqVrRh3PstT0TLjBm9YmzZMTN34VLrr2uiV4WWfN3I
+
+real	0m1.277s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:22 119261500  1615824142 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:22 721107900  1615824142 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.441s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:28 035921600 1615824148
+
+real	0m1.256s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.077s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:31 375537600  1615824151
+use pt_key
+
+real	0m1.389s
+user	0m0.063s
+sys	0m0.125s
+03/16/21 00:02:33 385130200  1615824153 token: AAFgT4UYADBROS8mLkbCRHMZnng4G4GTxrFgn9og2OF7gHKZSJLABdNA0N1Hs0GIDullmpgkHNE
+
+real	0m1.826s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:36 858253700  1615824156 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:37 276976100  1615824157 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.100s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:42 529961800 1615824162
+
+real	0m1.362s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.342s
+user	0m0.000s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:46 638662300  1615824166
+use pt_key
+
+real	0m1.348s
+user	0m0.094s
+sys	0m0.109s
+03/16/21 00:02:48 180243800  1615824168 token: AAFgT4UnADDx515e2J41TAeelsKUja34R0EM-mu34X03Dle2k0rwqjvUG5JOrPda-54_qahiJZg
+
+real	0m1.539s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:50 971260000  1615824170 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:51 269043300  1615824171 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.618s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:56 533363600 1615824176
+
+real	0m1.547s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.929s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:00 026044000  1615824180
+use pt_key
+
+real	0m1.890s
+user	0m0.078s
+sys	0m0.109s
+03/16/21 00:03:02 160158200  1615824182 token: AAFgT4U1ADAcqbUV_tMk3hckDE2zq_0GW12wM_vKQgwoDpfIH7TPzJcsWuAkyOMr5AybWuB4q6Q
+
+real	0m0.951s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:06 634042400  1615824186 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:06 791078400  1615824186 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.865s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:11 752354100 1615824191
+
+real	0m1.581s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.236s
+user	0m0.000s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:15 564621600  1615824195
+use pt_key
+
+real	0m1.582s
+user	0m0.063s
+sys	0m0.141s
+03/16/21 00:03:17 357469500  1615824197 token: AAFgT4VEADBYErrczUyf897n4rx2hPq8ThUxYg01MoPsJRry1BASbZkjVKT-riXUnWpTsgMy2rY
+
+real	0m0.978s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:20 500524700  1615824200 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:20 922582100  1615824200 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.593s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:26 039558200 1615824206
+
+real	0m1.893s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.276s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:30 139237700  1615824210
+use pt_key
+
+real	0m0.851s
+user	0m0.125s
+sys	0m0.125s
+03/16/21 00:03:31 273680200  1615824211 token: AAFgT4VSADCpesjwCgML8S56H0Q67Eu1GP8XK69hmCV9pqIQJt5YUUu7mCR0STwTeIyrnlCkBTQ
+
+real	0m1.254s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:34 372234700  1615824214 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:34 807997600  1615824214 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.226s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:39 674769400 1615824219
+
+real	0m2.006s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.322s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:43 762046200  1615824223
+use pt_key
+
+real	0m0.966s
+user	0m0.094s
+sys	0m0.141s
+03/16/21 00:03:45 131230100  1615824225 token: AAFgT4VgADDe9qAlxy4sxsQYRmhPfC3tltbBvJwR6gAz02GSOgSadXJiaXfZ3V7lq5BcoeU1EP8
+
+real	0m1.055s
+user	0m0.063s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:47 795659700  1615824227 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:48 224520100  1615824228 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.070s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:52 733166700 1615824232
+
+real	0m2.499s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.550s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:57 501909100  1615824237
+use pt_key
+
+real	0m1.402s
+user	0m0.109s
+sys	0m0.078s
+03/16/21 00:03:59 035419000  1615824239 token: AAFgT4VuADCKgjJ1572wWEUz6w7KjCV8aKGa_yG00Rrm8E1hsUvTeY6TcRbDSOopie8B3Oozsh8
+
+real	0m0.962s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:01 524752300  1615824241 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:01 889215700  1615824241 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.130s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:08 151160700 1615824248
+
+real	0m2.604s
+user	0m0.016s
+sys	0m0.063s
+
+real	0m1.719s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:13 450023000  1615824253
+use pt_key
+
+real	0m1.057s
+user	0m0.125s
+sys	0m0.141s
+03/16/21 00:04:14 754679200  1615824254 token: AAFgT4V-ADDpOXSvqvinul0xcUGXypl2sWt33IwaLY4TSfTFXLzwlZWUhXL6_5n7WvpTWaOBsPQ
+
+real	0m1.216s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:17 667647200  1615824257 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:17 999518000  1615824257 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.512s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:22 460446000 1615824262
+
+real	0m2.854s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m1.319s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:27 350521000  1615824267
+use pt_key
+
+real	0m1.132s
+user	0m0.063s
+sys	0m0.125s
+03/16/21 00:04:28 996346400  1615824268 token: AAFgT4WLADBhZU466PGAGOERdTJ9RVAOEqFkaIwnjngRmO3EPPrYxFSkcFWBtsXCNErBoi884cc
+
+real	0m0.738s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:30 991712300  1615824270 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:31 254294300  1615824271 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.588s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:36 098162600 1615824276
+
+real	0m2.922s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.132s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:40 957652100  1615824280
+use pt_key
+
+real	0m1.067s
+user	0m0.109s
+sys	0m0.156s
+03/16/21 00:04:42 455584700  1615824282 token: AAFgT4WZADA1kAJlas7NlNG8YhWJlXjhRVUdt4Ikinw9ZaHNQ1r7DYq57hAVvWdQoqCIYfKOSw8
+
+real	0m1.004s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:44 572617100  1615824284 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:44 892121300  1615824284 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.915s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:49 136780400 1615824289
+
+real	0m3.106s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.595s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:54 743954300  1615824294
+use pt_key
+
+real	0m1.028s
+user	0m0.109s
+sys	0m0.156s
+03/16/21 00:04:56 063179700  1615824296 token: AAFgT4WnADCiaShM2UWHHcrawcpz2Q03prrT85IDD5P7DfOifSvAD7YDq9Dpejk4ltkNbSOK3S4
+
+real	0m0.918s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:58 667689200  1615824298 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:58 994910400  1615824298 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.741s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:03 248644900 1615824303
+
+real	0m3.556s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.737s
+user	0m0.063s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:08 148404100  1615824308
+use pt_key
+
+real	0m0.976s
+user	0m0.125s
+sys	0m0.125s
+03/16/21 00:05:09 348960900  1615824309 token: AAFgT4W0ADCzrdg8tFgCNo-tMsFuOcPyTL7JBR0_dZ0_CrME4AbVz769GfieG-JN3NrqAYYQZWU
+
+real	0m1.279s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:13 336086900  1615824313 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:13 773765700  1615824313 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.425s
+user	0m0.031s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:17 553035500 1615824317
+
+real	0m3.261s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.906s
+user	0m0.016s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:22 301471500  1615824322
+use pt_key
+
+real	0m0.852s
+user	0m0.141s
+sys	0m0.063s
+03/16/21 00:05:23 427315100  1615824323 token: AAFgT4XCADAi848dsn8APxRUu5AOt1gzICxWomeCUYFzBoScdgfbQjuIR85YgdxH6Vuj33tg_N4
+
+real	0m0.856s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:25 773507800  1615824325 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:26 096906100  1615824326 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.197s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:30 584151400 1615824330
+
+real	0m3.594s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.992s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:36 293560200  1615824336
+use pt_key
+
+real	0m0.843s
+user	0m0.078s
+sys	0m0.141s
+03/16/21 00:05:37 316036400  1615824337 token: AAFgT4XQADDd9hmrBd0M4AkX-zw8IiWh0q1MrvKtYMlFjGT1sSFuybWX6VQLirb4qhFgQhOtPPg
+
+real	0m1.007s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:39 542396500  1615824339 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:39 994750300  1615824339 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.453s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:46 136817200 1615824346
+
+real	0m3.506s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.800s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:52 294410200  1615824352
+use pt_key
+
+real	0m0.875s
+user	0m0.063s
+sys	0m0.156s
+03/16/21 00:05:53 485257800  1615824353 token: AAFgT4XgADB4I8px4V_8DD9sykZqicuUSzETGJc5rCIuZ0DhfwKsFDPEvdgWgw5w644qAMSJ1XA
+
+real	0m1.026s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:56 600599900  1615824356 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:57 134843100  1615824357 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.424s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:03 234492900 1615824363
+
+real	0m4.118s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m1.067s
+user	0m0.031s
+sys	0m0.031s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:09 139809200  1615824369
+use pt_key
+
+real	0m1.223s
+user	0m0.063s
+sys	0m0.188s
+03/16/21 00:06:10 724204400  1615824370 token: AAFgT4XxADCryoo1ksaqp01vuoOsJSv3Ztb97LHHgj6nrupgkPTzP8UsjxyK2k-QbzqJikNW-ag
+
+real	0m1.141s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:13 348081900  1615824373 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:13 713342400  1615824373 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.147s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:17 478243700 1615824377
+
+real	0m4.166s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.675s
+user	0m0.063s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:22 866053700  1615824382
+use pt_key
+
+real	0m1.290s
+user	0m0.125s
+sys	0m0.094s
+03/16/21 00:06:24 409005600  1615824384 token: AAFgT4X_ADA6yle6VTkwIJdQc902O7Ninfk9i4tx5ZzXR1iNthzsTbL42Kp8D1nqdz3uaLfzGhQ
+
+real	0m1.780s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:27 412007400  1615824387 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:27 759954700  1615824387 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.960s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:32 891790000 1615824392
+
+real	0m4.772s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.701s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:38 718267800  1615824398
+use pt_key
+
+real	0m1.113s
+user	0m0.063s
+sys	0m0.156s
+03/16/21 00:06:40 089796000  1615824400 token: AAFgT4YPADDsg-_TvViP7EC4YUwEzpVEorndP2ckkDATHbuk7z4m1U6-aXBg1g8Wb0uPM2tB_S4
+
+real	0m1.267s
+user	0m0.000s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:43 030471200  1615824403 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:43 470613800  1615824403 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m1.348s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:48 193590000 1615824408
+
+real	0m4.692s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.329s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:53 471956100  1615824413
+use pt_key
+
+real	0m0.416s
+user	0m0.109s
+sys	0m0.109s
+03/16/21 00:06:53 978798700  1615824413 token: AAFgT4YdADCRoVPyAsFycE33KdC6ez8BDrFX8J2O5rV9byxAcDNnlUdXa9U41AeVyTsCXI8xDc4
+
+real	0m0.398s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:55 194724100  1615824415 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:55 403970100  1615824415 王签到JEEP SPIRIT眼镜旗舰店
+
+real	0m0.534s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:58 747443600 1615824418
+
+real	0m4.550s
+user	0m0.000s
+sys	0m0.031s
+03/16/21 00:07:49 815501600  1615824469
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/shop_1614611215_136
+
+王签到JEEP SPIRIT眼镜旗舰店查看结果
+
+
+
+JEEP SPIRIT眼镜旗舰店活动规则
+
+
+actId=a3e7341936fb4fe786cb441977fad1df
+venderId=10114665
+startTime=1613664000000
+endTime=1616169659000
+# 短链接
+suo_url="https://3.cn/1012Wo-ru"
+actTimeStr="2021-02-19 00:00 至 2021-03-20 00:00"
+#店铺名称
+vendername="JEEP SPIRIT眼镜旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a3e7341936fb4fe786cb441977fad1df&venderId=10114665&adsource=tg_xuanFuTuBiao
+# 活动时间：2021.02.19 00:00:00 - 2021.03.20 00:00:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆 1京豆
+连续签到5天：3京豆 3京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1614556800;signed=2
+signTime=1614643200;signed=2
+signTime=1614729600;signed=2
+signTime=1614816000;signed=2
+signTime=1614902400;signed=2
+signTime=1614988800;signed=2
+signTime=1615075200;signed=2
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615680000;signed=2
+signTime=1615766400;signed=2"
+sign_num="4"
+sign_total_num="19"
+giftName=""
+giftRes="ok"
+giftDate="20210315"
+sign_res_info="
+2021/03/01_08:00:00  [已~签~到]      
+2021/03/02_08:00:00  [已~签~到]      
+2021/03/03_08:00:00  [已~签~到]      
+2021/03/04_08:00:00  [已~签~到]      
+2021/03/05_08:00:00  [已~签~到]      
+2021/03/06_08:00:00  [已~签~到]      
+2021/03/07_08:00:00  [已~签~到]      
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/14_08:00:00  [已~签~到]      
+2021/03/15_08:00:00  [已~签~到]      
+当天签到奖励 []
+连续签到 4 天
+签到总天数 19"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210315"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到  天
+签到总天数 "
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 []
+连续签到  天
+签到总天数 "
+#王 1309893722-164885 sign_res_end

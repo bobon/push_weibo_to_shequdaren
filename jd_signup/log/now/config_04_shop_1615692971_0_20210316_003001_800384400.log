@@ -1,0 +1,112 @@
+03/16/21 00:30:05 465586500  1615825805
+RANDOM_num: 35
+removed '/tmp/tmp.JslQ17Uvt6'
+03/16/21 00:30:06 883140300  1615825806 检查移动签到
+
+real	0m1.010s
+user	0m0.078s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615826408	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615826408	LZ_TOKEN_KEY	lztokenpage347012f098204ca88a5380b43daed9a2
+03/16/21 00:30:09 693609100  1615825809
+use wskey
+
+real	0m1.158s
+user	0m0.109s
+sys	0m0.109s
+03/16/21 00:30:11 080843700  1615825811 token: AAFgT4uSADCIG_wzqQgE4SV-jRli1WcKLClYJs3Gv0jPIYUgKqBqe8KRu911aSJNuU5jXX8Eqjc
+
+real	0m2.389s
+user	0m0.063s
+sys	0m0.125s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/16/21 00:31:59 834012400  1615825919
+parse error: Invalid numeric literal at line 1, column 10
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+移动签到先锋两季品京东自营旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="先锋两季品京东自营旗舰店"
+#店铺激活码
+actId="fd588dc5c2744f489a1e7b04316e40f3"
+#店铺id
+venderId="1000002569"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=fd588dc5c2744f489a1e7b04316e40f3&venderId=1000002569&adsource=tg_storePage"
+
+startTime=1614061380
+endTime=1616480580
+# 活动时间：2021-02-23 14:23 - 2021-03-23 14:23；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：10京豆
+连续签到3天：15京豆
+连续签到4天：20京豆
+连续签到5天：25京豆
+连续签到6天：30京豆
+连续签到7天：32京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210315"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210315"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210315"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210316"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

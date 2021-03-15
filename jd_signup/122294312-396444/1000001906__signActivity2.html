@@ -15,7 +15,6 @@
 <head>
     
 
-
 <meta charset="UTF-8">
 <meta name="viewport"
       content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
@@ -24,20 +23,20 @@
 <meta http-equiv="expires" content="-1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.css?2831">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/animate.min.css?2831">
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.css?2831">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.css?2847">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxjs/animate.min.css?2847">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.css?2847">
 
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/htmlFontSize.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.fx.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/vue.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/jd/jssdk.min.js?2831"></script>
-<script src="//res.wx.qq.com/open/js/jweixin-1.3.2.js?2831"></script>
-<script src="//h5static.m.jd.com/act/jm-jdshare/2.3.0/jm-jdshare.js?2831"></script>
-<script type="text/javascript" src="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.min.js?2831"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/htmlFontSize.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/zepto.fx.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/vue.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/gallery/ibd/ibd.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/jd/jssdk.min.js?2847"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.3.2.js?2847"></script>
+<script src="//h5static.m.jd.com/act/jm-jdshare/2.3.0/jm-jdshare.js?2847"></script>
+<script type="text/javascript" src="//cjwxqz.dianpusoft.cn/resources/plugIn/vant/vant.min.js?2847"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/vConsole/3.3.4/vconsole.min.js"></script>
 
 <script type="text/javascript">
@@ -49,23 +48,32 @@
 <script type="text/javascript" src="//wl.jd.com/unify.min.js"></script>
 
 
-<title>签到有礼</title>
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0000.min.css?2831">
-    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/sign/0140/0140.css?2831">
-    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/component-countdown.min.css?2831">
+<title>7日签到</title>
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/7sign/0000.min.css?2847">
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/draw-sign-list.css?2847">
+
+    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/7sign/0001/0001.min.css?2847">
+    <link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/component-countdown.min.css?2847">
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+    </style>
 </head>
 <body>
 <input type="hidden" id="baseUrl" value="https://lzkj-isv.isvjcloud.com">
 <input type="hidden" id="baseResourcesUrl" value="//cjwxqz.dianpusoft.cn/resources">
-<input type="hidden" id="activityId" value="c2560ac2bcc94894ae41bb66e5921640">
+<input type="hidden" id="activityId" value="1e5cac4ad760485d931141412c9fab0c">
 <input type="hidden" id="venderId" value="1000001906">
 <input type="hidden" id="userId" value="1000001906">
-<input type="hidden" id="startTime" value="2021-02-20 16:43:00.0">
+<input type="hidden" id="startTime" value="2021-02-27 23:24:00.0">
+<input type="hidden" id="needFollow" value="true">
+<input type="hidden" id="needFollow" value="true">
 <div id="timmer">
     <vue-countdown v-bind:vendtime="jstime?jstime:0"></vue-countdown>
 </div>
 
-<div id="app" v-show="isShowApp" style="display: none;">
+<div id="app" v-show="isShowApp" v-cloak>
     
     
 
@@ -75,56 +83,154 @@
 
 
 
-    
-    
-    <div class="draw-rule" @click="showSidebar"></div>
-    <div class="draw-banner-name animated ">{{shopInfo.shopName}}</div>
-    <div class="draw-banner">
-        <img class="animated bounceInDown" src="//img10.360buyimg.com/imgzone/jfs/t1/25949/39/12764/16727/5c9ad2b3E788bc671/c4a411fa28b35cda.png" alt="" style="display: block;">
+    <a href="javascript:;" @click="gotoShopPage( shopInfo.sid)" class="animated fadeInDownBig" style=" position: absolute;
+    top: 0.3rem;
+    right: 0.3rem;
+        font-size: 0.24rem;
+        width: 1.3rem;
+    height: 0.4rem;
+     z-index: 2;line-height: 0.4rem;background: #fff;text-align: center;border-radius: 10px;color: #f23c3c;">进店逛逛</a>
+
+    <div class="draw-banner-name fadeInDown animated">{{shopInfo.shopName}}</div>
+
+    <div class="draw-banner animated bounceInDown" style="height: 3.1rem;">
+        
     </div>
-        <div class="signButton">
-            <div class="draw-sign-btn" @click="sign" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay" style="width: 3.1rem">
-                {{isFocusShop == 'y'?'关注店铺 点我签到':'点我签到'}}
-            </div>
-            <div class="draw-sign-btn1 active" v-if="signRecord.lastSignDate == nowDay">
-                今日已签到
-                <img class="hasSign" src="//img10.360buyimg.com/imgzone/jfs/t1/29052/2/12825/2797/5c9ae050E0e164d3f/2b76c47d7b9df1ba.png" alt="">
-            </div>
-            <div style="font-size: .24rem;color: #ffe9b3;margin-top: .2rem" v-if="signRecord.lastSignDate == null || signRecord.lastSignDate != nowDay">~今日未签到~</div>
-        </div>
-    <div class="draw-sign-ctn">
-        <div class="draw-sign-count f-cb">
-            <div class="f-fl">连续签 <span style="color: #fc7742;font-size: .36rem;margin: 0 .1rem;">{{signRecord.contiSignNum}}</span> 天</div>
-            <div class="f-fr">累计签 <span style="color: #fc7742;font-size: .36rem;margin: 0 .1rem;">{{signRecord.totalSignNum}}</span> 天</div>
-        </div>
-        <div class="draw-sign-date">{{day}}</div>
+    <div class="draw-banner-gift animated bounceInDown" style="height: 1.5rem;">
+        <img src="//img10.360buyimg.com/imgzone/jfs/t1/39551/27/9774/28171/5d11cd8cE51dd2a2e/9cb9c6ecfa1599b1.png" alt="">
     </div>
-    <div class="draw-content">
-        <div class="draw-plate" id="lottery" ref="plate">
-            <div class="draw-sign-week f-cb">
-                <span>日</span>
-                <span>一</span>
-                <span>二</span>
-                <span>三</span>
-                <span>四</span>
-                <span>五</span>
-                <span>六</span>
+    <div class="f-tac animated fadeInDown" style="margin-top: 0.5rem; font-size: 0.24rem;color: #f22c63;">
+        <div class="f-ib">
+            <template v-if="attrTouXiang != '' && attrTouXiang != null">
+                <div>
+                    <img :src="attrTouXiang"
+                         alt="" style="width: 0.46rem;height: 0.46rem;border-radius: 100%;">
+                </div>
+            </template>
+            <template v-else>
+                <div>
+                    <img src="https://img10.360buyimg.com/imgzone/jfs/t20782/85/568972117/2758/78eafc28/5b0fd507Ne2b074cc.png"
+                         alt="" style="width: 0.46rem;height: 0.46rem;border-radius: 100%;">
+                </div>
+            </template>
+        </div>
+        <div class="f-ib">您已连续签到</div>
+        <div class="f-ib">
+            <span class="draw-sign-day">{{act.contiSignDays}}</span>
+        </div>
+        <div class="f-ib">天，签到就能领福利啦！</div>
+    </div>
+
+    <template v-if="act.isOver == 'n'">
+        <div class="f-tac" style=" user-select: none;">
+            <div v-if="true=='0'" @click="sign" class="draw-sign-btn animated fadeInDown" >
+                <strong style="color: #fff;">点击签到</strong>
             </div>
-            <div class="draw-sign-day">
-                <span v-for="it in dateList" :class="{disabled: it.isDisabled, isign: it.isign, isgift: it.isgift}">
-                    {{it.day}}
-                    <template v-if = "it.isCurDay && it.isign">
-                        <img class="isCurDay" src="//img10.360buyimg.com/imgzone/jfs/t1/20700/40/12812/850/5c9adec0Ecde43ac3/7e93218151bc0c45.png" alt="" >
-                    </template>
-                </span>
+            <div v-else class="draw-sign-btn2 active animated fadeInDown" @click="sign">
+                <strong style="color: #fff;">关注店铺点击签到</strong>
             </div>
+        </div>
+
+        <div class="f-tac">
+            <div class="draw-7sign-bg scen1" :class="['scen' + act.toDay]">
+
+                <template v-for="it in act.giftConditions">
+                    <div :class="['day' + it.dayNum,
+                act.toDay == it.dayNum ? 'today':'',
+                act.contiSignDays >= it.dayNum ? 'active': '']"
+                         @click="callPrizeDetail">
+                        <div v-if="act.toDay == it.dayNum">
+                            <i class="day-sign-say"></i>
+                        </div>
+
+                        <template v-if="it.showType == '0'">
+                            <template v-if="it.gift != null">
+                                <template v-if="it.dayNum == 7">
+                                    <div class="day-sign-zjlp"></div>
+                                </template>
+                                <template v-else>
+                                    <div class="day-sign-smlp"></div>
+                                </template>
+                            </template>
+                        </template>
+
+                        <template v-if="it.showType == '1'">
+
+                            <template v-if="it.gift != null">
+                                <template v-if="it.gift.giftType == '1' || it.gift.giftType == '10' ">
+                                    <div class="day-sign-gift">
+                                        <div class="pic">
+                                            <i class="draw-sign-prize-yhq"></i>
+                                        </div>
+                                        <div class="name">{{it.gift.giftName}}</div>
+                                    </div>
+                                </template>
+                                <template v-if="it.gift.giftType == '6'">
+                                    <div class="day-sign-gift">
+                                        <div class="pic">
+                                            <i class="draw-sign-prize-jingdou"></i>
+                                        </div>
+                                        <div class="name">{{it.gift.giftName}}</div>
+                                    </div>
+                                </template>
+                                <template v-if="it.gift.giftType == '7'">
+                                    <div class="day-sign-gift">
+                                        <div class="pic">
+                                            <template v-if="it.imgUrl == ''">
+                                                <img src="//cjwxqz.dianpusoft.cn/resources/wxcss/wxJiuGongGeDraw/0010/shiwu_zc.png" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                            </template>
+                                            <template v-else>
+                                                <img :src="it.imgUrl" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                            </template>
+                                        </div>
+                                        <div class="name">{{it.gift.giftName}}</div>
+                                    </div>
+                                </template>
+                                <template v-if="it.gift.giftType == '8'">
+                                    <div class="day-sign-gift">
+                                        <div class="pic">
+                                            <img :src="it.imgUrl" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                        </div>
+                                        <div class="name">{{it.gift.giftName}}</div>
+                                    </div>
+                                </template>
+                                <template v-if="it.gift.giftType == '9'">
+                                    <div class="day-sign-gift">
+                                        <div class="pic">
+                                            <i class="draw-sign-prize-jifen"></i>
+                                        </div>
+                                        <div class="name">{{it.gift.giftName}}</div>
+                                    </div>
+                                </template>
+                            </template>
+
+                        </template>
+                    </div>
+                </template>
+            </div>
+        </div>
+    </template>
+    <template v-else>
+        <div class="f-tac" style="margin: 0.8rem 0.4rem;">本活动7天已签到完成，请参加其他活动！</div>
+    </template>
+
+    <div class="ibd-rule-ctn">
+        <div class="name">
+
+
+
+        </div>
+        <div class="ctn" style="color: #f22c63;">
+            <div v-html="rule" style="margin-top: 0.2rem;"></div>
         </div>
     </div>
 
     <div v-if="wareList.length > 0">
-        <div class="wareTitle" style="text-align: center;">店长推荐</div>
-        <div>
-            <ul class="draw-sign-list f-cb">
+        <div class="f-tac">
+            <img src="//img10.360buyimg.com/imgzone/jfs/t1/83992/20/2841/14486/5d11b75cE03d4102e/bb9b0c20ca870327.png" alt="" style="display: inline-block;width: 6.4rem;height: 1.2rem;">
+        </div>
+        <div class="f-tac" style="margin-top: 0.12rem;">
+            <ul class="draw-7sign-list f-cb">
                 <li v-for="it in wareList">
                     <div class="pic">
                         <a href="javascript:;" @click="gotoSkuPage(it.skuId)">
@@ -151,40 +257,87 @@
         </div>
     </div>
 
-    <!--恭喜弹窗-->
-    <div>
-        <transition name="fase">
-            <div class="gongxi-mask" v-show="isGongxi"></div>
-        </transition>
-        <transition name="ease">
-            <div class="gongxi-content" v-show="isGongxi">
-                <a href="javascript:;" class="gongxi-content-close" @click="hideGongxi"></a>
+    
+    
+<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/draw-sign-list.css?2847">
+<!--加倍曝光通用代码-->
+<div v-if="actCustomPromotionList != null && actCustomPromotionList.length > 0">
+    <div v-for="it in actCustomPromotionList">
+        <div :style="{'backgroundColor': '#' + it.bgColor}" style="padding-bottom: 10px;">
+            <div :style="{color: '#' + it.textColor}" style="text-align: center;padding: 10px 0;">{{it.name}}</div>
+            <div>
+                <div v-if="it.pic1 != null && it.pic1 != ''" class="pic" style="padding: 0 0.1rem;">
+                    <a :href="it.url1" target="_blank">
+                        <img alt="" v-lazy="it.pic1" style="display: block;width: 100%">
+                    </a>
+                </div>
+                <div v-if="it.pic2 != null && it.pic2 != ''" class="pic"
+                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
+                     style="padding: 0 0.1rem;">
+                    <a :href="it.url2" target="_blank">
+                        <img alt="" v-lazy="it.pic2" style="display: block;width: 100%">
+                    </a>
+                </div>
+                <div v-if="it.pic3 != null && it.pic3 != ''" class="pic"
+                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
+                     style="padding: 0 0.1rem;">
+                    <a :href="it.url3" target="_blank">
+                        <img alt="" v-lazy="it.pic3" style="display: block;width: 100%">
+                    </a>
+                </div>
+                <div v-if="it.pic4 != null && it.pic4 != ''" class="pic"
+                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
+                     style="padding: 0 0.1rem;">
+                    <a :href="it.url4" target="_blank">
+                        <img alt="" v-lazy="it.pic4" style="display: block;width: 100%">
+                    </a>
+                </div>
+                <div v-if="it.pic5 != null && it.pic5 != ''" class="pic"
+                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
+                     style="padding: 0 0.1rem;">
+                    <a :href="it.url5" target="_blank">
+                        <img alt="" v-lazy="it.pic5" style="display: block;width: 100%">
+                    </a>
+                </div>
             </div>
-        </transition>
+            <div v-if="it.wareList != null && it.wareList.length > 0">
+                <div :style="{color: '#' + it.textColor}" style="text-align: center;padding: 10px 0;">精品推荐</div>
+                <div>
+                    <ul class="jb_draw-sign-list f-cb">
+                        <li v-for="ware in it.wareList">
+                            <div class="pic" style="padding: .1rem;">
+                                <a href="javascript:;" @click="gotoSkuPage(ware.skuId)">
+                                    <img alt="" v-lazy="'//img10.360buyimg.com/n1/' + ware.logo" style="width: 100%">
+                                </a>
+                            </div>
+                            <div class="title">{{ware.skuName}}</div>
+                            <div class="detail f-cb">
+                                <div class="f-fl">
+                                    <div v-if="ware.showType == 1" class="price">￥{{ware.jdPrice}}</div>
+                                    <div v-if="ware.showType == 2" class="price">
+                                        <template v-if="ware.promoPrice == '' || ware.promoPrice == null">￥{{ware.jdPrice}}
+                                        </template>
+                                        <template v-else>￥{{ware.promoPrice}}</template>
+                                    </div>
+                                    
+                                </div>
+                                <div class="f-fr">
+                                    <a class="" style="display: inline-block;margin-top: .1rem;background: #f56264;border-radius: 3px;padding: .05rem .15rem;color: #fff;text-decoration: none;" href="javascript:;" @click="gotoSkuPage(ware.skuId)">购买</a>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/vue-lazyload.js?2847"></script>
 
-    <Sidebar v-model="isidebar">
-        <div class="draw-sidebar-content">
-            <div class="draw-tabs f-cb">
-                <ul class="f-cb">
-                    <li class="f-fl" :class="{active: activeTab === 0}" @click="changeTabs(0)"><a href="javascript:;">活动说明</a></li>
-                    <li class="f-fl" :class="{active: activeTab === 1}" @click="changeTabs(1)"><a href="javascript:;">我的奖品</a></li>
-                </ul>
-            </div>
-            <div class="draw-tabs-content">
-                <div class="draw-tabs-item" :class="{active: activeTab === 0}">
-                    <div>
-                        <div class="draw-label">规则说明</div>
-                        <div v-html="rule" style="margin-top: 0.2rem;"></div>
-                    </div>
-                    <div style="margin-top: 0.4rem;">
-                        <div class="draw-label">主办单位</div>
-                        <div style="margin-top: 0.2rem;">{{shopInfo.shopName}}</div>
-                    </div>
-                    <div style="margin-top: 0.4rem;">
-                        <div class="draw-label">技术支持</div>
-                        <div style="margin-top: 0.2rem;">
-                            
+
+    <div class="ibd-foot-copy">
+        
 <!-- 底部 -->
 <div>
     京麦服务市场插件 <span style="color:#3f80ff;">超级无线</span> 提供技术支持
@@ -209,94 +362,135 @@
     },1000)
 </script>
 
-                        </div>
+    </div>
+
+    <!--奖品详细弹窗-->
+    <div>
+        <transition name="fase">
+            <div v-show="prizeDetail" @click="prizeDetail = false" style="position: fixed;top:0;left:0;right:0;bottom: 0;z-index: 1100;"></div>
+        </transition>
+        <transition name="ibd-slide-top">
+            <div v-show="prizeDetail" class="sign7-detail-dialog">
+                <div class="detail-content">
+                    <a href="javascript:;" class="detail-close" @click="prizeDetail = false">×</a>
+                    <div class="f-tac" style="padding: 0.2rem 0;">
+                        <img src="//img10.360buyimg.com/imgzone/jfs/t1/5542/38/2670/1093/5b973d64Ee7ea6174/f3e8778e7969fecf.png" class="f-ib" alt="" style="width: 3.3rem;height: 0.28rem;">
                     </div>
-                </div>
-                <div class="draw-tabs-item" :class="{active: activeTab === 1}">
-                    <div class="f-tac" v-show="drawRecord.length <= 0" style="padding: 0.8rem;">
-                        暂无中奖记录
+                    <div class="detail-list f-tal">
+                        <ul>
+                            <template v-for="it in act.giftConditions">
+                                <template v-if="it.gift != null">
+                                    <li>
+                                        <div class="clearfix">
+                                            <div class="f-fl">
+                                                <div class="f-ib">
+                                                    <template v-if="it.gift.giftType == '1' || it.gift.giftType == '10'">
+                                                        <i class="draw-sign-prize-yhq"></i>
+                                                    </template>
+                                                    <template v-if="it.gift.giftType == '6'">
+                                                        <i class="draw-sign-prize-jingdou"></i>
+                                                    </template>
+                                                    <template v-if="it.gift.giftType == '7'">
+                                                        <template v-if="it.imgUrl == ''">
+                                                            <img src="//cjwxqz.dianpusoft.cn/resources/wxcss/wxJiuGongGeDraw/0010/shiwu_zc.png" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                                        </template>
+                                                        <template v-else>
+                                                            <img :src="it.imgUrl" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                                        </template>
+                                                    </template>
+                                                    <template v-if="it.gift.giftType == '8'">
+                                                        <template v-if="it.imgUrl == ''">
+                                                            <img src="//cjwxqz.dianpusoft.cn/resources/wxcss/wxJiuGongGeDraw/0010/shiwu_zc.png" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                                        </template>
+                                                        <template v-else>
+                                                            <img :src="it.imgUrl" alt="" style="width: 0.8rem;height: 0.8rem;">
+                                                        </template>
+                                                    </template>
+                                                    <template v-if="it.gift.giftType == '9'">
+                                                        <i class="draw-sign-prize-jifen"></i>
+                                                    </template>
+                                                </div>
+                                                <div class="f-ib" style="margin-left: 0.15rem;">
+                                                    <div style="color: #f56264;">
+                                                        <template v-if="it.gift != null">{{it.gift.giftName}}</template>
+                                                    </div>
+                                                    <div style="color: #999;">连续签到<span style="color: #f23c3c;">{{it.dayNum}}</span>天</div>
+                                                </div>
+                                            </div>
+                                            <div class="f-fr">
+                                                <i :class="['day-sign-xz-'+ it.dayNum]"></i>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </template>
+                            </template>
+                        </ul>
                     </div>
-                    <table v-show="drawRecord.length > 0" class="ibd-record-table">
-                        <thead>
-                        <tr>
-                            <th>日期</th>
-                            <th>类型</th>
-                            <th>奖品</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr v-for="it in drawRecord"  @click="linkToAddress(it.awardType,it.addressId,it.needWriteAddress,it.gift.giftName)">
-                            <td>
-                                <div style="width: 1.5rem;">{{it.giftTime | formatDates}}</div>
-                            </td>
-                            <td>
-                                <div style="width: 1.6rem;">
-                                    <span v-if="it.giftType == '01'">每日赠送</span>
-                                    <span v-if="it.giftType == '02'">连续签到</span>
-                                    <span v-if="it.giftType == '03'">累计签到</span>
-                                </div>
-                            </td>
-                            <td>
-                                <div style="width: 1.7rem;">{{it.gift.giftName}}<span class="loaction" v-if="tip&&it.awardType==7"></span></div>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                    <div v-if="tip" style="margin-top:0.6rem;height:0.8rem;line-height:0.8rem;color:#f23b3d;font-size:0.24rem;text-align: center">温馨提示：点击<span class="loaction"></span>填写收货地址领取实物奖品</div>
                 </div>
             </div>
-        </div>
-    </Sidebar>
-        
-        <div class="win-modal"  >
-            <div class="win-modal-mask" v-show="shiwu.isAddShow"></div>
-            <transition name="ease">
-                <div class="win-modal-wrap" v-show="shiwu.isAddShow" style="z-index: 999999;">
-                    <div class="win-modal-modal">
-                        <a class="win-modal-btn-cancel" href="javascript:;" @click="closeShiwuAdd">&nbsp;</a>
-                        <div class="win-modal-content">
-                            <div class="win-modal-header">
-                                <div class="win-modal-header-inner">
-                                    <div style="margin-top: 0.6rem;font-size: 0.2rem;color: #333;position: relative;z-index: 5;">
-                                        {{shopInfo.shopName}}
-                                    </div>
-                                    <img class="header-img" style="top: -0.37rem;"
-                                         src="https://img10.360buyimg.com/imgzone/jfs/t19708/344/384123939/28216/5e669177/5a7126a4N65a05b9a.png" alt="">
+        </transition>
+    </div>
+
+    <!--恭喜弹窗-->
+    <div>
+        <transition name="fase">
+            <div class="gongxi-mask" v-show="isGongxi"></div>
+        </transition>
+        <transition name="ease">
+            <div class="gongxi-content" v-show="isGongxi">
+                <a href="javascript:;" class="gongxi-content-close" @click="hideGongxi"></a>
+            </div>
+        </transition>
+    </div>
+    
+    <div class="win-modal"  >
+        <div class="win-modal-mask" v-show="shiwu.isAddShow"></div>
+        <transition name="ease">
+            <div class="win-modal-wrap" v-show="shiwu.isAddShow" style="z-index: 999999;">
+                <div class="win-modal-modal">
+                    <a class="win-modal-btn-cancel" href="javascript:;" @click="closeShiwuAdd">&nbsp;</a>
+                    <div class="win-modal-content">
+                        <div class="win-modal-header">
+                            <div class="win-modal-header-inner">
+                                <div style="margin-top: 0.6rem;font-size: 0.2rem;color: #333;position: relative;z-index: 5;">
+                                    {{shopInfo.shopName}}
+                                </div>
+                                <img class="header-img" style="top: -0.37rem;"
+                                     src="https://img10.360buyimg.com/imgzone/jfs/t19708/344/384123939/28216/5e669177/5a7126a4N65a05b9a.png" alt="">
+                            </div>
+                        </div>
+                        <div class="win-modal-body">
+                            <div style="color: #f23c3c;font-size: 0.3rem;word-break: break-all;">
+                                <div class="inline-block">恭喜</div>
+                                <div class="inline-block">
+                                    <template v-if="attrTouXiang != '' && attrTouXiang != null">
+                                        <img :src="attrTouXiang"
+                                             alt="" style="width: 0.6rem;height: 0.6rem;border-radius: 100%;">
+                                    </template>
+                                </div>
+                                <div class="inline-block">
+                                    <span style="color: #333;">{{nickname}}</span>
+                                </div>
+                                <div class="inline-block">
+                                    您中了
                                 </div>
                             </div>
-                            <div class="win-modal-body">
-                                <div style="color: #f23c3c;font-size: 0.3rem;word-break: break-all;">
-                                    <div class="inline-block">恭喜</div>
-                                    <div class="inline-block">
-                                        <template v-if="attrTouXiang != '' && attrTouXiang != null">
-                                            <img :src="attrTouXiang"
-                                                 alt="" style="width: 0.6rem;height: 0.6rem;border-radius: 100%;">
-                                        </template>
-                                    </div>
-                                    <div class="inline-block">
-                                        <span style="color: #333;">{{nickname}}</span>
-                                    </div>
-                                    <div class="inline-block">
-                                        您中了
-                                    </div>
-                                </div>
-                                <div style="color: #f23c3c;font-size: 0.48rem;">{{shiwu.name}}</div>
-                                <div style="color: #333;font-size: 0.2rem;margin-top: 0.2rem;">
-                                    实物奖品系统不能自动发放，请<span style="color: #f23c3c;">联系商家客服领取</span>
-                                </div>
-                                <div>
-                                    <a  href="javascript:;" @click="gotoShopPage( shopInfo.sid)" style="display:block;height: 0.9rem;
+                            <div style="color: #f23c3c;font-size: 0.48rem;">{{shiwu.name}}</div>
+                            <div style="color: #333;font-size: 0.2rem;margin-top: 0.2rem;">
+                                实物奖品系统不能自动发放，请<span style="color: #f23c3c;">联系商家客服领取</span>
+                            </div>
+                            <div>
+                                <a  href="javascript:;" @click="gotoShopPage( shopInfo.sid)" style="display:block;height: 0.9rem;
                                 line-height: 0.9rem;font-size: 0.42rem;background: #f56264;color: #fff;
                                 text-decoration: none;border-radius: 3px;margin-top: 0.3rem;">进店逛逛</a>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </transition>
-        </div>
-
-        
+            </div>
+        </transition>
+    </div>
+    
 <!--其他通用弹窗-->
 
 
@@ -821,113 +1015,9 @@
     </transition>
 </div>
 
-        
-        
-<link rel="stylesheet" href="//cjwxqz.dianpusoft.cn/resources/wxcss/common/draw-sign-list.css?2831">
-<!--加倍曝光通用代码-->
-<div v-if="actCustomPromotionList != null && actCustomPromotionList.length > 0">
-    <div v-for="it in actCustomPromotionList">
-        <div :style="{'backgroundColor': '#' + it.bgColor}" style="padding-bottom: 10px;">
-            <div :style="{color: '#' + it.textColor}" style="text-align: center;padding: 10px 0;">{{it.name}}</div>
-            <div>
-                <div v-if="it.pic1 != null && it.pic1 != ''" class="pic" style="padding: 0 0.1rem;">
-                    <a :href="it.url1" target="_blank">
-                        <img alt="" v-lazy="it.pic1" style="display: block;width: 100%">
-                    </a>
-                </div>
-                <div v-if="it.pic2 != null && it.pic2 != ''" class="pic"
-                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
-                     style="padding: 0 0.1rem;">
-                    <a :href="it.url2" target="_blank">
-                        <img alt="" v-lazy="it.pic2" style="display: block;width: 100%">
-                    </a>
-                </div>
-                <div v-if="it.pic3 != null && it.pic3 != ''" class="pic"
-                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
-                     style="padding: 0 0.1rem;">
-                    <a :href="it.url3" target="_blank">
-                        <img alt="" v-lazy="it.pic3" style="display: block;width: 100%">
-                    </a>
-                </div>
-                <div v-if="it.pic4 != null && it.pic4 != ''" class="pic"
-                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
-                     style="padding: 0 0.1rem;">
-                    <a :href="it.url4" target="_blank">
-                        <img alt="" v-lazy="it.pic4" style="display: block;width: 100%">
-                    </a>
-                </div>
-                <div v-if="it.pic5 != null && it.pic5 != ''" class="pic"
-                     :style="{'marginTop': it.removeSpace == null || it.removeSpace == 0 ? '0.1rem' : '0px'}"
-                     style="padding: 0 0.1rem;">
-                    <a :href="it.url5" target="_blank">
-                        <img alt="" v-lazy="it.pic5" style="display: block;width: 100%">
-                    </a>
-                </div>
-            </div>
-            <div v-if="it.wareList != null && it.wareList.length > 0">
-                <div :style="{color: '#' + it.textColor}" style="text-align: center;padding: 10px 0;">精品推荐</div>
-                <div>
-                    <ul class="jb_draw-sign-list f-cb">
-                        <li v-for="ware in it.wareList">
-                            <div class="pic" style="padding: .1rem;">
-                                <a href="javascript:;" @click="gotoSkuPage(ware.skuId)">
-                                    <img alt="" v-lazy="'//img10.360buyimg.com/n1/' + ware.logo" style="width: 100%">
-                                </a>
-                            </div>
-                            <div class="title">{{ware.skuName}}</div>
-                            <div class="detail f-cb">
-                                <div class="f-fl">
-                                    <div v-if="ware.showType == 1" class="price">￥{{ware.jdPrice}}</div>
-                                    <div v-if="ware.showType == 2" class="price">
-                                        <template v-if="ware.promoPrice == '' || ware.promoPrice == null">￥{{ware.jdPrice}}
-                                        </template>
-                                        <template v-else>￥{{ware.promoPrice}}</template>
-                                    </div>
-                                    
-                                </div>
-                                <div class="f-fr">
-                                    <a class="" style="display: inline-block;margin-top: .1rem;background: #f56264;border-radius: 3px;padding: .05rem .15rem;color: #fff;text-decoration: none;" href="javascript:;" @click="gotoSkuPage(ware.skuId)">购买</a>
-                                    
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/vue-lazyload.js?2831"></script>
 
-</div>
-<!--技术支持-->
-<div class="ibd-foot-copy">
-    
-<!-- 底部 -->
-<div>
-    京麦服务市场插件 <span style="color:#3f80ff;">超级无线</span> 提供技术支持
-</div>
-<div style="font-size: .16rem;">Copyright © 2004-2021京东<span class="yuming"></span> 版权所有 京ICP备17005970号-<span class="domain-name-num"></span></div>
-<script>
-    setTimeout(function () {
-        var hostName=location.hostname;
-        if(hostName.indexOf('isvjcloud.com')!=-1){
-            $(".yuming").html("isvjcloud.com");
-            $(".domain-name-num").html(4);
-        }else if(hostName.indexOf('isvjd.com')!=-1){
-            $(".domain-name-num").html(10);
-            $(".yuming").html("isvjd.com")
-        }else if(hostName.indexOf('jdfw1.com')!=-1){
-            $(".domain-name-num").html(9);
-            $(".yuming").html("jdfw1.com")
-        }else {
-            $(".domain-name-num").html("");
-            $(".yuming").html("127.0.0.1")
-        }
-    },1000)
-</script>
 
-</div>
 
 <!--微信分享指引-->
 <div onclick="closeWechatShareMask();">
@@ -939,15 +1029,15 @@
 	</transition>
 </div>
 
-<script src="https://lzkj-isv.isvjcloud.com/resources/wxjs/config.min.js?2831"></script>
+<script src="https://lzkj-isv.isvjcloud.com/resources/wxjs/config.min.js?2847"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/lzsdk.min.js?2831"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/lzsdk.min.js?2847"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/globalFiles/ConsumerGlobal/browserLog/browserLog.min.js?2831"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/globalFiles/ConsumerGlobal/browserLog/browserLog.min.js?2847"></script>
 
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/wxCustomPromotion/commonJs.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/countdown.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/moment.min.js?2831"></script>
-<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/sign/templateCommon.min.js?2831"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/wxCustomPromotion/commonJs.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/common/component/countdown.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/moment.min.js?2847"></script>
+<script src="//cjwxqz.dianpusoft.cn/resources/wxjs/7sign/templateCommon.min.js?2847"></script>
 </body>
 </html>

@@ -1,0 +1,772 @@
+03/16/21 00:02:11 060821500  1615824131
+RANDOM_num: 45
+removed '/tmp/tmp.dAI7AAmXiU'
+03/16/21 00:02:14 211637100  1615824134 检查王签到
+
+real	0m1.973s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:20 031608700  1615824140
+use pt_key
+
+real	0m1.013s
+user	0m0.125s
+sys	0m0.094s
+03/16/21 00:02:21 696588900  1615824141 token: AAFgT4UMADBSwpGX8nWgh7dS1tdqhN-KuMtB-SXVW7ggJJrgaqyO7ng_OV_xvCSLyQvqrt1IV1k
+
+real	0m0.736s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:24 114666100  1615824144 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:24 449738000  1615824144 王签到大力智能京东自营旗舰店
+
+real	0m1.375s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:29 815786000 1615824149
+
+real	0m1.766s
+user	0m0.000s
+sys	0m0.125s
+
+real	0m1.421s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:34 816999000  1615824154
+use pt_key
+
+real	0m1.384s
+user	0m0.094s
+sys	0m0.109s
+03/16/21 00:02:36 581465200  1615824156 token: AAFgT4UbADCv5Bksf7FNZe5qmkLhpIxn1bx5SPfM0j90ySP4In7gK6VFN8qQtMukRtQdBo-DAmA
+
+real	0m1.052s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:40 104667200  1615824160 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:40 622392400  1615824160 王签到大力智能京东自营旗舰店
+
+real	0m1.351s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:46 784118100 1615824166
+
+real	0m1.770s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.645s
+user	0m0.047s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:02:51 360829400  1615824171
+use pt_key
+
+real	0m1.442s
+user	0m0.094s
+sys	0m0.125s
+03/16/21 00:02:53 069979000  1615824173 token: AAFgT4UsADBjZR2uHx1Dy_VmSx2D_xVfpAXHvw09Jw54jm0KP92otZQXmaZ4YHR2SBxu_giZPeo
+
+real	0m0.961s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:02:56 046598900  1615824176 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:02:56 415109400  1615824176 王签到大力智能京东自营旗舰店
+
+real	0m1.247s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:02 378052100 1615824182
+
+real	0m1.574s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.796s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:07 144438600  1615824187
+use pt_key
+
+real	0m1.096s
+user	0m0.078s
+sys	0m0.156s
+03/16/21 00:03:08 701529200  1615824188 token: AAFgT4U7ADCTi6mIQgsrqpTtChqh5rVu_h2_4YvUsm4-lrDBIJnAgF2mzDbDCxW1zHErEJ9FXco
+
+real	0m1.079s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:11 588568600  1615824191 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:11 904722500  1615824191 王签到大力智能京东自营旗舰店
+
+real	0m0.979s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:15 919438800 1615824195
+
+real	0m1.594s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.007s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:19 093614700  1615824199
+use pt_key
+
+real	0m1.221s
+user	0m0.094s
+sys	0m0.172s
+03/16/21 00:03:20 564389200  1615824200 token: AAFgT4VHADAqlT9yeJ4cDG68fDVVZS_o1z3Yi6OWQn7vtTPsz7PLQ0KcJELlh-XZdZqHctddDFw
+
+real	0m1.540s
+user	0m0.000s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:24 323632800  1615824204 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:24 506103100  1615824204 王签到大力智能京东自营旗舰店
+
+real	0m0.719s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:28 965125900 1615824208
+
+real	0m2.195s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.903s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:32 870005200  1615824212
+use pt_key
+
+real	0m0.748s
+user	0m0.094s
+sys	0m0.109s
+03/16/21 00:03:34 344864300  1615824214 token: AAFgT4VVADDLx2qOfZttWSjDfcA3ybE5fl8hSWfE6i-y3K7SeR10ycaQrCur9M1X3L6-p3TolZU
+
+real	0m1.020s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:38 281595200  1615824218 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:38 626530400  1615824218 王签到大力智能京东自营旗舰店
+
+real	0m0.891s
+user	0m0.031s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:42 969295500 1615824222
+
+real	0m1.987s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.096s
+user	0m0.016s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:03:46 958986700  1615824226
+use pt_key
+
+real	0m1.213s
+user	0m0.078s
+sys	0m0.125s
+03/16/21 00:03:48 682070200  1615824228 token: AAFgT4VjADCg6jZYFEOkeHKRY3JNZ-PM7J0K8a9YJpHDaXYDAEDsaeWA5zETHGNYs2q-wtlvIB8
+
+real	0m1.585s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:52 029565000  1615824232 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:03:52 458209800  1615824232 王签到大力智能京东自营旗舰店
+
+real	0m1.160s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:03:56 857953500 1615824236
+
+real	0m2.144s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.292s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:01 280261200  1615824241
+use pt_key
+
+real	0m1.447s
+user	0m0.078s
+sys	0m0.109s
+03/16/21 00:04:03 427843000  1615824243 token: AAFgT4VyADBWSToam0HeBQqmXOXR81-OPBdmlxg50JFkO2OUqihi0yZmIXf4kOukiO_GVfSPIXc
+
+real	0m0.955s
+user	0m0.000s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:07 331433400  1615824247 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:07 587978900  1615824247 王签到大力智能京东自营旗舰店
+
+real	0m1.124s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:13 581791200 1615824253
+
+real	0m2.535s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.700s
+user	0m0.031s
+sys	0m0.047s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:18 822547700  1615824258
+use pt_key
+
+real	0m1.108s
+user	0m0.063s
+sys	0m0.188s
+03/16/21 00:04:20 535191000  1615824260 token: AAFgT4WDADD5lRjJj8OQTH1O7dXP8RCCNeU_dRER0DXe49TmAr2NFnuKKA4YXmjlWrpdHDwT_SE
+
+real	0m1.227s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:23 354697900  1615824263 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:23 614777900  1615824263 王签到大力智能京东自营旗舰店
+
+real	0m0.715s
+user	0m0.031s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:28 006061500 1615824268
+
+real	0m2.648s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m1.086s
+user	0m0.063s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:32 462697100  1615824272
+use pt_key
+
+real	0m1.141s
+user	0m0.109s
+sys	0m0.172s
+03/16/21 00:04:34 209726400  1615824274 token: AAFgT4WRADDKTT14G-VVCV106oIunH5rtpQD1g3ZIt3CKxd43hKkaIAiDSTD8WmjVLnMYL507Ug
+
+real	0m1.241s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:37 656045800  1615824277 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:38 035477000  1615824278 王签到大力智能京东自营旗舰店
+
+real	0m0.789s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:41 939094500 1615824281
+
+real	0m2.689s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.296s
+user	0m0.031s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/16/21 00:04:46 660242800  1615824286
+use pt_key
+
+real	0m1.611s
+user	0m0.109s
+sys	0m0.172s
+03/16/21 00:04:48 748831400  1615824288 token: AAFgT4WfADA8Q6Zv8fmeOknFD0kNm6OrwRIjG7t5Ng38DI6_wFFeS_yAzO-_y4QRVNeZx59AKs8
+
+real	0m1.042s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:51 749390500  1615824291 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:04:52 129992600  1615824292 王签到大力智能京东自营旗舰店
+
+real	0m1.618s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:04:57 212823900 1615824297
+
+real	0m3.057s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.269s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:02 520736100  1615824302
+use pt_key
+
+real	0m0.991s
+user	0m0.141s
+sys	0m0.109s
+03/16/21 00:05:04 038018000  1615824304 token: AAFgT4WvADDgG1gEyFp-_0Wdg-SFZ7hzRwbRpykUSKRu1SGwQOtou05HjMwUi_Wp6JmUjuBeL2s
+
+real	0m1.581s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:07 072413400  1615824307 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:07 453734800  1615824307 王签到大力智能京东自营旗舰店
+
+real	0m0.932s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:12 661387800 1615824312
+
+real	0m3.610s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m0.809s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:17 615023300  1615824317
+use pt_key
+
+real	0m0.795s
+user	0m0.125s
+sys	0m0.109s
+03/16/21 00:05:18 667015700  1615824318 token: AAFgT4W9ADC0Sg5LzSle1m6rNT4ft5T6fIcyRLIl97DULtb31Yksw-X42-jvqTKGjocVA5U2Ksw
+
+real	0m0.789s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:20 813216000  1615824320 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:21 189848100  1615824321 王签到大力智能京东自营旗舰店
+
+real	0m1.172s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:25 388026600 1615824325
+
+real	0m3.666s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.294s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:31 079456400  1615824331
+use pt_key
+
+real	0m1.130s
+user	0m0.125s
+sys	0m0.109s
+03/16/21 00:05:32 365466400  1615824332 token: AAFgT4XLADDZrCjl4WtQRT0lfZjpa82EGC-yCpMah0KbmR-NPSmaN2e_2XrgYxsEK0fyodCSBRw
+
+real	0m0.650s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:34 539202000  1615824334 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:34 742997900  1615824334 王签到大力智能京东自营旗舰店
+
+real	0m1.354s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:38 979100700 1615824338
+
+real	0m3.784s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.786s
+user	0m0.031s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:45 499266400  1615824345
+use pt_key
+
+real	0m0.923s
+user	0m0.063s
+sys	0m0.125s
+03/16/21 00:05:46 608567000  1615824346 token: AAFgT4XZADCQs_bTcor2YYAtioU9b-XA2_kbv0sQdwa9XQHZp6KuEz46MlTA0BeyP98DQGo4j-Q
+
+real	0m0.640s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:47 754706800  1615824347 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:05:47 877731800  1615824347 王签到大力智能京东自营旗舰店
+
+real	0m0.400s
+user	0m0.016s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:05:50 315915600 1615824350
+
+real	0m3.688s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.043s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:05:56 400282800  1615824356
+use pt_key
+
+real	0m1.953s
+user	0m0.141s
+sys	0m0.125s
+03/16/21 00:05:58 670774600  1615824358 token: AAFgT4XlADBLsV7Y9s9WWAzCdI1dTI-TVClR0fGJTTX7YOFY7NRvus34EY5KUbBSxpsvaTk5gTc
+
+real	0m1.230s
+user	0m0.047s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:02 006751300  1615824362 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:02 148685100  1615824362 王签到大力智能京东自营旗舰店
+
+real	0m0.715s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:04 812784900 1615824364
+
+real	0m3.589s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m0.928s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:09 903206000  1615824369
+use pt_key
+
+real	0m1.578s
+user	0m0.063s
+sys	0m0.094s
+03/16/21 00:06:11 905669600  1615824371 token: AAFgT4XyADAAf8Cu6Tl6oe2T9CoCVP2FOIYyoHlLq7RBXfJAEvSVn7qpDFfDbsNNYaJ3Kuy4n1o
+
+real	0m1.215s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:14 694658100  1615824374 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:14 963718900  1615824374 王签到大力智能京东自营旗舰店
+
+real	0m0.965s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:18 723853700 1615824378
+
+real	0m3.837s
+user	0m0.016s
+sys	0m0.031s
+
+real	0m1.145s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:24 455004600  1615824384
+use pt_key
+
+real	0m1.060s
+user	0m0.109s
+sys	0m0.125s
+03/16/21 00:06:25 735928100  1615824385 token: AAFgT4YAADBI--DtGUHRvF9URuRYJ0_hyaaO9dI7y5GnSwyKUC-HWvphYWQ7TQJVDe_Sx3fpkW8
+
+real	0m0.797s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:27 925457700  1615824387 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:28 341129500  1615824388 王签到大力智能京东自营旗舰店
+
+real	0m0.868s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:34 172410800 1615824394
+
+real	0m4.288s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.710s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:39 534891300  1615824399
+use pt_key
+
+real	0m0.906s
+user	0m0.078s
+sys	0m0.141s
+03/16/21 00:06:40 874445600  1615824400 token: AAFgT4YPADCvrBRBvn9cGciRBnO_NDJ914MqHqG6Dwbu8yz6ld8Zuo0nPZsbabQXrtlhpfhInrQ
+
+real	0m0.971s
+user	0m0.031s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:43 950963700  1615824403 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:06:44 316614200  1615824404 王签到大力智能京东自营旗舰店
+
+real	0m1.289s
+user	0m0.047s
+sys	0m0.063s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:06:50 501875500 1615824410
+
+real	0m4.542s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m0.656s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/16/21 00:06:56 289747400  1615824416
+use pt_key
+
+real	0m1.097s
+user	0m0.109s
+sys	0m0.125s
+03/16/21 00:06:57 523267100  1615824417 token: AAFgT4YgADDQ5UGAvuFCQ3QHni27sMKDxu6kDCx_Njmi16vN_BCF18TkxjBdClQh3TTGZdWmwXQ
+
+real	0m1.042s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:07:00 586492700  1615824420 secretPin: 
+[WARN] get secretPin error
+
+03/16/21 00:07:00 766663400  1615824420 王签到大力智能京东自营旗舰店
+
+real	0m0.653s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/16/21 00:07:04 952092400 1615824424
+
+real	0m4.451s
+user	0m0.000s
+sys	0m0.063s
+03/16/21 00:09:24 549134800  1615824564
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/vender/shop_1615126518_0
+
+王签到大力智能京东自营旗舰店查看结果
+
+
+
+大力智能京东自营旗舰店活动规则
+
+
+actId=a38e039e71164a6eb6d2626d64a4d980
+venderId=1000330405
+startTime=1614528000000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/1016MGn-R"
+actTimeStr="2021-03-01 00:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="大力智能京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a38e039e71164a6eb6d2626d64a4d980&venderId=1000330405
+# 活动时间：2021.03.01 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到5天：30积分 30积分
+连续签到10天：5京豆 5京豆
+连续签到15天：80积分 80积分
+连续签到20天：10京豆 10京豆
+连续签到25天：20京豆 20京豆
+连续签到31天：赠送大力智能电子手写板
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""
+giftRes=""
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 []
+连续签到  天
+签到总天数 "
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""5京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 ["5京豆"]
+连续签到  天
+签到总天数 "
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""5京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 ["5京豆"]
+连续签到  天
+签到总天数 "
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num=""
+sign_total_num=""
+giftName=""5京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+
+当天签到奖励 ["5京豆"]
+连续签到  天
+签到总天数 "
+#王 1309893722-164885 sign_res_end
