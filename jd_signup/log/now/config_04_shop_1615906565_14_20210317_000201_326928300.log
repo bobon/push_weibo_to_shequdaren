@@ -1,0 +1,666 @@
+03/17/21 00:02:07 830240100  1615910527
+RANDOM_num: 30
+removed '/tmp/tmp.bWTxAk2Oj1'
+03/17/21 00:02:10 196482600  1615910530 检查移动签到
+
+real	0m2.329s
+user	0m0.031s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:16 792984300  1615910536
+use wskey
+
+real	0m2.375s
+user	0m0.078s
+sys	0m0.188s
+03/17/21 00:02:20 449763500  1615910540 token: AAFgUNaLADB8evt7rlI0HZ0G68AkV4i6-XRzIpzuvS6jdBmkx_pSZ7YgBZWsZb4c_6Wc1sK74n0
+
+real	0m2.144s
+user	0m0.031s
+sys	0m0.109s
+03/17/21 00:02:26 352078500  1615910546 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:26 879494000  1615910546 移动签到冰峰京东自营旗舰店
+
+real	0m1.690s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:37 592177700 1615910557
+
+real	0m1.309s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m2.230s
+user	0m0.047s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:42 671351400  1615910562
+use wskey
+
+real	0m2.029s
+user	0m0.109s
+sys	0m0.203s
+03/17/21 00:02:46 141493800  1615910566 token: AAFgUNakADDpfahXFjGpz9hr-uyVcRX2UO-7boDxFF9Cwx-p6V62fGpWwl4QvVcdUsMRr1VqLeI
+
+real	0m2.592s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:51 116290000  1615910571 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:51 413735900  1615910571 移动签到冰峰京东自营旗舰店
+
+real	0m1.419s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:58 981388200 1615910578
+
+real	0m1.461s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.388s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:04 702114600  1615910584
+use wskey
+
+real	0m2.141s
+user	0m0.141s
+sys	0m0.156s
+03/17/21 00:03:07 338822800  1615910587 token: AAFgUNa6ADBxoGHOjZvOeQl_XndaBTlrk4v0xzmSw9oCzBaKcb8Ug5FYPrt0I5kOWCXFvaB_Un4
+
+real	0m1.193s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:11 539645500  1615910591 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:11 972006300  1615910591 移动签到冰峰京东自营旗舰店
+
+real	0m1.446s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:20 822616200 1615910600
+
+real	0m2.003s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.245s
+user	0m0.031s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:26 486370100  1615910606
+use wskey
+
+real	0m2.705s
+user	0m0.156s
+sys	0m0.141s
+03/17/21 00:03:29 780960300  1615910609 token: AAFgUNbQADCGmgouPg7rWE3-_JIqfURYi2U4SCKVTgDfszbpySod9N-P6auzf-4JcctysPfB_rU
+
+real	0m2.268s
+user	0m0.078s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:34 013244400  1615910614 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:34 478980500  1615910614 移动签到冰峰京东自营旗舰店
+
+real	0m1.886s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:42 448415100 1615910622
+
+real	0m2.142s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.867s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:48 646660500  1615910628
+use wskey
+
+real	0m1.743s
+user	0m0.063s
+sys	0m0.156s
+03/17/21 00:03:50 861934700  1615910630 token: AAFgUNbmADBkknqVyVTs2NlpEQ6v8frGzgdVdSGWbQTXVjTfLQeRYKGQZJhUKBEiC_PfKDufJnQ
+
+real	0m1.469s
+user	0m0.000s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:54 696837100  1615910634 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:55 055002200  1615910635 移动签到冰峰京东自营旗舰店
+
+real	0m2.311s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:03 924428200 1615910643
+
+real	0m2.283s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.121s
+user	0m0.031s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:09 726334700  1615910649
+use wskey
+
+real	0m2.610s
+user	0m0.109s
+sys	0m0.188s
+03/17/21 00:04:12 810634000  1615910652 token: AAFgUNb7ADAONrh6kpSAFHoYUXzCoHKyPS517UXi_whlDgPfegIWHyPV2bw2yL8mSSHJIP5nwVg
+
+real	0m1.057s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:16 346697300  1615910656 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:16 585362100  1615910656 移动签到冰峰京东自营旗舰店
+
+real	0m1.516s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:24 478080700 1615910664
+
+real	0m2.435s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.482s
+user	0m0.078s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:29 709904000  1615910669
+use wskey
+
+real	0m2.379s
+user	0m0.109s
+sys	0m0.203s
+03/17/21 00:04:32 793298400  1615910672 token: AAFgUNcQADCDFFN0V4rgPbp0HWvSordX5EmzbLGNrs6CP41Q-QNv2tc09eMlPGVbwZ-MYf16k80
+
+real	0m1.642s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:37 520060400  1615910677 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:38 065200500  1615910678 移动签到冰峰京东自营旗舰店
+
+real	0m1.808s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:45 998596300 1615910685
+
+real	0m2.380s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.473s
+user	0m0.047s
+sys	0m0.188s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:52 553187000  1615910692
+use wskey
+
+real	0m2.021s
+user	0m0.094s
+sys	0m0.156s
+03/17/21 00:04:55 121363800  1615910695 token: AAFgUNcmADB6R9pLuvDkI5qRnt4SNNKyO0qVTAP3agR1MK76_PsmleSk_UOfE1FxLIpyAWGimjA
+
+real	0m1.666s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:59 198238700  1615910699 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:59 624153000  1615910699 移动签到冰峰京东自营旗舰店
+
+real	0m2.389s
+user	0m0.047s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:09 722850700 1615910709
+
+real	0m2.696s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.404s
+user	0m0.063s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:16 525330500  1615910716
+use wskey
+
+real	0m1.670s
+user	0m0.078s
+sys	0m0.172s
+03/17/21 00:05:18 655041800  1615910718 token: AAFgUNc-ADA3ugbb4gpBVzlxxliMiYio4tZjmTUBCzPv4mVnlhQYU2JG6HPGeftMGqN1FvgdoXo
+
+real	0m1.626s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:22 756733100  1615910722 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:23 298757200  1615910723 移动签到冰峰京东自营旗舰店
+
+real	0m1.981s
+user	0m0.000s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:32 628590000 1615910732
+
+real	0m3.277s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.642s
+user	0m0.016s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:39 620885800  1615910739
+use wskey
+
+real	0m1.835s
+user	0m0.156s
+sys	0m0.234s
+03/17/21 00:05:41 940729200  1615910741 token: AAFgUNdVADCbm2u_qhIKH8yEiqiirQ13D8xw-BaFbxvGmQddiurFyyJVb55PucqZZdF_eiKk0C4
+
+real	0m1.687s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:47 064537900  1615910747 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:47 645315500  1615910747 移动签到冰峰京东自营旗舰店
+
+real	0m1.714s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:55 565459700 1615910755
+
+real	0m3.277s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.407s
+user	0m0.016s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:03 913803800  1615910763
+use wskey
+
+real	0m2.432s
+user	0m0.141s
+sys	0m0.234s
+03/17/21 00:06:06 838362800  1615910766 token: AAFgUNduADDlMwIUXMrz-MPEtUN1WTV38NCCW0JFN6taYi_j0ZbJhk_afr5gnAYRsLJ0RFp08PA
+
+real	0m2.232s
+user	0m0.047s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:12 134866300  1615910772 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:12 789617900  1615910772 移动签到冰峰京东自营旗舰店
+
+real	0m0.917s
+user	0m0.016s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:19 408611200 1615910779
+
+real	0m3.334s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.058s
+user	0m0.078s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:26 404940400  1615910786
+use wskey
+
+real	0m1.599s
+user	0m0.141s
+sys	0m0.188s
+03/17/21 00:06:28 421401200  1615910788 token: AAFgUNeDADA8CnLCXHpmMZ7WpVyiVtqK5DNxh9Th_Zxd4YZxXbayWXJAbvjwZn9Hr959cM4QdAQ
+
+real	0m1.721s
+user	0m0.047s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:32 284459400  1615910792 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:33 041107500  1615910793 移动签到冰峰京东自营旗舰店
+
+real	0m1.590s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:41 422723200 1615910801
+
+real	0m4.623s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.537s
+user	0m0.063s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:50 689255100  1615910810
+use wskey
+
+real	0m2.447s
+user	0m0.156s
+sys	0m0.172s
+03/17/21 00:06:53 983531700  1615910813 token: AAFgUNedADB8QwjaAvx-kbNxqYkWc90YkKemxA5C7g2Yqw_WI7kfZjEQCgHFIpiv6HEeXcuHlVc
+
+real	0m1.781s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:59 759150000  1615910819 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:00 118506100  1615910820 移动签到冰峰京东自营旗舰店
+
+real	0m2.515s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:10 615750700 1615910830
+
+real	0m3.933s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.110s
+user	0m0.078s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:17 778237500  1615910837
+use wskey
+
+real	0m2.548s
+user	0m0.188s
+sys	0m0.203s
+03/17/21 00:07:20 988850000  1615910840 token: AAFgUNe4ADCb2wzbb_2zLExv4xkwARF0X9OwQGaLQfNixbouvWDsyAeiWnvX0u1ehFK-I-YX9lA
+
+real	0m2.407s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:26 482174700  1615910846 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:27 086520600  1615910847 移动签到冰峰京东自营旗舰店
+
+real	0m1.538s
+user	0m0.000s
+sys	0m0.141s
+03/17/21 00:07:37 372769400 1615910857
+
+real	0m4.163s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m1.567s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:44 849371900  1615910864
+use wskey
+
+real	0m2.580s
+user	0m0.188s
+sys	0m0.266s
+03/17/21 00:07:48 321855400  1615910868 token: AAFgUNfTADC8ofeM6ZYbVyvL-19C8sIEtCLGnDtPnW1rfLO6cNxY54QuPYKqYIlfspzRfJLNb5o
+
+real	0m2.428s
+user	0m0.031s
+sys	0m0.266s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:54 499487600  1615910874 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:55 151719000  1615910875 移动签到冰峰京东自营旗舰店
+
+real	0m1.801s
+user	0m0.047s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:05 182163800 1615910885
+
+real	0m4.665s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.617s
+user	0m0.063s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:08:13 377272600  1615910893
+use wskey
+
+real	0m1.540s
+user	0m0.156s
+sys	0m0.141s
+03/17/21 00:08:15 206044200  1615910895 token: AAFgUNfuADCq7J5RPyIYHhH0hr7MPE2O7zLiGSaSsCyL0fcjubFzX1lnEnAxZBXMEgQrGMUyxHM
+
+real	0m2.024s
+user	0m0.047s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:20 019172900  1615910900 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:08:20 309068800  1615910900 移动签到冰峰京东自营旗舰店
+
+real	0m1.989s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:29 413223300 1615910909
+
+real	0m4.624s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.824s
+user	0m0.031s
+sys	0m0.250s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911516	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911516	LZ_TOKEN_KEY	lztokenpage1a5104c186a14d3d96edf671ccf445ab
+03/17/21 00:08:38 589920900  1615910918
+use wskey
+
+real	0m1.965s
+user	0m0.203s
+sys	0m0.188s
+03/17/21 00:08:41 026696200  1615910921 token: AAFgUNgIADDGEeHql5KJRK2OEjnBkbdZrysBRyGjMBlXnRs96A71BptWKOPkTFaGjonlXm-L6IA
+
+real	0m1.704s
+user	0m0.031s
+sys	0m0.203s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:10:16 489958400  1615911016
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14
+
+移动签到冰峰京东自营旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"097db68b65c24c329470b8460b7a451a","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"be196b6248fc404aaa0f18bf95d97284","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"3京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"6c47eef123a44c18bcb01c9905430a85","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"4京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"e3dba7800dd24f1ebfca80b30f5bac64","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"0d557a33fd374839b8b0b32ccd057928","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"6京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"956999b2bedf42a487a2a5427eec0d84","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"9京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176360","activityType":null},"imgUrl":"","giftInfoId":"4452b2b139c04325aab57ff548324dec","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-03-11 14:30 - 2021-04-10 14:30；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送1京豆；
+6、第2天签到，有机会赠送2京豆；
+7、第3天签到，有机会赠送3京豆；
+8、第4天签到，有机会赠送4京豆；
+9、第5天签到，有机会赠送5京豆；
+10、第6天签到，有机会赠送6京豆；
+11、第7天签到，有机会赠送9京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="冰峰京东自营旗舰店"
+#店铺激活码
+actId="9b60237dfbc8487688e593fb15570a96"
+#店铺id
+venderId="1000101662"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b60237dfbc8487688e593fb15570a96&venderId=1000101662&adsource=tg_storePage"
+
+startTime=1615444200
+endTime=1618036200
+# 活动时间：2021-03-11 14:30 - 2021-04-10 14:30；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：2京豆
+连续签到3天：3京豆
+连续签到4天：4京豆
+连续签到5天：5京豆
+连续签到6天：6京豆
+连续签到7天：9京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

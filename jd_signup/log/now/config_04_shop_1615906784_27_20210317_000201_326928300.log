@@ -1,0 +1,758 @@
+03/17/21 00:02:16 790708600  1615910536
+RANDOM_num: 15
+removed '/tmp/tmp.2proXmpKLT'
+03/17/21 00:02:20 822506300  1615910540 检查移动签到
+
+real	0m2.556s
+user	0m0.047s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:28 009247800  1615910548
+use wskey
+
+real	0m2.404s
+user	0m0.125s
+sys	0m0.188s
+03/17/21 00:02:30 734634400  1615910550 token: AAFgUNaWADA0Sn4DzUaN6vHGrHVkHb94t9Ar4KFGhdRVx58edIm2EVxTTsvqKNDpuO4K5G-qZo0
+
+real	0m1.828s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:35 017520000  1615910555 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:35 707545300  1615910555 移动签到金士顿旗舰店
+
+real	0m1.770s
+user	0m0.000s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:44 046304900 1615910564
+
+real	0m2.603s
+user	0m0.000s
+sys	0m0.016s
+
+real	0m2.243s
+user	0m0.047s
+sys	0m0.188s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:50 666017300  1615910570
+use wskey
+
+real	0m2.045s
+user	0m0.094s
+sys	0m0.156s
+03/17/21 00:02:53 177756900  1615910573 token: AAFgUNasADC3XZneYt3gGuF1q8Zoy82mek-A5QKZzuFaNkD8PzT7rC8HY9Iu39xs0tIxV6KcWLU
+
+real	0m1.500s
+user	0m0.063s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:57 075076900  1615910577 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:57 495043800  1615910577 移动签到金士顿旗舰店
+
+real	0m1.675s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:03 206600400 1615910583
+
+real	0m1.902s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.984s
+user	0m0.063s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:08 708464500  1615910588
+use wskey
+
+real	0m1.333s
+user	0m0.109s
+sys	0m0.125s
+03/17/21 00:03:10 386711400  1615910590 token: AAFgUNa-ADCF7-9kX1d3nVD_RZpb_YT6GyrG_XUhNctoVYhyBvmAX6MxAd_6umINWLjLgP9twzs
+
+real	0m1.390s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:13 890239200  1615910593 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:14 104754500  1615910594 移动签到金士顿旗舰店
+
+real	0m0.590s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:20 873274000 1615910600
+
+real	0m1.979s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m2.198s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:27 081709000  1615910607
+use wskey
+
+real	0m1.459s
+user	0m0.109s
+sys	0m0.156s
+03/17/21 00:03:29 165284700  1615910609 token: AAFgUNbQADBNxLoLGVFCQBbpTotW1n4elvrOamuPKuslQVllSiOyPF5PQBM5Aerbcv-NOkb2hEw
+
+real	0m2.068s
+user	0m0.063s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:33 205798200  1615910613 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:33 624545300  1615910613 移动签到金士顿旗舰店
+
+real	0m1.269s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:40 372803800 1615910620
+
+real	0m2.148s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.907s
+user	0m0.000s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:46 246123600  1615910626
+use wskey
+
+real	0m1.785s
+user	0m0.125s
+sys	0m0.141s
+03/17/21 00:03:48 429136800  1615910628 token: AAFgUNbkADDbkpdpD3h8ZnaFjOLRtiRb3CT8vQjMKF1-2V3F3XrJC0-2gdIL5FbZNHwRwUPue8E
+
+real	0m1.683s
+user	0m0.016s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:52 167825200  1615910632 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:52 433581900  1615910632 移动签到金士顿旗舰店
+
+real	0m1.759s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:59 949701900 1615910639
+
+real	0m2.305s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.886s
+user	0m0.047s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:06 558848400  1615910646
+use wskey
+
+real	0m1.879s
+user	0m0.125s
+sys	0m0.172s
+03/17/21 00:04:08 738119700  1615910648 token: AAFgUNb4ADBvPTw5DIovop_06Po5KA1d9ATKJiriPVj2RYCDq6PWzUtwGNMZukBitFs_ie23DMs
+
+real	0m2.151s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:13 245295100  1615910653 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:13 499140500  1615910653 移动签到金士顿旗舰店
+
+real	0m3.057s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:22 040716900 1615910662
+
+real	0m2.077s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.390s
+user	0m0.016s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:27 711229700  1615910667
+use wskey
+
+real	0m2.255s
+user	0m0.188s
+sys	0m0.156s
+03/17/21 00:04:30 338706300  1615910670 token: AAFgUNcOADAO5VFKOOqfFWjQPRZOrH4AaX1porc8V7NiHH2Z2X6C1Kq5GYEVfADsdIprbpPbpCQ
+
+real	0m1.977s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:34 471183000  1615910674 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:34 983030900  1615910674 移动签到金士顿旗舰店
+
+real	0m2.180s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:41 664526600 1615910681
+
+real	0m2.249s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.737s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:47 798649800  1615910687
+use wskey
+
+real	0m2.239s
+user	0m0.141s
+sys	0m0.141s
+03/17/21 00:04:50 728724800  1615910690 token: AAFgUNchADBqY-W_4HMKspUxJHYEfRZInHdF91JLolBdjPn76FH_VeLsspzBg7uQen3rb8TIHEo
+
+real	0m1.762s
+user	0m0.016s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:55 135083300  1615910695 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:55 789278600  1615910695 移动签到金士顿旗舰店
+
+real	0m1.723s
+user	0m0.063s
+sys	0m0.047s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:03 294998500 1615910703
+
+real	0m3.028s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.635s
+user	0m0.031s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:10 001605700  1615910710
+use wskey
+
+real	0m1.581s
+user	0m0.109s
+sys	0m0.172s
+03/17/21 00:05:11 953324400  1615910711 token: AAFgUNc3ADAZ87Sxyd4tPotxWzQ4ioM0e28K_7AfY_93GbU-c-qOJXJvu9O4KbyiOnw93_VOad8
+
+real	0m1.674s
+user	0m0.047s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:17 578562200  1615910717 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:18 004860200  1615910718 移动签到金士顿旗舰店
+
+real	0m1.469s
+user	0m0.078s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:24 649642600 1615910724
+
+real	0m2.911s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.237s
+user	0m0.063s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:32 279153900  1615910732
+use wskey
+
+real	0m2.306s
+user	0m0.141s
+sys	0m0.203s
+03/17/21 00:05:34 885684500  1615910734 token: AAFgUNdOADBH2BXmjDWTS-e1HRQGrzSRxd9IcQ6mKunUJ1G8Er8otjY437iV4DtTU6LQwe90ez0
+
+real	0m1.862s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:39 155566200  1615910739 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:39 644252300  1615910739 移动签到金士顿旗舰店
+
+real	0m2.034s
+user	0m0.031s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:47 319850000 1615910747
+
+real	0m3.315s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.761s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:53 981630200  1615910753
+use wskey
+
+real	0m1.609s
+user	0m0.188s
+sys	0m0.125s
+03/17/21 00:05:55 947700500  1615910755 token: AAFgUNdjADBXAM0A9U_ISAaGHhGZQMn7h2TSAHIG1zFyWBaZu_KprDIZy09CgatSNvA6KMr7Eg4
+
+real	0m1.564s
+user	0m0.063s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:59 672078100  1615910759 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:00 123867700  1615910760 移动签到金士顿旗舰店
+
+real	0m2.025s
+user	0m0.031s
+sys	0m0.219s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:11 510057000 1615910771
+
+real	0m3.535s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.913s
+user	0m0.000s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:17 908062000  1615910777
+use wskey
+
+real	0m2.060s
+user	0m0.109s
+sys	0m0.141s
+03/17/21 00:06:20 527863400  1615910780 token: AAFgUNd7ADDtd-MkSfWAVSlbpZLnf1HXAQV_r3fl1BO1p4D9FAPxOq2-wKs_xyXHedLIzOiu--o
+
+real	0m1.836s
+user	0m0.016s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:25 981354300  1615910785 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:26 386447200  1615910786 移动签到金士顿旗舰店
+
+real	0m1.750s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:34 436537900 1615910794
+
+real	0m3.432s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.036s
+user	0m0.047s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:40 942968000  1615910800
+use wskey
+
+real	0m2.523s
+user	0m0.172s
+sys	0m0.156s
+03/17/21 00:06:44 582374200  1615910804 token: AAFgUNeTADABERteWDj-Sxn-sAt0DB1MQ06FD2rJdlEkfvzSL3jg_jmbTm9KRa77FJ4_OMH64Ik
+
+real	0m2.392s
+user	0m0.047s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:49 210976700  1615910809 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:49 455969900  1615910809 移动签到金士顿旗舰店
+
+real	0m1.859s
+user	0m0.016s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:56 556091400 1615910816
+
+real	0m4.415s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.545s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:05 405940600  1615910825
+use wskey
+
+real	0m1.678s
+user	0m0.109s
+sys	0m0.141s
+03/17/21 00:07:07 521825800  1615910827 token: AAFgUNerADBBF7MzcIhTnwC2dKz9z1KFNXhAAoA08tccz8EmKczyLj8X5ZbZ39fIDAYa_EAh_W8
+
+real	0m1.533s
+user	0m0.078s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:11 557622700  1615910831 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:11 747940100  1615910831 移动签到金士顿旗舰店
+
+real	0m1.487s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:19 751252000 1615910839
+
+real	0m4.353s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m2.377s
+user	0m0.031s
+sys	0m0.172s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911446	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911446	LZ_TOKEN_KEY	lztokenpagebb58fa947afd4d6c964952dc7923337f
+03/17/21 00:07:27 673842600  1615910847
+use wskey
+
+real	0m1.718s
+user	0m0.094s
+sys	0m0.156s
+03/17/21 00:07:29 933011400  1615910849 token: AAFgUNfBADAk9-1qOH_ZnIO6-i4sJK8aRkPt05P73iNK-YfK554ZTkPlwc1MQGAlaXl6THhZbOE
+
+real	0m3.039s
+user	0m0.063s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:35 902808300  1615910855 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:36 346188500  1615910856 移动签到金士顿旗舰店
+
+real	0m2.367s
+user	0m0.031s
+sys	0m0.203s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:43 485723000 1615910863
+
+real	0m4.643s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m2.967s
+user	0m0.063s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:52 742217700  1615910872
+use wskey
+
+real	0m2.503s
+user	0m0.156s
+sys	0m0.141s
+03/17/21 00:07:56 054462800  1615910876 token: AAFgUNfbADAbYFp7i-4RdT30bEcJS1ss6xGO6lVjaofwdLHpboy661zJ63XOteXWtTt1gY1O7XI
+
+real	0m1.896s
+user	0m0.047s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:01 753049300  1615910881 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:08:02 359417100  1615910882 移动签到金士顿旗舰店
+
+real	0m2.807s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:12 217360800 1615910892
+
+real	0m4.277s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.977s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:08:20 700926300  1615910900
+use wskey
+
+real	0m2.155s
+user	0m0.125s
+sys	0m0.219s
+03/17/21 00:08:23 198251900  1615910903 token: AAFgUNf2ADCq1rQcY1a9QdOj9WkAfL8h_yIooW1WahqFwtszr6G1WE-vPbkpNz0dAP0QsaJac5c
+
+real	0m2.273s
+user	0m0.016s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:28 594705800  1615910908 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:08:29 720251700  1615910909 移动签到金士顿旗舰店
+
+real	0m2.338s
+user	0m0.016s
+sys	0m0.172s
+03/17/21 00:08:39 369192700 1615910919
+
+real	0m4.627s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m2.370s
+user	0m0.031s
+sys	0m0.172s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911526	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911526	LZ_TOKEN_KEY	lztokenpaged556a23cfdfc4696baabc53787a61208
+03/17/21 00:08:47 908032100  1615910927
+use wskey
+
+real	0m2.031s
+user	0m0.172s
+sys	0m0.266s
+03/17/21 00:08:50 356130100  1615910930 token: AAFgUNgRADDn2BFB-JahDmpTK6FAIJz5IUSLDxKR2NIyg_eTCha27l1S85cP2H1N0mvybNQfs_E
+
+real	0m1.813s
+user	0m0.063s
+sys	0m0.125s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:09:38 638592400  1615910978
+签到失败. 写入失败的giftName: 
+
+***********************************************
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+***********************************************
+
+移动签到金士顿旗舰店查看结果
+{"msg":"","giftLog":{},"isOk":true,"signDetail":{},"followDays":1,"signRecord":{"nicknameShow":null,"id":"a963c9788a914208aefddd63d32178e6","venderId":798944,"actId":"e86853787ead4094b4e5189bf6d1223b","actName":"签到活动","nick":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","phone":"","midUrl":"","pin":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","lastSignDate":null,"contiSignNum":0,"totalSignNum":0,"createTime":null,"updateTime":null,"remark":null}}
+
+{
+  "signDetail": {},
+  "contiSignNum": 0,
+  "totalSignNum": 0
+}
+
+金士顿旗舰店活动规则
+{"msg":"","act":{"id":"e86853787ead4094b4e5189bf6d1223b","jdActivityId":null,"venderId":798944,"actName":"签到活动","startTime":1615862400000,"endTime":1616169599000,"tplId":"0001","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e86853787ead4094b4e5189bf6d1223b&venderId=798944","shortUrl":"3.cn/10-131txf","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/155992/37/10207/3642/602e3052Ee0605407/4ee109a12bcc1d8a.png","actRule":"1、活动时间：2021-03-15 00:00 - 2021-03-19 23:59；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、连续签到1天，有机会赠送[1京豆]；
+4、连续签到3天，有机会赠送[2京豆]；
+5、连续签到5天，有机会赠送[3京豆]；
+6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+7、关注店铺后方可参与活动；
+8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1613639762000,"updateTime":1615862388000,"activityType":null,"actTimeStr":"2021-03-16 10:40 至 2021-03-19 23:59","actRange":"all","isFocusShop":"y","giftJson":"{\"giftConditions\":[{\"dayNum\":\"1\",\"gift\":{\"giftInfoId\":\"282b729973594651b9934409e1cc8f0e\",\"giftName\":\"1京豆\",\"giftNum\":\"1\",\"giftTotal\":\"5000\",\"giftType\":\"6\",\"id\":\"1198215\",\"priceInfo\":\"0.01\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"3\",\"gift\":{\"giftInfoId\":\"6fb73e7774004e8589627eec20e9e140\",\"giftName\":\"2京豆\",\"giftNum\":\"2\",\"giftTotal\":\"7500\",\"giftType\":\"6\",\"id\":\"1151220\",\"priceInfo\":\"0.02\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"5\",\"gift\":{\"giftInfoId\":\"66b05e14c8d14ed3a0262430ec753e8d\",\"giftName\":\"3京豆\",\"giftNum\":\"3\",\"giftTotal\":\"7000\",\"giftType\":\"6\",\"id\":\"1151220\",\"priceInfo\":\"0.03\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"n\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"n","gift":null,"signType":"1","giftConditions":[{"dayNum":"1","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1198215","giftType":"6","giftName":"1京豆","giftNum":"1","giftTotal":"5000","giftResidue":null,"priceInfo":"0.01","shortLink":"","orginLink":null,"giftInfoId":"282b729973594651b9934409e1cc8f0e","commonAddAwardVO":null}},{"dayNum":"3","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1151220","giftType":"6","giftName":"2京豆","giftNum":"2","giftTotal":"7500","giftResidue":null,"priceInfo":"0.02","shortLink":"","orginLink":null,"giftInfoId":"6fb73e7774004e8589627eec20e9e140","commonAddAwardVO":null}},{"dayNum":"5","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1151220","giftType":"6","giftName":"3京豆","giftNum":"3","giftTotal":"7000","giftResidue":null,"priceInfo":"0.03","shortLink":"","orginLink":null,"giftInfoId":"66b05e14c8d14ed3a0262430ec753e8d","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"43359783088,41442553777,10023590283972,28473651346,10020609235580,71262604820,48357261248,29632484531","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e86853787ead4094b4e5189bf6d1223b&venderId=798944",
+  "shortUrl": "3.cn/10-131txf",
+  "actRule": "1、活动时间：2021-03-15 00:00 - 2021-03-19 23:59；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、连续签到1天，有机会赠送[1京豆]；\n4、连续签到3天，有机会赠送[2京豆]；\n5、连续签到5天，有机会赠送[3京豆]；\n6、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n7、关注店铺后方可参与活动；\n8、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n9、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=e86853787ead4094b4e5189bf6d1223b
+venderId=798944
+startTime=1615862400000
+endTime=1616169599000
+# 短链接
+suo_url="https://3.cn/10-131txf"
+actTimeStr="2021-03-16 10:40 至 2021-03-19 23:59"
+#店铺名称
+vendername="金士顿旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e86853787ead4094b4e5189bf6d1223b&venderId=798944&adsource=tg_storePage
+# 活动时间：2021.03.16 10:40:00 - 2021.03.19 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：1京豆 1京豆
+连续签到3天：2京豆 2京豆
+连续签到5天：3京豆 3京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2"
+sign_num="1"
+sign_total_num="7"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 1 天
+签到总天数 7"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2"
+sign_num="1"
+sign_total_num="7"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 1 天
+签到总天数 7"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2"
+sign_num="1"
+sign_total_num="7"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 1 天
+签到总天数 7"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

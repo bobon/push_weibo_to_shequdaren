@@ -1,0 +1,706 @@
+03/17/21 00:02:02 033106000  1615910522
+RANDOM_num: 25
+removed '/tmp/tmp.cKcKBUH5nI'
+03/17/21 00:02:03 616429200  1615910523 检查移动签到
+
+real	0m1.571s
+user	0m0.047s
+sys	0m0.125s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:07 021944200  1615910527
+use wskey
+
+real	0m1.598s
+user	0m0.109s
+sys	0m0.156s
+03/17/21 00:02:08 967637100  1615910528 token: AAFgUNaAADAxlCCEADWNyRT9tgJ-8C6SGeBgu2AbHqx3QWtXDhAKpe5qkJz8xz6qdFa1A_vSn3w
+
+real	0m1.332s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:11 966713000  1615910531 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:12 454942200  1615910532 移动签到泉林本色京东自营旗舰店
+
+real	0m1.893s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:22 476516800 1615910542
+
+real	0m1.465s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.005s
+user	0m0.047s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:27 766941400  1615910547
+use wskey
+
+real	0m2.686s
+user	0m0.156s
+sys	0m0.109s
+03/17/21 00:02:31 183661100  1615910551 token: AAFgUNaWADB2AsP7vnTU8HJw8Afy2TDRuj5hZk5MrMhRjxY38c2uxfsU5IDmj40uQcu6GcckBbQ
+
+real	0m1.687s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:35 266324200  1615910555 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:36 167295200  1615910556 移动签到泉林本色京东自营旗舰店
+
+real	0m1.696s
+user	0m0.016s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:44 315598000 1615910564
+
+real	0m2.839s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.197s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:02:50 902627800  1615910570
+use wskey
+
+real	0m1.930s
+user	0m0.141s
+sys	0m0.109s
+03/17/21 00:02:53 351036500  1615910573 token: AAFgUNasADBvZSJalN7iweE7jQPzi9zIsJVvioEoexO1BiTzKE8hH17EnI_vd-PH3UXYcA3GXoo
+
+real	0m1.339s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:02:57 354969700  1615910577 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:02:57 635923200  1615910577 移动签到泉林本色京东自营旗舰店
+
+real	0m1.478s
+user	0m0.047s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:06 938524200 1615910586
+
+real	0m1.559s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.438s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:11 876368100  1615910591
+use wskey
+
+real	0m1.779s
+user	0m0.156s
+sys	0m0.109s
+03/17/21 00:03:14 081507200  1615910594 token: AAFgUNbBADAG1Xt6rIPESkPXSUj653mzQwM3i-raLHwPGf4VH0SCXn1G9OW6yN_ozyrC9yL-k1k
+
+real	0m3.043s
+user	0m0.031s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:19 503695900  1615910599 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:20 045745000  1615910600 移动签到泉林本色京东自营旗舰店
+
+real	0m1.588s
+user	0m0.016s
+sys	0m0.219s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:27 953311800 1615910607
+
+real	0m1.999s
+user	0m0.000s
+sys	0m0.047s
+
+real	0m2.485s
+user	0m0.016s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:33 739203800  1615910613
+use wskey
+
+real	0m1.851s
+user	0m0.172s
+sys	0m0.188s
+03/17/21 00:03:36 025816700  1615910616 token: AAFgUNbXADB6K1P9ZJ8NE9b-zQ155N98iMNlA2MUAnAXS-Co7sUFEigZzL6tGM6x2h_sHwhIl2o
+
+real	0m1.860s
+user	0m0.063s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:39 980585500  1615910619 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:03:40 413025500  1615910620 移动签到泉林本色京东自营旗舰店
+
+real	0m1.582s
+user	0m0.063s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:03:48 442476900 1615910628
+
+real	0m2.531s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.496s
+user	0m0.031s
+sys	0m0.109s
+[WARN] get LZ_TOKEN error
+03/17/21 00:03:54 491446200  1615910634
+use wskey
+
+real	0m1.721s
+user	0m0.156s
+sys	0m0.188s
+03/17/21 00:03:56 698412000  1615910636 token: AAFgUNbsADCOm98EKBMKha5UOEvv7pAcCh85-RZ8JKm5a-b_jO7vkWJdvR3FPszesepHMJp4_es
+
+real	0m1.346s
+user	0m0.078s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:00 974677300  1615910640 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:01 771815400  1615910641 移动签到泉林本色京东自营旗舰店
+
+real	0m1.415s
+user	0m0.094s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:09 739295700 1615910649
+
+real	0m2.640s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.182s
+user	0m0.031s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:15 893218300  1615910655
+use wskey
+
+real	0m1.606s
+user	0m0.141s
+sys	0m0.156s
+03/17/21 00:04:17 834727300  1615910657 token: AAFgUNcBADDx_qNstOXI5_NKSPbwrtt2HhceuKfhwW7j9qRNeKtwaKjjuk2_7b9w1bStWz39pEQ
+
+real	0m1.028s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:22 146197000  1615910662 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:22 485252900  1615910662 移动签到泉林本色京东自营旗舰店
+
+real	0m1.412s
+user	0m0.031s
+sys	0m0.094s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:30 405760600 1615910670
+
+real	0m2.869s
+user	0m0.000s
+sys	0m0.094s
+
+real	0m1.547s
+user	0m0.063s
+sys	0m0.078s
+[WARN] get LZ_TOKEN error
+03/17/21 00:04:36 176815700  1615910676
+use wskey
+
+real	0m3.133s
+user	0m0.125s
+sys	0m0.125s
+03/17/21 00:04:39 911544400  1615910679 token: AAFgUNcXADC-U8mrcIEiDKhthpLF-RPYew3BY3PNAz6UTkWz-71pjcEJxfrwOkd6fRYp-sgBAoE
+
+real	0m1.585s
+user	0m0.031s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:44 805665700  1615910684 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:04:45 812812200  1615910685 移动签到泉林本色京东自营旗舰店
+
+real	0m1.669s
+user	0m0.078s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:04:54 086116800 1615910694
+
+real	0m2.938s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.737s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:00 482429500  1615910700
+use wskey
+
+real	0m1.691s
+user	0m0.141s
+sys	0m0.172s
+03/17/21 00:05:02 506830300  1615910702 token: AAFgUNcuADDSFyHUiIMfOLg97Aaz8gemtf5NsD61-QQWgVC-GQnqwFiVY_DbhAEMxwZsinqKYR4
+
+real	0m1.199s
+user	0m0.016s
+sys	0m0.203s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:06 351090400  1615910706 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:06 795552900  1615910706 移动签到泉林本色京东自营旗舰店
+
+real	0m1.868s
+user	0m0.063s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:14 789242800 1615910714
+
+real	0m2.948s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m1.884s
+user	0m0.031s
+sys	0m0.094s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:20 853447400  1615910720
+use wskey
+
+real	0m1.040s
+user	0m0.141s
+sys	0m0.172s
+03/17/21 00:05:22 329992000  1615910722 token: AAFgUNdBADBwVUBKMIc7ovSzG99k_9cwT5ftRnZN-POukLxyZDx06usurPTYxerBcx-pWvpfD_Q
+
+real	0m1.848s
+user	0m0.031s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:26 545421100  1615910726 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:26 914586600  1615910726 移动签到泉林本色京东自营旗舰店
+
+real	0m1.865s
+user	0m0.063s
+sys	0m0.141s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:34 727125800 1615910734
+
+real	0m3.391s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m1.978s
+user	0m0.031s
+sys	0m0.188s
+[WARN] get LZ_TOKEN error
+03/17/21 00:05:41 747368500  1615910741
+use wskey
+
+real	0m1.646s
+user	0m0.125s
+sys	0m0.156s
+03/17/21 00:05:44 787808600  1615910744 token: AAFgUNdXADAfW-g43cnu2ej_2XktWW8RTd2oSJofpP1bZd86KWWSNDQ5-X_HxmzvY3K7370kfMk
+
+real	0m1.630s
+user	0m0.063s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:48 102650200  1615910748 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:05:48 551128200  1615910748 移动签到泉林本色京东自营旗舰店
+
+real	0m1.521s
+user	0m0.063s
+sys	0m0.078s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:05:57 159204500 1615910757
+
+real	0m3.422s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.255s
+user	0m0.016s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:04 400788700  1615910764
+use wskey
+
+real	0m2.418s
+user	0m0.109s
+sys	0m0.219s
+03/17/21 00:06:07 388258700  1615910767 token: AAFgUNduADD7dxh-uDEBc-2cEpFtq9h6Ct9uwhg-kLvGHsWRpVo84bh23-vMMmP6opZ8Dlc4y9s
+
+real	0m1.877s
+user	0m0.031s
+sys	0m0.188s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:12 885332200  1615910772 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:13 149505800  1615910773 移动签到泉林本色京东自营旗舰店
+
+real	0m0.649s
+user	0m0.016s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:20 592421900 1615910780
+
+real	0m3.460s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m1.925s
+user	0m0.016s
+sys	0m0.188s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:28 084956900  1615910788
+use wskey
+
+real	0m2.026s
+user	0m0.141s
+sys	0m0.156s
+03/17/21 00:06:30 614840700  1615910790 token: AAFgUNeFADALu5u0-3F-ofTZQFdl-NLEUYc7AJNdKk6X7Z1p3-may650RiGTvPZjPYlSXJ9GORM
+
+real	0m2.047s
+user	0m0.047s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:35 611989600  1615910795 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:06:36 102464100  1615910796 移动签到泉林本色京东自营旗舰店
+
+real	0m2.001s
+user	0m0.031s
+sys	0m0.109s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:06:46 818334800 1615910806
+
+real	0m4.483s
+user	0m0.016s
+sys	0m0.016s
+
+real	0m1.995s
+user	0m0.016s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:06:56 157386400  1615910816
+use wskey
+
+real	0m2.572s
+user	0m0.141s
+sys	0m0.203s
+03/17/21 00:06:59 554466800  1615910819 token: AAFgUNeiADDsGqm5uFSfsoF7eqLdZbTG17qBEH621RYEQ5f6JRHilW9ah0iFQTLfzeGM9ZrFAII
+
+real	0m1.843s
+user	0m0.047s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:04 259512900  1615910824 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:04 803281100  1615910824 移动签到泉林本色京东自营旗舰店
+
+real	0m1.785s
+user	0m0.016s
+sys	0m0.172s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:12 737910200 1615910832
+
+real	0m4.525s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.860s
+user	0m0.063s
+sys	0m0.141s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:21 432450100  1615910841
+use wskey
+
+real	0m2.094s
+user	0m0.156s
+sys	0m0.172s
+03/17/21 00:07:23 919923000  1615910843 token: AAFgUNe7ADD5pAK5Ivr0e6ewL-K5VQjVk7LYNRq7YsbHXW4QLzB2uC1UTkcX3_Q0zk68hLG5hHg
+
+real	0m3.001s
+user	0m0.000s
+sys	0m0.188s
+03/17/21 00:07:28 931924000  1615910848 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:29 333530300  1615910849 移动签到泉林本色京东自营旗舰店
+
+real	0m3.022s
+user	0m0.031s
+sys	0m0.234s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:41 475371200 1615910861
+
+real	0m3.954s
+user	0m0.000s
+sys	0m0.063s
+
+real	0m2.577s
+user	0m0.063s
+sys	0m0.172s
+[WARN] get LZ_TOKEN error
+03/17/21 00:07:50 847548900  1615910870
+use wskey
+
+real	0m2.441s
+user	0m0.172s
+sys	0m0.203s
+03/17/21 00:07:54 393135900  1615910874 token: AAFgUNfZADD9X1KUX3BWZ5pQVOMHZawlX_Gx4wRuk-zeH3vvuavvq9vysUeCOwuA5lCdfObQBlI
+
+real	0m1.634s
+user	0m0.016s
+sys	0m0.156s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:07:59 046498700  1615910879 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:07:59 534817800  1615910879 移动签到泉林本色京东自营旗舰店
+
+real	0m2.588s
+user	0m0.031s
+sys	0m0.203s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:12 773150300 1615910892
+
+real	0m4.600s
+user	0m0.000s
+sys	0m0.031s
+
+real	0m2.370s
+user	0m0.031s
+sys	0m0.156s
+[WARN] get LZ_TOKEN error
+03/17/21 00:08:20 958938800  1615910900
+use wskey
+
+real	0m2.055s
+user	0m0.094s
+sys	0m0.125s
+03/17/21 00:08:23 413114300  1615910903 token: AAFgUNf2ADDJHliF_6LFM6jqcSyBzpw8_k9UCXHLqEEjX22FTGzQtDicdtwTQ_nps92x5LIHdcw
+
+real	0m2.052s
+user	0m0.063s
+sys	0m0.125s
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:28 480735500  1615910908 secretPin: 
+[WARN] get secretPin error
+
+03/17/21 00:08:29 162414100  1615910909 移动签到泉林本色京东自营旗舰店
+
+real	0m1.675s
+user	0m0.078s
+sys	0m0.203s
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+03/17/21 00:08:39 290374400 1615910919
+
+real	0m4.994s
+user	0m0.000s
+sys	0m0.078s
+
+real	0m2.493s
+user	0m0.047s
+sys	0m0.234s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911526	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911526	LZ_TOKEN_KEY	lztokenpage6e1c930dc800464eb395fc988188e89e
+03/17/21 00:08:48 258073000  1615910928
+use wskey
+
+real	0m2.690s
+user	0m0.234s
+sys	0m0.141s
+03/17/21 00:08:51 440945200  1615910931 token: AAFgUNgSADBqL5FuynkepvrHtJC5jkw1eo4aL9yVKkuifvL1A0w53mlM3eZxkuE7F70--aFty_Q
+
+real	0m1.290s
+user	0m0.047s
+sys	0m0.141s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:10:09 181861300  1615911009
+parse error: Invalid numeric literal at line 1, column 10
+签到是否成功解析失败. 不再写/home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34
+
+移动签到泉林本色京东自营旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"5","activityType":null},"imgUrl":"","giftInfoId":"774be7c4d36842adbe249a3129c1012e","dayNum":"1","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"10元优惠券","venderId":null,"giftType":"10","type":0,"shortLink":"3.cn/100Y7-vTC","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20748","activityType":null},"imgUrl":"","giftInfoId":"9e8ce58f221f4a728a3eac62fd00300f","dayNum":"2","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"20店铺积分","venderId":null,"giftType":"9","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"20","activityType":null},"imgUrl":"","giftInfoId":"8920a88b3a1744f1b69597e7f1fce812","dayNum":"3","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"1京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"5df0e1ff823042cca31321dddc79c126","dayNum":"4","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"9c68a98b8e4644e59eaa6fa69c7694c0","dayNum":"5","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"3京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"60bc5fbd98e94d5898044406d634283a","dayNum":"6","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1158781","activityType":null},"imgUrl":"","giftInfoId":"46cbd3639be94b9da294952fb825e915","dayNum":"7","showType":"1"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-27 23:24 - 2021-03-29 23:24；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送5店铺积分；
+6、第2天签到，有机会赠送10元优惠券；
+7、第3天签到，有机会赠送20店铺积分；
+8、第4天签到，有机会赠送1京豆；
+9、第5天签到，有机会赠送2京豆；
+10、第6天签到，有机会赠送3京豆；
+11、第7天签到，有机会赠送5京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="泉林本色京东自营旗舰店"
+#店铺激活码
+actId="1e5cac4ad760485d931141412c9fab0c"
+#店铺id
+venderId="1000001906"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao"
+
+startTime=1612496160
+endTime=1614483360
+# 活动时间：2021-02-05 11:36 - 2021-02-28 11:36；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5店铺积分
+连续签到2天：10元优惠券
+连续签到3天：20店铺积分
+连续签到4天：1京豆
+连续签到5天：2京豆
+连续签到6天：3京豆
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["3京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["3京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 ["3京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

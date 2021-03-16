@@ -1,0 +1,111 @@
+03/17/21 00:00:05 647646000  1615910405
+RANDOM_num: 30
+force to sign
+
+real	0m2.508s
+user	0m0.063s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911010	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911010	LZ_TOKEN_KEY	lztokenpagedd2645eb26b14b0eb928dc4765fce0b0
+03/17/21 00:00:12 111683400  1615910412
+use wskey
+
+real	0m1.593s
+user	0m0.094s
+sys	0m0.141s
+03/17/21 00:00:14 069800500  1615910414 token: AAFgUNYNADA2AfxYWYTt4t2rlOYyVmPpoOmsNXtCWrv64fXm56_6yWkivWSqxCLoYVQRY2Mdgr4
+
+real	0m2.133s
+user	0m0.047s
+sys	0m0.094s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:01:48 156789600  1615910508
+parse error: Invalid numeric literal at line 1, column 10
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+移动签到冰峰京东自营旗舰店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="冰峰京东自营旗舰店"
+#店铺激活码
+actId="9b60237dfbc8487688e593fb15570a96"
+#店铺id
+venderId="1000101662"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b60237dfbc8487688e593fb15570a96&venderId=1000101662&adsource=tg_storePage"
+
+startTime=1615444200
+endTime=1618036200
+# 活动时间：2021-03-11 14:30 - 2021-04-10 14:30；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：2京豆
+连续签到3天：3京豆
+连续签到4天：4京豆
+连续签到5天：5京豆
+连续签到6天：6京豆
+连续签到7天：9京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

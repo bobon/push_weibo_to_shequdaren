@@ -1,0 +1,95 @@
+03/17/21 04:04:17 930334700  1615925057
+RANDOM_num: 10
+removed '/tmp/tmp.1X0dtG0u1B'
+03/17/21 04:04:18 045805700  1615925058
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210317
+***********************************************
+
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+actId=b4a42642f55d43f7bc198b28b50c62e2
+venderId=1000003533
+startTime=1614668400000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/1017pR-do"
+actTimeStr="2021-03-02 15:00 至 2021-03-31 23:59"
+#店铺名称
+vendername="资生堂个人护理用品京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=b4a42642f55d43f7bc198b28b50c62e2&venderId=1000003533&adsource=tg_storePage
+# 活动时间：2021.03.02 15:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：10京豆 10京豆
+连续签到14天：20京豆 20京豆
+连续签到21天：30京豆 30京豆
+连续签到30天：50京豆 50京豆
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,116 @@
+03/17/21 03:30:03 593797500  1615923003
+RANDOM_num: 35
+removed '/tmp/tmp.c3cDWjO7la'
+03/17/21 03:30:04 950407500  1615923004 检查移动签到
+
+real	0m1.115s
+user	0m0.016s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615923607	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615923607	LZ_TOKEN_KEY	lztokenpage03223204184847cab0dc28b6bf119072
+03/17/21 03:30:07 690146300  1615923007
+use wskey
+
+real	0m0.995s
+user	0m0.125s
+sys	0m0.109s
+03/17/21 03:30:08 882819100  1615923008 token: AAFgUQdAADDEslifH0srotL9aCifURTW5Ej65EA_2hdP4Z-q0D-nCIBEQ06Qs6i6g_dZs3tU5cU
+
+real	0m1.080s
+user	0m0.031s
+sys	0m0.125s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 03:31:55 860888900  1615923115
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 []
+***********************************************
+
+移动签到悦和泰电器专营店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"50元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/100Z2-wLe","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"348061701","activityType":null},"imgUrl":"","giftInfoId":"6f696f31ff4446d19d4f6d0e41ab0506","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"6京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1177118","activityType":null},"imgUrl":"","giftInfoId":"0119e27917284a32abb8d577e0e7fb55","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1177118","activityType":null},"imgUrl":"","giftInfoId":"0fcb18c15d3c4ef8b058239f281db31a","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"200元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/100-Z6Ad3","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"347831729","activityType":null},"imgUrl":"","giftInfoId":"d1d17a68d0d2416ba4a56de03e61a56e","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"88京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1177118","activityType":null},"imgUrl":"","giftInfoId":"a3fc5d8c0693453d9a8c517653cc5d0c","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"108京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1177118","activityType":null},"imgUrl":"","giftInfoId":"49a738fe3a9149e1b73b19466a633e8f","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"HDMI数据线一根","venderId":null,"giftType":"7","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"50","activityType":null},"imgUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/155122/17/17621/13981/601e2c8cE1ddcbfc6/884610da86b55367.jpg","giftInfoId":"31027ec41bc04140901b01dd1ea0c4c6","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-03-12 13:15 - 2021-04-01 13:15；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、签到7天后不能再参加；
+5、第1天签到，有机会赠送50元优惠券；
+6、第2天签到，有机会赠送6京豆；
+7、第3天签到，有机会赠送10京豆；
+8、第4天签到，有机会赠送200元优惠券；
+9、第5天签到，有机会赠送88京豆；
+10、第6天签到，有机会赠送108京豆；
+11、第7天签到，有机会赠送HDMI数据线一根；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="悦和泰电器专营店"
+#店铺激活码
+actId="1c5f52fb5b914f1592676d0cc9c519f8"
+#店铺id
+venderId="10237035"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1c5f52fb5b914f1592676d0cc9c519f8&venderId=10237035&adsource=tg_storePage"
+
+startTime=1615526100
+endTime=1617254100
+# 活动时间：2021-03-12 13:15 - 2021-04-01 13:15；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50元优惠券
+连续签到2天：6京豆
+连续签到3天：10京豆
+连续签到4天：200元优惠券
+连续签到5天：88京豆
+连续签到6天：108京豆
+连续签到7天：HDMI数据线一根
+"
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

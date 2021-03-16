@@ -22,34 +22,34 @@ actRule="
 连续签到7天：鬼塚虎精美钥匙扣
 "
 #赵 122294312-396444 sign_res
-sign_num="1"
-giftName="null"
+sign_num="2"
+giftName=""50店铺积分""
 giftRes="ok"
-giftDate="20210316"
-sign_res_info="7天签到 第 1 天
-当天签到奖励 [null]"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["50店铺积分"]"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
-sign_num="1"
-giftName="null"
+sign_num="2"
+giftName=""50店铺积分""
 giftRes="ok"
-giftDate="20210316"
-sign_res_info="7天签到 第 1 天
-当天签到奖励 [null]"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["50店铺积分"]"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
-sign_num="1"
-giftName="null"
+sign_num="2"
+giftName=""50店铺积分""
 giftRes="ok"
-giftDate="20210316"
-sign_res_info="7天签到 第 1 天
-当天签到奖励 [null]"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["50店铺积分"]"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_num="0"
 giftName=""
 giftRes=""
-giftDate="20210316"
+giftDate="20210317"
 sign_res_info="7天签到 第 0 天
 当天签到奖励 []"
 #移动 jd_OeTNobRVGiNZ sign_res_end

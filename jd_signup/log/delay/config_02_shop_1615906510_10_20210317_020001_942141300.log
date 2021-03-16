@@ -1,0 +1,65 @@
+03/17/21 02:05:43 632256900  1615917943
+RANDOM_num: 25
+removed '/tmp/tmp.59WC0NkSDy'
+03/17/21 02:05:43 754978300  1615917943
+王 今天已经签到过. 签到结果: ok  giftDate: 20210317
+***********************************************
+7天签到 第 2 天
+当天签到奖励 [2京豆]
+***********************************************
+
+#店铺名称
+vendername="Oray京东自营官方旗舰店"
+#店铺激活码
+actId="36a96949aef74f239e4a8b8553518bac"
+#店铺id
+venderId="10142406"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=36a96949aef74f239e4a8b8553518bac&venderId=10142406"
+
+startTime=1615527480
+endTime=1616256000
+# 活动时间：2021-03-12 13:38 - 2021-03-21 00:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["2京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["2京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["2京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

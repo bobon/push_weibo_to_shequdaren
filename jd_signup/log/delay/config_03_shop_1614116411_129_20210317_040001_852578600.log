@@ -1,0 +1,65 @@
+03/17/21 04:05:19 176024900  1615925119
+RANDOM_num: 45
+removed '/tmp/tmp.GK1qQexL1b'
+03/17/21 04:05:19 323052100  1615925119
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210317
+***********************************************
+7天签到 第 0 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="安我（AND ALL）健康京东自营旗舰店"
+#店铺激活码
+actId="f63f0cc98d32422b8b6ac5b8a0aaec0e"
+#店铺id
+venderId="1000351797"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=f63f0cc98d32422b8b6ac5b8a0aaec0e&venderId=1000351797"
+
+startTime=1613723220
+endTime=1616342340
+# 活动时间：2021-02-19 16:27 - 2021-03-21 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：3京豆
+连续签到4天：2京豆
+连续签到5天：2京豆
+连续签到6天：2京豆
+连续签到7天：5京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

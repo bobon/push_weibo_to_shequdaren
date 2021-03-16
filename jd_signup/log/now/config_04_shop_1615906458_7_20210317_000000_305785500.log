@@ -1,0 +1,111 @@
+03/17/21 00:00:03 139887200  1615910403
+RANDOM_num: 35
+force to sign
+
+real	0m1.920s
+user	0m0.031s
+sys	0m0.109s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911006	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911006	LZ_TOKEN_KEY	lztokenpage00c2ba73e89f4d17b7eb75bef605d610
+03/17/21 00:00:07 836066600  1615910407
+use wskey
+
+real	0m1.773s
+user	0m0.094s
+sys	0m0.172s
+03/17/21 00:00:10 214384700  1615910410 token: AAFgUNYJADA90QeO55ONSFELu84TjdSLSpsL8AoM8BdsgSQIrpCrxca7OKfnxmI3VSoIp0owUbk
+
+real	0m1.900s
+user	0m0.031s
+sys	0m0.125s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:01:58 878798800  1615910518
+parse error: Invalid numeric literal at line 1, column 10
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第  天
+当天签到奖励 []
+***********************************************
+
+移动签到悦和泰电器专营店查看结果, 活动规则
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+#店铺名称
+vendername="悦和泰电器专营店"
+#店铺激活码
+actId="1c5f52fb5b914f1592676d0cc9c519f8"
+#店铺id
+venderId="10237035"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1c5f52fb5b914f1592676d0cc9c519f8&venderId=10237035&adsource=tg_storePage"
+
+startTime=1615526100
+endTime=1617254100
+# 活动时间：2021-03-12 13:15 - 2021-04-01 13:15；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50元优惠券
+连续签到2天：6京豆
+连续签到3天：10京豆
+连续签到4天：200元优惠券
+连续签到5天：88京豆
+连续签到6天：108京豆
+连续签到7天：HDMI数据线一根
+"
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName=""50元优惠券""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["50元优惠券"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName=""50元优惠券""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["50元优惠券"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName=""50元优惠券""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["50元优惠券"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num=""
+giftName=""
+giftRes=""
+giftDate="20210317"
+sign_res_info="7天签到 第  天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

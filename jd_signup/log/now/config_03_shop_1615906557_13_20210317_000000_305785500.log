@@ -1,0 +1,89 @@
+03/17/21 00:00:04 794897500  1615910404
+RANDOM_num: 20
+force to sign
+
+real	0m1.887s
+user	0m0.016s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911007	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911007	LZ_TOKEN_KEY	lztokenpage4e44255830344ed1b1f421e1150ece55
+03/17/21 00:00:09 762455800  1615910409
+use pt_key
+
+real	0m1.656s
+user	0m0.094s
+sys	0m0.188s
+03/17/21 00:00:11 781947000  1615910411 token: AAFgUNYLADB2w1_U2S6OxiUDQJKxCNR0e0fiyee5phGPX0pAg4hV64aEkGl7oIVnbLXWqvgEEbo
+
+real	0m1.636s
+user	0m0.031s
+sys	0m0.109s
+03/17/21 00:00:15 431054400  1615910415 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/17/21 00:00:15 717009800  1615910415 肥鹅签到COSORI厨房电器旗舰店
+
+real	0m1.152s
+user	0m0.047s
+sys	0m0.156s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906557_13 写入 over
+
+#店铺名称
+vendername="COSORI厨房电器旗舰店"
+#店铺激活码
+actId="85869b82469347279fd272a3c2015d9f"
+#店铺id
+venderId="10422730"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=85869b82469347279fd272a3c2015d9f&venderId=10422730&adsource=tg_storePage"
+
+startTime=1613957940
+endTime=1616549940
+# 活动时间：2021-02-22 09:39 - 2021-03-24 09:39；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：20京豆
+连续签到2天：30京豆
+连续签到3天：20店铺积分
+连续签到4天：30店铺积分
+连续签到5天：40京豆
+连续签到6天：50京豆
+连续签到7天：5元京东E卡
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210316"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+giftOver="ok"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#王 1309893722-164885 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""
+giftRes="ok"
+giftDate="20210316"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#赵 122294312-396444 sign_res_end

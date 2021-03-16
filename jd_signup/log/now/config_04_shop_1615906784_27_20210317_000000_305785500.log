@@ -1,0 +1,62 @@
+03/17/21 00:00:12 064841300  1615910412
+RANDOM_num: 15
+force to sign
+
+real	0m2.589s
+user	0m0.031s
+sys	0m0.125s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911015	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615911015	LZ_TOKEN_KEY	lztokenpage01ae51ac7cc54126a46fcc23c7565b35
+03/17/21 00:00:17 243144000  1615910417
+use wskey
+
+real	0m1.109s
+user	0m0.094s
+sys	0m0.156s
+03/17/21 00:00:18 530805800  1615910418 token: AAFgUNYSADB4AowbydOCmWHG18j-WaGeKCvFaT6ngpgMDKm5NId9gfy9mRLjcVqc_IF-Z05ZVGQ
+
+real	0m1.024s
+user	0m0.047s
+sys	0m0.109s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/17/21 00:01:08 610122900  1615910468
+签到失败. 写入失败的giftName: 
+parse error: Invalid numeric literal at line 1, column 10
+parse error: Invalid numeric literal at line 1, column 10
+
+***********************************************
+
+当天签到奖励 []
+连续签到  天
+签到总天数 
+***********************************************
+
+移动签到金士顿旗舰店查看结果
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>京东</title> 
+  <meta charset="utf-8" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover" /> 
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="x5-cache" content="enable" /> 
+  <link rel="stylesheet" href="https://storage.360buyimg.com/babel/00162638/333378/production/dev/parser.1526555535098.css?t=20180517191236" /> 
+  <style> img {
+            opacity: 1 !important;
+        } </style> 
+  <link href="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.7320a380.css?t=20180802150952" rel="stylesheet" />
+ </head> 
+ <body style="background:#fff;" id="root"> 
+  <div class="errorPage"> 
+  </div> 
+  <div class="placeholer"> 
+  </div> 
+  <script src="https://wl.jd.com/unify.min.js"></script> 
+  <script type="text/javascript" src="https://storage.360buyimg.com/babel/00170893/348321/production/dev/index.0f8f4dba.js?t=20180802150952"></script> 
+ </body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 10
+[0;31;3mRUN  at {283:<--} ERROR CODE: 4[0m [0;31;3m[20210317 00:01:10] [ERROR] [0m
+
