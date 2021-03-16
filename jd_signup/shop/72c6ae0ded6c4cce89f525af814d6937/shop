@@ -1,0 +1,22 @@
+actId=72c6ae0ded6c4cce89f525af814d6937
+venderId=1000224204
+startTime=1615737960000
+endTime=1617206399000
+# 短链接
+suo_url="https://3.cn/101e0G5-v"
+actTimeStr="2021-03-15 00:06 至 2021-03-31 23:59"
+#店铺名称
+vendername="CeraVe适乐肤京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=72c6ae0ded6c4cce89f525af814d6937&venderId=1000224204
+# 活动时间：2021.03.15 00:06:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：3京豆 3京豆
+连续签到2天：3京豆 3京豆
+连续签到3天：3京豆 3京豆
+连续签到4天：3京豆 3京豆
+连续签到5天：3京豆 3京豆
+连续签到6天：3京豆 3京豆
+连续签到7天：6京豆 6京豆
+"

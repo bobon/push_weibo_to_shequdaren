@@ -1,0 +1,16 @@
+actId=775c506696bd4731ac0f1e886d7d7659
+venderId=10321333
+startTime=1615305600000
+endTime=1615910399000
+# 短链接
+suo_url="https://3.cn/10-18vfhI"
+actTimeStr="2021-03-10 00:00 至 2021-03-16 23:59"
+#店铺名称
+vendername="merrell旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=775c506696bd4731ac0f1e886d7d7659&venderId=10321333
+# 活动时间：2021.03.10 00:00:00 - 2021.03.16 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：80元优惠券
+"

@@ -1,0 +1,23 @@
+#店铺名称
+vendername="域发官方旗舰店"
+#店铺激活码
+actId="a112f0b1a06542609ff46031eae7ce2c"
+#店铺id
+venderId="10374948"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=a112f0b1a06542609ff46031eae7ce2c&venderId=10374948"
+
+startTime=1615824000
+endTime=1615824000
+# 活动时间：
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：2京豆
+连续签到2天：2京豆
+连续签到3天：2京豆
+连续签到4天：2京豆
+连续签到5天：2京豆
+连续签到6天：2京豆
+连续签到7天：10京豆
+"

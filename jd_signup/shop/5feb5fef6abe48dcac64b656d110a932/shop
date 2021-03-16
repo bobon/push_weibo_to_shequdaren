@@ -1,0 +1,18 @@
+actId=5feb5fef6abe48dcac64b656d110a932
+venderId=1000003571
+startTime=1615305600000
+endTime=1616083199000
+# 短链接
+suo_url="https://3.cn/101bKs-sY"
+actTimeStr="2021-03-10 00:00 至 2021-03-18 23:59"
+#店铺名称
+vendername="卡西欧京东自营店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=5feb5fef6abe48dcac64b656d110a932&venderId=1000003571&adsource=tg_storePage
+# 活动时间：2021.03.10 00:00:00 - 2021.03.18 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10积分 10积分
+连续签到5天：5京豆 5京豆
+连续签到7天：10京豆 10京豆
+"

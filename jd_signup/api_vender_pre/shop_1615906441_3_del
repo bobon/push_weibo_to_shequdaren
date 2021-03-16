@@ -1,0 +1,16 @@
+# 短链接
+suo_url=""
+venderId=10342384
+startTime=1615910400000
+endTime=1617206399000
+activityId=10298648
+token=D30BE2AFBA4C1F2FE3D3D29EDA9B0F9D
+#店铺名称
+vendername="益生恩官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=D30BE2AFBA4C1F2FE3D3D29EDA9B0F9D
+# 活动时间：2021.03.17 00:00:00 - 2021.03.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：30京豆
+"

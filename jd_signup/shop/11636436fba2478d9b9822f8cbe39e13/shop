@@ -1,0 +1,18 @@
+actId=11636436fba2478d9b9822f8cbe39e13
+venderId=1000013173
+startTime=1614837840000
+endTime=1617429899000
+# 短链接
+suo_url="https://3.cn/1-018o0cn"
+actTimeStr="2021-03-04 14:04 至 2021-04-03 14:04"
+#店铺名称
+vendername="Yeelight京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=11636436fba2478d9b9822f8cbe39e13&venderId=1000013173&adsource=tg_storePage
+# 活动时间：2021.03.04 14:04:00 - 2021.04.03 14:04:59
+# 奖励说明：
+actRule="
+连续签到3天：100元优惠券
+连续签到8天：赠送橱柜灯20cm黑色
+连续签到15天：赠送折叠台灯PRO
+"

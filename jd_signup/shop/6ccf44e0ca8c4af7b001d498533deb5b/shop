@@ -1,0 +1,18 @@
+actId=6ccf44e0ca8c4af7b001d498533deb5b
+venderId=196536
+startTime=1615278600000
+endTime=1617204659000
+# 短链接
+suo_url="https://3.cn/101bP-ZY8"
+actTimeStr="2021-03-09 16:30 至 2021-03-31 23:30"
+#店铺名称
+vendername="大益茶叶旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=6ccf44e0ca8c4af7b001d498533deb5b&venderId=196536&adsource=tg_storePage
+# 活动时间：2021.03.09 16:30:00 - 2021.03.31 23:30:59
+# 奖励说明：
+actRule="
+连续签到2天：15元优惠券
+连续签到5天：80元优惠券
+连续签到7天：200元优惠券
+"

@@ -1,0 +1,17 @@
+# 短链接
+suo_url="https://u.jd.com/u0x7iVj"
+venderId=1000100287
+startTime=1615824000000
+endTime=1618415999000
+activityId=10298393
+token=BF3246DD46CABE7727D9EEA19E5D0C8A
+#店铺名称
+vendername="捷昇京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=BF3246DD46CABE7727D9EEA19E5D0C8A&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001707023_&utm_term=1364e602839c48ccb463f66e6c096513
+# 活动时间：2021.03.16 00:00:00 - 2021.04.14 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到30天：100京豆
+"

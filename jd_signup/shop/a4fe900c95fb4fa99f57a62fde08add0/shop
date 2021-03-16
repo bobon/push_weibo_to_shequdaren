@@ -1,0 +1,18 @@
+actId=a4fe900c95fb4fa99f57a62fde08add0
+venderId=1000000192
+startTime=1615305600000
+endTime=1615996799000
+# 短链接
+suo_url="https://3.cn/101-bdLN7"
+actTimeStr="2021-03-10 00:00 至 2021-03-17 23:59"
+#店铺名称
+vendername="金士顿京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=a4fe900c95fb4fa99f57a62fde08add0&venderId=1000000192
+# 活动时间：2021.03.10 00:00:00 - 2021.03.17 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆 5京豆
+连续签到5天：10京豆 10京豆
+连续签到7天：20京豆 20京豆
+"

@@ -1,0 +1,17 @@
+actId=912c0ccd76024d899ba65ff9a91eafbc
+venderId=786896
+startTime=1615392000000
+endTime=1615910459000
+# 短链接
+suo_url="https://3.cn/10-1cgyKL"
+actTimeStr="2021-03-11 00:00 至 2021-03-17 00:00"
+#店铺名称
+vendername="TOPSPORTS官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=912c0ccd76024d899ba65ff9a91eafbc&venderId=786896&adsource=tg_storePage
+# 活动时间：2021.03.11 00:00:00 - 2021.03.17 00:00:59
+# 奖励说明：
+actRule="
+连续签到3天：120元优惠券
+连续签到6天：150元优惠券
+"
