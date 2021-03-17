@@ -1,0 +1,28 @@
+RANDOM_num: 20
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1616002139	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzdz-isv.isvjcloud.com	FALSE	/	FALSE	1616002139	LZ_TOKEN_KEY	lztokenpage46fca4fc80124c938dec354b4c577358
+use pt_key
+token: AAFgUjoDADBCUxUxBD9OtBiW7mALAK1nlmDk4vl9s21aWJj6GI09NQcGeT9yNgikdLifs4dcEV0
+secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/18/21 01:19:00 395365200  1616001540
+肥鹅签到蒙牛京东自营旗舰店
+{
+  "result": false,
+  "data": "",
+  "count": 0,
+  "errorMessage": "您已完成当天签到！"
+}
+"您已完成当天签到！"
+签到蒙牛京东自营旗舰店完成
+
+肥鹅签到蒙牛京东自营旗舰店查看结果, 活动规则
+<html>
+<head><title>400 No IP</title></head>
+<center><h1>400 Bad Request</h1></center>
+<center>No IP</center><center><i>a4bfcafe6761b03b060a68ccc9dd3be2</i></center>
+<hr><center>Jdcloud-FE</center>
+</body>
+</html>
+
+parse error: Invalid numeric literal at line 1, column 7

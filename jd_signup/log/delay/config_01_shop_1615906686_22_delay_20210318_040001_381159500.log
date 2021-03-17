@@ -1,0 +1,99 @@
+03/18/21 04:03:52 505644300  1616011432
+RANDOM_num: 30
+removed '/tmp/tmp.CamNGZhrrS'
+03/18/21 04:03:52 609066900  1616011432
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210318
+***********************************************
+
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+2021/03/18_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+actId=7804c15f31b04662b515e88b064e60bb
+venderId=10093102
+startTime=1615628520000
+endTime=1616083259000
+# 短链接
+suo_url="https://3.cn/-101dzcuO"
+actTimeStr="2021-03-13 17:42 至 2021-03-19 00:00"
+#店铺名称
+vendername="优赛电脑专营店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=7804c15f31b04662b515e88b064e60bb&venderId=10093102&adsource=tg_storePage
+# 活动时间：2021.03.13 17:42:00 - 2021.03.19 00:00:59
+# 奖励说明：
+actRule="
+连续签到10天：100京豆 100京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2
+signTime=1616025600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+2021/03/18_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2
+signTime=1616025600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+2021/03/18_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2
+signTime=1616025600;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+2021/03/18_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210318"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

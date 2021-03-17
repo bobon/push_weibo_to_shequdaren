@@ -1,0 +1,111 @@
+03/18/21 01:19:40 616973700  1616001580
+RANDOM_num: 25
+removed '/tmp/tmp.El5ty7eeV7'
+03/18/21 01:19:40 794138000  1616001580 检查肥鹅签到
+
+real	0m0.931s
+user	0m0.047s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616002181	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616002181	LZ_TOKEN_KEY	lztokenpage27c1c6f860a945999ad560e89c412f6d
+03/18/21 01:19:41 894880000  1616001581
+use pt_key
+
+real	0m0.196s
+user	0m0.109s
+sys	0m0.078s
+03/18/21 01:19:42 121141200  1616001582 token: AAFgUjouADBrviVQsEmznS3K8oQ4_kdinCW4eyMzD-MIK5WlV1MPcSzD5YeXegl3zjBv5Av0kXM
+
+real	0m0.401s
+user	0m0.000s
+sys	0m0.094s
+03/18/21 01:19:42 763153100  1616001582 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+03/18/21 01:19:42 800359500  1616001582 肥鹅签到域发官方旗舰店
+
+real	0m0.624s
+user	0m0.031s
+sys	0m0.063s
+{
+  "msg": "",
+  "signResult": {
+    "key": null,
+    "giftLogId": "917826e346c84f71a45d6b3a8c33607d",
+    "gift": null,
+    "send": null
+  },
+  "isOk": true,
+  "isSend": null
+}
+true
+03/18/21 01:19:44 206981100 1616001584
+03/18/21 01:19:44 245174900 1616001584 签到域发官方旗舰店完成
+03/18/21 01:20:59 373268700  1616001659
+true
+首次签到成功. 写入giftName: null
+
+***********************************************
+7天签到 第 3 天
+当天签到奖励 [null]
+***********************************************
+
+肥鹅签到域发官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"ecdecaa3609b428480f70dcd9db047cc","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"7293e97a1313490189e3064989e522c7","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"2b4aeae0b8214f94b264f4cee54c8112","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"7125a03715c643da80fb0e37112092ab","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"ed769a196e594f778e7e9f2facb73625","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"2609244ea4644562b76a36538e3e35f0","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1176571","activityType":null},"imgUrl":"","giftInfoId":"496a0411352d4e44a23f7dbe6f23ca40","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":3,"actRule":"1.关注店铺
+2.每日签到都可得到京豆好礼
+3.每人只可参与当期活动1次","followDays":0,"isSign":"y"}
+
+#店铺名称
+vendername="域发官方旗舰店"
+#店铺激活码
+actId="a112f0b1a06542609ff46031eae7ce2c"
+#店铺id
+venderId="10374948"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=a112f0b1a06542609ff46031eae7ce2c&venderId=10374948"
+
+startTime=1615824000
+endTime=1615824000
+# 活动时间：
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：2京豆
+连续签到2天：2京豆
+连续签到3天：2京豆
+连续签到4天：2京豆
+连续签到5天：2京豆
+连续签到6天：2京豆
+连续签到7天：10京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210318"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210318"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end

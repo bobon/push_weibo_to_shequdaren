@@ -1,0 +1,166 @@
+03/18/21 00:30:07 857451300  1615998607
+RANDOM_num: 10
+removed '/tmp/tmp.RRWDbeXq22'
+03/18/21 00:30:08 819239900  1615998608 检查移动签到
+
+real	0m0.996s
+user	0m0.016s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615999210	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1615999210	LZ_TOKEN_KEY	lztokenpage58b1e6693a344eeeb6ccd9d7f9dcca4f
+03/18/21 00:30:10 211821500  1615998610
+use wskey
+
+real	0m0.198s
+user	0m0.156s
+sys	0m0.094s
+03/18/21 00:30:10 439574100  1615998610 token: AAFgUi6SADAlku0qH4PgIIH4utwWvxk3hMWCVWn9ukjRLUTcxpiVx7ZwOKrWI6EIh5y9Da-1rog
+
+real	0m0.400s
+user	0m0.016s
+sys	0m0.094s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/18/21 00:30:41 010443400  1615998641
+签到失败. 写入失败的giftName: 
+jq: error (at <stdin>:1): null (null) has no keys
+
+***********************************************
+
+当天签到奖励 []
+连续签到 null 天
+签到总天数 null
+***********************************************
+
+移动签到金士顿旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+金士顿旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=e86853787ead4094b4e5189bf6d1223b
+venderId=798944
+startTime=1615862400000
+endTime=1616169599000
+# 短链接
+suo_url="https://3.cn/10-131txf"
+actTimeStr="2021-03-16 10:40 至 2021-03-19 23:59"
+#店铺名称
+vendername="金士顿旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=e86853787ead4094b4e5189bf6d1223b&venderId=798944&adsource=tg_storePage
+# 活动时间：2021.03.16 10:40:00 - 2021.03.19 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：1京豆 1京豆
+连续签到3天：2京豆 2京豆
+连续签到5天：3京豆 3京豆
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="8"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 8"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="8"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 8"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1615161600;signed=2
+signTime=1615248000;signed=2
+signTime=1615334400;signed=2
+signTime=1615420800;signed=2
+signTime=1615507200;signed=2
+signTime=1615593600;signed=2
+signTime=1615852800;signed=2
+signTime=1615939200;signed=2"
+sign_num="2"
+sign_total_num="8"
+giftName="null"
+giftRes="ok"
+giftDate="20210317"
+sign_res_info="
+2021/03/08_08:00:00  [已~签~到]      
+2021/03/09_08:00:00  [已~签~到]      
+2021/03/10_08:00:00  [已~签~到]      
+2021/03/11_08:00:00  [已~签~到]      
+2021/03/12_08:00:00  [已~签~到]      
+2021/03/13_08:00:00  [已~签~到]      
+2021/03/16_08:00:00  [已~签~到]      
+2021/03/17_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 2 天
+签到总天数 8"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="null"
+sign_total_num="null"
+giftName=""
+giftRes=""
+giftDate="20210318"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 null 天
+签到总天数 null"
+#移动 jd_OeTNobRVGiNZ sign_res_end
