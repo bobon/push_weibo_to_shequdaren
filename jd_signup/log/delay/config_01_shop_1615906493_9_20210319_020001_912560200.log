@@ -1,0 +1,65 @@
+03/19/21 02:05:03 727231900  1616090703
+RANDOM_num: 30
+removed '/tmp/tmp.IpUmykOGvZ'
+03/19/21 02:05:03 858772200  1616090703
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210319
+***********************************************
+7天签到 第 4 天
+当天签到奖励 [3京豆]
+***********************************************
+
+#店铺名称
+vendername="Onitsuka Tiger官方旗舰店"
+#店铺激活码
+actId="30e313959cd64d35ab7edb2eb1227fe2"
+#店铺id
+venderId="42602"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=30e313959cd64d35ab7edb2eb1227fe2&venderId=42602"
+
+startTime=1615292340
+endTime=1616255940
+# 活动时间：2021-03-09 20:19 - 2021-03-20 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：
+连续签到2天：50店铺积分
+连续签到3天：
+连续签到4天：3京豆
+连续签到5天：
+连续签到6天：20元优惠券
+连续签到7天：鬼塚虎精美钥匙扣
+"
+#赵 122294312-396444 sign_res
+sign_num="4"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210319"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["3京豆"]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="4"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210319"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["3京豆"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="4"
+giftName=""3京豆""
+giftRes="ok"
+giftDate="20210319"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["3京豆"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210319"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
