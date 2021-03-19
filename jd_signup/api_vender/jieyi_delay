@@ -20,8 +20,8 @@ sign_res="
 signTime=1615869512;signed=2;currentDay=2
 signTime=1615914113;signed=2;currentDay=2
 signTime=1616000519;signed=2;currentDay=2
-signTime=1616086836;signed=2;currentDay=1
-signTime=1616169600;signed=1;currentDay=3
+signTime=1616086836;signed=2;currentDay=2
+signTime=1616173293;signed=2;currentDay=1
 signTime=1616256000;signed=1;currentDay=3
 signTime=1616342400;signed=1;currentDay=3
 signTime=1616428800;signed=1;currentDay=3
@@ -47,16 +47,16 @@ signTime=1618070400;signed=1;currentDay=3
 signTime=1618156800;signed=1;currentDay=3
 signTime=1618243200;signed=1;currentDay=3
 signTime=1618329600;signed=1;currentDay=3"
-sign_num="4"
+sign_num="5"
 giftName=""
 giftRes="ok"
-giftDate="20210319"
+giftDate="20210320"
 sign_res_info="
 2021/03/16_12:38:32  2    [已~签~到]
 2021/03/17_01:01:53  2    [已~签~到]
 2021/03/18_01:01:59  2    [已~签~到]
-2021/03/19_01:00:36  1    [已~签~到]
-2021/03/20_00:00:00  3    未签到
+2021/03/19_01:00:36  2    [已~签~到]
+2021/03/20_01:01:33  1    [已~签~到]
 2021/03/21_00:00:00  3    未签到
 2021/03/22_00:00:00  3    未签到
 2021/03/23_00:00:00  3    未签到
@@ -83,15 +83,15 @@ sign_res_info="
 2021/04/13_00:00:00  3    未签到
 2021/04/14_00:00:00  3    未签到
 当天签到奖励 []
-已签到 4 天"
+已签到 5 天"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1615869442;signed=2;currentDay=2
 signTime=1615914113;signed=2;currentDay=2
 signTime=1616000519;signed=2;currentDay=2
-signTime=1616086836;signed=2;currentDay=1
-signTime=1616169600;signed=1;currentDay=3
+signTime=1616086836;signed=2;currentDay=2
+signTime=1616173293;signed=2;currentDay=1
 signTime=1616256000;signed=1;currentDay=3
 signTime=1616342400;signed=1;currentDay=3
 signTime=1616428800;signed=1;currentDay=3
@@ -117,16 +117,16 @@ signTime=1618070400;signed=1;currentDay=3
 signTime=1618156800;signed=1;currentDay=3
 signTime=1618243200;signed=1;currentDay=3
 signTime=1618329600;signed=1;currentDay=3"
-sign_num="4"
+sign_num="5"
 giftName=""
 giftRes="ok"
-giftDate="20210319"
+giftDate="20210320"
 sign_res_info="
 2021/03/16_12:37:22  2    [已~签~到]
 2021/03/17_01:01:53  2    [已~签~到]
 2021/03/18_01:01:59  2    [已~签~到]
-2021/03/19_01:00:36  1    [已~签~到]
-2021/03/20_00:00:00  3    未签到
+2021/03/19_01:00:36  2    [已~签~到]
+2021/03/20_01:01:33  1    [已~签~到]
 2021/03/21_00:00:00  3    未签到
 2021/03/22_00:00:00  3    未签到
 2021/03/23_00:00:00  3    未签到
@@ -153,15 +153,15 @@ sign_res_info="
 2021/04/13_00:00:00  3    未签到
 2021/04/14_00:00:00  3    未签到
 当天签到奖励 []
-已签到 4 天"
+已签到 5 天"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1615869583;signed=2;currentDay=2
 signTime=1615914153;signed=2;currentDay=2
 signTime=1616000538;signed=2;currentDay=2
-signTime=1616086860;signed=2;currentDay=1
-signTime=1616169600;signed=1;currentDay=3
+signTime=1616086860;signed=2;currentDay=2
+signTime=1616173328;signed=2;currentDay=1
 signTime=1616256000;signed=1;currentDay=3
 signTime=1616342400;signed=1;currentDay=3
 signTime=1616428800;signed=1;currentDay=3
@@ -187,16 +187,16 @@ signTime=1618070400;signed=1;currentDay=3
 signTime=1618156800;signed=1;currentDay=3
 signTime=1618243200;signed=1;currentDay=3
 signTime=1618329600;signed=1;currentDay=3"
-sign_num="4"
+sign_num="5"
 giftName=""
 giftRes="ok"
-giftDate="20210319"
+giftDate="20210320"
 sign_res_info="
 2021/03/16_12:39:43  2    [已~签~到]
 2021/03/17_01:02:33  2    [已~签~到]
 2021/03/18_01:02:18  2    [已~签~到]
-2021/03/19_01:01:00  1    [已~签~到]
-2021/03/20_00:00:00  3    未签到
+2021/03/19_01:01:00  2    [已~签~到]
+2021/03/20_01:02:08  1    [已~签~到]
 2021/03/21_00:00:00  3    未签到
 2021/03/22_00:00:00  3    未签到
 2021/03/23_00:00:00  3    未签到
@@ -223,15 +223,15 @@ sign_res_info="
 2021/04/13_00:00:00  3    未签到
 2021/04/14_00:00:00  3    未签到
 当天签到奖励 []
-已签到 4 天"
+已签到 5 天"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
 signTime=1615892057;signed=2;currentDay=2
 signTime=1615914153;signed=2;currentDay=2
 signTime=1616000538;signed=2;currentDay=2
-signTime=1616086861;signed=2;currentDay=1
-signTime=1616169600;signed=1;currentDay=3
+signTime=1616086861;signed=2;currentDay=2
+signTime=1616173328;signed=2;currentDay=1
 signTime=1616256000;signed=1;currentDay=3
 signTime=1616342400;signed=1;currentDay=3
 signTime=1616428800;signed=1;currentDay=3
@@ -257,16 +257,16 @@ signTime=1618070400;signed=1;currentDay=3
 signTime=1618156800;signed=1;currentDay=3
 signTime=1618243200;signed=1;currentDay=3
 signTime=1618329600;signed=1;currentDay=3"
-sign_num="4"
+sign_num="5"
 giftName=""
 giftRes="ok"
-giftDate="20210319"
+giftDate="20210320"
 sign_res_info="
 2021/03/16_18:54:17  2    [已~签~到]
 2021/03/17_01:02:33  2    [已~签~到]
 2021/03/18_01:02:18  2    [已~签~到]
-2021/03/19_01:01:01  1    [已~签~到]
-2021/03/20_00:00:00  3    未签到
+2021/03/19_01:01:01  2    [已~签~到]
+2021/03/20_01:02:08  1    [已~签~到]
 2021/03/21_00:00:00  3    未签到
 2021/03/22_00:00:00  3    未签到
 2021/03/23_00:00:00  3    未签到
@@ -293,5 +293,5 @@ sign_res_info="
 2021/04/13_00:00:00  3    未签到
 2021/04/14_00:00:00  3    未签到
 当天签到奖励 []
-已签到 4 天"
+已签到 5 天"
 #移动 jd_OeTNobRVGiNZ sign_res_end
