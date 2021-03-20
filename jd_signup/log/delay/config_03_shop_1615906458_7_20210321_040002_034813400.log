@@ -1,0 +1,65 @@
+03/21/21 04:03:55 622495600  1616270635
+RANDOM_num: 25
+removed '/tmp/tmp.XslHcEBrFk'
+03/21/21 04:03:55 725508400  1616270635
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210321
+***********************************************
+7天签到 第 6 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="悦和泰电器专营店"
+#店铺激活码
+actId="1c5f52fb5b914f1592676d0cc9c519f8"
+#店铺id
+venderId="10237035"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1c5f52fb5b914f1592676d0cc9c519f8&venderId=10237035&adsource=tg_storePage"
+
+startTime=1615526100
+endTime=1617254100
+# 活动时间：2021-03-12 13:15 - 2021-04-01 13:15；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50元优惠券
+连续签到2天：6京豆
+连续签到3天：10京豆
+连续签到4天：200元优惠券
+连续签到5天：88京豆
+连续签到6天：108京豆
+连续签到7天：HDMI数据线一根
+"
+#赵 122294312-396444 sign_res
+sign_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210321"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210321"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="6"
+giftName="null"
+giftRes="ok"
+giftDate="20210321"
+sign_res_info="7天签到 第 6 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210321"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

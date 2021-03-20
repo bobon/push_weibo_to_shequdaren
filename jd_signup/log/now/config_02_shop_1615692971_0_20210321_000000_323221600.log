@@ -1,0 +1,90 @@
+03/21/21 00:00:01 364149400  1616256001
+RANDOM_num: 15
+force to sign
+
+real	0m0.885s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616256603	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616256603	LZ_TOKEN_KEY	lztokenpagee4eb47a74329409b8fd08c4343e85b0d
+03/21/21 00:00:03 572465000  1616256003
+use pt_key
+
+real	0m1.267s
+user	0m0.063s
+sys	0m0.141s
+03/21/21 00:00:05 055518700  1616256005 token: AAFgVhwEADCtiC01TYR4tRjVX4EdZa5GC51enVuS2gTdv1DrknccWgbmnCcPgs4PWrg2fFLeXmo
+
+real	0m1.318s
+user	0m0.031s
+sys	0m0.031s
+03/21/21 00:00:08 044181400  1616256008 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/21/21 00:00:08 433832000  1616256008 王签到先锋两季品京东自营旗舰店
+
+real	0m1.533s
+user	0m0.031s
+sys	0m0.078s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615692971_0 写入 over
+
+#店铺名称
+vendername="先锋两季品京东自营旗舰店"
+#店铺激活码
+actId="fd588dc5c2744f489a1e7b04316e40f3"
+#店铺id
+venderId="1000002569"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=fd588dc5c2744f489a1e7b04316e40f3&venderId=1000002569&adsource=tg_storePage"
+
+startTime=1614061380
+endTime=1616480580
+# 活动时间：2021-02-23 14:23 - 2021-03-23 14:23；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5京豆
+连续签到2天：10京豆
+连续签到3天：15京豆
+连续签到4天：20京豆
+连续签到5天：25京豆
+连续签到6天：30京豆
+连续签到7天：32京豆
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210320"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210320"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName="null"
+giftRes="ok"
+giftDate="20210320"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210320"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
