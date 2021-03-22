@@ -28,6 +28,7 @@ giftRes="ok"
 giftDate="20210322"
 sign_res_info="7天签到 第 0 天
 当天签到奖励 ["HDMI数据线一根"]"
+giftOver="ok"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_num="0"
@@ -36,6 +37,7 @@ giftRes="ok"
 giftDate="20210322"
 sign_res_info="7天签到 第 0 天
 当天签到奖励 ["HDMI数据线一根"]"
+giftOver="ok"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_num="0"
@@ -44,12 +46,13 @@ giftRes="ok"
 giftDate="20210322"
 sign_res_info="7天签到 第 0 天
 当天签到奖励 ["HDMI数据线一根"]"
+giftOver="ok"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_num="0"
 giftName=""
 giftRes=""
-giftDate="20210322"
+giftDate="20210323"
 sign_res_info="7天签到 第 0 天
 当天签到奖励 []"
 #移动 jd_OeTNobRVGiNZ sign_res_end

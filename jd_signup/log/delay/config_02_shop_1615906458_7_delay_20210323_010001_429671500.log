@@ -1,0 +1,91 @@
+03/23/21 01:18:04 340570300  1616433484
+RANDOM_num: 20
+removed '/tmp/tmp.qWyRavxxNl'
+03/23/21 01:18:04 462178700  1616433484 检查王签到
+
+real	0m0.172s
+user	0m0.047s
+sys	0m0.031s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616434084	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616434084	LZ_TOKEN_KEY	lztokenpagef2a7a1277a97458d95751ff4e8a94428
+03/23/21 01:18:04 740775500  1616433484
+use pt_key
+
+real	0m0.121s
+user	0m0.094s
+sys	0m0.047s
+03/23/21 01:18:04 874908300  1616433484 token: AAFgWNFMADDQM24XafBwtG0c7zXppomgz_BdvoQfl04kMDTy7vatLEdZTGozjTfew6b7-ksTga0
+
+real	0m0.265s
+user	0m0.031s
+sys	0m0.047s
+03/23/21 01:18:05 253493600  1616433485 secretPin: 8zfoIjWIu/DcpxQNzAV7/oVPSWy1B8D+G4s+fJIFDfWHSnwnXFQKK9yQco/OGmHebU48Dr07k+7+k1UaXRbZKg==
+
+03/23/21 01:18:05 265665700  1616433485 王签到悦和泰电器专营店
+
+real	0m0.218s
+user	0m0.016s
+sys	0m0.047s
+{
+  "msg": "签满7天后不能再参加了",
+  "isOk": false
+}
+签满7天不能再参加了. /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906458_7_delay 写入 over
+
+#店铺名称
+vendername="悦和泰电器专营店"
+#店铺激活码
+actId="1c5f52fb5b914f1592676d0cc9c519f8"
+#店铺id
+venderId="10237035"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1c5f52fb5b914f1592676d0cc9c519f8&venderId=10237035&adsource=tg_storePage"
+
+startTime=1615526100
+endTime=1617254100
+# 活动时间：2021-03-12 13:15 - 2021-04-01 13:15；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：50元优惠券
+连续签到2天：6京豆
+连续签到3天：10京豆
+连续签到4天：200元优惠券
+连续签到5天：88京豆
+连续签到6天：108京豆
+连续签到7天：HDMI数据线一根
+"
+#赵 122294312-396444 sign_res
+sign_num="0"
+giftName=""HDMI数据线一根""
+giftRes="ok"
+giftDate="20210322"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["HDMI数据线一根"]"
+giftOver="ok"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="0"
+giftName=""HDMI数据线一根""
+giftRes="ok"
+giftDate="20210322"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["HDMI数据线一根"]"
+giftOver="ok"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="0"
+giftName=""HDMI数据线一根""
+giftRes="ok"
+giftDate="20210322"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 ["HDMI数据线一根"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210322"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
