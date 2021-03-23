@@ -1,0 +1,116 @@
+03/24/21 00:30:02 425607700  1616517002
+RANDOM_num: 25
+removed '/tmp/tmp.HAkEl4F3Bt'
+03/24/21 00:30:02 929060100  1616517002 检查移动签到
+
+real	0m0.356s
+user	0m0.078s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616517603	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1616517603	LZ_TOKEN_KEY	lztokenpage9103267c5cb1493fae11ce120e25ed18
+03/24/21 00:30:03 669153600  1616517003
+use wskey
+
+real	0m0.370s
+user	0m0.078s
+sys	0m0.109s
+03/24/21 00:30:04 078668900  1616517004 token: AAFgWheLADCphsx8LUlFETF6pipApUx3m67bM3QZt4Vr4bm3_f3zMo3-k9eSqt3yUBiy2EdKxhM
+
+real	0m0.296s
+user	0m0.031s
+sys	0m0.047s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+03/24/21 00:31:19 538912500  1616517079
+签到失败. 写入失败的giftName: 
+
+***********************************************
+7天签到 第 0 天
+当天签到奖励 []
+***********************************************
+
+移动签到大华存储京东自营旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"9ec2402b01714710b42ba09a8388586b","dayNum":"1","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"ff16bb060ee443978168bc2ff098dfde","dayNum":"2","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"a6f04bb15639481080cb9e5fa42cad3f","dayNum":"3","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"16b84f3836a64b8fbb9fed6aa92fdc11","dayNum":"4","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"46d2dfc436814fa0a73b8a85bc3a966a","dayNum":"5","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"a8a9c9fb75b24b70bc787379b7b2fbf4","dayNum":"6","showType":"1"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1178468","activityType":null},"imgUrl":"","giftInfoId":"afee56974f614b0baf482fb24837fdcf","dayNum":"7","showType":"1"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":0,"actRule":"1、活动时间：2021-02-19 18:15 - 2021-03-06 18:15；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送2京豆；
+6、第2天签到，有机会赠送2京豆；
+7、第3天签到，有机会赠送2京豆；
+8、第4天签到，有机会赠送2京豆；
+9、第5天签到，有机会赠送2京豆；
+10、第6天签到，有机会赠送2京豆；
+11、第7天签到，有机会赠送5京豆；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","followDays":1,"isSign":"n"}
+
+#店铺名称
+vendername="大华存储京东自营旗舰店"
+#店铺激活码
+actId="44c15a16fe2b4747aab27ee9a6996f95"
+#店铺id
+venderId="1000335265"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=44c15a16fe2b4747aab27ee9a6996f95&venderId=1000335265"
+
+startTime=1613729700
+endTime=1615025700
+# 活动时间：2021-02-19 18:15 - 2021-03-06 18:15；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：2京豆
+连续签到2天：2京豆
+连续签到3天：2京豆
+连续签到4天：2京豆
+连续签到5天：2京豆
+连续签到6天：2京豆
+连续签到7天：5京豆
+"
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210323"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210323"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="1"
+giftName="null"
+giftRes="ok"
+giftDate="20210323"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210324"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
