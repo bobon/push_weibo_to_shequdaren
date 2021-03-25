@@ -438,3 +438,87 @@ config_/config_04|vender/shop_1615126518_0
 * * * * * * * * * * * * * * * * * *
 记录时刻 20210325_093602_065289700
 
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210325_234003_945435000
+
+
+显示立即执行的任务
+王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444|vender/shop_1614701379_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1614776102_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615121238_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615126518_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614698669_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699061_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614699101_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1614776867_1
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615906540_12
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615906565_14
+
+显示执行结束，不能再签到的任务
+
+
+替换成pt_pin后的任务
+config02|vender/shop_1614701379_0
+config03|vender/shop_1614701379_0
+config01|vender/shop_1614701379_0
+config01|vender/shop_1614776102_0
+config02|vender/shop_1614776102_0
+config03|vender/shop_1614776102_0
+config01|vender/shop_1615121238_0
+config02|vender/shop_1615121238_0
+config03|vender/shop_1615121238_0
+config01|vender/shop_1615126518_0
+config02|vender/shop_1615126518_0
+config03|vender/shop_1615126518_0
+config04|lzkj_sevenDay_vender/shop_1614698669_0
+config04|lzkj_sevenDay_vender/shop_1614699061_0
+config04|lzkj_sevenDay_vender/shop_1614699101_0
+config04|lzkj_sevenDay_vender/shop_1614776867_1
+config04|lzkj_sevenDay_vender/shop_1615906540_12
+config04|lzkj_sevenDay_vender/shop_1615906565_14
+
+合并后的立即执行的任务
+config_/config_04|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_04|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_04|lzkj_sevenDay_vender/shop_1615906540_12
+config_/config_04|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_01|vender/shop_1614701379_0
+config_/config_02|vender/shop_1614701379_0
+config_/config_03|vender/shop_1614701379_0
+config_/config_01|vender/shop_1614776102_0
+config_/config_02|vender/shop_1614776102_0
+config_/config_03|vender/shop_1614776102_0
+config_/config_01|vender/shop_1615121238_0
+config_/config_02|vender/shop_1615121238_0
+config_/config_03|vender/shop_1615121238_0
+config_/config_01|vender/shop_1615126518_0
+config_/config_02|vender/shop_1615126518_0
+config_/config_03|vender/shop_1615126518_0
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614698669_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699061_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_02|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_03|lzkj_sevenDay_vender/shop_1614699101_0
+config_/config_01|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_02|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_03|lzkj_sevenDay_vender/shop_1614776867_1
+config_/config_01|lzkj_sevenDay_vender/shop_1615906540_12
+config_/config_02|lzkj_sevenDay_vender/shop_1615906540_12
+config_/config_03|lzkj_sevenDay_vender/shop_1615906540_12
+config_/config_01|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_02|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_03|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_04|vender/shop_1614701379_0
+config_/config_04|vender/shop_1614776102_0
+config_/config_04|vender/shop_1615121238_0
+config_/config_04|vender/shop_1615126518_0
