@@ -1,8 +1,0 @@
-#用户信息
-pin1_name="王"
-#90天过期，3-17重新获取
-pt_key1="AAJgFqDiADBXW35TeDzYmiymKBqUHwjAV7ELAypIp1J11aoCkKm-dcQdoWzG_Y6d_vsa7jpFyX8"
-pt_pin1="1309893722-164885"
-
-loop_num=20
-RANDOM_num=3
