@@ -16,101 +16,102 @@ if [ "$2" = "precise" ]; then
 fi
 log_f=$(date +"%Y%m%d_%H%M%S_%N")
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1614611208_105 5 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1614611208_105_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1613569740_34_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1614611208_105 10 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1614611208_105_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1613569740_34_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config /home/myid/jd/jd_signup/api_vender/shop_1615126630_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_shop_1615126630_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1613569740_34_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/api_m_jd_com.sh /home/myid/jd/jd_signup/config2 /home/myid/jd/jd_signup/api_vender/shop_1615126630_0 20 $1 > /home/myid/jd/jd_signup/log/now/config2_shop_1615126630_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698669_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699061_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699101_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 20 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 20 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614776867_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 25 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614776867_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 30 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614776867_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906540_12_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 40 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614776867_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906540_12_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 45 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614776867_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906540_12_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 5 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614776867_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906565_14_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 10 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906540_12_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906565_14_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 15 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906540_12_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906565_14_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 20 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906540_12_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614611217_142 20 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614611217_142_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906565_14_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614611217_142 25 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614611217_142_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906565_14_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614611217_142 30 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614611217_142_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906565_14_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1614696854_0 35 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1614696854_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615211001_9 40 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615211001_9_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1614696854_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1614696854_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615211001_9 45 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615211001_9_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1614696854_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1614696854_0_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615211001_9 5 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615211001_9_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615692991_1 5 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615692991_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615692991_1 10 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615692991_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615692991_1 10 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615692991_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615692991_1 15 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615692991_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615692991_1 15 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615692991_1_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615692991_1 20 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615692991_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615906764_26 20 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906764_26_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_01 /home/myid/jd/jd_signup/vender/shop_1615906707_23 25 $1 > /home/myid/jd/jd_signup/log/now/config_01_shop_1615906707_23_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615906764_26 25 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906764_26_${log_f}.log 2>&1 &
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_02 /home/myid/jd/jd_signup/vender/shop_1615906707_23 30 $1 > /home/myid/jd/jd_signup/log/now/config_02_shop_1615906707_23_${log_f}.log 2>&1 &
-date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615906707_23 35 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906707_23_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_03 /home/myid/jd/jd_signup/vender/shop_1615906764_26 30 $1 > /home/myid/jd/jd_signup/log/now/config_03_shop_1615906764_26_${log_f}.log 2>&1 &
 echo delay start
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 40 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1613569740_34_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1613569740_34 35 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1613569740_34_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698669_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614698669_0 40 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614698669_0_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699061_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699061_0 45 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699061_0_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 10 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699101_0_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614699101_0 5 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614699101_0_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 15 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776867_1_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1614776867_1 10 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614776867_1_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 20 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906540_12_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906540_12 15 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906540_12_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 25 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906565_14_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp_7.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/lzkj_sevenDay_vender/shop_1615906565_14 20 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906565_14_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615211001_9 30 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615211001_9_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1614611217_142 25 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614611217_142_${log_f}.log 2>&1 &
+sleep 0.3
+date +"%x %X %N %s"
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1614696854_0 30 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1614696854_0_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
 bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615692991_1 35 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615692991_1_${log_f}.log 2>&1 &
 sleep 0.3
 date +"%x %X %N %s"
-bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615906707_23 40 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906707_23_${log_f}.log 2>&1 &
+bash /home/myid/jd/jd_signup/lzkj_isv_signUp.sh /home/myid/jd/jd_signup/config_/config_04 /home/myid/jd/jd_signup/vender/shop_1615906764_26 40 $1 > /home/myid/jd/jd_signup/log/now/config_04_shop_1615906764_26_${log_f}.log 2>&1 &
