@@ -231,3 +231,42 @@ config_/config_04|vender/shop_1615906707_23
 * * * * * * * * * * * * * * * * * *
 记录时刻 20210401_093601_595039000
 
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210401_234003_120896400
+
+
+显示立即执行的任务
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/shop_1614611216_140
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615906707_23
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615906565_14
+
+显示执行结束，不能再签到的任务
+
+
+替换成pt_pin后的任务
+config01|vender/shop_1614611216_140
+config02|vender/shop_1614611216_140
+config03|vender/shop_1614611216_140
+config04|vender/shop_1614611216_140
+config01|vender/shop_1615906707_23
+config02|vender/shop_1615906707_23
+config03|vender/shop_1615906707_23
+config04|lzkj_sevenDay_vender/shop_1615906565_14
+
+合并后的立即执行的任务
+config_/config_04|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_01|vender/shop_1614611216_140
+config_/config_02|vender/shop_1614611216_140
+config_/config_03|vender/shop_1614611216_140
+config_/config_04|vender/shop_1614611216_140
+config_/config_01|vender/shop_1615906707_23
+config_/config_02|vender/shop_1615906707_23
+config_/config_03|vender/shop_1615906707_23
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_02|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_03|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_04|vender/shop_1615906707_23
