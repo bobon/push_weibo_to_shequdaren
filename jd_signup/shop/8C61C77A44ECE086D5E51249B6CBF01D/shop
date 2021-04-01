@@ -1,0 +1,17 @@
+# 短链接
+suo_url="https://u.jd.com/biw01HK"
+venderId=1000087801
+startTime=1617206400000
+endTime=1619798399000
+activityId=10308434
+token=8C61C77A44ECE086D5E51249B6CBF01D
+#店铺名称
+vendername="海尔母婴京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8C61C77A44ECE086D5E51249B6CBF01D&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002024414_&utm_term=a3ec3e509fb7428da41169dcd6c6ca30
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2京豆
+连续签到10天：10京豆
+"

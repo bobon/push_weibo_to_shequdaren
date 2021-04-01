@@ -1,0 +1,21 @@
+actId=3cc75cb76d7b4eeeb1bbf0bde84ac9f6
+venderId=1000330405
+startTime=1617206400000
+endTime=1619797259000
+# 短链接
+suo_url="https://3.cn/101k-YJjO"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:40"
+#店铺名称
+vendername="大力智能京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=3cc75cb76d7b4eeeb1bbf0bde84ac9f6&shareuserid4minipg=SlDkFKa37DhJVavw4ZIfTU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w%3D%3D&shopid=1000330405&sid=cd8dba99ccb5eaf4bca52b10222494bw&un_area=3_51038_3000_0
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:40:59
+# 奖励说明：
+actRule="
+连续签到5天：30积分 30积分
+连续签到10天：5京豆 5京豆
+连续签到15天：80积分 80积分
+连续签到20天：10京豆 10京豆
+连续签到25天：20京豆 20京豆
+连续签到30天：赠送大力智能电子手写板
+"

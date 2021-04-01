@@ -21,6 +21,20 @@ unset wskey
 unset loop_num
 unset user_Agent
 
+if [ -z "$svr" ]; then
+	svr="lzkj-isv.isvjcloud.com"
+fi
+
+if [ "${svr:0:8}" = "lzkj-isv" ]; then
+	shebei="$shebei_info"
+elif [ "${svr:0:8}" = "cjhy-isv" ]; then
+	shebei="$shebei_cjhy_info"
+else
+	echo "not support: $svr"
+	exit 1
+fi
+
+
 source $1
 source $2
 
@@ -68,7 +82,7 @@ cd "/home/myid/jd/jd_signup/$pt_pin"
 
 if [ "$3" == "check" ]; then
 	echo "check sign. not run sign"
-	curl -c ${venderId}_signActivity2.cookie -sS -k "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+	curl -c ${venderId}_signActivity2.cookie -sS -k "https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 		  -H 'Connection: keep-alive' \
 		  -H 'Upgrade-Insecure-Requests: 1' \
 		  -H "User-Agent: ${user_Agent}" \
@@ -92,7 +106,7 @@ if [ "$3" == "check" ]; then
 			  -H 'Cache-Control: no-cache' \
 			  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
 			  -H 'User-Agent: okhttp/3.12.1' \
-			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2F${svr}%22%7D&" \
 			  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 		else
 			echo "use wskey"
@@ -104,23 +118,23 @@ if [ "$3" == "check" ]; then
 			  -H 'Cache-Control: no-cache' \
 			 	-H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
 			  -H 'User-Agent: okhttp/3.12.1' \
-			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2F${svr}%22%7D&" \
 			  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 		fi
 		echo "$(date +"%x %X %N  %s") token: $token"
 		[ ! -z "$token" ] || exit 2
 
 
-		secretPin=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/customer/getMyPing' \
+		secretPin=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/customer/getMyPing" \
 		  -H 'Connection: keep-alive' \
 		  -H 'Accept: application/json' \
-		  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+		  -H "Origin: https://${svr}" \
 		  -H 'X-Requested-With: XMLHttpRequest' \
 		  -H "User-Agent: ${user_Agent}" \
 		  -H 'Sec-Fetch-Mode: cors' \
 		  -H 'Content-Type: application/x-www-form-urlencoded' \
 		  -H 'Sec-Fetch-Site: same-origin' \
-		  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+		  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 		  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
 		  --data-raw "userId=${venderId}&token=${token}&fromType=APP" | jq -j 'if(.result == true and .errorMessage == "") then .data.secretPin else error(.) end')
 		echo "$(date +"%x %X %N  %s") secretPin: $secretPin"
@@ -130,7 +144,7 @@ else
 
 	for i in $(seq 1 $loop_num); do
 		
-		time curl -c ${venderId}_signActivity2.cookie -sS -k "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+		time curl -c ${venderId}_signActivity2.cookie -sS -k "https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 		  -H 'Connection: keep-alive' \
 		  -H 'Upgrade-Insecure-Requests: 1' \
 		  -H "User-Agent: ${user_Agent}" \
@@ -154,7 +168,7 @@ else
 			  -H 'Cache-Control: no-cache' \
 			  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
 			  -H 'User-Agent: okhttp/3.12.1' \
-			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2F${svr}%22%7D&" \
 			  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 		else
 			echo "use wskey"
@@ -166,23 +180,23 @@ else
 			  -H 'Cache-Control: no-cache' \
 			 	-H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
 			  -H 'User-Agent: okhttp/3.12.1' \
-			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Flzkj-isv.isvjcloud.com%22%7D&" \
+			  -X POST --data-raw "body=%7B%22id%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2F${svr}%22%7D&" \
 			  | jq -j 'if(.code == "0" and .errcode == 0) then .token else error(.) end')
 		fi
 		echo "$(date +"%x %X %N  %s") token: $token"
 		[ ! -z "$token" ] || echo "[WARN] get token error"
 
 
-		time secretPin=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/customer/getMyPing' \
+		time secretPin=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/customer/getMyPing" \
 		  -H 'Connection: keep-alive' \
 		  -H 'Accept: application/json' \
-		  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+		  -H "Origin: https://${svr}" \
 		  -H 'X-Requested-With: XMLHttpRequest' \
 		  -H "User-Agent: ${user_Agent}" \
 		  -H 'Sec-Fetch-Mode: cors' \
 		  -H 'Content-Type: application/x-www-form-urlencoded' \
 		  -H 'Sec-Fetch-Site: same-origin' \
-		  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+		  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 		  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
 		  --data-raw "userId=${venderId}&token=${token}&fromType=APP")
 		 
@@ -195,16 +209,16 @@ else
 		if [ "$a" = "false" ]; then
 			echo	
 			echo "$(date +"%x %X %N  %s") ${pin_name}签到$vendername"
-			time t=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/signUp' \
+			time t=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/wx/signUp" \
 			  -H 'Connection: keep-alive' \
 			  -H 'Accept: application/json' \
-			  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+			  -H "Origin: https://${svr}" \
 			  -H 'X-Requested-With: XMLHttpRequest' \
 			  -H "User-Agent: ${user_Agent}" \
 			  -H 'Sec-Fetch-Mode: cors' \
 			  -H 'Content-Type: application/x-www-form-urlencoded' \
 			  -H 'Sec-Fetch-Site: same-origin' \
-			  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+			  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
 			  -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
 			  -X POST --data-raw "actId=${actId}" --data-urlencode "pin=${secretPin}")
 			  echo -e "$t" > ${venderId}_signUp.html
@@ -244,16 +258,16 @@ else
 fi
 
 date +"%x %X %N  %s"
-s=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getSignInfo' \
+s=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/wx/getSignInfo" \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
-  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+  -H "Origin: https://${svr}" \
   -H 'X-Requested-With: XMLHttpRequest' \
   -H "User-Agent: ${user_Agent}" \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Content-Type: application/x-www-form-urlencoded' \
   -H 'Sec-Fetch-Site: same-origin' \
-  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
+  -H "Referer: https://${svr}/sign/signActivity2?activityId=${actId}&venderId=${venderId}" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}" --data-urlencode "pin=${secretPin}" --data-raw "actId=${actId}")
 if [ -z "$isover" ]; then
@@ -262,16 +276,16 @@ if [ -z "$isover" ]; then
 	fi
 fi
 
-p=$(curl -sS -k -b ${venderId}_signActivity2.cookie 'https://lzkj-isv.isvjcloud.com/sign/wx/getActivity' \
+p=$(curl -sS -k -b ${venderId}_signActivity2.cookie "https://${svr}/sign/wx/getActivity" \
   -H 'Connection: keep-alive' \
   -H 'Accept: application/json' \
-  -H 'Origin: https://lzkj-isv.isvjcloud.com' \
+  -H "Origin: https://${svr}" \
   -H 'X-Requested-With: XMLHttpRequest' \
   -H "User-Agent: ${user_Agent}" \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Content-Type: application/x-www-form-urlencoded' \
   -H 'Sec-Fetch-Site: same-origin' \
-  -H "Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity2" \
+  -H "Referer: https://${svr}/sign/signActivity2" \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -X POST --data-raw "venderId=${venderId}&actId=${actId}")
 

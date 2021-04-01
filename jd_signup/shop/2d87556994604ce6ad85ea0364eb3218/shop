@@ -1,0 +1,16 @@
+actId=2d87556994604ce6ad85ea0364eb3218
+venderId=1000000904
+startTime=1617206400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/101kFRA-k"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="荣耀京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2d87556994604ce6ad85ea0364eb3218&shareuserid4minipg=SlDkFKa37DhJVavw4ZIfTU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w%3D%3D&shopid=1000000904&sid=cd8dba99ccb5eaf4bca52b10222494bw&un_area=3_51038_3000_0
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：赠送荣耀自拍杆
+"

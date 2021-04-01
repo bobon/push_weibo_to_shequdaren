@@ -253,8 +253,9 @@ get_shopmemberinfo() {
 }
 
 parse_venderId_actId_from_location() {
+	
 	local actId=$(echo "$1" | sed -r -e 's,.*activityId=,,' -e 's,&.*,,')
-	local venderId=$(echo "$1" | sed -r -e 's,.*venderId=,,' -e 's,&.*,,')
+	local venderId=$(echo "$1" | sed -r -e 's,.*venderId=|.*shopid=,,' -e 's,&.*,,')
 	echo "${venderId}|${actId}"
 }
 
