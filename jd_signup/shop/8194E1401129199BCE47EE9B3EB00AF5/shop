@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000006201
+startTime=1616601600000
+endTime=1619193599000
+activityId=10307184
+token=8194E1401129199BCE47EE9B3EB00AF5
+#店铺名称
+vendername="嘉实多京东自营专区"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=8194E1401129199BCE47EE9B3EB00AF5
+# 活动时间：2021.03.25 00:00:00 - 2021.04.23 23:59:59
+# 奖励说明：
+actRule="
+每日签到：1店铺积分
+连续签到3天：5店铺积分
+"

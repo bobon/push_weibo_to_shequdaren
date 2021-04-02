@@ -1,0 +1,23 @@
+#店铺名称
+vendername="贝锐官方旗舰店"
+#店铺激活码
+actId="a9a6276cc51d4898aa3be01664f4c296"
+#店铺id
+venderId="736323"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=a9a6276cc51d4898aa3be01664f4c296&venderId=736323"
+
+startTime=1617183000
+endTime=1619775000
+# 活动时间：2021-03-31 17:30 - 2021-04-30 17:30；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"

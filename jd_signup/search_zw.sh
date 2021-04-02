@@ -35,7 +35,7 @@ for i in $(cat /home/myid/all_shopid); do
 	curl -sS -k https://shop.m.jd.com/?shopId=$i | egrep '/sign/sevenDay/signActivity|/sign/signActivity|/babelDiy/Zeus/' | sed -r -e 's,.*https,https,' -e 's,"\,$,,' -e 's,"$,,' 
 done | tee /home/myid/jd/jd_signup/sign_list2
 sort sign_list sign_list2 | uniq > sign_list.tmp
-mv -vf sign_list.tmp sign_list_all
+mv -vf sign_list.tmp sign_list
 
 exit
 

@@ -1,15 +1,15 @@
 actId=8a3c3ec392ea4ec3a31ae03ac2ebfbda
 venderId=1000012683
-startTime=1615824000000
-endTime=1617206399000
+startTime=1617206400000
+endTime=1619798399000
 # 短链接
 suo_url="https://3.cn/101e8-mAA"
-actTimeStr="2021-03-16 00:00 至 2021-03-31 23:59"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:59"
 #店铺名称
 vendername="九阳净水京东自营旗舰店"
 # 长链接
 url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=8a3c3ec392ea4ec3a31ae03ac2ebfbda&venderId=1000012683
-# 活动时间：2021.03.16 00:00:00 - 2021.03.31 23:59:59
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
 # 奖励说明：
 actRule="
 连续签到7天：20积分 20积分

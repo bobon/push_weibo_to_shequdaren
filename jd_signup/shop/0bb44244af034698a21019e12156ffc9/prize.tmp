@@ -1,0 +1,5 @@
+level=3;days=3;p_type=9;discount=30;giftName="30积分"
+level=5;days=5;p_type=1;discount=15;giftName="15元优惠券"
+level=7;days=7;p_type=1;discount=30;giftName="30元优惠券"
+level=9;days=9;p_type=7;discount=149;giftName="云麦智能体脂秤"
+level=12;days=12;p_type=7;discount=380;giftName="乐秀即热饮水机"

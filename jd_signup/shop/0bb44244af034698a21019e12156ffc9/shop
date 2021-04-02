@@ -1,0 +1,20 @@
+actId=0bb44244af034698a21019e12156ffc9
+venderId=10102806
+startTime=1617206400000
+endTime=1618156799000
+# 短链接
+suo_url="https://3.cn/1-01kLnR3"
+actTimeStr="2021-04-01 00:00 至 2021-04-11 23:59"
+#店铺名称
+vendername="小米有品生活电器官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0bb44244af034698a21019e12156ffc9&venderId=10102806&adsource=tg_storePage
+# 活动时间：2021.04.01 00:00:00 - 2021.04.11 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：30积分 30积分
+连续签到5天：15元优惠券
+连续签到7天：30元优惠券
+连续签到9天：赠送云麦智能体脂秤
+连续签到12天：赠送乐秀即热饮水机
+"

@@ -1,0 +1,20 @@
+# 短链接
+suo_url=""
+venderId=10176670
+startTime=1617206400000
+endTime=1618070399000
+activityId=10314169
+token=7D3AD2A314B0BEF0DF3640AF1A1D16CA
+#店铺名称
+vendername="233621官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7D3AD2A314B0BEF0DF3640AF1A1D16CA
+# 活动时间：2021.04.01 00:00:00 - 2021.04.10 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：2京豆
+连续签到5天：10京豆
+连续签到7天：满7-5店铺券
+连续签到8天：1.00元红包
+连续签到10天：5元E卡
+"

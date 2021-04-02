@@ -8,7 +8,7 @@ actTimeStr="2021-04-01 00:00 至 2021-04-28 23:59"
 #店铺名称
 vendername="美赞臣京东自营官方旗舰店"
 # 长链接
-url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179&sid=cd8dba99ccb5eaf4bca52b10222494bw&un_area=3_51038_3000_0
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=4a669aaf044540ae859b472c07e472e5&venderId=1000003179
 # 活动时间：2021.04.01 00:00:00 - 2021.04.28 23:59:59
 # 奖励说明：
 actRule="

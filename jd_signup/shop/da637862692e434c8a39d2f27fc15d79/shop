@@ -1,0 +1,17 @@
+actId=da637862692e434c8a39d2f27fc15d79
+venderId=1000003112
+startTime=1617120000000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/-100IBAXa"
+actTimeStr="2021-03-31 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="雀巢母婴京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=da637862692e434c8a39d2f27fc15d79&venderId=1000003112
+# 活动时间：2021.03.31 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：80元优惠券
+连续签到15天：20积分 20积分
+"

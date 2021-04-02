@@ -1,0 +1,17 @@
+actId=2db290ba535843259260d7a3e9d43b82
+venderId=797356
+startTime=1614182400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/100dqh-5A"
+actTimeStr="2021-02-25 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="爱他美Aptamil海外旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2db290ba535843259260d7a3e9d43b82&venderId=797356&adsource=tg_storePage
+# 活动时间：2021.02.25 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：10元优惠券
+连续签到7天：60元优惠券
+"

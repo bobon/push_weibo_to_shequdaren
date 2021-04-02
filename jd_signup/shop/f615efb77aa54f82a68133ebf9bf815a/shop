@@ -1,0 +1,16 @@
+actId=f615efb77aa54f82a68133ebf9bf815a
+venderId=1000081825
+startTime=1616638200000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/-101i6ixj"
+actTimeStr="2021-03-25 10:10 至 2021-04-30 23:59"
+#店铺名称
+vendername="科大讯飞京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=f615efb77aa54f82a68133ebf9bf815a&venderId=1000081825&adsource=tg_storePage
+# 活动时间：2021.03.25 10:10:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5积分 5积分
+"

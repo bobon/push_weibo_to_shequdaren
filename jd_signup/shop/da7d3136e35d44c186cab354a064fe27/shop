@@ -1,0 +1,16 @@
+actId=da7d3136e35d44c186cab354a064fe27
+venderId=1000099544
+startTime=1617238620000
+endTime=1622476799000
+# 短链接
+suo_url="https://3.cn/101l2-1nP"
+actTimeStr="2021-04-01 08:57 至 2021-05-31 23:59"
+#店铺名称
+vendername="Mideer弥鹿京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=da7d3136e35d44c186cab354a064fe27&venderId=1000099544
+# 活动时间：2021.04.01 08:57:00 - 2021.05.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：20积分 20积分
+"

@@ -1,0 +1,16 @@
+actId=256147104f77457e8a58f15379d52f5e
+venderId=1000331904
+startTime=1616657100000
+endTime=1619766539000
+# 短链接
+suo_url="https://3.cn/1-01ifPqL"
+actTimeStr="2021-03-25 15:25 至 2021-04-30 15:08"
+#店铺名称
+vendername="TCL.XESS个护京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=256147104f77457e8a58f15379d52f5e&venderId=1000331904
+# 活动时间：2021.03.25 15:25:00 - 2021.04.30 15:08:59
+# 奖励说明：
+actRule="
+连续签到7天：5京豆 5京豆
+"

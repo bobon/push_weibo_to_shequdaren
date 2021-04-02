@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000002663
+startTime=1616860800000
+endTime=1619452799000
+activityId=10311173
+token=2D2AA21506733E4C374B9548E8FD841D
+#店铺名称
+vendername="德国施巴京东自营官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=2D2AA21506733E4C374B9548E8FD841D
+# 活动时间：2021.03.28 00:00:00 - 2021.04.26 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆
+连续签到7天：2京豆
+"

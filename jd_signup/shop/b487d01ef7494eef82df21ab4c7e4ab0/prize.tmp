@@ -1,0 +1,5 @@
+level=1;days=1;p_type=1;discount=10;giftName="10元优惠券"
+level=5;days=5;p_type=1;discount=15;giftName="15元优惠券"
+level=15;days=15;p_type=1;discount=30;giftName="30元优惠券"
+level=20;days=20;p_type=8;discount=1;giftName="半价享优酸乳原味"
+level=30;days=30;p_type=7;discount=48;giftName="谷粒多红养"

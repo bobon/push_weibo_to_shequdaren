@@ -1,0 +1,18 @@
+actId=0334339cd88e429ab2e8340aa0eb9fc2
+venderId=773082
+startTime=1615431060000
+endTime=1618023119000
+# 短链接
+suo_url="https://3.cn/101-czug3"
+actTimeStr="2021-03-11 10:51 至 2021-04-10 10:51"
+#店铺名称
+vendername="卡萨帝大家电旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0334339cd88e429ab2e8340aa0eb9fc2&venderId=773082&adsource=tg_storePage
+# 活动时间：2021.03.11 10:51:00 - 2021.04.10 10:51:59
+# 奖励说明：
+actRule="
+连续签到3天：10元优惠券
+连续签到7天：赠送电动磨刀石
+连续签到15天：赠送海尔烤箱
+"

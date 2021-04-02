@@ -1,0 +1,16 @@
+actId=88c99a8b03b14f4ba1db1beaf8b89528
+venderId=1000118004
+startTime=1617246000000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/1-01l4Iz4"
+actTimeStr="2021-04-01 11:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="博世（BOSCH）蓄电池京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=88c99a8b03b14f4ba1db1beaf8b89528&venderId=1000118004&adsource=tg_storePage
+# 活动时间：2021.04.01 11:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：2京豆 2京豆
+"

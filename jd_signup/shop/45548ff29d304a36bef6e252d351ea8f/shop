@@ -1,0 +1,16 @@
+actId=45548ff29d304a36bef6e252d351ea8f
+venderId=1000300180
+startTime=1617206400000
+endTime=1622476799000
+# 短链接
+suo_url="https://3.cn/1-01l4bpe"
+actTimeStr="2021-04-01 00:00 至 2021-05-31 23:59"
+#店铺名称
+vendername="卡乐优（Coloyou）京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=45548ff29d304a36bef6e252d351ea8f&venderId=1000300180
+# 活动时间：2021.04.01 00:00:00 - 2021.05.31 23:59:59
+# 奖励说明：
+actRule="
+连续签到30天：赠送蘑菇/蝴蝶主题包 一包
+"

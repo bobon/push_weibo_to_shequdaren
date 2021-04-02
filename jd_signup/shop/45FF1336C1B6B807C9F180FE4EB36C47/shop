@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000099045
+startTime=1617120000000
+endTime=1619625599000
+activityId=10314549
+token=45FF1336C1B6B807C9F180FE4EB36C47
+#店铺名称
+vendername="小扬京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=45FF1336C1B6B807C9F180FE4EB36C47
+# 活动时间：2021.03.31 00:00:00 - 2021.04.28 23:59:59
+# 奖励说明：
+actRule="
+每日签到：10店铺积分
+连续签到3天：20店铺积分
+"

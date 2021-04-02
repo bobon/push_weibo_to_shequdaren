@@ -1,0 +1,23 @@
+#店铺名称
+vendername="佳贝艾特羊奶粉旗舰店"
+#店铺激活码
+actId="57bf930eef864716b91ace5a0836e09c"
+#店铺id
+venderId="10021910"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=57bf930eef864716b91ace5a0836e09c&venderId=10021910"
+
+startTime=1615364580
+endTime=1617206400
+# 活动时间：2021-03-10 16:23 - 2021-04-01 00:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：165元优惠券
+连续签到2天：271元优惠券
+连续签到3天：79元优惠券
+连续签到4天：200元优惠券
+连续签到5天：100元优惠券
+连续签到6天：50京豆
+连续签到7天：羊奶片
+"

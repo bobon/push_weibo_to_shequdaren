@@ -1,0 +1,16 @@
+actId=ed0619bceafa45c88a5c3a08590748ed
+venderId=1000014603
+startTime=1617067680000
+endTime=1617983999000
+# 短链接
+suo_url="https://3.cn/100-lohZW"
+actTimeStr="2021-03-30 09:28 至 2021-04-09 23:59"
+#店铺名称
+vendername="三元牛奶京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ed0619bceafa45c88a5c3a08590748ed&venderId=1000014603&adsource=tg_discovery
+# 活动时间：2021.03.30 09:28:00 - 2021.04.09 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：70积分 70积分
+"

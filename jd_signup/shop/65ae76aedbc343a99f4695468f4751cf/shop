@@ -1,0 +1,23 @@
+#店铺名称
+vendername="壳牌京东自营官方旗舰店"
+#店铺激活码
+actId="65ae76aedbc343a99f4695468f4751cf"
+#店铺id
+venderId="1000006136"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=65ae76aedbc343a99f4695468f4751cf&venderId=1000006136"
+
+startTime=1617240240
+endTime=1619832240
+# 活动时间：2021-04-01 09:24 - 2021-05-01 09:24；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1店铺积分
+连续签到2天：2店铺积分
+连续签到3天：2店铺积分
+连续签到4天：3店铺积分
+连续签到5天：3店铺积分
+连续签到6天：3店铺积分
+连续签到7天：4店铺积分
+"

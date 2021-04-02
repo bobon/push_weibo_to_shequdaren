@@ -1,0 +1,24 @@
+actId=dcddfa8349ea49c8ac56eb9c1fb18197
+venderId=10528417
+startTime=1611634740000
+endTime=1627705199000
+# 短链接
+suo_url="https://3.cn/10-0ToYAC"
+actTimeStr="2021-01-26 12:19 至 2021-07-31 12:19"
+#店铺名称
+vendername="悠滋小羊母婴旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=dcddfa8349ea49c8ac56eb9c1fb18197&venderId=10528417&adsource=tg_storePage
+# 活动时间：2021.01.26 12:19:00 - 2021.07.31 12:19:59
+# 奖励说明：
+actRule="
+连续签到3天：20积分 20积分
+连续签到7天：50积分 50积分
+连续签到10天：70积分 70积分
+连续签到15天：100积分 100积分
+连续签到20天：120积分 120积分
+连续签到30天：150积分 150积分
+连续签到45天：150积分 150积分
+连续签到60天：200积分 200积分
+连续签到90天：300积分 300积分
+"

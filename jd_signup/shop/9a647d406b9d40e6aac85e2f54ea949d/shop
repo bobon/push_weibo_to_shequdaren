@@ -1,0 +1,17 @@
+actId=9a647d406b9d40e6aac85e2f54ea949d
+venderId=1000077382
+startTime=1616638080000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/1-01i6qWD"
+actTimeStr="2021-03-25 10:08 至 2021-04-30 23:59"
+#店铺名称
+vendername="光威京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=9a647d406b9d40e6aac85e2f54ea949d&venderId=1000077382
+# 活动时间：2021.03.25 10:08:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：200积分 200积分
+连续签到25天：500积分 500积分
+"

@@ -1,0 +1,23 @@
+#店铺名称
+vendername="嘉士利京东自营旗舰店"
+#店铺激活码
+actId="58fdd717c1844c50830097b7c8f6bc8c"
+#店铺id
+venderId="1000092783"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=58fdd717c1844c50830097b7c8f6bc8c&venderId=1000092783"
+
+startTime=1615361520
+endTime=1617262320
+# 活动时间：2021-03-10 15:32 - 2021-04-01 15:32；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：
+连续签到2天：
+连续签到3天：
+连续签到4天：
+连续签到5天：
+连续签到6天：
+连续签到7天：200店铺积分
+"

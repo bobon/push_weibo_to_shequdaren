@@ -1,0 +1,17 @@
+actId=d8076b9eb4924d44b7d5ff9848b71826
+venderId=1000323661
+startTime=1617206400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/101k-px2e"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="浓慕Nom京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d8076b9eb4924d44b7d5ff9848b71826&venderId=1000323661
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到7天：100积分 100积分
+连续签到14天：200积分 200积分
+"

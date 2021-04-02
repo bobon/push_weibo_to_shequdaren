@@ -1,0 +1,20 @@
+actId=b487d01ef7494eef82df21ab4c7e4ab0
+venderId=115090
+startTime=1617209400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/-101kZhwv"
+actTimeStr="2021-04-01 00:50 至 2021-04-30 23:59"
+#店铺名称
+vendername="伊利牛奶官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=b487d01ef7494eef82df21ab4c7e4ab0&venderId=115090
+# 活动时间：2021.04.01 00:50:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到1天：10元优惠券
+连续签到5天：15元优惠券
+连续签到15天：30元优惠券
+连续签到20天：半价享优酸乳原味
+连续签到30天：赠送谷粒多红养
+"

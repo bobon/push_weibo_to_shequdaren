@@ -1,0 +1,20 @@
+actId=d48cc7a946774a13aea5bde090afc86e
+venderId=1000108950
+startTime=1617206400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/101kX-cBf"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="美帕京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=d48cc7a946774a13aea5bde090afc86e&venderId=1000108950
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到3天：5京豆 5京豆
+连续签到5天：30积分 30积分
+连续签到7天：100积分 100积分
+连续签到14天：50京豆 50京豆
+连续签到21天：赠送壳聚糖面膜20g*1
+"

@@ -1,0 +1,17 @@
+# 短链接
+suo_url=""
+venderId=1000085464
+startTime=1617292800000
+endTime=1619798399000
+activityId=10319413
+token=90B7CB9FBEB3B041CE89B189B3A8D27B
+#店铺名称
+vendername="回力京东自营旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=90B7CB9FBEB3B041CE89B189B3A8D27B
+# 活动时间：2021.04.02 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+每日签到：2店铺积分
+连续签到20天：300店铺积分
+"

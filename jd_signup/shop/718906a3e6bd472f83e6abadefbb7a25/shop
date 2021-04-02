@@ -1,0 +1,17 @@
+actId=718906a3e6bd472f83e6abadefbb7a25
+venderId=1000001854
+startTime=1614528000000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/10-15SfLk"
+actTimeStr="2021-03-01 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="妮飘京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=718906a3e6bd472f83e6abadefbb7a25&venderId=1000001854&adsource=tg_storePage
+# 活动时间：2021.03.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到20天：50积分 50积分
+连续签到40天：100积分 100积分
+"
