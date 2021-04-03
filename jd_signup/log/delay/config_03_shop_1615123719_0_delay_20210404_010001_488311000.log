@@ -1,0 +1,138 @@
+04/04/21 01:12:05 203064200  1617469925
+RANDOM_num: 10
+removed '/tmp/tmp.sxwUXH5dUz'
+04/04/21 01:12:05 471943200  1617469925 检查肥鹅签到
+
+real	0m1.400s
+user	0m0.016s
+sys	0m0.141s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617470527	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617470527	LZ_TOKEN_KEY	lztokenpageb8ac1f39af33470280ccdc5e3854afd5
+04/04/21 01:12:07 108333200  1617469927
+use pt_key
+
+real	0m0.217s
+user	0m0.109s
+sys	0m0.109s
+04/04/21 01:12:07 352039500  1617469927 token: AAFgaKHnADB68FHjKZCbF6NYeUkG9bVeo3iDu5hCiYB6f9sY372QSVMEEOqIuotwsgLLA3ikF1c
+
+real	0m0.334s
+user	0m0.031s
+sys	0m0.063s
+04/04/21 01:12:07 809264700  1617469927 secretPin: 4YEv+ri88IbQX5lhoqHrzE7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+04/04/21 01:12:07 826931700  1617469927 肥鹅签到乐吉儿自营官方旗舰店
+
+real	0m1.565s
+user	0m0.047s
+sys	0m0.063s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1615123719_0_delay --> /home/myid/jd/jd_signup/vender/shop_1615123719_0_del
+mv: cannot stat '/home/myid/jd/jd_signup/vender/shop_1615123719_0_delay': No such file or directory
+04/04/21 01:12:19 948499200  1617469939
+
+肥鹅签到乐吉儿自营官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+乐吉儿自营官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=bc4957015c0746c3af847de16a78be18
+venderId=1000081230
+startTime=1614837360000
+endTime=1617429419000
+# 短链接
+suo_url="https://3.cn/1018ns-ys"
+actTimeStr="2021-03-04 13:56 至 2021-04-03 13:56"
+#店铺名称
+vendername="乐吉儿自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=bc4957015c0746c3af847de16a78be18&venderId=1000081230&adsource=tg_storePage
+# 活动时间：2021.03.04 13:56:00 - 2021.04.03 13:56:59
+# 奖励说明：
+actRule="
+连续签到15天：赠送迷你投篮机(颜色随机)
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

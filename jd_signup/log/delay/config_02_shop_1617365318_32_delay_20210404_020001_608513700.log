@@ -1,0 +1,99 @@
+04/04/21 02:02:31 944911500  1617472951
+RANDOM_num: 25
+removed '/tmp/tmp.AXCmgMnrQ6'
+04/04/21 02:02:32 028166700  1617472952
+王 今天已经签到过. 签到结果: ok  giftDate: 20210404
+***********************************************
+
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [1京豆]
+连续签到 3 天
+签到总天数 28
+***********************************************
+
+actId=f990dd98c6204059b3c4578817c1b90a
+venderId=1000347387
+startTime=1617262200000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/100zb-fWQ"
+actTimeStr="2021-04-01 15:30 至 2021-04-30 23:59"
+#店铺名称
+vendername="Ddrops海外京东自营专区"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=f990dd98c6204059b3c4578817c1b90a&venderId=1000347387
+# 活动时间：2021.04.01 15:30:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到15天：5京豆 5京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 3 天
+签到总天数 28"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 3 天
+签到总天数 28"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""1京豆""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["1京豆"]
+连续签到 3 天
+签到总天数 28"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210404"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

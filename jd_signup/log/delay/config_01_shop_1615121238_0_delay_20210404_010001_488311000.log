@@ -1,0 +1,138 @@
+04/04/21 01:11:52 759518900  1617469912
+RANDOM_num: 25
+removed '/tmp/tmp.KL2jnaTN6P'
+04/04/21 01:11:52 931183100  1617469912 检查赵签到
+
+real	0m0.879s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617470513	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617470513	LZ_TOKEN_KEY	lztokenpageed440322f3ed4684aef561fac7f9fd09
+04/04/21 01:11:54 018463200  1617469914
+use pt_key
+
+real	0m0.160s
+user	0m0.078s
+sys	0m0.094s
+04/04/21 01:11:54 196502100  1617469914 token: AAFgaKHaADBDW69sG5AiVG99huDiZSASAYovn7RxsqheFtMWkyF6kVPmcwUPuj9Y2X7gXSRcBpU
+
+real	0m0.297s
+user	0m0.016s
+sys	0m0.078s
+04/04/21 01:11:54 649807700  1617469914 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+04/04/21 01:11:54 669457900  1617469914 赵签到华硕京东自营官方旗舰店
+
+real	0m0.990s
+user	0m0.047s
+sys	0m0.047s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1615121238_0_delay --> /home/myid/jd/jd_signup/vender/shop_1615121238_0_del
+renamed '/home/myid/jd/jd_signup/vender/shop_1615121238_0_delay' -> '/home/myid/jd/jd_signup/vender/shop_1615121238_0_del'
+04/04/21 01:12:20 979686400  1617469940
+
+赵签到华硕京东自营官方旗舰店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+华硕京东自营官方旗舰店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=1ef099826d7f4e29a96101fcf2bb96f6
+venderId=1000000182
+startTime=1614847440000
+endTime=1617439259000
+# 短链接
+suo_url="https://3.cn/1018-sCLC"
+actTimeStr="2021-03-04 16:44 至 2021-04-03 16:40"
+#店铺名称
+vendername="华硕京东自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=1ef099826d7f4e29a96101fcf2bb96f6&venderId=1000000182&adsource=tg_storePage
+# 活动时间：2021.03.04 16:44:00 - 2021.04.03 16:40:59
+# 奖励说明：
+actRule="
+连续签到5天：2京豆 2京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 3 天
+签到总天数 28"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 3 天
+签到总天数 28"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="3"
+sign_total_num="28"
+giftName=""20积分""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["20积分"]
+连续签到 3 天
+签到总天数 28"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

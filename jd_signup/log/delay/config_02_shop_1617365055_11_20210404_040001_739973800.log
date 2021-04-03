@@ -1,0 +1,65 @@
+04/04/21 04:03:18 789443900  1617480198
+RANDOM_num: 5
+removed '/tmp/tmp.Ay4Tthgomn'
+04/04/21 04:03:18 882136700  1617480198
+王 今天已经签到过. 签到结果: ok  giftDate: 20210404
+***********************************************
+7天签到 第 3 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="Oray京东自营官方旗舰店"
+#店铺激活码
+actId="4a8bfb41e7754f5aa9fa2e6ba7c28a6c"
+#店铺id
+venderId="10142406"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=4a8bfb41e7754f5aa9fa2e6ba7c28a6c&venderId=10142406"
+
+startTime=1617247800
+endTime=1619841600
+# 活动时间：2021-04-01 11:30 - 2021-05-01 12:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#王 1309893722-164885 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="3"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="7天签到 第 3 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210404"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end

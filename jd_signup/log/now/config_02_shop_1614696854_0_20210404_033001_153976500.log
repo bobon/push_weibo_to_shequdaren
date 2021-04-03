@@ -1,0 +1,110 @@
+04/04/21 03:30:02 575139000  1617478202
+RANDOM_num: 45
+removed '/tmp/tmp.mjeGvwyT6C'
+04/04/21 03:30:03 121419800  1617478203
+王 今天已经签到过. 签到结果: ok  giftDate: 20210404
+***********************************************
+
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 34
+***********************************************
+
+actId=0e34416861cc4cda8df003189c6a36f0
+venderId=10133101
+startTime=1614332160000
+endTime=1619768219000
+# 短链接
+suo_url="https://3.cn/101-5UuIg"
+actTimeStr="2021-02-26 17:36 至 2021-04-30 15:36"
+#店铺名称
+vendername="歌德老酒行京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=0e34416861cc4cda8df003189c6a36f0&venderId=10133101&sceneval=2&jxsid=16146428113866014329
+# 活动时间：2021.02.26 17:36:00 - 2021.04.30 15:36:59
+# 奖励说明：
+actRule="
+连续签到2天：20积分 20积分
+连续签到3天：50积分 50积分
+连续签到4天：5京豆 5京豆
+连续签到5天：100积分 100积分
+连续签到6天：10京豆 10京豆
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="4"
+sign_total_num="34"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 34"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="4"
+sign_total_num="34"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 34"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="4"
+sign_total_num="34"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 34"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210404"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

@@ -1,0 +1,167 @@
+04/04/21 02:01:47 164704500  1617472907
+RANDOM_num: 5
+removed '/tmp/tmp.tgPEoMrRhG'
+04/04/21 02:01:47 240353000  1617472907 检查移动签到
+
+real	0m0.172s
+user	0m0.031s
+sys	0m0.047s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617473507	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617473507	LZ_TOKEN_KEY	lztokenpage8aa6e5cbf0a14e798e439f0981a711b1
+04/04/21 02:01:47 519388600  1617472907
+use pt_key
+
+real	0m0.118s
+user	0m0.078s
+sys	0m0.078s
+04/04/21 02:01:47 651147500  1617472907 token: AAFgaK2LADCFDZFrVJ7Cn4bfeWICaa9c0riGRrKicB-EHYYAx1y7l6O3uGA34ASgSR7kiuq5YmA
+
+real	0m0.272s
+user	0m0.031s
+sys	0m0.016s
+{"result":false,"data":"400001","count":0,"errorMessage":"活动太火爆，还是去买买买吧"}
+04/04/21 02:01:53 058894300  1617472913
+签到失败. 写入失败的giftName: 
+
+***********************************************
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0
+***********************************************
+
+移动签到联想商用京东自营旗舰店查看结果
+{"msg":"","giftLog":{},"isOk":true,"signDetail":{},"followDays":5,"signRecord":{"nicknameShow":null,"id":"8790957d53c446879b7bddb5180667d1","venderId":1000072509,"actId":"01b0bc506a214d8680b53179174516c5","actName":"每日签到","nick":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","phone":"","midUrl":"","pin":"{\"result\":false,\"data\":\"400001\",\"count\":0,\"errorMessage\":\"活动太火爆，还是去买买买吧\"}","lastSignDate":null,"contiSignNum":0,"totalSignNum":0,"createTime":null,"updateTime":null,"remark":null}}
+
+{
+  "signDetail": {},
+  "contiSignNum": 0,
+  "totalSignNum": 0
+}
+
+联想商用京东自营旗舰店活动规则
+{"msg":"","act":{"id":"01b0bc506a214d8680b53179174516c5","jdActivityId":null,"venderId":1000072509,"actName":"每日签到","startTime":1615384800000,"endTime":1617898199000,"tplId":"0001","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=01b0bc506a214d8680b53179174516c5&venderId=1000072509","shortUrl":"3.cn/101-chJXg","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/160214/40/12274/3608/6048845cE88d33213/03eb880bdad9f6b6.png","actRule":"1、活动时间：2021-03-10 22:00 - 2021-04-09 00:09；
+2、活动对象：店铺会员；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+4、每日签到，有机会赠送[5积分]；
+5、连续签到5天，有机会赠送[20积分]；
+6、连续签到10天，有机会赠送[30积分]；
+7、连续签到15天，有机会赠送[40积分]；
+8、连续签到20天，有机会赠送[50积分]；
+9、连续签到25天，有机会赠送[60积分]；
+10、连续签到30天，有机会赠送[5京豆]；
+11、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+12、关注店铺后方可参与活动；
+13、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+14、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1615365212000,"updateTime":1615365212000,"activityType":null,"actTimeStr":"2021-03-10 22:00 至 2021-04-09 00:09","actRange":"member","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"40663ef5808a4f1ba8cb579887bf0c84\",\"giftName\":\"5积分\",\"giftNum\":\"5\",\"giftTotal\":\"100000\",\"giftType\":\"9\",\"id\":\"5\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"5\",\"gift\":{\"giftInfoId\":\"1d0288252ba34a0e83e02cc6c6694657\",\"giftName\":\"20积分\",\"giftNum\":\"20\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"20\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"10\",\"gift\":{\"giftInfoId\":\"77debcc16b8f44a08134d890cac1fb02\",\"giftName\":\"30积分\",\"giftNum\":\"30\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"30\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"15\",\"gift\":{\"giftInfoId\":\"7ce063a4d1f346a7b89f53850bd5a77c\",\"giftName\":\"40积分\",\"giftNum\":\"40\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"40\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"20\",\"gift\":{\"giftInfoId\":\"bb886cc8ef6f42a396b192cc2889ca53\",\"giftName\":\"50积分\",\"giftNum\":\"50\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"50\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"25\",\"gift\":{\"giftInfoId\":\"b358c4a4e3bd4f1fa2e6d5f1b6fc792f\",\"giftName\":\"60积分\",\"giftNum\":\"60\",\"giftTotal\":\"10000\",\"giftType\":\"9\",\"id\":\"60\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"30\",\"gift\":{\"giftInfoId\":\"72e95f3dbdc44617bcfcc67adaa49e08\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"2000\",\"giftType\":\"6\",\"id\":\"1176691\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"5","giftType":"9","giftName":"5积分","giftNum":"5","giftTotal":"100000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"40663ef5808a4f1ba8cb579887bf0c84","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"5","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"20","giftType":"9","giftName":"20积分","giftNum":"20","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"1d0288252ba34a0e83e02cc6c6694657","commonAddAwardVO":null}},{"dayNum":"10","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"30","giftType":"9","giftName":"30积分","giftNum":"30","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"77debcc16b8f44a08134d890cac1fb02","commonAddAwardVO":null}},{"dayNum":"15","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"40","giftType":"9","giftName":"40积分","giftNum":"40","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"7ce063a4d1f346a7b89f53850bd5a77c","commonAddAwardVO":null}},{"dayNum":"20","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"50","giftType":"9","giftName":"50积分","giftNum":"50","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"bb886cc8ef6f42a396b192cc2889ca53","commonAddAwardVO":null}},{"dayNum":"25","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"60","giftType":"9","giftName":"60积分","giftNum":"60","giftTotal":"10000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"b358c4a4e3bd4f1fa2e6d5f1b6fc792f","commonAddAwardVO":null}},{"dayNum":"30","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1176691","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"2000","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"72e95f3dbdc44617bcfcc67adaa49e08","commonAddAwardVO":null}}]},"isShowItems":"n","showItemIds":"","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=01b0bc506a214d8680b53179174516c5&venderId=1000072509",
+  "shortUrl": "3.cn/101-chJXg",
+  "actRule": "1、活动时间：2021-03-10 22:00 - 2021-04-09 00:09；\n2、活动对象：店铺会员；\n3、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n4、每日签到，有机会赠送[5积分]；\n5、连续签到5天，有机会赠送[20积分]；\n6、连续签到10天，有机会赠送[30积分]；\n7、连续签到15天，有机会赠送[40积分]；\n8、连续签到20天，有机会赠送[50积分]；\n9、连续签到25天，有机会赠送[60积分]；\n10、连续签到30天，有机会赠送[5京豆]；\n11、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n12、关注店铺后方可参与活动；\n13、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n14、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);\n（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=01b0bc506a214d8680b53179174516c5
+venderId=1000072509
+startTime=1615384800000
+endTime=1617898199000
+# 短链接
+suo_url="https://3.cn/101-chJXg"
+actTimeStr="2021-03-10 22:00 至 2021-04-09 00:09"
+#店铺名称
+vendername="联想商用京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=01b0bc506a214d8680b53179174516c5&venderId=1000072509
+# 活动时间：2021.03.10 22:00:00 - 2021.04.09 00:09:59
+# 奖励说明：
+actRule="
+连续签到5天：20积分 20积分
+连续签到10天：30积分 30积分
+连续签到15天：40积分 40积分
+连续签到20天：50积分 50积分
+连续签到25天：60积分 60积分
+连续签到30天：5京豆 5京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 3 天
+签到总天数 3"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 3 天
+签到总天数 3"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210404"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

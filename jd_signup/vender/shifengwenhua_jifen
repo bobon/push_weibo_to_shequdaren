@@ -16,55 +16,61 @@ venderId="1000300368"
 sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
-signTime=1617408000;signed=2"
-sign_num="63"
-sign_total_num="84"
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="64"
+sign_total_num="85"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210403"
+giftDate="20210404"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 63 天
-签到总天数 84"
+连续签到 64 天
+签到总天数 85"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
-signTime=1617408000;signed=2"
-sign_num="49"
-sign_total_num="70"
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="50"
+sign_total_num="71"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210403"
+giftDate="20210404"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 49 天
-签到总天数 70"
+连续签到 50 天
+签到总天数 71"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
-signTime=1617408000;signed=2"
-sign_num="63"
-sign_total_num="63"
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="64"
+sign_total_num="64"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210403"
+giftDate="20210404"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 63 天
-签到总天数 63"
+连续签到 64 天
+签到总天数 64"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
@@ -73,7 +79,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210403"
+giftDate="20210404"
 sign_res_info="
 
 当天签到奖励 []
