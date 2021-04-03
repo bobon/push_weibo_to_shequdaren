@@ -1,0 +1,65 @@
+04/03/21 02:03:41 776198200  1617386621
+RANDOM_num: 10
+removed '/tmp/tmp.3RIPQw89aY'
+04/03/21 02:03:41 936917600  1617386621
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210403
+***********************************************
+7天签到 第 2 天
+当天签到奖励 [null]
+***********************************************
+
+#店铺名称
+vendername="东阿阿胶官方旗舰店"
+#店铺激活码
+actId="28369daf699a47ae8d54f535dc25d011"
+#店铺id
+venderId="105562"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=28369daf699a47ae8d54f535dc25d011&venderId=105562"
+
+startTime=1617206400
+endTime=1617811140
+# 活动时间：2021-04-01 00:00 - 2021-04-07 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：1京豆
+连续签到3天：30元优惠券
+连续签到4天：3京豆
+连续签到5天：5店铺积分
+连续签到6天：10京豆
+连续签到7天：20京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 [null]"
+#赵 122294312-396444 sign_res_end

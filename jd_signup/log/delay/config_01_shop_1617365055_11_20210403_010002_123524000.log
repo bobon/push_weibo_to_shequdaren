@@ -1,0 +1,154 @@
+04/03/21 01:13:32 658429500  1617383612
+RANDOM_num: 15
+removed '/tmp/tmp.DqZgbojxNX'
+04/03/21 01:13:32 999782000  1617383612 检查赵签到
+
+real	0m0.285s
+user	0m0.031s
+sys	0m0.094s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617384213	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617384213	LZ_TOKEN_KEY	lztokenpage22b0924e1a354019a88c22276b225549
+04/03/21 01:13:33 517146800  1617383613
+use pt_key
+
+real	0m0.328s
+user	0m0.109s
+sys	0m0.078s
+04/03/21 01:13:33 893024900  1617383613 token: AAFgZ1C9ADD4XQbhVSkH-9Tp5_FYSHAtpLce9RjqZqenstGS4k3jQ-KvDOLBFfDVOhjLqv0Mt8U
+
+real	0m0.607s
+user	0m0.016s
+sys	0m0.094s
+04/03/21 01:13:34 829745400  1617383614 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+04/03/21 01:13:34 864649300  1617383614 赵签到Oray京东自营官方旗舰店
+
+real	0m0.539s
+user	0m0.016s
+sys	0m0.109s
+{
+  "msg": "",
+  "signResult": {
+    "key": "LpqCpN",
+    "giftLogId": "66e1a82bc6df48e19aa8f80cb5f1ce39",
+    "gift": {
+      "activityId": null,
+      "activityType": null,
+      "venderId": null,
+      "type": 0,
+      "name": null,
+      "itemHb": null,
+      "id": "1219305",
+      "giftType": "6",
+      "giftName": "2京豆",
+      "giftNum": "2",
+      "giftTotal": "500",
+      "giftResidue": null,
+      "priceInfo": "0.02",
+      "shortLink": "",
+      "orginLink": null,
+      "giftInfoId": null,
+      "commonAddAwardVO": null
+    },
+    "send": true
+  },
+  "isOk": true,
+  "isSend": true
+}
+true
+04/03/21 01:13:36 233247000 1617383616
+04/03/21 01:13:36 275652800 1617383616 签到Oray京东自营官方旗舰店完成
+04/03/21 01:14:21 577755400  1617383661
+true
+首次签到成功. 写入giftName: "2京豆"
+
+***********************************************
+7天签到 第 2 天
+当天签到奖励 ["2京豆"]
+***********************************************
+
+赵签到Oray京东自营官方旗舰店查看结果, 活动规则
+{"giftConditions":[{"gift":{"giftInfoId":null,"giftName":"5元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/101l6oL-H","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"353356055","activityType":null},"imgUrl":"","giftInfoId":"222ca5daa9ff4a4e991e62510e4ff925","dayNum":"1","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"2京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1219305","activityType":null},"imgUrl":"","giftInfoId":"166f541e3bab46259c8868ff76f6d8cb","dayNum":"2","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"5京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1219305","activityType":null},"imgUrl":"","giftInfoId":"f72c04393cc149518620e9b098d282d2","dayNum":"3","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"8京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1219305","activityType":null},"imgUrl":"","giftInfoId":"141ea79ac13d444cbe841e7949708e7f","dayNum":"4","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"20京豆","venderId":null,"giftType":"6","type":0,"shortLink":"","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"1219305","activityType":null},"imgUrl":"","giftInfoId":"37eb9e76c1df498681f872b8b689c23e","dayNum":"5","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"10元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/10-1l66w7","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"354556693","activityType":null},"imgUrl":"","giftInfoId":"01deaa67c7e74fad8453108286d6dcda","dayNum":"6","showType":"0"},{"gift":{"giftInfoId":null,"giftName":"20元优惠券","venderId":null,"giftType":"1","type":0,"shortLink":"3.cn/101-l65kA","orginLink":null,"activityId":null,"giftResidue":null,"commonAddAwardVO":null,"name":null,"id":"353332407","activityType":null},"imgUrl":"","giftInfoId":"75d9d201e0444e3dbdd4f20bd8264820","dayNum":"7","showType":"0"}],"msg":"","isOk":true,"isOver":"n","contiSignDays":2,"actRule":"1、活动时间：2021-04-01 11:30 - 2021-05-01 12:00；
+2、关注店铺后方可参与活动；
+3、符合连续签到赠送条件，则有机会赠送连续签到奖品；
+4、连续签到7天后，清零可重新开始；
+5、第1天签到，有机会赠送5元优惠券；
+6、第2天签到，有机会赠送2京豆；
+7、第3天签到，有机会赠送5京豆；
+8、第4天签到，有机会赠送8京豆；
+9、第5天签到，有机会赠送20京豆；
+10、第6天签到，有机会赠送10元优惠券；
+11、第7天签到，有机会赠送20元优惠券；
+12、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+13、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）中奖客户信息收集：页面弹屏提示中奖客户提供收货地址、号码和奖项；(超过1小时未填写对应收货信息，视为放弃);
+（2）实物奖采取寄送方式发放，获奖用户需在开奖后填写姓名、联系电话、详细地址信息。如因用户原因无法联系上，即奖品作废不再补发，或如用户未填写真实有效的信息或填写收货信息不详，均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其参与资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其参与资格（如优惠已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）是否获得优惠以活动发布者后台统计结果为准。
+","followDays":0,"isSign":"y"}
+
+#店铺名称
+vendername="Oray京东自营官方旗舰店"
+#店铺激活码
+actId="4a8bfb41e7754f5aa9fa2e6ba7c28a6c"
+#店铺id
+venderId="10142406"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=4a8bfb41e7754f5aa9fa2e6ba7c28a6c&venderId=10142406"
+
+startTime=1617247800
+endTime=1619841600
+# 活动时间：2021-04-01 11:30 - 2021-05-01 12:00；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：5元优惠券
+连续签到2天：2京豆
+连续签到3天：5京豆
+连续签到4天：8京豆
+连续签到5天：20京豆
+连续签到6天：10元优惠券
+连续签到7天：20元优惠券
+"
+#王 1309893722-164885 sign_res
+sign_num="1"
+giftName=""5元优惠券""
+giftRes="ok"
+giftDate="20210402"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5元优惠券"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="1"
+giftName=""5元优惠券""
+giftRes="ok"
+giftDate="20210402"
+sign_res_info="7天签到 第 1 天
+当天签到奖励 ["5元优惠券"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="2"
+giftName=""2京豆""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="7天签到 第 2 天
+当天签到奖励 ["2京豆"]"
+#赵 122294312-396444 sign_res_end

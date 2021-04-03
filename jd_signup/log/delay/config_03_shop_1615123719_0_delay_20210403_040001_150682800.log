@@ -1,0 +1,99 @@
+04/03/21 04:01:17 921435100  1617393677
+RANDOM_num: 5
+removed '/tmp/tmp.KoU8SaNsOW'
+04/03/21 04:01:18 010718800  1617393678
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210403
+***********************************************
+
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28
+***********************************************
+
+actId=bc4957015c0746c3af847de16a78be18
+venderId=1000081230
+startTime=1614837360000
+endTime=1617429419000
+# 短链接
+suo_url="https://3.cn/1018ns-ys"
+actTimeStr="2021-03-04 13:56 至 2021-04-03 13:56"
+#店铺名称
+vendername="乐吉儿自营官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=bc4957015c0746c3af847de16a78be18&venderId=1000081230&adsource=tg_storePage
+# 活动时间：2021.03.04 13:56:00 - 2021.04.03 13:56:59
+# 奖励说明：
+actRule="
+连续签到15天：赠送迷你投篮机(颜色随机)
+"
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="13"
+sign_total_num="28"
+giftName="null"
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 13 天
+签到总天数 28"
+#王 1309893722-164885 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

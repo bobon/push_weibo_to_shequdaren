@@ -17,18 +17,20 @@ actRule="
 #赵 122294312-396444 sign_res
 sign_res="
 signTime=1617235200;signed=2
-signTime=1617321600;signed=2"
-sign_num="2"
-sign_total_num="2"
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="3"
+sign_total_num="3"
 giftName=""5积分""
 giftRes="ok"
-giftDate="20210402"
+giftDate="20210403"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
 当天签到奖励 ["5积分"]
-连续签到 2 天
-签到总天数 2"
+连续签到 3 天
+签到总天数 3"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
@@ -37,7 +39,7 @@ sign_num="0"
 sign_total_num="0"
 giftName="null"
 giftRes="只有该店铺的会员才能参加活动"
-giftDate="20210402"
+giftDate="20210403"
 sign_res_info="
 
 当天签到奖励 [null]
@@ -51,7 +53,7 @@ sign_num="0"
 sign_total_num="0"
 giftName="null"
 giftRes="只有该店铺的会员才能参加活动"
-giftDate="20210402"
+giftDate="20210403"
 sign_res_info="
 
 当天签到奖励 [null]
@@ -65,7 +67,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210402"
+giftDate="20210403"
 sign_res_info="
 
 当天签到奖励 []

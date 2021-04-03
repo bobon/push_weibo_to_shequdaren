@@ -1,0 +1,190 @@
+04/03/21 01:12:24 733703800  1617383544
+RANDOM_num: 35
+removed '/tmp/tmp.zV1iWckPP9'
+04/03/21 01:12:24 872169800  1617383544 检查赵签到
+
+real	0m0.850s
+user	0m0.031s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617384145	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617384145	LZ_TOKEN_KEY	lztokenpage0142a141680546a79c8c4156db94e0ec
+04/03/21 01:12:25 881967900  1617383545
+use pt_key
+
+real	0m0.163s
+user	0m0.094s
+sys	0m0.063s
+04/03/21 01:12:26 070632800  1617383546 token: AAFgZ1B6ADDxeTMMJ1VzovNNf0NTuqx26cRLClwaRa7-EQqJQgm0zlYXblz4Y_8SXG-59ARenfI
+
+real	0m0.396s
+user	0m0.047s
+sys	0m0.078s
+04/03/21 01:12:26 670378300  1617383546 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+04/03/21 01:12:26 694991100  1617383546 赵签到如云宠物生活专营店
+
+real	0m1.007s
+user	0m0.016s
+sys	0m0.109s
+{
+  "gift": {
+    "activityId": null,
+    "activityType": null,
+    "venderId": null,
+    "type": 0,
+    "name": null,
+    "itemHb": null,
+    "id": "1",
+    "giftType": "9",
+    "giftName": "1积分",
+    "giftNum": "1",
+    "giftTotal": "200000",
+    "giftResidue": null,
+    "priceInfo": "0",
+    "shortLink": "",
+    "orginLink": null,
+    "giftInfoId": "e1995821e13f412e88e0c13ef22d8f6f",
+    "commonAddAwardVO": null
+  },
+  "msg": "",
+  "isOk": true,
+  "isSend": true,
+  "key": "XADuzW"
+}
+true
+04/03/21 01:12:28 300109400 1617383548
+04/03/21 01:12:28 321135100 1617383548 签到如云宠物生活专营店完成
+04/03/21 01:13:03 427982000  1617383583
+true
+首次签到成功. 写入giftName: "1积分"
+
+***********************************************
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["1积分"]
+连续签到 2 天
+签到总天数 2
+***********************************************
+
+赵签到如云宠物生活专营店查看结果
+{"msg":"","giftLog":{"20210402":"y","20210403":"y"},"isOk":true,"signDetail":{"20210402":"y","20210403":"y"},"followDays":5,"signRecord":{"nicknameShow":null,"id":"ddb38fdcd44a494fb000b9f65211f06f","venderId":10293355,"actId":"ed95d065768446e8b7f366dc6382efd3","actName":"签到活动","nick":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","phone":"","midUrl":null,"pin":"51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==","lastSignDate":20210403,"contiSignNum":2,"totalSignNum":2,"createTime":1617365301000,"updateTime":1617383547000,"remark":null}}
+
+{
+  "signDetail": {
+    "20210402": "y",
+    "20210403": "y"
+  },
+  "contiSignNum": 2,
+  "totalSignNum": 2
+}
+
+如云宠物生活专营店活动规则
+{"msg":"","act":{"id":"ed95d065768446e8b7f366dc6382efd3","jdActivityId":null,"venderId":10293355,"actName":"签到活动","startTime":1614847020000,"endTime":1617438839000,"tplId":"0120","deleted":null,"actUrl":"https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ed95d065768446e8b7f366dc6382efd3&venderId=10293355","shortUrl":"3.cn/1-00FyhUr","qrcodeUrl":"https://img10.360buyimg.com/imgzone/jfs/t1/135916/25/20477/3647/5fdecc4cEcea3a586/281e797fa6efa6e9.png","actRule":"1、活动时间：2021-03-04 16:37 - 2021-04-03 16:33；
+2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；
+3、每日签到，有机会赠送[1积分]；
+4、连续签到7天，有机会赠送以优惠价购买[宠物玩具球]的资格；
+5、连续签到10天，有机会赠送[5京豆]；
+6、连续签到15天，有机会赠送[宠物毛毯M]；
+7、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；
+8、关注店铺后方可参与活动；
+9、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；
+10、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；
+注：奖品发放形式：
+实物奖：
+（1）实物奖品需随订单发货，无订单不发货。实物中奖后48小时内在店铺下单后联系在线客服核实后备注实物奖品。
+（2）中奖页面截图发给在线客服核实备注奖品。中奖页面截图发给在线客服核实备注奖品。
+（3）实物奖品48小时内没有下单视为作废、均视为放弃奖品；
+虚拟产品奖：
+（1）京豆：中奖后系统预计24小时内自动发放至账户；
+（2）优惠券：中奖后需手动领取，预计24小时到账；
+【活动参与主体资格】
+（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。
+（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。
+【注意事项】
+（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。
+（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。
+（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。
+（4）是否中奖以活动发布者后台统计结果为准。
+","createTime":1608436812000,"updateTime":1614846967000,"activityType":null,"actTimeStr":"2021-03-04 16:37 至 2021-04-03 16:33","actRange":"all","isFocusShop":"y","giftJson":"{\"gift\":{\"giftInfoId\":\"e1995821e13f412e88e0c13ef22d8f6f\",\"giftName\":\"1积分\",\"giftNum\":\"1\",\"giftTotal\":\"200000\",\"giftType\":\"9\",\"id\":\"1\",\"priceInfo\":\"0\",\"shortLink\":\"\",\"type\":0},\"giftConditions\":[{\"dayNum\":\"7\",\"gift\":{\"giftInfoId\":\"fb96a18d13534cf89e2208a7d3db443d\",\"giftName\":\"宠物玩具球\",\"giftNum\":\"1\",\"giftTotal\":\"80\",\"giftType\":\"8\",\"id\":\"37299\",\"priceInfo\":\"1.00\",\"shortLink\":\"https://item.jd.com/70469412007.html\",\"type\":0}},{\"dayNum\":\"10\",\"gift\":{\"giftInfoId\":\"212892d7a7b74daa993f7f9f8208ea53\",\"giftName\":\"5京豆\",\"giftNum\":\"5\",\"giftTotal\":\"0\",\"giftType\":\"6\",\"id\":\"1166722\",\"priceInfo\":\"0.05\",\"shortLink\":\"\",\"type\":0}},{\"dayNum\":\"15\",\"gift\":{\"giftInfoId\":\"dabd58e17a9a41f2ba2dbd5335fcb44c\",\"giftName\":\"宠物毛毯M\",\"giftNum\":\"25.8\",\"giftTotal\":\"50\",\"giftType\":\"7\",\"id\":\"10022577439519\",\"priceInfo\":\"25.80\",\"shortLink\":\"\",\"type\":0}}],\"hasGiftEveryDay\":\"y\",\"signType\":\"1\"}","wxSignActivityGiftBean":{"hasGiftEveryDay":"y","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1","giftType":"9","giftName":"1积分","giftNum":"1","giftTotal":"200000","giftResidue":null,"priceInfo":"0","shortLink":"","orginLink":null,"giftInfoId":"e1995821e13f412e88e0c13ef22d8f6f","commonAddAwardVO":null},"signType":"1","giftConditions":[{"dayNum":"7","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"37299","giftType":"8","giftName":"宠物玩具球","giftNum":"1","giftTotal":"80","giftResidue":null,"priceInfo":"1.00","shortLink":"https://item.jd.com/70469412007.html","orginLink":null,"giftInfoId":"fb96a18d13534cf89e2208a7d3db443d","commonAddAwardVO":null}},{"dayNum":"10","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"1166722","giftType":"6","giftName":"5京豆","giftNum":"5","giftTotal":"0","giftResidue":null,"priceInfo":"0.05","shortLink":"","orginLink":null,"giftInfoId":"212892d7a7b74daa993f7f9f8208ea53","commonAddAwardVO":null}},{"dayNum":"15","gift":{"activityId":null,"activityType":null,"venderId":null,"type":0,"name":null,"itemHb":null,"id":"10022577439519","giftType":"7","giftName":"宠物毛毯M","giftNum":"25.8","giftTotal":"50","giftResidue":null,"priceInfo":"25.80","shortLink":"","orginLink":null,"giftInfoId":"dabd58e17a9a41f2ba2dbd5335fcb44c","commonAddAwardVO":null}}]},"isShowItems":"y","showItemIds":"64604983590,65261236226,65484015751,67133506130,68489601103,10021713167713,10022577439520,10021646020217,10022882541637,10020295716083,68018389255,65421775133,68458572980,66795856038,66199259088,65277704210,65265849787,66956340406,65429032961,65429074598","jmWareVOList":null,"status":"ING"},"isOk":true}
+
+{
+  "actUrl": "https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ed95d065768446e8b7f366dc6382efd3&venderId=10293355",
+  "shortUrl": "3.cn/1-00FyhUr",
+  "actRule": "1、活动时间：2021-03-04 16:37 - 2021-04-03 16:33；\n2、符合连续签到赠送条件，则有机会赠送连续签到奖品，同时每日签到奖品不赠送；\n3、每日签到，有机会赠送[1积分]；\n4、连续签到7天，有机会赠送以优惠价购买[宠物玩具球]的资格；\n5、连续签到10天，有机会赠送[5京豆]；\n6、连续签到15天，有机会赠送[宠物毛毯M]；\n7、达到连续签到天数并领取奖品后，签到记录清零，从第1天重新计算；\n8、关注店铺后方可参与活动；\n9、签到成功后有机会获得奖品，也有可能会与奖品擦肩而过（奖品数量有限，先到先得）；\n10、若用户存在刷奖等恶意行为，一经发现将取消抽奖资格（如奖品已经发放，有权追回奖品）；\n注：奖品发放形式：\n实物奖：\n（1）实物奖品需随订单发货，无订单不发货。实物中奖后48小时内在店铺下单后联系在线客服核实后备注实物奖品。\n（2）中奖页面截图发给在线客服核实备注奖品。中奖页面截图发给在线客服核实备注奖品。\n（3）实物奖品48小时内没有下单视为作废、均视为放弃奖品；\n虚拟产品奖：\n（1）京豆：中奖后系统预计24小时内自动发放至账户；\n（2）优惠券：中奖后需手动领取，预计24小时到账；\n【活动参与主体资格】\n（1）每位自然人用户仅能使用一个京东账号参与活动，微信号、QQ、京东帐号、手机号码等任一信息一致或指向同一用户的，视为同一个用户，则第一个参与本活动的账号参与结果有效，其余账号参与结果均视为无效。\n（2）若发现同一位用户使用不同账号重复参与活动，承办方有权取消其获奖资格。\n【注意事项】\n（1）活动过程中，凡以不正当手段（如作弊领取、恶意套取、刷信誉、虚假交易、扰乱系统、实施网络攻击等）参与本次活动的用户，商家有权终止其参与活动，并取消其获奖资格（如奖品已发放，商家有权追回），如给商家造成损失的，商家将保留向违规用户继续追索的权利。\n（2）如遇不可抗力(包括但不限于重大灾害事件、活动受政府机关指令需要停止举办或调整的、活动中存在大面积作弊行为、活动遭受严重网络攻击或因系统故障导致活动中奖名单大批量出错，活动不能正常进行的)，商家有权取消、修改或暂停本活动。\n（3）本活动所发放的实物奖不得提现、不得转赠他人、不得为他人付款。\n（4）是否中奖以活动发布者后台统计结果为准。\n"
+}
+actId=ed95d065768446e8b7f366dc6382efd3
+venderId=10293355
+startTime=1614847020000
+endTime=1617438839000
+# 短链接
+suo_url="https://3.cn/1-00FyhUr"
+actTimeStr="2021-03-04 16:37 至 2021-04-03 16:33"
+#店铺名称
+vendername="如云宠物生活专营店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=ed95d065768446e8b7f366dc6382efd3&venderId=10293355&adsource=tg_storePage
+# 活动时间：2021.03.04 16:37:00 - 2021.04.03 16:33:59
+# 奖励说明：
+actRule="
+连续签到7天：宠物玩具球
+连续签到10天：5京豆 5京豆
+连续签到15天：赠送宠物毛毯M
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617321600;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210402"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+当天签到奖励 ["1积分"]
+连续签到 1 天
+签到总天数 1"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617321600;signed=2"
+sign_num="1"
+sign_total_num="1"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210402"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+当天签到奖励 ["1积分"]
+连续签到 1 天
+签到总天数 1"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="2"
+sign_total_num="2"
+giftName=""1积分""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["1积分"]
+连续签到 2 天
+签到总天数 2"
+#赵 122294312-396444 sign_res_end

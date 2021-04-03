@@ -1,0 +1,91 @@
+04/03/21 02:00:34 745330700  1617386434
+RANDOM_num: 30
+removed '/tmp/tmp.Uwih0frBp3'
+04/03/21 02:00:34 891842700  1617386434
+赵 今天已经签到过. 签到结果: ok  giftDate: 20210403
+***********************************************
+
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 [5积分]
+连续签到 3 天
+签到总天数 3
+***********************************************
+
+actId=2d87556994604ce6ad85ea0364eb3218
+venderId=1000000904
+startTime=1617206400000
+endTime=1619798399000
+# 短链接
+suo_url="https://3.cn/101kFRA-k"
+actTimeStr="2021-04-01 00:00 至 2021-04-30 23:59"
+#店铺名称
+vendername="荣耀京东自营旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=2d87556994604ce6ad85ea0364eb3218&shareuserid4minipg=SlDkFKa37DhJVavw4ZIfTU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w%3D%3D&shopid=1000000904&sid=cd8dba99ccb5eaf4bca52b10222494bw&un_area=3_51038_3000_0
+# 活动时间：2021.04.01 00:00:00 - 2021.04.30 23:59:59
+# 奖励说明：
+actRule="
+连续签到10天：赠送荣耀自拍杆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2"
+sign_num="3"
+sign_total_num="3"
+giftName=""5积分""
+giftRes="ok"
+giftDate="20210403"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+当天签到奖励 ["5积分"]
+连续签到 3 天
+签到总天数 3"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName="null"
+giftRes="只有该店铺的会员才能参加活动"
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 0"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210403"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
