@@ -17,60 +17,66 @@ sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
 signTime=1617408000;signed=2
-signTime=1617494400;signed=2"
-sign_num="64"
-sign_total_num="85"
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="65"
+sign_total_num="86"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210404"
+giftDate="20210405"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
 2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 64 天
-签到总天数 85"
+连续签到 65 天
+签到总天数 86"
 #赵 122294312-396444 sign_res_end
 #王 1309893722-164885 sign_res
 sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
 signTime=1617408000;signed=2
-signTime=1617494400;signed=2"
-sign_num="50"
-sign_total_num="71"
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="51"
+sign_total_num="72"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210404"
+giftDate="20210405"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
 2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 50 天
-签到总天数 71"
+连续签到 51 天
+签到总天数 72"
 #王 1309893722-164885 sign_res_end
 #肥鹅 jd_4d651d9e48204 sign_res
 sign_res="
 signTime=1617235200;signed=2
 signTime=1617321600;signed=2
 signTime=1617408000;signed=2
-signTime=1617494400;signed=2"
-sign_num="64"
-sign_total_num="64"
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="65"
+sign_total_num="65"
 giftName=""10积分""
 giftRes="ok"
-giftDate="20210404"
+giftDate="20210405"
 sign_res_info="
 2021/04/01_08:00:00  [已~签~到]      
 2021/04/02_08:00:00  [已~签~到]      
 2021/04/03_08:00:00  [已~签~到]      
 2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
 当天签到奖励 ["10积分"]
-连续签到 64 天
-签到总天数 64"
+连续签到 65 天
+签到总天数 65"
 #肥鹅 jd_4d651d9e48204 sign_res_end
 #移动 jd_OeTNobRVGiNZ sign_res
 sign_res="
@@ -79,7 +85,7 @@ sign_num="0"
 sign_total_num="0"
 giftName=""
 giftRes=""
-giftDate="20210404"
+giftDate="20210405"
 sign_res_info="
 
 当天签到奖励 []

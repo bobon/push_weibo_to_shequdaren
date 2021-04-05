@@ -1,0 +1,111 @@
+04/05/21 02:02:09 794219100  1617559329
+RANDOM_num: 5
+removed '/tmp/tmp.WylGiWjob1'
+04/05/21 02:02:09 869523800  1617559329
+王 今天已经签到过. 签到结果: ok  giftDate: 20210405
+***********************************************
+
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4
+***********************************************
+
+actId=923745672a4a460090bd6d47d99a1409
+venderId=10374948
+startTime=1616033100000
+endTime=1618452359000
+# 短链接
+suo_url="https://3.cn/10-1eY4rX"
+actTimeStr="2021-03-18 10:05 至 2021-04-15 10:05"
+#店铺名称
+vendername="域发官方旗舰店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=923745672a4a460090bd6d47d99a1409&venderId=10374948
+# 活动时间：2021.03.18 10:05:00 - 2021.04.15 10:05:59
+# 奖励说明：
+actRule="
+连续签到2天：1京豆 1京豆
+连续签到5天：2京豆 2京豆
+连续签到8天：2京豆 2京豆
+连续签到12天：3京豆 3京豆
+连续签到18天：5京豆 5京豆
+连续签到28天：10京豆 10京豆
+"
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210405"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2
+signTime=1617580800;signed=2"
+sign_num="4"
+sign_total_num="4"
+giftName="null"
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+2021/04/05_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 4 天
+签到总天数 4"
+#赵 122294312-396444 sign_res_end

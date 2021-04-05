@@ -1,0 +1,145 @@
+04/05/21 01:12:57 851139400  1617556377
+RANDOM_num: 40
+removed '/tmp/tmp.STkNdpzGEE'
+04/05/21 01:12:57 957841300  1617556377 检查赵签到
+
+real	0m0.135s
+user	0m0.000s
+sys	0m0.063s
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617556978	LZ_TOKEN_VALUE	B0oH3vDY2bhHWuKbVaJ+XQ==
+lzkj-isv.isvjcloud.com	FALSE	/	FALSE	1617556978	LZ_TOKEN_KEY	lztokenpage2bdcb87bc02b4d4e86fe774cb6f2a7a7
+04/05/21 01:12:58 179362000  1617556378
+use pt_key
+
+real	0m0.125s
+user	0m0.047s
+sys	0m0.094s
+04/05/21 01:12:58 317570900  1617556378 token: AAFgafOaADBhaJdBs24R1d1NfNNgRRrOiLn3rwi7QQ28u1Har8olS-UU8feAwTn1fVRBg9LHj9c
+
+real	0m1.438s
+user	0m0.016s
+sys	0m0.047s
+04/05/21 01:12:59 870450800  1617556379 secretPin: 51S2JqsypB/nfj45frYeoU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==
+
+04/05/21 01:12:59 888014600  1617556379 赵签到歌德收藏酒专营店
+
+real	0m0.221s
+user	0m0.000s
+sys	0m0.094s
+{
+  "msg": "该活动已经结束",
+  "code": "-1",
+  "isOk": false
+}
+活动已结束. /home/myid/jd/jd_signup/vender/shop_1615906707_23_delay --> /home/myid/jd/jd_signup/vender/shop_1615906707_23_del
+renamed '/home/myid/jd/jd_signup/vender/shop_1615906707_23_delay' -> '/home/myid/jd/jd_signup/vender/shop_1615906707_23_del'
+04/05/21 01:13:40 423777500  1617556420
+
+赵签到歌德收藏酒专营店查看结果
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "signDetail": null,
+  "contiSignNum": null,
+  "totalSignNum": null
+}
+
+歌德收藏酒专营店活动规则
+{"msg":"","code":"-1","isOk":false}
+
+{
+  "actUrl": null,
+  "shortUrl": null,
+  "actRule": null
+}
+actId=852898439daa4fe792f5066b3f5b95c9
+venderId=750079
+startTime=1614922140000
+endTime=1617514199000
+# 短链接
+suo_url="https://3.cn/1-019dyI2"
+actTimeStr="2021-03-05 13:29 至 2021-04-04 13:29"
+#店铺名称
+vendername="歌德收藏酒专营店"
+# 长链接
+url=https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=852898439daa4fe792f5066b3f5b95c9&venderId=750079&adsource=tg_storePage
+# 活动时间：2021.03.05 13:29:00 - 2021.04.04 13:29:59
+# 奖励说明：
+actRule="
+连续签到3天：1京豆 1京豆
+连续签到5天：2京豆 2京豆
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="0"
+sign_total_num="20"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 20"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="0"
+sign_total_num="20"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 20"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617235200;signed=2
+signTime=1617321600;signed=2
+signTime=1617408000;signed=2
+signTime=1617494400;signed=2"
+sign_num="0"
+sign_total_num="20"
+giftName="null"
+giftRes="ok"
+giftDate="20210404"
+sign_res_info="
+2021/04/01_08:00:00  [已~签~到]      
+2021/04/02_08:00:00  [已~签~到]      
+2021/04/03_08:00:00  [已~签~到]      
+2021/04/04_08:00:00  [已~签~到]      
+当天签到奖励 [null]
+连续签到 0 天
+签到总天数 20"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+"
+sign_num="0"
+sign_total_num="0"
+giftName=""
+giftRes=""
+giftDate="20210404"
+sign_res_info="
+
+当天签到奖励 []
+连续签到 0 天
+签到总天数 0"
+#移动 jd_OeTNobRVGiNZ sign_res_end

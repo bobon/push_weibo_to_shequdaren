@@ -1,0 +1,214 @@
+04/05/21 01:09:07 461443000  1617556147
+RANDOM_num: 25
+removed '/tmp/tmp.ykbzl0EBt5'
+04/05/21 01:09:07 576000200  1617556147 检查jd_4d651d9e48204签到
+removed '/tmp/tmp.ZnxPe0SYLs'
+04/05/21 01:09:07 651516300  1617556147 检查jd_OeTNobRVGiNZ签到
+
+04/05/21 01:09:07 698505800  1617556147 肥鹅签到233621官方旗舰店
+
+real	0m0.137s
+user	0m0.016s
+sys	0m0.063s
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+
+04/05/21 01:09:07 928900300  1617556147 移动签到233621官方旗舰店
+
+real	0m0.135s
+user	0m0.031s
+sys	0m0.063s
+{"code":200,"data":[],"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+04/05/21 01:09:08 188902300 1617556148
+04/05/21 01:09:08 212439500 1617556148 签到233621官方旗舰店完成
+
+04/05/21 01:09:33 276343600  1617556173
+肥鹅签到233621官方旗舰店查看结果
+200
+首次签到成功. 写入giftName: 
+
+***********************************************
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:43  2    [已~签~到]
+2021/04/03_00:00:01  2    [已~签~到]
+2021/04/04_01:08:30  2    [已~签~到]
+2021/04/05_01:09:07  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天
+***********************************************
+
+移动签到233621官方旗舰店查看结果
+200
+首次签到成功. 写入giftName: 
+
+***********************************************
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:44  2    [已~签~到]
+2021/04/03_00:00:02  2    [已~签~到]
+2021/04/04_01:08:30  2    [已~签~到]
+2021/04/05_01:09:08  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天
+***********************************************
+
+
+
+肥鹅签到233621官方旗舰店日志
+{"code":200,"data":{"signRecords":[{"signTime":1617206400000,"currentDay":2,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617365803969,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617379201307,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617469710681,"currentDay":2,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617556147813,"currentDay":1,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617638400000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617724800000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617811200000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617897600000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"signTime":1617984000000,"currentDay":3,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":4,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 4
+}
+移动签到233621官方旗舰店日志
+{"code":200,"data":{"signRecords":[{"currentDay":2,"signTime":1617206400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1617365804175,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1617379202608,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":2,"signTime":1617469710878,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":1,"signTime":1617556148044,"signed":2,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1617638400000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1617724800000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1617811200000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1617897600000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"},{"currentDay":3,"signTime":1617984000000,"signed":1,"class":"com.jd.interact.center.client.api.color.domain.sign.InteractActivityUserActionRecord"}],"days":4,"class":"com.jd.interact.center.client.api.color.domain.sign.ShopSignUserRecord"},"class":"com.jd.interact.center.client.api.common.param.Results","success":true}
+{
+  "contiSignNum": 4
+}
+# 短链接
+suo_url=""
+venderId=10176670
+startTime=1617206400000
+endTime=1618070399000
+activityId=10314169
+token=7D3AD2A314B0BEF0DF3640AF1A1D16CA
+#店铺名称
+vendername="233621官方旗舰店"
+# 长链接
+url=https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7D3AD2A314B0BEF0DF3640AF1A1D16CA
+# 活动时间：2021.04.01 00:00:00 - 2021.04.10 23:59:59
+# 奖励说明：
+actRule="
+连续签到2天：2京豆
+连续签到5天：10京豆
+连续签到7天：满7-5店铺券
+连续签到8天：1.00元红包
+连续签到10天：5元E卡
+"
+#赵 122294312-396444 sign_res
+sign_res="
+signTime=1617206400;signed=1;currentDay=2
+signTime=1617365812;signed=2;currentDay=2
+signTime=1617379201;signed=2;currentDay=2
+signTime=1617469682;signed=2;currentDay=2
+signTime=1617556124;signed=2;currentDay=1
+signTime=1617638400;signed=1;currentDay=3
+signTime=1617724800;signed=1;currentDay=3
+signTime=1617811200;signed=1;currentDay=3
+signTime=1617897600;signed=1;currentDay=3
+signTime=1617984000;signed=1;currentDay=3"
+sign_num="4"
+giftName=""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:52  2    [已~签~到]
+2021/04/03_00:00:01  2    [已~签~到]
+2021/04/04_01:08:02  2    [已~签~到]
+2021/04/05_01:08:44  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天"
+#赵 122294312-396444 sign_res_end
+#王 1309893722-164885 sign_res
+sign_res="
+signTime=1617206400;signed=1;currentDay=2
+signTime=1617365812;signed=2;currentDay=2
+signTime=1617379202;signed=2;currentDay=2
+signTime=1617469682;signed=2;currentDay=2
+signTime=1617556124;signed=2;currentDay=1
+signTime=1617638400;signed=1;currentDay=3
+signTime=1617724800;signed=1;currentDay=3
+signTime=1617811200;signed=1;currentDay=3
+signTime=1617897600;signed=1;currentDay=3
+signTime=1617984000;signed=1;currentDay=3"
+sign_num="4"
+giftName=""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:52  2    [已~签~到]
+2021/04/03_00:00:02  2    [已~签~到]
+2021/04/04_01:08:02  2    [已~签~到]
+2021/04/05_01:08:44  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_res="
+signTime=1617206400;signed=1;currentDay=2
+signTime=1617365803;signed=2;currentDay=2
+signTime=1617379201;signed=2;currentDay=2
+signTime=1617469710;signed=2;currentDay=2
+signTime=1617556147;signed=2;currentDay=1
+signTime=1617638400;signed=1;currentDay=3
+signTime=1617724800;signed=1;currentDay=3
+signTime=1617811200;signed=1;currentDay=3
+signTime=1617897600;signed=1;currentDay=3
+signTime=1617984000;signed=1;currentDay=3"
+sign_num="4"
+giftName=""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:43  2    [已~签~到]
+2021/04/03_00:00:01  2    [已~签~到]
+2021/04/04_01:08:30  2    [已~签~到]
+2021/04/05_01:09:07  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_res="
+signTime=1617206400;signed=1;currentDay=2
+signTime=1617365804;signed=2;currentDay=2
+signTime=1617379202;signed=2;currentDay=2
+signTime=1617469710;signed=2;currentDay=2
+signTime=1617556148;signed=2;currentDay=1
+signTime=1617638400;signed=1;currentDay=3
+signTime=1617724800;signed=1;currentDay=3
+signTime=1617811200;signed=1;currentDay=3
+signTime=1617897600;signed=1;currentDay=3
+signTime=1617984000;signed=1;currentDay=3"
+sign_num="4"
+giftName=""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="
+2021/04/01_00:00:00  2    未签到
+2021/04/02_20:16:44  2    [已~签~到]
+2021/04/03_00:00:02  2    [已~签~到]
+2021/04/04_01:08:30  2    [已~签~到]
+2021/04/05_01:09:08  1    [已~签~到]
+2021/04/06_00:00:00  3    未签到
+2021/04/07_00:00:00  3    未签到
+2021/04/08_00:00:00  3    未签到
+2021/04/09_00:00:00  3    未签到
+2021/04/10_00:00:00  3    未签到
+当天签到奖励 []
+已签到 4 天"
+#移动 jd_OeTNobRVGiNZ sign_res_end

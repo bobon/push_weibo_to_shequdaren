@@ -489,3 +489,128 @@ config_/config_04|vender/shop_1617365280_30
 * * * * * * * * * * * * * * * * * *
 记录时刻 20210404_073601_129637700
 
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210404_234003_439322800
+
+
+显示立即执行的任务
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|vender/shop_1614776102_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1617287402_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1617362859_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1617365260_29
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1617365280_30
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615906565_14
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617363104_0
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617364996_5
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365013_6
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365021_7
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365055_11
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365085_15
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365102_16
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617367295_0
+
+显示执行结束，不能再签到的任务
+[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1617365043_9_delay
+[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1617365043_9_delay
+[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+
+替换成pt_pin后的任务
+config01|vender/shop_1614776102_0
+config02|vender/shop_1614776102_0
+config03|vender/shop_1614776102_0
+config04|vender/shop_1614776102_0
+config04|vender/shop_1617287402_0
+config04|vender/shop_1617362859_0
+config04|vender/shop_1617365260_29
+config01|vender/shop_1617365280_30
+config02|vender/shop_1617365280_30
+config03|vender/shop_1617365280_30
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config04|lzkj_sevenDay_vender/shop_1615906565_14
+config04|lzkj_sevenDay_vender/shop_1617363104_0
+config04|lzkj_sevenDay_vender/shop_1617364996_5
+config01|lzkj_sevenDay_vender/shop_1617365013_6
+config02|lzkj_sevenDay_vender/shop_1617365013_6
+config03|lzkj_sevenDay_vender/shop_1617365013_6
+config04|lzkj_sevenDay_vender/shop_1617365013_6
+config04|lzkj_sevenDay_vender/shop_1617365021_7
+config04|lzkj_sevenDay_vender/shop_1617365055_11
+config04|lzkj_sevenDay_vender/shop_1617365085_15
+config04|lzkj_sevenDay_vender/shop_1617365102_16
+config04|lzkj_sevenDay_vender/shop_1617367295_0
+
+合并后的立即执行的任务
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_04|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_04|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_04|lzkj_sevenDay_vender/shop_1617364996_5
+config_/config_01|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_02|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_03|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_04|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_04|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_04|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_04|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_04|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_04|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_01|vender/shop_1614776102_0
+config_/config_02|vender/shop_1614776102_0
+config_/config_03|vender/shop_1614776102_0
+config_/config_04|vender/shop_1614776102_0
+config_/config_04|vender/shop_1617287402_0
+config_/config_04|vender/shop_1617362859_0
+config_/config_04|vender/shop_1617365260_29
+config_/config_01|vender/shop_1617365280_30
+config_/config_02|vender/shop_1617365280_30
+config_/config_03|vender/shop_1617365280_30
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_02|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_03|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_01|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_02|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_03|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_01|lzkj_sevenDay_vender/shop_1617364996_5
+config_/config_02|lzkj_sevenDay_vender/shop_1617364996_5
+config_/config_03|lzkj_sevenDay_vender/shop_1617364996_5
+config_/config_01|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_02|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_03|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_01|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_02|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_03|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_01|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_02|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_03|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_01|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_02|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_03|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_01|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_02|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_03|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_01|vender/shop_1617287402_0
+config_/config_02|vender/shop_1617287402_0
+config_/config_03|vender/shop_1617287402_0
+config_/config_01|vender/shop_1617362859_0
+config_/config_02|vender/shop_1617362859_0
+config_/config_03|vender/shop_1617362859_0
+config_/config_01|vender/shop_1617365260_29
+config_/config_02|vender/shop_1617365260_29
+config_/config_03|vender/shop_1617365260_29
+config_/config_04|vender/shop_1617365280_30

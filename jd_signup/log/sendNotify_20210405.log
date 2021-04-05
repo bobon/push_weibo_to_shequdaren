@@ -1,0 +1,501 @@
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210405_045501_093508800
+
+api_vender/shop_1617364995_2_delay  https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=7D3AD2A314B0BEF0DF3640AF1A1D16CA
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [233621官方旗舰店] 的第 5 天，将要获取到奖品[ 10 京豆]
+[RUN] 明天立即执行. api_vender/shop_1617364995_2_delay --> api_vender/shop_1617364995_2
+
+vender/shop_1614611216_140  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [泉林本色京东自营旗舰店] 的第 15 天，将要获取到奖品[ 50积分 50积分]
+[RUN] 明天签到 泉林本色京东自营旗舰店, 虽然会获取奖品，但任务不用立即执行. vender/shop_1614611216_140 --> vender/shop_1614611216_140_delay
+
+vender/shop_1614696854_0_delay  
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [歌德老酒行京东自营旗舰店] 的第 6 天，将要获取到奖品[ 10京豆 10京豆]
+[RUN] 明天立即执行. vender/shop_1614696854_0_delay --> vender/shop_1614696854_0
+
+vender/shop_1614776102_0  
+vender/shop_1615210945_0_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [荣耀亲选官方旗舰店] 的第 30 天，将要获取到奖品[ 10京豆 10京豆]
+[RUN] 明天立即执行. vender/shop_1615210945_0_delay --> vender/shop_1615210945_0
+
+vender/shop_1617287402_0  
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [极米投影京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 1京豆 1京豆]
+明天立即执行. 不改名字 vender/shop_1617287402_0
+
+vender/shop_1617362859_0  
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [英氏YeeHoO旗舰店] 的第 5 天，将要获取到奖品[ 10京豆 10京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [英氏YeeHoO旗舰店] 的第 1 天，将要获取到奖品[ 1京豆 1京豆]
+明天立即执行. 不改名字 vender/shop_1617362859_0
+
+vender/shop_1617365147_23_delay  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [联想商用京东自营旗舰店] 的第 5 天，将要获取到奖品[ 20积分 20积分]
+
+vender/shop_1617365242_28_delay  
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [域发官方旗舰店] 的第 5 天，将要获取到奖品[ 2京豆 2京豆]
+[RUN] 明天立即执行. vender/shop_1617365242_28_delay --> vender/shop_1617365242_28
+
+vender/shop_1617365260_29  
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [君乐宝奶粉旗舰店] 的第 5 天，将要获取到奖品[ 3京豆 3京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [君乐宝奶粉旗舰店] 的第 1 天，将要获取到奖品[ 1京豆 1京豆]
+明天立即执行. 不改名字 vender/shop_1617365260_29
+
+[RUN] 明天签到 美帕京东自营官方旗舰店, 不会获取奖品. vender/shop_1617365280_30 --> vender/shop_1617365280_30_delay
+
+lzkj_sevenDay_vender/shop_1613569740_34  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [泉林本色京东自营旗舰店] 的第 6 天，将要获取到奖品[ 3京豆京豆 3京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [泉林本色京东自营旗舰店] 的第 1 天，将要获取到奖品[ 5店铺积分积分 5店铺积分]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1613569740_34
+
+lzkj_sevenDay_vender/shop_1615906565_14  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b60237dfbc8487688e593fb15570a96&venderId=1000101662&adsource=tg_storePage
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444; 移动 jd_OeTNobRVGiNZ] 签到 [冰峰京东自营旗舰店] 的第 1 天，将要获取到奖品[ 1京豆京豆 1京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1615906565_14
+
+lzkj_sevenDay_vender/shop_1617363104_0  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=28369daf699a47ae8d54f535dc25d011&venderId=105562
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [东阿阿胶官方旗舰店] 的第 5 天，将要获取到奖品[ 5店铺积分积分 5店铺积分]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [东阿阿胶官方旗舰店] 的第 1 天，将要获取到奖品[ 1京豆京豆 1京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617363104_0
+
+lzkj_sevenDay_vender/shop_1617364996_5  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [滴露旗舰店] 的第 5 天，将要获取到奖品[ 20元优惠券]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [滴露旗舰店] 的第 1 天，将要获取到奖品[ 5元优惠券]
+[RUN] 明天签到 滴露旗舰店, 虽然会获取奖品，但任务不用立即执行. lzkj_sevenDay_vender/shop_1617364996_5 --> lzkj_sevenDay_vender/shop_1617364996_5_delay
+
+lzkj_sevenDay_vender/shop_1617365013_6  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=2cf4bba63bee42dd93b472627310a0ec&venderId=1000099701&adsource=tg_storePage
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [碧欧泉男士京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 2京豆京豆 2京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617365013_6
+
+lzkj_sevenDay_vender/shop_1617365021_7  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=2cf713880b784064bf47427e7a1141f3&venderId=798944&adsource=tg_storePage
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [金士顿旗舰店] 的第 5 天，将要获取到奖品[ 20元优惠券]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [金士顿旗舰店] 的第 1 天，将要获取到奖品[ 1京豆京豆 1京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617365021_7
+
+lzkj_sevenDay_vender/shop_1617365043_9_delay  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710&adsource=tg_storePage
+发现明天是 [王 1309893722-164885; 赵 122294312-396444; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ] 签到 [佳贝艾特京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 20元优惠券]
+
+lzkj_sevenDay_vender/shop_1617365055_11  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=4a8bfb41e7754f5aa9fa2e6ba7c28a6c&venderId=10142406
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [Oray京东自营官方旗舰店] 的第 5 天，将要获取到奖品[ 20京豆京豆 20京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [Oray京东自营官方旗舰店] 的第 1 天，将要获取到奖品[ 5元优惠券]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617365055_11
+
+lzkj_sevenDay_vender/shop_1617365085_15  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=a9a6276cc51d4898aa3be01664f4c296&venderId=736323
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [贝锐官方旗舰店] 的第 5 天，将要获取到奖品[ 20京豆京豆 20京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [贝锐官方旗舰店] 的第 1 天，将要获取到奖品[ 5元优惠券]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617365085_15
+
+lzkj_sevenDay_vender/shop_1617365102_16  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=ad27117d1ad942dfa8608d40cbf9e66b&venderId=1000001978
+发现明天是 [王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444] 签到 [海信手机京东自营旗舰店] 的第 5 天，将要获取到奖品[ 1京豆京豆 1京豆]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [海信手机京东自营旗舰店] 的第 1 天，将要获取到奖品[ 1京豆京豆 1京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617365102_16
+
+lzkj_sevenDay_vender/shop_1617367295_0  https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=0db9a1d626bf45a09350dd0fc8012047&venderId=1000002569&adsource=tg_storePage&sceneval=2&jxsid=16172888714509196664&sid=bd5edcd8b39fb8f7c297ff3131182bcw&un_area=3_51038_3000_0
+发现明天是 [赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204] 签到 [先锋两季品京东自营旗舰店] 的第 5 天，将要获取到奖品[ 10店铺积分积分 10店铺积分]
+发现明天是 [移动 jd_OeTNobRVGiNZ] 签到 [先锋两季品京东自营旗舰店] 的第 1 天，将要获取到奖品[ 5京豆京豆 5京豆]
+明天立即执行. 不改名字 lzkj_sevenDay_vender/shop_1617367295_0
+
+
+检查是否有签到失败的活动
+签到 [泉林本色京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1613569740_34 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [冰峰京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1615906565_14 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=9b60237dfbc8487688e593fb15570a96&venderId=1000101662&adsource=tg_storePage
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [东阿阿胶官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617363104_0 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=28369daf699a47ae8d54f535dc25d011&venderId=105562
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [滴露旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617364996_5_delay 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [碧欧泉男士京东自营官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365013_6 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=2cf4bba63bee42dd93b472627310a0ec&venderId=1000099701&adsource=tg_storePage
+赵 签到 [碧欧泉男士京东自营官方旗舰店] 已结束，不能继续签到
+王 签到 [碧欧泉男士京东自营官方旗舰店] 已结束，不能继续签到
+肥鹅 签到 [碧欧泉男士京东自营官方旗舰店] 已结束，不能继续签到
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [金士顿旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365021_7 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=2cf713880b784064bf47427e7a1141f3&venderId=798944&adsource=tg_storePage
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [佳贝艾特京东自营官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365043_9_delay 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=3f6c151718844239b7be3ecca403cd70&venderId=1000002710&adsource=tg_storePage
+赵 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
+王 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
+肥鹅 签到 [佳贝艾特京东自营官方旗舰店] 已结束，不能继续签到
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [Oray京东自营官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365055_11 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=4a8bfb41e7754f5aa9fa2e6ba7c28a6c&venderId=10142406
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [贝锐官方旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365085_15 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=a9a6276cc51d4898aa3be01664f4c296&venderId=736323
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [海信手机京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617365102_16 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=ad27117d1ad942dfa8608d40cbf9e66b&venderId=1000001978
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [先锋两季品京东自营旗舰店] 店铺有问题 lzkj_sevenDay_vender/shop_1617367295_0 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=0db9a1d626bf45a09350dd0fc8012047&venderId=1000002569&adsource=tg_storePage&sceneval=2&jxsid=16172888714509196664&sid=bd5edcd8b39fb8f7c297ff3131182bcw&un_area=3_51038_3000_0
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [初么（chume）京东自营旗舰店] 店铺有问题 vender/chume_jifen 活动链接
+王 1309893722-164885 签到失败: 20210405 -- > 只有该店铺的会员才能参加活动
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [荣耀京东自营旗舰店] 店铺有问题 vender/rongyao_delay 活动链接
+王 1309893722-164885 签到失败: 20210405 -- > 只有该店铺的会员才能参加活动
+肥鹅 jd_4d651d9e48204 签到失败: 20210405 -- > 只有该店铺的会员才能参加活动
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [实丰文化京东自营旗舰店] 店铺有问题 vender/shifengwenhua_jifen 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [泉林本色京东自营旗舰店] 店铺有问题 vender/shop_1614611216_140_delay 活动链接
+赵 122294312-396444 签到失败: 20210404 -- > ok
+王 1309893722-164885 签到失败: 20210404 -- > ok
+肥鹅 jd_4d651d9e48204 签到失败: 20210404 -- > ok
+移动 jd_OeTNobRVGiNZ 签到失败: 20210404 -- > 
+
+签到 [中顺洁柔官方自营旗舰店] 店铺有问题 vender/shop_1614611217_142_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [歌德老酒行京东自营旗舰店] 店铺有问题 vender/shop_1614696854_0 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [贝亲辅食尿裤京东自营旗舰店] 店铺有问题 vender/shop_1614776102_0 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [荣耀亲选官方旗舰店] 店铺有问题 vender/shop_1615210945_0 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [大力智能京东自营旗舰店] 店铺有问题 vender/shop_1617287328_0_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [极米投影京东自营官方旗舰店] 店铺有问题 vender/shop_1617287402_0 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [英氏YeeHoO旗舰店] 店铺有问题 vender/shop_1617362859_0 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [卫龙京东自营旗舰店] 店铺有问题 vender/shop_1617363198_0_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [联想商用京东自营旗舰店] 店铺有问题 vender/shop_1617365147_23_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [TCL.XESS个护京东自营旗舰店] 店铺有问题 vender/shop_1617365165_24_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [优赛电脑专营店] 店铺有问题 vender/shop_1617365183_25_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [博世（BOSCH）蓄电池京东自营旗舰店] 店铺有问题 vender/shop_1617365222_27_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [域发官方旗舰店] 店铺有问题 vender/shop_1617365242_28 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [君乐宝奶粉旗舰店] 店铺有问题 vender/shop_1617365260_29 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [美帕京东自营官方旗舰店] 店铺有问题 vender/shop_1617365280_30_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [如云宠物生活专营店] 店铺有问题 vender/shop_1617365299_31_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+签到 [Ddrops海外京东自营专区] 店铺有问题 vender/shop_1617365318_32_delay 活动链接
+移动 jd_OeTNobRVGiNZ 签到失败: 20210405 -- > 
+
+
+检查是否有删除的活动
+ /home/myid/jd/jd_signup/api_vender/shop_1615212373_2_delay --> /home/myid/jd/jd_signup/api_vender/shop_1615212373_2_del
+ /home/myid/jd/jd_signup/vender/shop_1615906707_23_delay --> /home/myid/jd/jd_signup/vender/shop_1615906707_23_del
+"
+"}
+
+
+检查今天签到获得的奖励
+签到 [博世电动工具京东自营旗舰店] 店铺获得奖励 api_vender/boshidiandong_delay 活动链接
+#赵 122294312-396444 获得奖励: "奖励2,type=4;"
+#王 1309893722-164885 获得奖励: "奖励2,type=4;"
+#肥鹅 jd_4d651d9e48204 获得奖励: "奖励2,type=4;"
+#移动 jd_OeTNobRVGiNZ 获得奖励: "奖励2,type=4;"
+
+签到 [杜家京东自营旗舰店] 店铺获得奖励 api_vender/shop_1617364995_1_delay 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=756F91B0CE239D942AD2E66A2EAE4C0A
+#赵 122294312-396444 获得奖励: "奖励30,type=6;"
+#王 1309893722-164885 获得奖励: "奖励30,type=6;"
+#肥鹅 jd_4d651d9e48204 获得奖励: "奖励30,type=6;"
+#移动 jd_OeTNobRVGiNZ 获得奖励: "奖励30,type=6;"
+
+签到 [方杰家具官方旗舰店] 店铺获得奖励 api_vender/shop_1617364996_4_delay 活动链接
+https://h5.m.jd.com/babelDiy/Zeus/2PAAf74aG3D61qvfKUM5dxUssJQ9/index.html?token=F50A9379E4552B9BD5D9F7CBAABE2EB8
+#赵 122294312-396444 获得奖励: "奖励1,type=4;"
+#王 1309893722-164885 获得奖励: "奖励1,type=4;"
+#肥鹅 jd_4d651d9e48204 获得奖励: "奖励1,type=4;"
+#移动 jd_OeTNobRVGiNZ 获得奖励: "奖励1,type=4;"
+
+签到 [泉林本色京东自营旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1613569740_34 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=1e5cac4ad760485d931141412c9fab0c&venderId=1000001906&adsource=tg_xuanFuTuBiao
+#赵 122294312-396444 获得奖励: ""2京豆""
+#王 1309893722-164885 获得奖励: ""2京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""2京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""2京豆""
+
+签到 [滴露旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1617364996_5_delay 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=13126645fcb2477fa1090a94cb7f3ca2&venderId=206265&adsource=tg_storePage
+#赵 122294312-396444 获得奖励: ""1京豆""
+#王 1309893722-164885 获得奖励: ""1京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""1京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""1京豆""
+
+签到 [海信手机京东自营旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1617365102_16 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=ad27117d1ad942dfa8608d40cbf9e66b&venderId=1000001978
+#王 1309893722-164885 获得奖励: ""88店铺积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""88店铺积分""
+#赵 122294312-396444 获得奖励: ""88店铺积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""88店铺积分""
+
+签到 [先锋两季品京东自营旗舰店] 店铺获得奖励 lzkj_sevenDay_vender/shop_1617367295_0 活动链接
+https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=0db9a1d626bf45a09350dd0fc8012047&venderId=1000002569&adsource=tg_storePage&sceneval=2&jxsid=16172888714509196664&sid=bd5edcd8b39fb8f7c297ff3131182bcw&un_area=3_51038_3000_0
+#赵 122294312-396444 获得奖励: ""20京豆""
+#王 1309893722-164885 获得奖励: ""20京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""20京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""20京豆""
+
+签到 [初么（chume）京东自营旗舰店] 店铺获得奖励 vender/chume_jifen 活动链接
+#赵 122294312-396444 获得奖励: ""10积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""10积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""10积分""
+#王 1309893722-164885 获得奖励: ""10积分""
+
+签到 [荣耀京东自营旗舰店] 店铺获得奖励 vender/rongyao_delay 活动链接
+#赵 122294312-396444 获得奖励: ""5积分""
+#王 1309893722-164885 获得奖励: ""5积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5积分""
+
+签到 [实丰文化京东自营旗舰店] 店铺获得奖励 vender/shifengwenhua_jifen 活动链接
+#赵 122294312-396444 获得奖励: ""10积分""
+#王 1309893722-164885 获得奖励: ""10积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""10积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""10积分""
+
+签到 [中顺洁柔官方自营旗舰店] 店铺获得奖励 vender/shop_1614611217_142_delay 活动链接
+#赵 122294312-396444 获得奖励: ""10积分""
+#王 1309893722-164885 获得奖励: ""10积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""10积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""10积分""
+
+签到 [歌德老酒行京东自营旗舰店] 店铺获得奖励 vender/shop_1614696854_0 活动链接
+#王 1309893722-164885 获得奖励: ""100积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""100积分""
+#赵 122294312-396444 获得奖励: ""100积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""100积分""
+
+签到 [贝亲辅食尿裤京东自营旗舰店] 店铺获得奖励 vender/shop_1614776102_0 活动链接
+#赵 122294312-396444 获得奖励: ""5京豆""
+#王 1309893722-164885 获得奖励: ""5京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5京豆""
+
+签到 [大力智能京东自营旗舰店] 店铺获得奖励 vender/shop_1617287328_0_delay 活动链接
+#赵 122294312-396444 获得奖励: ""30积分""
+#王 1309893722-164885 获得奖励: ""30积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""30积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""30积分""
+
+签到 [极米投影京东自营官方旗舰店] 店铺获得奖励 vender/shop_1617287402_0 活动链接
+#赵 122294312-396444 获得奖励: ""5京豆""
+#王 1309893722-164885 获得奖励: ""5京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5京豆""
+
+签到 [卫龙京东自营旗舰店] 店铺获得奖励 vender/shop_1617363198_0_delay 活动链接
+#赵 122294312-396444 获得奖励: ""50积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""50积分""
+#王 1309893722-164885 获得奖励: ""50积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""50积分""
+
+签到 [联想商用京东自营旗舰店] 店铺获得奖励 vender/shop_1617365147_23_delay 活动链接
+#赵 122294312-396444 获得奖励: ""5积分""
+#王 1309893722-164885 获得奖励: ""5积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5积分""
+
+签到 [博世（BOSCH）蓄电池京东自营旗舰店] 店铺获得奖励 vender/shop_1617365222_27_delay 活动链接
+#赵 122294312-396444 获得奖励: ""2京豆""
+#王 1309893722-164885 获得奖励: ""2京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""2京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""2京豆""
+
+签到 [美帕京东自营官方旗舰店] 店铺获得奖励 vender/shop_1617365280_30_delay 活动链接
+#赵 122294312-396444 获得奖励: ""5京豆""
+#王 1309893722-164885 获得奖励: ""5京豆""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""5京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""5京豆""
+
+签到 [如云宠物生活专营店] 店铺获得奖励 vender/shop_1617365299_31_delay 活动链接
+#赵 122294312-396444 获得奖励: ""1积分""
+#王 1309893722-164885 获得奖励: ""1积分""
+#肥鹅 jd_4d651d9e48204 获得奖励: ""1积分""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""1积分""
+
+签到 [Ddrops海外京东自营专区] 店铺获得奖励 vender/shop_1617365318_32_delay 活动链接
+#肥鹅 jd_4d651d9e48204 获得奖励: ""1京豆""
+#王 1309893722-164885 获得奖励: ""1京豆""
+#赵 122294312-396444 获得奖励: ""1京豆""
+#移动 jd_OeTNobRVGiNZ 获得奖励: ""1京豆""
+
+
+h5签到总数 12
+
+显示立即执行的任务
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|api_vender/shop_1617364995_2
+王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444|vender/shop_1614696854_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204|vender/shop_1615210945_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1617287402_0
+移动 jd_OeTNobRVGiNZ|vender/shop_1617362859_0
+王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444|vender/shop_1617365242_28
+移动 jd_OeTNobRVGiNZ|vender/shop_1617365260_29
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1613569740_34
+王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 赵 122294312-396444; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1615906565_14
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617363104_0
+赵 122294312-396444; 王 1309893722-164885; 肥鹅 jd_4d651d9e48204; 移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365013_6
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365021_7
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365055_11
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365085_15
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617365102_16
+移动 jd_OeTNobRVGiNZ|lzkj_sevenDay_vender/shop_1617367295_0
+
+显示执行结束，不能再签到的任务
+[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1617365013_6
+[sign over] config_/config_01|lzkj_sevenDay_vender/shop_1617365043_9_delay
+[sign over] config_/config_02|lzkj_sevenDay_vender/shop_1617365043_9_delay
+[sign over] config_/config_03|lzkj_sevenDay_vender/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1617365013_6
+不能再签到的任务，从run_shell_delay中移除. config_\/config_01 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_02 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+不能再签到的任务，从run_shell_delay中移除. config_\/config_03 --> lzkj_sevenDay_vender\/shop_1617365043_9_delay
+
+替换成pt_pin后的任务
+config01|api_vender/shop_1617364995_2
+config02|api_vender/shop_1617364995_2
+config03|api_vender/shop_1617364995_2
+config04|api_vender/shop_1617364995_2
+config02|vender/shop_1614696854_0
+config03|vender/shop_1614696854_0
+config01|vender/shop_1614696854_0
+config01|vender/shop_1615210945_0
+config02|vender/shop_1615210945_0
+config03|vender/shop_1615210945_0
+config04|vender/shop_1617287402_0
+config04|vender/shop_1617362859_0
+config02|vender/shop_1617365242_28
+config03|vender/shop_1617365242_28
+config01|vender/shop_1617365242_28
+config04|vender/shop_1617365260_29
+config04|lzkj_sevenDay_vender/shop_1613569740_34
+config02|lzkj_sevenDay_vender/shop_1615906565_14
+config03|lzkj_sevenDay_vender/shop_1615906565_14
+config01|lzkj_sevenDay_vender/shop_1615906565_14
+config04|lzkj_sevenDay_vender/shop_1615906565_14
+config04|lzkj_sevenDay_vender/shop_1617363104_0
+config01|lzkj_sevenDay_vender/shop_1617365013_6
+config02|lzkj_sevenDay_vender/shop_1617365013_6
+config03|lzkj_sevenDay_vender/shop_1617365013_6
+config04|lzkj_sevenDay_vender/shop_1617365013_6
+config04|lzkj_sevenDay_vender/shop_1617365021_7
+config04|lzkj_sevenDay_vender/shop_1617365055_11
+config04|lzkj_sevenDay_vender/shop_1617365085_15
+config04|lzkj_sevenDay_vender/shop_1617365102_16
+config04|lzkj_sevenDay_vender/shop_1617367295_0
+
+合并后的立即执行的任务
+config2|api_vender/shop_1617364995_2
+config|api_vender/shop_1617364995_2
+config_/config_04|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_02|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_03|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_04|lzkj_sevenDay_vender/shop_1615906565_14
+config_/config_04|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_01|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_02|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_03|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_04|lzkj_sevenDay_vender/shop_1617365013_6
+config_/config_04|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_04|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_04|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_04|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_04|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_01|vender/shop_1614696854_0
+config_/config_02|vender/shop_1614696854_0
+config_/config_03|vender/shop_1614696854_0
+config_/config_01|vender/shop_1615210945_0
+config_/config_02|vender/shop_1615210945_0
+config_/config_03|vender/shop_1615210945_0
+config_/config_04|vender/shop_1617287402_0
+config_/config_04|vender/shop_1617362859_0
+config_/config_01|vender/shop_1617365242_28
+config_/config_02|vender/shop_1617365242_28
+config_/config_03|vender/shop_1617365242_28
+config_/config_04|vender/shop_1617365260_29
+
+延迟执行的任务
+config_/config_01|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_02|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_03|lzkj_sevenDay_vender/shop_1613569740_34
+config_/config_01|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_02|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_03|lzkj_sevenDay_vender/shop_1617363104_0
+config_/config_01|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_02|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_03|lzkj_sevenDay_vender/shop_1617365021_7
+config_/config_01|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_02|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_03|lzkj_sevenDay_vender/shop_1617365055_11
+config_/config_01|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_02|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_03|lzkj_sevenDay_vender/shop_1617365085_15
+config_/config_01|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_02|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_03|lzkj_sevenDay_vender/shop_1617365102_16
+config_/config_01|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_02|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_03|lzkj_sevenDay_vender/shop_1617367295_0
+config_/config_04|vender/shop_1614696854_0
+config_/config_04|vender/shop_1615210945_0
+config_/config_01|vender/shop_1617287402_0
+config_/config_02|vender/shop_1617287402_0
+config_/config_03|vender/shop_1617287402_0
+config_/config_01|vender/shop_1617362859_0
+config_/config_02|vender/shop_1617362859_0
+config_/config_03|vender/shop_1617362859_0
+config_/config_04|vender/shop_1617365242_28
+config_/config_01|vender/shop_1617365260_29
+config_/config_02|vender/shop_1617365260_29
+config_/config_03|vender/shop_1617365260_29
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210405_053601_109901500
+
+
+
+* * * * * * * * * * * * * * * * * *
+记录时刻 20210405_073601_109875800
+

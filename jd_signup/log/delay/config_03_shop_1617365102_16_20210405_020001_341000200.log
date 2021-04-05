@@ -1,0 +1,65 @@
+04/05/21 02:03:15 313323900  1617559395
+RANDOM_num: 10
+removed '/tmp/tmp.sHBAxr8Rjs'
+04/05/21 02:03:15 417236800  1617559395
+肥鹅 今天已经签到过. 签到结果: ok  giftDate: 20210405
+***********************************************
+7天签到 第 4 天
+当天签到奖励 [88店铺积分]
+***********************************************
+
+#店铺名称
+vendername="海信手机京东自营旗舰店"
+#店铺激活码
+actId="ad27117d1ad942dfa8608d40cbf9e66b"
+#店铺id
+venderId="1000001978"
+#长链接
+url="https://lzkj-isv.isvjcloud.com/sign/sevenDay/signActivity?activityId=ad27117d1ad942dfa8608d40cbf9e66b&venderId=1000001978"
+
+startTime=1617120000
+endTime=1619798340
+# 活动时间：2021-03-31 00:00 - 2021-04-30 23:59；
+# 奖励说明：
+actRule="
+7天签到
+连续签到1天：1京豆
+连续签到2天：66店铺积分
+连续签到3天：1京豆
+连续签到4天：88店铺积分
+连续签到5天：1京豆
+连续签到6天：100店铺积分
+连续签到7天：2京豆
+"
+#移动 jd_OeTNobRVGiNZ sign_res
+sign_num="0"
+giftName=""
+giftRes=""
+giftDate="20210405"
+sign_res_info="7天签到 第 0 天
+当天签到奖励 []"
+#移动 jd_OeTNobRVGiNZ sign_res_end
+#王 1309893722-164885 sign_res
+sign_num="4"
+giftName=""88店铺积分""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["88店铺积分"]"
+#王 1309893722-164885 sign_res_end
+#肥鹅 jd_4d651d9e48204 sign_res
+sign_num="4"
+giftName=""88店铺积分""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["88店铺积分"]"
+#肥鹅 jd_4d651d9e48204 sign_res_end
+#赵 122294312-396444 sign_res
+sign_num="4"
+giftName=""88店铺积分""
+giftRes="ok"
+giftDate="20210405"
+sign_res_info="7天签到 第 4 天
+当天签到奖励 ["88店铺积分"]"
+#赵 122294312-396444 sign_res_end
